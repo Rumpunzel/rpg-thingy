@@ -4,8 +4,8 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Project name
-description: Project description
+title: rpg-thingy
+description: A neat little RPG project
 buttons:
     - content: Button
       url: '#'
