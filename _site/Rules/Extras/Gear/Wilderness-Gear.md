@@ -1,3 +1,0 @@
-**Traveling Equipment:**
-
-**Rowing Boat:**
