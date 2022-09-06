@@ -32,5 +32,5 @@ grid_navigation:
     - title: Characters
       excerpt: Stuff about Characters
       cta: Read more
-      url: character
+      url: approaches
 ---

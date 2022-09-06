@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Character
-description: Stuff about Characters
+title: Approaches
+description: Stuff about Approaches
 
 # Micro navigation
 micro_nav: true
@@ -20,8 +20,6 @@ page_nav:
         content: Next page
         url: '#'
 ---
-
-# Approaches
 
 Each character has the three following different Approaches. Each Approach represents a different way forward in the narrative when it comes to confronting a problem. Each character has a numerical rating associated with each Approach. This rating determines how many dice that character will roll when they face a problem with that Approach.
 
