@@ -27,5 +27,5 @@ grid_navigation:
     - title: Characters
       excerpt: Stuff about Characters
       cta: Read more
-      url: /default
+      url: default
 ---

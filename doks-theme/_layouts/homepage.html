@@ -23,7 +23,7 @@
 										{{ button.content }}
 									</a>
 									{% else %}
-									<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ button.url }}" class="btn btn--dark btn--rounded btn--w-icon">
+									<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}/{{ button.url }}" class="btn btn--dark btn--rounded btn--w-icon">
 										{% if button.icon %}<i class="icon icon--{{ button.icon }}"></i>{% endif %}
 										{{ button.content }}
 									</a>
