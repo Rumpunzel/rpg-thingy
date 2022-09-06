@@ -24,8 +24,14 @@ author:
 
 # Grid navigation
 grid_navigation:
+    - title: Default
+      excerpt: Default
+      cta: Read more
+      url: default
+
+grid_navigation:
     - title: Characters
       excerpt: Stuff about Characters
       cta: Read more
-      url: default
+      url: character
 ---
