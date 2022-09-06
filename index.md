@@ -24,8 +24,8 @@ author:
 
 # Grid navigation
 grid_navigation:
-    - title: Grid navigation
-      excerpt: Section description
+    - title: Characters
+      excerpt: Stuff about Characters
       cta: Read more
-      url: '#'
+      url: default
 ---
