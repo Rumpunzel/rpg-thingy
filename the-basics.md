@@ -77,7 +77,7 @@ When you consult the dice, the game calls it a test. A test has a difficulty, a 
 
 <figure>
   <img src="http://www.creightonbroadhurst.com/wp-content/uploads/2014/10/FantasyClipInks-WR-1-10-Male-swordsman-fighting3orcs-scene7inch-300dpi-NXPowerLite-Copy.jpg" alt="Male-swordsman-fighting3orcs-scene">
-  <figcaption>A fight is the classic of a situation where the outcome is not at all obvious.</figcaption>
+  <figcaption>A fight is the classic situation where the outcome is not at all obvious.</figcaption>
 </figure>
 
 When asking _"Is the outcome of this situation obvious?",_ context and your goal are both important. If the baddie you want to hit with your sword, for example, is asleep, then there is no need to consult the dice; it is obvious that you will hit. Knowledge the GM might have about the world or NPCs might also influence if a task is obvious. If the GM, for example, knows that the guard is crooked, no roll is needed if the bribe is sufficient. Of course, if the GM does not know if the bribe is sufficient, consult the dice.
