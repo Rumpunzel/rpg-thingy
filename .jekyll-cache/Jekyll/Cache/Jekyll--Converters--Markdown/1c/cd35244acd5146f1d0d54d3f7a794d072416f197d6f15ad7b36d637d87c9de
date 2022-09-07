@@ -1,0 +1,156 @@
+I"�-<h1 id="how-to-play">How to Play</h1>
+
+<p>To play rpg-thingy you need one Game Master (<strong>GM</strong>) and a handful of players. Each player is responsible for one Player Character (<strong>PC</strong>) who exists in a fictional world. The GM’s role is to bring the fictional world alive with descriptions, obstacles and Non-Player Characters (<strong>NPCs</strong>).</p>
+
+<p>The PCs interact with the situation and the world presented by the GM until it is no longer obvious how the current situation would be resolved and the group consults the dice (see <a href="#rolling-the-dice">Rolling the Dice</a>).</p>
+
+<h1 id="gameplay-pillars">Gameplay Pillars</h1>
+
+<p>In brief, the 5 pillars most important to playing rpg-thingy:</p>
+
+<h2 id="agency">Agency</h2>
+
+<ul>
+  <li>There are no actions without consequences</li>
+  <li>Choose your own path and leave your mark on the world</li>
+  <li>Be creative with the tools you have</li>
+</ul>
+
+<h2 id="exploration">Exploration</h2>
+
+<ul>
+  <li>There are secrets hidden everywhere</li>
+  <li>Venturing into dangerous parts of the world yields the biggest rewards</li>
+  <li>Ask questions and pay attention</li>
+</ul>
+
+<h2 id="strategy">Strategy</h2>
+
+<ul>
+  <li>There is always a goal to achieve or a wound to mend</li>
+  <li>Always consider what you want to accomplish next and how to tackle it</li>
+  <li>Face challenges and enemies as well-prepared as you can</li>
+</ul>
+
+<h2 id="heroism">Heroism</h2>
+
+<ul>
+  <li>There is no greater act of heroism than facing what you are most afraid of</li>
+  <li>Find what your character treasures and protect it</li>
+  <li>Find what your character fears or struggles with most and face it</li>
+</ul>
+
+<h2 id="growth">Growth</h2>
+
+<ul>
+  <li>The world will fall to darkness without you to kindle its light</li>
+  <li>Do no shy away from challenges and grow with them instead</li>
+  <li>Live not to destroy but to build and improve</li>
+</ul>
+
+<h1 id="consulting-the-dice">Consulting the Dice</h1>
+
+<p>rpg-thingy uses a <strong>d6</strong> dice pool system. So whenever the game calls for dice to be rolled, roll a handful of six-sided dice. Each die can either be a hit or a miss, depending on if its face shows at least a certain number. Counting up all hits gives you what the game calls <strong>Effort.</strong> More Effort is always better.</p>
+
+<h2 id="when-to-roll">When to roll?</h2>
+
+<p>As mentioned above, the dice are consulted when the outcome of the current situation is no longer obvious. The outcome of a situation is obvious, when you, for example, want to hit a training dummy, talk to your friends, or walk up a smooth wall. Either you either obviously can do what you want to or you obviously can’t.</p>
+
+<p>On the other hand, if you want to hit a baddie with your sword, bribe a guard, or try to walk across a tightrope, what you try to do is possible, but you don’t know how good the baddie is at fighting or how he fights when the sun is in his eyes, if the guard is crooked or dutiful and will accept your bribe, or you queasy your character feels when the wind tugs at them as they balance across the chasm.</p>
+
+<p>It’s the moment we, as players, roll the dice to open a fleeting portal to the fictional world, so it may answer our questions.</p>
+
+<p>When you consult the dice, the game calls it a test. A test has a difficulty, a number that defines how much Effort it takes to succeed on the test, otherwise the test is a failure.</p>
+
+<figure style="float: center;">
+  <img src="http://www.creightonbroadhurst.com/wp-content/uploads/2014/10/FantasyClipInks-WR-1-10-Male-swordsman-fighting3orcs-scene7inch-300dpi-NXPowerLite-Copy.jpg" alt="Male-swordsman-fighting3orcs-scene" />
+  <figcaption>A fight is the classic of a situation where the outcome is not at all obvious.</figcaption>
+</figure>
+
+<p>When asking <em>“Is the outcome of this situation obvious?”,</em> context and your goal are both important. If the baddie you want to hit with your sword, for example, is asleep, then there is no need to consult the dice; it is obvious that you will hit. Knowledge the GM might have about the world or NPCs might also influence if a task is obvious. If the GM, for example, knows that the guard is crooked, no roll is needed if the bribe is sufficient. Of course, if the GM does not know if the bribe is sufficient, consult the dice.</p>
+
+<p>Goals or context can also make trivial tasks not obvious. If you, for example, want to hit the training dummy to impress an onlooker, it may be obvious that you will hit the dummy, but it is not obvious if the onlooker will be impressed, so you consult the dice.</p>
+
+<h2 id="using-skills">Using Skills</h2>
+
+<p>Choose a goal to achieve.</p>
+
+<p>Describe what action you would like to undertake in the fiction.</p>
+
+<p>Choose a skill according to your goal and described action.</p>
+
+<p>Pick an <a href="Approaches">Approach.</a> If you have already described an action, try and go with the approach most fitting. Otherwise, let your choice of approach guide your roleplay.</p>
+
+<p>The GM may give you an additional die for great roleplay/clever thinking.</p>
+
+<p>If there are obstacles or even other people in your path but they don’t necessarily have of their own apart fro getting in your way, the GM sets a Static Obstacle for the test.</p>
+
+<p>Otherwise, if there is someone in the scene who would stop you while trying to achieve a goal of their own, then it’s a contest and you roll against them. Almost always this means they use the same Skill, though they may choose whatever Approach they like. A <a href="Conflict">Conflict</a> is a series of Contests.</p>
+
+<p>Roll all your dice. If you are in a Contest, your opponent also rolls their dice.</p>
+
+<p>Resolve your chosen Approach’s dice modifier.</p>
+
+<p>The target number for your dice is determined by the skill you’ve chosen. Every face of a die that comes up as at least that number, is a success, all others are failures.</p>
+
+<p>Determine if you rolled more successes than the obstacle:</p>
+
+<ul>
+  <li><strong>YES:</strong> you get what you want.</li>
+  <li><strong>TIE:</strong> for tests against Static Obstacles, ties count as successful roles; for Contests, ties mean either the defender or no one wins (depending on what would make most sense in the contest).</li>
+  <li><strong>NO:</strong> you do not get what you want. You gain <strong>1</strong> <a href="Favor">Favor</a> for each success you’ve rolled.</li>
+</ul>
+
+<p><strong>Let It Ride:</strong> If you fail a test, you may not repeat this combination of Skill and Approach again until something fundamentally changes about the situation.</p>
+
+<blockquote>
+  <p>Cyrene wants to enter the sultan’s city but the gates are closed and will not open before sunrise. She decides to try her luck anyway. As she approaches the gate, she winks at the younger of the two guards.</p>
+
+  <p>The Skill is obvious in this scenario, she wants to Influence the guards to let her pass. Cyrene is trained at Influence, so for her every face of a <strong>5</strong> or higher is a success.</p>
+
+  <p>For her Approach, she settles on Intuition. She is going with the flow, trying to draw something out of the guards to turn to her advantage. As her rating for Intuition is <strong>5,</strong> she will roll <strong>5</strong> dice.</p>
+</blockquote>
+
+<hr />
+
+<h3 id="setting-static-obstacles">Setting Static Obstacles</h3>
+
+<p>The base obstacle for any test is <strong>1.</strong> Whenever it is unclear what the obstacle for a test will be, assume it to be <strong>1,</strong> so you succeed by rolling at least <strong>1</strong> success.</p>
+
+<p>Of course, things can get more complicated. Circumstances such as Traits on the scene will increase the obstacle.</p>
+
+<p>In general, a Static Obstacle will always be between <strong>1</strong> and <strong>3.</strong> Should a Static Obstacle ever exceed <strong>3,</strong> considering resolving the problem in a Conflict instead.</p>
+
+<p>There are some Static Obstacles which work a little differently. When improving Preparations, for example, the obstacle depends on the Preparations rating and may even exceed <strong>3.</strong> These kinds of tests do not require Conflicts to be resolved, they are simply very rare occurences for a master to display their skill.</p>
+
+<p><strong>Power Through:</strong> In some cases, you might want to succeed at a cost. You may increase the number of successes you have rolled up to obstacle number (though by no more than <strong>3</strong>), then you gain a Condition with a rating equal to the number of successes you added this way representing your exhaustion as you powered through to your goal and turn the roll into a success.</p>
+
+<blockquote>
+  <p>The GM decides convincing the guards to let Cyrene pass will not require more than a Static Obstacle.</p>
+
+  <p>The base obstacle for the test is <strong>1</strong> but the sultan’s city has the Trait <code class="language-plaintext highlighter-rouge">Under Martial Law</code> with a rating of <strong>1</strong> and the curfew will make it harder for Cyrene to get into the city. The GM increased the obstacle by the Trait’s rating and it is now <strong>2.</strong></p>
+
+  <p>Cyrene throws her <strong>5</strong> dice. Two dice come up <strong>1</strong> and, as she chose Intuition as her Approach, she can roll those dice again. Her result now is <strong>2, 3, 4, 4, 6.</strong> All dice which come up <strong>5+</strong> are successes for her, so she did get <strong>1</strong> success. Had there not been a curfew, she would have gotten into the city. She decides not to Power Through, she came to the city to rest not exhaust herself even more.</p>
+
+  <p>She gains <strong>1</strong> Favor, as she was <strong>1</strong> success short of achieving her goal and must now try another way to get into the city. She could try to frighten the guards into letting her pass, but with her Vigor rating of <strong>3,</strong> she fears this might go poorly for her and decides against it.</p>
+</blockquote>
+
+<hr />
+
+<h3 id="group-tests">Group Tests</h3>
+
+<p>Sometimes characters act in tandem with each other, using the same Skill and the same approach to achieve the same goal. When they do, everyone tests and adds their successes together to determine if they manage to succeed as a group.</p>
+
+<p>For each participant beyond the first, the difficulty for the test is increased by <strong>1.</strong></p>
+
+<p>When a group is opposed in a Contest, the opposing side adds <strong>1</strong> die for each participant beyond the first.</p>
+
+<p>When a group test fails, each character in the group resolves eventual repercussions (including Favor) independently, comparing their successes to the test’s obstacle.</p>
+
+<blockquote>
+  <p>Outside the city, Cyrene meets up with her travel companion Maro, who comes to her with grave news. They must defininitely need to enter the sultan’s city tonight. Maro remembers scaffolding at a piece of collapsing wall. When they arrive they are in luck. Not guards in sight. But scaling the city wall will not be an easy task.</p>
+
+  <p>The GM sets the obstacle to climb the wall at <strong>2.</strong> Cyrene and Maro attempt to climb the wall together, which increased the obstacle to <strong>3.</strong> They both test their Maneuver and choose the Approach Reason as they try to infiltrate into the city. Maro only rolls <strong>1</strong> success but, thankfully, Cyrene rolls <strong>2</strong> successes for a total of <strong>3</strong>. Alone, Maro would not have managed to scale the wall but together they prevailed and are finally inside.</p>
+</blockquote>
+
+:ET

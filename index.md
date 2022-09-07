@@ -7,30 +7,19 @@ keywords:
 title: rpg-thingy
 description: A neat little RPG project
 buttons:
-    - content: Button
-      url: '#'
+    - icon: arrow-right
+      content: How to Play
+      url: the-basics
       external_url: false
-    - icon: github
-      content: Button with icon
-      url: '#'
-      external_url: true
-
-# Author box
-author:
-    title: About Author
-    title_url: '#'
-    external_url: true
-    description: Author description
 
 # Grid navigation
 grid_navigation:
-    - title: Default
-      excerpt: Default
+    - title: The Basics
+      excerpt: How to play rpg-thingy
       cta: Read more
-      url: default
-
+      url: the-basics
     - title: Characters
       excerpt: Stuff about Characters
       cta: Read more
-      url: approaches
+      url: character
 ---
