@@ -8,7 +8,7 @@ title: rpg-thingy
 description: A neat little RPG project
 buttons:
     - icon: arrow-right
-      content: How to Play
+      content: Read Rulebook
       url: the-basics
       external_url: false
 
