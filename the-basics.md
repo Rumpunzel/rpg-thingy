@@ -21,7 +21,7 @@ page_nav:
 # How to Play
 
 <figure style="float: right; margin-right: 0">
-  <img width="320" src="https://i.pinimg.com/originals/b9/9f/7f/b99f7f7dd09e7d34ff50f38dbd5c8501.jpg" alt="Wizard">
+  <img src="https://i.pinimg.com/originals/b9/9f/7f/b99f7f7dd09e7d34ff50f38dbd5c8501.jpg" alt="Wizard">
   <figcaption>Pictured: me writing rules on how to imagine fighting monsters in a fictional world.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ The PCs interact with the situation and the world presented by the GM by asking 
 # Consulting the Dice
 
 <figure style="float: right; margin-right: 0">
-  <img width="320" src="http://www.creightonbroadhurst.com/wp-content/uploads/2014/10/FantasyClipInks-WR-1-10-Male-swordsman-fighting3orcs-scene7inch-300dpi-NXPowerLite-Copy.jpg" alt="Male-swordsman-fighting3orcs-scene">
+  <img src="https://i.imgur.com/8jYjsCF.jpg" alt="Male-swordsman-fighting3orcs-scene">
   <figcaption>A fight is the classic situation where its outcome is anything but certain.</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ When asking _"Is the outcome of this action certain?",_ the answer is most often
 ### Opposition
 
 <figure style="float: right; margin-right: 0">
-  <img width="320" src="https://2.bp.blogspot.com/-ApI77inwqE0/VG-XJ6NEF7I/AAAAAAAADy8/HlpzEnDF0J8/s1600/325821_10150424628359199_3766712_o.jpg" alt="Sleeping Goblin">
+  <img src="https://2.bp.blogspot.com/-ApI77inwqE0/VG-XJ6NEF7I/AAAAAAAADy8/HlpzEnDF0J8/s1600/325821_10150424628359199_3766712_o.jpg" alt="Sleeping Goblin">
   <figcaption>Unfortunately, this guard cannot oppose your attempts to stab him, as he is asleep.</figcaption>
 </figure>
 

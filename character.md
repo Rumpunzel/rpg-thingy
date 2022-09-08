@@ -35,7 +35,7 @@ https://anydice.com/program/294e7
 Vigor encompasses strength, both of body and mind; endurance; tenacity; ferocity; panache; and power of will.
 
 <figure style="float: right; margin-right: 0">
-  <img width="320" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2dcd94db-2dd4-40de-a9f4-f141f6967120/da83zop-e37ac7dc-4511-457d-b4c4-ae9e67cc00e6.jpg/v1/fill/w_600,h_900,q_75,strp/dwarf_warrior_by_pictishscout_da83zop-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvMmRjZDk0ZGItMmRkNC00MGRlLWE5ZjQtZjE0MWY2OTY3MTIwXC9kYTgzem9wLWUzN2FjN2RjLTQ1MTEtNDU3ZC1iNGM0LWFlOWU2N2NjMDBlNi5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.zgbUX5ISuZGO8wv9FoLHPqZvxMOFSMZrHJfklbOZvnY" alt="Sellsword">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2dcd94db-2dd4-40de-a9f4-f141f6967120/da83zop-e37ac7dc-4511-457d-b4c4-ae9e67cc00e6.jpg/v1/fill/w_600,h_900,q_75,strp/dwarf_warrior_by_pictishscout_da83zop-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvMmRjZDk0ZGItMmRkNC00MGRlLWE5ZjQtZjE0MWY2OTY3MTIwXC9kYTgzem9wLWUzN2FjN2RjLTQ1MTEtNDU3ZC1iNGM0LWFlOWU2N2NjMDBlNi5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.zgbUX5ISuZGO8wv9FoLHPqZvxMOFSMZrHJfklbOZvnY" alt="Sellsword">
   <figcaption>A warrior bringing down his hammer with Vigor.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ You approach a challenge with Vigor whenever you swing your mighty axe in a blin
 Intuition encompasses flexibility, both of body and mind; nimbleness; guile; reflexes; wit; cleverness; and empathy.
 
 <figure style="float: right; margin-right: 0">
-  <img width="320" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2dcd94db-2dd4-40de-a9f4-f141f6967120/d2nouiz-8a1c5eac-1540-4086-93ab-eabbd38df6e2.jpg/v1/fill/w_900,h_660,q_75,strp/duelist_by_pictishscout_d2nouiz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjYwIiwicGF0aCI6IlwvZlwvMmRjZDk0ZGItMmRkNC00MGRlLWE5ZjQtZjE0MWY2OTY3MTIwXC9kMm5vdWl6LThhMWM1ZWFjLTE1NDAtNDA4Ni05M2FiLWVhYmJkMzhkZjZlMi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.TvBmviwiz3t_Pi2_3BpBJ68kUNV7TEVdmy_KkW9MySk" alt="Caleb">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2dcd94db-2dd4-40de-a9f4-f141f6967120/d2nouiz-8a1c5eac-1540-4086-93ab-eabbd38df6e2.jpg/v1/fill/w_900,h_660,q_75,strp/duelist_by_pictishscout_d2nouiz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjYwIiwicGF0aCI6IlwvZlwvMmRjZDk0ZGItMmRkNC00MGRlLWE5ZjQtZjE0MWY2OTY3MTIwXC9kMm5vdWl6LThhMWM1ZWFjLTE1NDAtNDA4Ni05M2FiLWVhYmJkMzhkZjZlMi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.TvBmviwiz3t_Pi2_3BpBJ68kUNV7TEVdmy_KkW9MySk" alt="Caleb">
   <figcaption>A duelist flourishing his rapier with Intuition.</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ You approach a challenge with Intuition whenever you swirl your blade like a der
 Reason encompasses precision, both of body and mind; deftness; intellect; foresight; industriousness; and rigor.
 
 <figure style="float: right; margin-right: 0">
-  <img width="320" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2dcd94db-2dd4-40de-a9f4-f141f6967120/d4q16hd-655fa537-d9ec-4354-9625-652ce3cf2cc2.jpg/v1/fill/w_900,h_1244,q_75,strp/yeoman_by_pictishscout_d4q16hd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI0NCIsInBhdGgiOiJcL2ZcLzJkY2Q5NGRiLTJkZDQtNDBkZS1hOWY0LWYxNDFmNjk2NzEyMFwvZDRxMTZoZC02NTVmYTUzNy1kOWVjLTQzNTQtOTYyNS02NTJjZTNjZjJjYzIuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.4B24FK2YxKoPMV_RKkno1eptsmVeqUgSBX09wg_QhvE" alt="Crossbowman">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2dcd94db-2dd4-40de-a9f4-f141f6967120/d4q16hd-655fa537-d9ec-4354-9625-652ce3cf2cc2.jpg/v1/fill/w_900,h_1244,q_75,strp/yeoman_by_pictishscout_d4q16hd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI0NCIsInBhdGgiOiJcL2ZcLzJkY2Q5NGRiLTJkZDQtNDBkZS1hOWY0LWYxNDFmNjk2NzEyMFwvZDRxMTZoZC02NTVmYTUzNy1kOWVjLTQzNTQtOTYyNS02NTJjZTNjZjJjYzIuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.4B24FK2YxKoPMV_RKkno1eptsmVeqUgSBX09wg_QhvE" alt="Crossbowman">
   <figcaption>An archer scrutinizing his surroundings with Reason.</figcaption>
 </figure>
 
