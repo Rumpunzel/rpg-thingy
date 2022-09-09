@@ -72,9 +72,7 @@ If you want to hit a baddie with your sword, bribe a guard, or try to walk acros
 
 ### Tests
 
-When you consult the dice, the game calls it a **test.**
-
-rpg-thingy uses a **d6** dice pool system. So whenever the game calls for dice to be rolled, roll a handful of six-sided dice. Each die can either be a hit or a miss, depending on if its face shows at least a certain number. All hits counted together are called **Effort.** Achieving more Effort is always better.
+When you consult the dice, the game calls it a **test.** rpg-thingy uses a **d6** dice pool system. So whenever the game calls for dice to be rolled, roll a handful of six-sided dice. Each die can either be a hit or a miss, depending on if its face shows at least a certain number. All hits counted together are called **Effort.** Achieving more Effort is always better.
 
 A test has a difficulty, a number that defines how much Effort it takes to succeed on the test, otherwise the test is a failure. There are no tests without consequences. No matter if you succeed on a test or fail it, you will either get what you want or suffer a setback. Either way, after a test both the narrative and your character make progress, either by achieving your goal or by growing with your failures.
 

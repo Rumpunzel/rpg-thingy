@@ -21,18 +21,60 @@ page_nav:
         url: '#'
 ---
 
-# The Heart of your Character
+# The Heart of rpg-thingy
+
+People are the very heart of this roleplaying game. Their struggles, their virtues, their faults, and their relationships; in short: stories. There are also battles, monsters, intrigue, and treasure, but they only matter in their relation to people. Who would care about a monster that scares no one, who about a treasure that no one wants, who about a throne in a kingdom without people? 
+
+Your character is one of these people, but they matter more than any of the others because through them, you influence the world. But in a way, they are also how you experience the fictional world. A world that is dangerous, awe-inspiring, and full of people who are convinced just as you are that they are the hero of this (or at least their) story.
+
+Though you actually are the hero of this story. And that is no light responsibility to bear. They — and, by proxy, you — are the heart of all the drama. To you, there is no monsters more important than the one that most scare your character and no treasure more precious than the one they covet most. So your characters needs something to care about, something that motivates them to put themselves in harm's way. And they need something to terrify them, something they dare not even look at for there seems no way to overcome it.
+
+rpg-thingy calls these the **Truth** and the **Lie** your character believes. A lie they must grow to face and a truth to keep them pressing on, to forge a story wroth remembering. And who knows, perhaps we might even grow a little with them.
 
 
+### The Truth
 
-## The Truth
+The Truth your characters believes in is an objectively true fact about your character.
 
+You can either phrase it as a statement about your character.
 
+> The traitor who killed my father must die.
 
+> As unwitting patriarch of the Goldwyn family, my house must be restored to its former glory.
 
-## The Lie
+Or as a quote of something your character might regularly think or say.
 
+> "Every one of my friends can rely on me no matter what. And so can the world."
 
+> "BY THE POWER OF GRAYSKULL, I HAVE THE POWER!"
+
+The sign of a good Truth is that whenever you find yourself in a tricky situation or unsure what to do next, you can look at your character sheet, and it nudges you into the right direction.
+
+The Truth you formulate for your character is incredibly useful for your fellow players. It tells everyone at the table what you want to do with your character. If part of your belief is that your character is the `"Patriarch of the Goldwyn family"`, then that is not up to question. The Truth encompasses what your character excels at and who they truly are.
+
+### The Lie
+
+Just like the Truth your character believes in, you can phrase the Lie your they believe either as a statement about them or as something they regularly think or say, though the Lie is not objectively true. To be more precise, it comes in two different flavors:
+
+A conviction your character believes to be true, wittingly or unwittingly, though it is a delusion, a self-deception or misjudgement about their surroundings that you, as a player, know to be incorrect. The central questions such a Lie poses are: How will the character learn? What will it take? Where will it take? Will they find the courage to face the truth when push comes to shove?
+
+> I owe the Order of the Silver Falcon my life. There is no nobler goal than to give my life to repay my debt. 
+
+> I have left my life as a mercenary behind me. Is now a well-adjusted, productive member of society.
+
+A conjecture about your character that might or might not be true. Neither your character nor you know if it true or not. A Lie that is a conjecture is often _possibly_ true and the character's journey will consist of them proving that they were right to believe so from the start or learn the hard way that they were mistaken. The central question such a Lie poses is: Is this true?
+
+> "I am worthy to inherit my master's workshop."
+
+> "The traitor who killed my father must die."
+
+As you can see, the same phrase can be used either as a Truth or a Lie, though its meaning drastically shifts. As a Truth, `"The traitor who killed my father must die."` is a goal your character has that they will either fulfill or die trying. As a Lie, it is meant to be challenged as the story progresses. Does he indeed deserve to die? What did my father do that he was betrayed and murdered? Am I at fault for my father's death? These are all questions that only result from Lies, for they are meant to be challenged, not from Truths.
+
+## Playing out the Story
+
+In a way, the Lie is a lot more central to the story your character will experience. But the Truth is just as important, for it is what will drive them to press on when everything else tells them to give in.
+
+Though it is implied that a Lie is always successfully challenged in the course of your character's story, so they may change for the better, it is totally legitimate to go on a lengthy journey only for your character to double down on his delusions, to refuse to face the Lie. Naturally, there will be no true happy end for such a character but that does not mean that the end to their story can not be fascinating and satisfying in its own way.
 
 
 
@@ -45,12 +87,12 @@ Each Aspect also has a unique Dice Modifier that changes a few things about dice
 [Anydice](https://anydice.com/program/294e7)
 
 
-## Vigor
+## {{ site.strength }}
 
 Vigor encompasses strength, both of body and mind; endurance; tenacity; ferocity; panache; and power of will.
 
 <figure>
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2dcd94db-2dd4-40de-a9f4-f141f6967120/da83zop-e37ac7dc-4511-457d-b4c4-ae9e67cc00e6.jpg/v1/fill/w_600,h_900,q_75,strp/dwarf_warrior_by_pictishscout_da83zop-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvMmRjZDk0ZGItMmRkNC00MGRlLWE5ZjQtZjE0MWY2OTY3MTIwXC9kYTgzem9wLWUzN2FjN2RjLTQ1MTEtNDU3ZC1iNGM0LWFlOWU2N2NjMDBlNi5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.zgbUX5ISuZGO8wv9FoLHPqZvxMOFSMZrHJfklbOZvnY" alt="Sellsword">
+  <img src="https://i.pinimg.com/originals/66/7e/3d/667e3d98a2ce911a9b38fb201aa38607.jpg" alt="Warrior">
   <figcaption>A warrior bringing down his hammer with Vigor.</figcaption>
 </figure>
 
@@ -61,12 +103,12 @@ You approach a challenge with Vigor whenever you swing your mighty axe in a blin
 **Dice Modifier:** For every die whose face comes up as a 6, roll an additional die. If that additional die also comes up a 6, it explodes as well. Continue this process until you have rolled an additional die for each 6 you've rolled.
 
 
-## Intuition
+## {{ site.agility }}
 
 Intuition encompasses flexibility, both of body and mind; nimbleness; guile; reflexes; wit; cleverness; and empathy.
 
 <figure>
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2dcd94db-2dd4-40de-a9f4-f141f6967120/d2nouiz-8a1c5eac-1540-4086-93ab-eabbd38df6e2.jpg/v1/fill/w_900,h_660,q_75,strp/duelist_by_pictishscout_d2nouiz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjYwIiwicGF0aCI6IlwvZlwvMmRjZDk0ZGItMmRkNC00MGRlLWE5ZjQtZjE0MWY2OTY3MTIwXC9kMm5vdWl6LThhMWM1ZWFjLTE1NDAtNDA4Ni05M2FiLWVhYmJkMzhkZjZlMi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.TvBmviwiz3t_Pi2_3BpBJ68kUNV7TEVdmy_KkW9MySk" alt="Caleb">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae931af7-c579-4291-97f3-a7b57e6a7ac3/d25drmo-932f3032-87a7-4644-8dd3-54e50ae26ce5.jpg/v1/fill/w_600,h_746,q_75,strp/hunting_party_by_jeh_artist_d25drmo-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzQ2IiwicGF0aCI6IlwvZlwvYWU5MzFhZjctYzU3OS00MjkxLTk3ZjMtYTdiNTdlNmE3YWMzXC9kMjVkcm1vLTkzMmYzMDMyLTg3YTctNDY0NC04ZGQzLTU0ZTUwYWUyNmNlNS5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ySDefElllXftpw8aNc5YXvX7AEXsCxpD-cFjAPOSddk" alt="Hunting Party">
   <figcaption>A duelist flourishing his rapier with Intuition.</figcaption>
 </figure>
 
@@ -79,12 +121,12 @@ You approach a challenge with Intuition whenever you swirl your blade like a der
 **Dice Modifier:** For every die whose face comes up as a 1, you roll it again. If that die comes up a 1 again, repeat this process. Continue this until there are no 1's left in your pool.
 
 
-## Reason
+## {{ site.intelligence }}
 
 Reason encompasses precision, both of body and mind; deftness; intellect; foresight; industriousness; and rigor.
 
 <figure>
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2dcd94db-2dd4-40de-a9f4-f141f6967120/d4q16hd-655fa537-d9ec-4354-9625-652ce3cf2cc2.jpg/v1/fill/w_900,h_1244,q_75,strp/yeoman_by_pictishscout_d4q16hd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI0NCIsInBhdGgiOiJcL2ZcLzJkY2Q5NGRiLTJkZDQtNDBkZS1hOWY0LWYxNDFmNjk2NzEyMFwvZDRxMTZoZC02NTVmYTUzNy1kOWVjLTQzNTQtOTYyNS02NTJjZTNjZjJjYzIuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.4B24FK2YxKoPMV_RKkno1eptsmVeqUgSBX09wg_QhvE" alt="Crossbowman">
+  <img src="https://i.pinimg.com/originals/ba/48/f1/ba48f10c05b0bd7b357aceecfcdbbffb.jpg" alt="Scholar">
   <figcaption>An archer scrutinizing his surroundings with Reason.</figcaption>
 </figure>
 
