@@ -110,11 +110,12 @@ a {
 /* ----- Images ----- */
 figure {
   display: table;
-  margin: 1em;
+  max-width: 50%;
+  margin: 0.5em 0.75em;
+  float: right;
 }
 
 img {
-  width: 17em;
   max-width: 100%;
   height: auto;
   vertical-align: top;

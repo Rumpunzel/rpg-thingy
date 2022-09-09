@@ -24,7 +24,7 @@ grid_navigation:
 
 # How to Play
 
-<figure style="float: right; margin-right: 0">
+<figure>
   <img src="https://i.pinimg.com/originals/b9/9f/7f/b99f7f7dd09e7d34ff50f38dbd5c8501.jpg" alt="Wizard">
   <figcaption>Pictured: me writing rules about imagining fighting monsters in a fictional world.</figcaption>
 </figure>
@@ -40,7 +40,7 @@ The PCs interact with the situation and the world presented by the GM by asking 
 
 To play a Player Character (**PC**) in rpg-thingy means to toke on the mantle of fictional character. You make choices on behalf of that fictional character. Choices that will put your character in danger, choices that will protect them from harm but never choices that take them out of trouble.
 
-<figure style="float: right; margin-right: 0">
+<figure>
   <img src="https://i.pinimg.com/originals/7d/49/12/7d49128d3c55ef6d822bd949be425c2f.jpg" alt="Dark Forest">
   <figcaption>"Each knight walks into the forest alone and in a place where it is darkest to them and where there is no path." — Legend of King Arthur</figcaption>
 </figure>
@@ -58,7 +58,7 @@ At their core, characters in rpg-thingy belief a truth that propels them forward
 
 # Consulting the Dice
 
-<figure style="float: right; margin-right: 0">
+<figure>
   <img src="https://i.imgur.com/8jYjsCF.jpg" alt="Male-swordsman-fighting3orcs-scene">
   <figcaption>A fight is the classic situation where its outcome is anything but certain.</figcaption>
 </figure>
@@ -87,7 +87,7 @@ When asking _"Is the outcome of this action certain?",_ the answer is most often
 
 ### Opposition
 
-<figure style="float: right; margin-right: 0">
+<figure>
   <img src="https://64.media.tumblr.com/5e31e601d9e6aaca1b23d942d0d9d913/tumblr_p9ykz6LNbs1ro2bqto1_1280.jpg" alt="Bribery">
   <figcaption>Bribing crooked guards is certain fun. Finding them, is an adventure.</figcaption>
 </figure>
