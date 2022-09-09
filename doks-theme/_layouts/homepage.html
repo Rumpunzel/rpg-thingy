@@ -10,7 +10,7 @@
     <div class="row">
       <div class="col-md-7">
         <div class="align-container" data-mh>
-          <div class="align-inner">
+          <div class="align-inner hero-subheader__container">
             {% if page.title %}
             <h1 class="hero-subheader__title">{{ page.title }}</h1>
             {% endif %}
@@ -67,11 +67,6 @@
       </div><!-- /.col -->
       {% endif %}
     </div><!-- /.row -->
-  </div><!-- /.container -->
-</div><!-- /.hero-subheader -->
-{% if page.grid_navigation %}
-<div class="section">
-  <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="nav-grid nav-grid--out">
@@ -95,6 +90,11 @@
         </div><!-- /.nav-grid -->
       </div><!-- /.col -->
     </div><!-- /.row -->
+  </div><!-- /.container -->
+</div><!-- /.hero-subheader -->
+{% if page.grid_navigation %}
+<div class="section">
+  <div class="container">
     <div class="row" style="margin-top: 3rem">
       <div class="col-md-7">
         <div class="content">

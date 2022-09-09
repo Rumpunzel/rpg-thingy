@@ -16,7 +16,7 @@ page_nav:
 
 # Grid navigation
 grid_navigation:
-    - title: Character Creation
+    - title: Characters
       excerpt: Stuff about Characters
       cta: Read more
       url: character
@@ -130,7 +130,7 @@ The following pages will provide more detailed rules on how rpg-thingy works, th
 
 - There are secrets hidden everywhere
 - Venturing into dangerous parts of the world yields the biggest rewards
-- Ask questions and pay attention
+- There is nothing more powerful than paying attention and asking questions
 
 ### Strategy
 

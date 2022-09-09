@@ -21,13 +21,28 @@ page_nav:
         url: '#'
 ---
 
-# Approaches
+# The Heart of your Character
+
+
+
+## The Truth
+
+
+
+
+## The Lie
+
+
+
+
+
+# Attributes
 
 Each character has the three following different Approaches. Each Approach represents a different way forward in the narrative when it comes to confronting a problem. Each character has a numerical rating associated with each Approach. This rating determines how many dice that character will roll when they face a problem with that Approach.
 
 Each Aspect also has a unique Dice Modifier that changes a few things about dice are rolled and a [Disposition](#Disposition) which gives you and edge when engaging someone else in a contest.
 
-https://anydice.com/program/294e7
+[Anydice](https://anydice.com/program/294e7)
 
 
 ## Vigor
