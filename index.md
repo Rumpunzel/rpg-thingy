@@ -42,15 +42,14 @@ To play a Player Character (**PC**) in rpg-thingy means to toke on the mantle of
 
 <figure>
   <img src="https://i.pinimg.com/originals/7d/49/12/7d49128d3c55ef6d822bd949be425c2f.jpg" alt="Dark Forest">
-  <figcaption>"Each knight walks into the forest alone and in a place where it is darkest to them and where there is no path." — Legend of King Arthur</figcaption>
+  <figcaption>"You enter the forest at the darkest point, where there is no path." — Joseph Campbell</figcaption>
 </figure>
 
 Characters in rpg-thingy are be valiant adventurers, daring scoundrels, wise sages, knights in shining armor, thrifty merchants, cunning diplomats, stoic smiths, disciplined spies, or even kindly bakers.  
 They are people with goals who are competent in their area of expertise, but they cannot be competent at everything. It is inevitable that they will fail but characters in rpg-thingy shy away from such challenges.  
 Failure is the best teacher, so they say.
 
-Part of the fun of playing a character in rpg-thingy is watching them succeed at doing what they excel in and even more when they do so on nothing but naked luck. But most of the fun is watching them grow with their challenges, to be in their head as they surmount difficult challenges and face their demons.  
-Be that literal demons, a missing leg, domineering egos, or a fear of public speaking. This is what makes them heroes. Not the number of monsters they slay, not the hoards of treasure they find, or the songs that are sung about them but for they face the challenges that scare them, personally, the most.
+Part of the fun of playing a character in rpg-thingy is watching them succeed at doing what they excel in and even more when they do so on nothing but naked luck. But most of the fun is watching them grow with their challenges, to be in their head as they surmount difficult challenges and face their demons. Be that literal demons, a missing leg, a domineering ego, or a fear of public speaking. This is what makes them heroes. Not the number of monsters they slay, not the hoards of treasure they find, or the songs that are sung about them but for they face the challenges that scare them, personally, the most.
 
 At their core, characters in rpg-thingy belief a truth that propels them forwards and a lie about the world or themselves that keeps them from achieving their full potential. They are emotional beings on an emotional journey to face that lie and this game is about that journey and when it ends, they must find another dragon to slay, so to say, or they no longer qualify to be PCs, as they settle down, travel to distant lands, or perish. Either better people because they faced their lie or worse for they fled when the abyss looked back into them.
 
@@ -89,7 +88,6 @@ When asking _"Is the outcome of this action certain?",_ the answer is most often
 
 <figure>
   <img src="https://64.media.tumblr.com/5e31e601d9e6aaca1b23d942d0d9d913/tumblr_p9ykz6LNbs1ro2bqto1_1280.jpg" alt="Bribery">
-  <figcaption>Bribing crooked guards is certain fun. Finding them, is an adventure.</figcaption>
 </figure>
 
 If the baddie you want to hit with your sword is unconscious, asleep, or otherwise incapacitated, he cannot actively oppose your attempt to stab him and hence, there is no need to consult the dice; it is certain that you will hit.
