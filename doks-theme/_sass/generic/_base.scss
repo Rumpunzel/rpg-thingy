@@ -16,7 +16,7 @@ html {
 }
 
 body {
-  color: $color-dark;
+  color: $color-light;
   font-family: $font-family-primary;
   font-size: $font-size-base;
   line-height: $line-height-base;
@@ -89,7 +89,7 @@ small,
 }
 
 strong, b {
-  font-family: Luminari, serif;
+  font-family: $font-family-secondary;
 }
 
 /* ----- Paragraphs ----- */
@@ -126,7 +126,7 @@ figcaption {
   caption-side: bottom;
   font-style: italic;
   text-align: center;
-  color: #3c4654;
+  color: darken($color-light, 10%);
   line-height: 1.5rem;
   padding-top: 5px;
 }
@@ -221,10 +221,11 @@ table {
   }
 
   th {
+    color: $color-theme-dark;
     font-family: $font-family-secondary;
     text-transform: uppercase;
-    background-color: $color-table-header-bg;
-    border-color: $color-table-header-border;
+    background-color: $color-light;
+    border-color: darken($color-light, 5%);
   }
 }
 

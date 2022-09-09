@@ -88,6 +88,7 @@ When asking _"Is the outcome of this action certain?",_ the answer is most often
 
 <figure>
   <img src="https://64.media.tumblr.com/5e31e601d9e6aaca1b23d942d0d9d913/tumblr_p9ykz6LNbs1ro2bqto1_1280.jpg" alt="Bribery">
+  <figcaption>"See ya at poker next week."</figcaption>
 </figure>
 
 If the baddie you want to hit with your sword is unconscious, asleep, or otherwise incapacitated, he cannot actively oppose your attempt to stab him and hence, there is no need to consult the dice; it is certain that you will hit.
@@ -104,7 +105,7 @@ Stabbing a sleeping guard might be doable with certainty but doing so without al
 
 If an action has only one possible outcome, it is certain. And action needs at least two (interesting) outcomes to be uncertain. While it is true that, at least in theory, a character could trip and fall down the stairs every time, both walking down and falling down the stairs are intrinsically interesting, so the action is certain.
 
-<div class="callout callout--info">
+<div class="callout">
     <p><strong>When an action is certain</strong></p>
     <p>In brief, if there is no ulterior goal to an action, there is plenty of time to accomplish it, there is no opposition from either the world or another character, and there are fewer than two interesting outcomes, then an action is certain. Either you get what you want or the action is impossible, and you must find another way.
     </p>

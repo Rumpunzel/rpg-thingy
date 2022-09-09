@@ -4,66 +4,67 @@
 
 /* ----- General ----- */
 .callout {
-	border: 2px solid darken($color-callout, 4%);
-	background-color: $color-callout;
-	padding: .9375rem 1.25rem .625rem 1.25rem;
-	margin: 3rem 0;
+  border-radius: 10px;
+  border: 2px solid darken($color-theme-dark, 4%);
+  background-color: $color-theme-dark;
+  padding: .9375rem 1.25rem .625rem 1.25rem;
+  margin: 3rem 0;
 
-	@media (min-width: $screen-sm-min) {
-		padding: 1.25rem 1.875rem .9375rem 1.875rem;
-	}
+  @media (min-width: $screen-sm-min) {
+    padding: 1.25rem 1.875rem .9375rem 1.875rem;
+  }
 
-	p {
-		font-size: .9375em;
-		line-height: 1.8em;
-		margin-bottom: .625rem;
-	}
+  p {
+    font-size: .9375em;
+    line-height: 1.8em;
+    margin-bottom: .625rem;
+  }
 
-	strong {
-		display: block;
-		color: $color-dark;
-		font-family: $font-family-secondary;
-		font-size: 1.133em;
-		font-weight: 500;
-		margin-bottom: .625rem;
-	}
+  strong {
+    display: block;
+    color: $color-light;
+    font-family: $font-family-secondary;
+    font-size: 1.133em;
+    font-weight: 500;
+    margin-bottom: .625rem;
+  }
 }
 
 /* ----- Variations ----- */
 .callout {
-	&--success {
-		background-color: $color-callout-success;
-		border-color: darken($color-callout-success, 6%);
+  &--success {
+    background-color: $color-callout-success;
+    border-color: darken($color-callout-success, 6%);
 
-		strong {
-			color: darken($color-callout-success, 82%);
-		}
-	}
+    strong {
+      color: darken($color-callout-success, 82%);
+    }
+  }
 
-	&--info {
-		background-color: $color-callout-info;
-		border-color: darken($color-callout-info, 4%);
+  &--info {
+    background-color: $color-theme-blue;
+    border-color: darken($color-theme-blue, 4%);
 
-		strong {
-			color: darken($color-callout-info, 82%);
-		}
-	}
+    strong {
+      color: darken($color-theme-blue, 82%);
+    }
+  }
 
-	&--warning {
-		background-color: $color-callout-warning;
-		border-color: darken($color-callout-warning, 10%);
+  &--warning {
+    background-color: $color-callout-warning;
+    border-color: darken($color-callout-warning, 10%);
 
-		strong {
-			color: darken($color-callout-warning, 70%);
-		}
-	}
+    strong {
+      color: darken($color-callout-warning, 70%);
+    }
+  }
 
-	&--danger {
-		background-color: $color-callout-danger;
-		border-color: darken($color-callout-danger, 4%);
+  &--danger {
+    background-color: $color-callout-danger;
+    border-color: darken($color-callout-danger, 4%);
 
-		strong {
-			color: darken($color-callout-danger, 70%);
-		}
-	}
+    strong {
+      color: darken($color-callout-danger, 70%);
+    }
+  }
 }
