@@ -1,10 +1,10 @@
 # Rules
-attributes: "Attributes"
+attribute: "Attribute"
 strength: "Vigor"
 agility: "Intuition"
 intelligence: "Reason"
 
-skills: "Skills"
+skill: "Skill"
 influence: "Influence"
 fight: "Fight"
 maneuver: "Maneuver"

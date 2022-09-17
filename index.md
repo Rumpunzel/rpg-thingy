@@ -24,12 +24,12 @@ grid_navigation:
 
 # How to Play
 
-rpg-thingy is a Pen & Paper RPG. To play, you need pen, paper, a handful six-sided dice (**d6**), one player to assume the role of Game Master (**GM**) and 1-5 additional players who are each responsible for one Player Character (**PC**).
-
 <figure>
   <img src="https://i.pinimg.com/originals/b9/9f/7f/b99f7f7dd09e7d34ff50f38dbd5c8501.jpg" alt="Wizard">
   <figcaption>Pictured: me writing rules about imagining fighting monsters in a fictional world.</figcaption>
 </figure>
+
+rpg-thingy is a Pen & Paper RPG. To play, you need pen, paper, a handful six-sided dice (**d6**), one player to assume the role of Game Master (**GM**) and 1-5 additional players who are each responsible for one Player Character (**PC**).
 
 PCs exist in a fictional world in which they act, struggle, and succeed. The players' role is to bring their PC to life and the GM's responsibility is to breath life into the rest of the fictional world with descriptions, challenges, and Non-Player Characters (**NPCs**).
 
@@ -60,12 +60,12 @@ More about characters and how to create on in the chapter about [Characters](cha
 
 # Consulting the Dice
 
-As mentioned above, the dice are consulted when the outcome of an action is uncertain. [Certainty of Actions](#certainty-of-actions) details when an action is certain and when it is not.
-
 <figure>
   <img src="https://i.imgur.com/8jYjsCF.jpg" alt="Male-swordsman-fighting3orcs-scene">
   <figcaption>A fight is the classic situation where its outcome is anything but certain.</figcaption>
 </figure>
+
+As mentioned above, the dice are consulted when the outcome of an action is uncertain. [Certainty of Actions](#certainty-of-actions) details when an action is certain and when it is not.
 
 If you want to hit a baddie with your sword, bribe a guard, or try to walk across a tightrope.  We might have a rough idea what is more likely to happen but we cannot know for certain. It's the moment we roll the dice to open a fleeting portal to the fictional world, so it may answer our questions.
 
@@ -89,12 +89,12 @@ In brief, if there is no ulterior goal to an action, there is plenty of time to 
 
 Most often an action is uncertain because either another character, a creature, or the environment is opposing you. 
 
-Hitting a baddie with your sword, bribing a guard, or walking across a tightrope are uncertain actions because you face opposition. The baddie does not want to be stabbed, the guard has a duty to fulfill, and the wind pulls at your clothes as if it wanted to drag you into the ravine.
-
 <figure>
   <img src="https://64.media.tumblr.com/5e31e601d9e6aaca1b23d942d0d9d913/tumblr_p9ykz6LNbs1ro2bqto1_1280.jpg" alt="Bribery">
   <figcaption>"See ya at poker next week, Jeremy."</figcaption>
 </figure>
+
+Hitting a baddie with your sword, bribing a guard, or walking across a tightrope are uncertain actions because you face opposition. The baddie does not want to be stabbed, the guard has a duty to fulfill, and the wind pulls at your clothes as if it wanted to drag you into the ravine.
 
 On the other hand, if the baddie you want to hit with your sword is unconscious, asleep, or otherwise incapacitated, he cannot actively oppose your attempt to stab him and hence, there is no need to consult the dice; it is certain that you will hit.
 

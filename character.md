@@ -17,8 +17,8 @@ page_nav:
         content: BACK TO HOMEPAGE
         url: /
     next:
-        content: Next page
-        url: '#'
+        content: Skill List
+        url: /skill-list
 ---
 
 # The Heart of rpg-thingy
@@ -38,15 +38,15 @@ The Truth your characters believes in is an objectively true fact about your cha
 
 You can either phrase it as a statement about your character.
 
-> The traitor who killed my father must die.
-
-> As unwitting patriarch of the Goldwyn family, my house must be restored to its former glory.
+> - The traitor who killed my father must die.
+>
+> - The Goldwyn family will endure.
 
 Or as a quote of something your character might regularly think or say.
 
-> "Every one of my friends can rely on me no matter what. And so can the world."
-
-> "BY THE POWER OF GRAYSKULL, I HAVE THE POWER!"
+> - "Every one of my friends can rely on me no matter what."
+>
+> - "BY THE POWER OF GRAYSKULL, I HAVE THE POWER!"
 
 The sign of a good Truth is that whenever you find yourself in a tricky situation or unsure what to do next, you can look at your character sheet, and it nudges you into the right direction.
 
@@ -58,341 +58,133 @@ Just like the Truth your character believes in, you can phrase the Lie your they
 
 A conviction your character believes to be true, wittingly or unwittingly, though it is a delusion, a self-deception or misjudgement about their surroundings that you, as a player, know to be incorrect. The central questions such a Lie poses are: How will the character learn? What will it take? Where will it take? Will they find the courage to face the truth when push comes to shove?
 
-> I owe the Order of the Silver Falcon my life. There is no nobler goal than to give my life to repay my debt. 
-
-> I have left my life as a mercenary behind me. Is now a well-adjusted, productive member of society.
+> - I owe the Order of the Silver Falcon my life. There is no nobler goal than to give my life to repay my debt. 
+>
+> - I have left my life as a mercenary behind me. Is now a well-adjusted, productive member of society.
 
 A conjecture about your character that might or might not be true. Neither your character nor you know if it true or not. A Lie that is a conjecture is often _possibly_ true and the character's journey will consist of them proving that they were right to believe so from the start or learn the hard way that they were mistaken. The central question such a Lie poses is: Is this true?
 
-> "I am worthy to inherit my master's workshop."
-
-> "The traitor who killed my father must die."
+> - "I am not worthy to inherit my master's workshop."
+>
+> - "The traitor who killed my father must die."
 
 As you can see, the same phrase can be used either as a Truth or a Lie, though its meaning drastically shifts. As a Truth, `"The traitor who killed my father must die."` is a goal your character has that they will either fulfill or die trying. As a Lie, it is meant to be challenged as the story progresses. Does he indeed deserve to die? What did my father do that he was betrayed and murdered? Am I at fault for my father's death? These are all questions that only result from Lies, for they are meant to be challenged, not from Truths.
 
 ## Playing out the Story
 
-In a way, the Lie is a lot more central to the story your character will experience. But the Truth is just as important, for it is what will drive them to press on when everything else tells them to give in.
+In a way, the Lie is a lot more central to your character's story but the Truth is just as important, for it is what will drive them to press on when everything else tells them to give in.
 
 Though it is implied that a Lie is always successfully challenged in the course of your character's story, so they may change for the better, it is totally legitimate to go on a lengthy journey only for your character to double down on his delusions, to refuse to face the Lie. Naturally, there will be no true happy end for such a character but that does not mean that the end to their story can not be fascinating and satisfying in its own way.
 
+## Favor
+
+**Favor** is a meta-currency you can spend to influence your dice rolls, tilt luck in your favor, or sometimes even fuel powerful magic. It is also part of the character progression.
+
+Whenever the Truth or Lie really come out through how you roleplay your character or through the drama that results from your choices, you earn Favor for your character. The amount of Favor you earn is decided by the group and lies anywhere between **1** and **3,** where **1** is a great character moment and **3** is the performance of your lifetime.
+
+There are other ways to earn Favor, for example by forgoing XP from a failed test, but playing out Truth and Lie will be your main revenues of Favor.
 
 
-# Attributes
 
-Each character has the three following different Approaches. Each Approach represents a different way forward in the narrative when it comes to confronting a problem. Each character has a numerical rating associated with each Approach. This rating determines how many dice that character will roll when they face a problem with that Approach.
+# {{site.attribute}}s
 
-Each Aspect also has a unique Dice Modifier that changes a few things about dice are rolled and a [Disposition](#Disposition) which gives you and edge when engaging someone else in a contest.
+Each character has three **{{ site.attribute }}s:** **{{ site.strength }},** **{{ site.agility }},** and **{{ site.intelligence }}.**
 
-[Anydice](https://anydice.com/program/294e7)
+Each {{ site.attribute }} also has a numerical rating, which determines how many dice you roll when you test with that {{ site.attribute }}. The rating is an objective measure of your character's potential effort they can muster when doing tasks. For example, a bear has more {{ site.strength }} than a mouse and a dragon even more than almost anything.
 
+Each {{ site.attribute }} represents a different way for your characters approaches problems. How well do they coerce other people into giving them what they want or are they better at relating to others to form connections, or do they build up their case and negotiate? Do they rush in to face their enemies without fear, do they fade into the shadows when they skulk around instead, or how deftly outmaneuver them from a distance? How strong are they, how nimble, how clever?  
+That is represented by your character's {{ site.attribute }}s. Your character may approach any problem however they like but their attributes determine what they feel most comfortably doing, or perhaps even how flexible they are.
 
-## {{ site.strength }}
+Your character's {{ site.attribute }} ratings are fundamental to they are and how they interact with the world and will change only marginally over the course of their story.
 
-Vigor encompasses strength, both of body and mind; endurance; tenacity; ferocity; panache; and power of will.
+## {{site.strength}}
+
+{{ site.strength }} encompasses direct approaches to problem-solving.
 
 <figure>
   <img src="https://i.pinimg.com/originals/66/7e/3d/667e3d98a2ce911a9b38fb201aa38607.jpg" alt="Warrior">
-  <figcaption>A warrior bringing down his hammer with Vigor.</figcaption>
+  <figcaption>A warrior facing his enemy armoured in heavy steel and fiery courage.</figcaption>
 </figure>
 
-It is the most direct approach. It's a matter of facing problems head-on, courageous, and with conviction always at your side. A matter of going all out to win it and to win big. As such, it is the Approach most closely linked to the control and harnessing of fiery emotions.
+It's a matter of facing problems head-on, courageous, and with conviction always at your side. A matter of going all out to win it and to win big. As such, it is the {{ site.attribute }} most closely linked to the harnessing of fiery emotions.
 
-You approach a challenge with Vigor whenever you swing your mighty axe in a blinded rage, whenever you embolden your compatriots with a fiery speech, whenever you weave a heart-breaking tune on your lyre, or whenever remain calm even in the face of a terrifying acid-spewing monstrosity.
+Strength, endurance, tenacity, panache, ferocity, wealth, fame, and power of will are all different aspects of {{ site.strength }}.
 
-**Dice Modifier:** For every die whose face comes up as a 6, roll an additional die. If that additional die also comes up a 6, it explodes as well. Continue this process until you have rolled an additional die for each 6 you've rolled.
+If your character has a high {{ site.strength }} rating, they excel whenever they swing their mighty axe in a blinded rage, whenever they embolden their compatriots with a fiery speech, whenever they perform an impressive feat of strength, whenever they labor for hours on end at their forge, whenever they weave a heart-breaking tune on their lyre, whenever they shrug off a hit, or whenever they leverage their fame and wealth.
 
 
-## {{ site.agility }}
+## {{site.agility}}
 
-Intuition encompasses flexibility, both of body and mind; nimbleness; guile; reflexes; wit; cleverness; and empathy.
+{{ site.agility }} encompasses adaptive approaches to problem-solving.
 
 <figure>
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae931af7-c579-4291-97f3-a7b57e6a7ac3/d25drmo-932f3032-87a7-4644-8dd3-54e50ae26ce5.jpg/v1/fill/w_600,h_746,q_75,strp/hunting_party_by_jeh_artist_d25drmo-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzQ2IiwicGF0aCI6IlwvZlwvYWU5MzFhZjctYzU3OS00MjkxLTk3ZjMtYTdiNTdlNmE3YWMzXC9kMjVkcm1vLTkzMmYzMDMyLTg3YTctNDY0NC04ZGQzLTU0ZTUwYWUyNmNlNS5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ySDefElllXftpw8aNc5YXvX7AEXsCxpD-cFjAPOSddk" alt="Hunting Party">
-  <figcaption>A duelist flourishing his rapier with Intuition.</figcaption>
+  <figcaption>A hunting party tracking their prey, paying attention to every broken branch.</figcaption>
 </figure>
 
+It's a matter of utilizing opportunities in the moment and with the element of surprise always on your side. A matter of tipping the scales in your favour by paying close attention and going with the flow.
+
+Flexibility, nimbleness, guile, reflexes, perceptiveness, wit, connections, and empathy are all different aspects of {{ site.agility }}.
+
+If your character has a high {{ site.agility }} rating, they excel whenever they swirl their blade like a dervish, whenever they outfox their enemies with their silver tongue, whenever they dodge to safety at the lase possible moment, whenever they know exactly the right thing to say to empathize with people, whenever they craft an astounding piece of art, whenever they balance across a steep ravine without breaking a sweat, or whenever they know just the right person.
 
 
-It is the most reactive approach. It's a matter of facing problems in the moment and with the element of surprise always on your side. A matter of tipping the scales in your favour by anticipating the future and going with the flow.
+## {{site.intelligence}}
 
-You approach a challenge with Intuition whenever you swirl your blade like a derwish, whenever you outfox your enemies with your silver tongue, whenever you know exactly the right thing to say in the face of defeat, whenever you escape disaster by a hair's breadth without breaking a sweat.
-
-**Dice Modifier:** For every die whose face comes up as a 1, you roll it again. If that die comes up a 1 again, repeat this process. Continue this until there are no 1's left in your pool.
-
-
-## {{ site.intelligence }}
-
-Reason encompasses precision, both of body and mind; deftness; intellect; foresight; industriousness; and rigor.
+{{ site.intelligence }} encompasses thoughtful approaches to problem-solving.
 
 <figure>
   <img src="https://i.pinimg.com/originals/ba/48/f1/ba48f10c05b0bd7b357aceecfcdbbffb.jpg" alt="Scholar">
-  <figcaption>An archer scrutinizing his surroundings with Reason.</figcaption>
+  <figcaption>A scholar, after years of research, finally figuring out what horror terrorizes the city.</figcaption>
 </figure>
 
 
-It is the most thoughtful approach. It's a matter of facing problems on your own terms and with a contigency plan always by your side. A matter of knowing your enemies, their blindspots, and taking the time to masterfully exploit them.
+It's a matter of meeting problems on your own terms and with a contingency plan always by your side. A matter of knowing your enemies, their blindspots, and taking the time to masterfully exploit them.
 
-You approach a challenge with Reason whenever you fell the rider approaching from the horizon with a single arrow, whenever you facilitate genuine understanding between warring parties, whenever doom misses you by a mile as you were expecting it, whenever you find yourself in a race with fate one step ahead.
+Precision, deftness, intellect, foresight, research, industriousness, and rigor are all different aspects of {{ site.intelligence }}.
 
-**Dice Modifier:** After the dice have been cast, you may ignore the result and roll all dice again.
+If your character has a high {{ site.intelligence }} rating, they excel whenever you fell the rider approaching from the horizon with a single arrow, whenever you facilitate genuine understanding between warring parties, whenever you engineer a baffling mechanism, whenever doom misses you by a mile as you were expecting it, whenever you mend a grievous wound, whenever you find yourself in a race with fate one step ahead.
 
 
-## Disposition
+## Dice Modifiers
 
-These Approaches do not form the foundation of only your character. The scoundrel ambushes you in the gloomy ally, the moonlit lord anticipates your every move, even passive obstacles such as a river's current might roar with ferocity. When you create your character you have the choice between two different dispositions, a representation of how your characters engages with his surroundings.
+Each {{ site.attribute }} also has a unique dice modifier. To use a {{ site.attribute }}'s dice modifier, you need to use a fitting [Trait](#traits). When you do, it will change a few things about how dice are rolled.
 
-Your Disposition may force your target to perfectly defend against you. Which means, during Conflicts they may only defend themself but not their team's Morale when defending with an Approach against which your chosen Approach is positively dispositioned.
+| {{ site.strength }} _(Fervor)_                                                                            | {{ site.agility }} _(Fortune)_                                                                 | {{ site.intelligence }} _(Focus)_                                                    |
+|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| For every **6** you roll, roll an additional die. If that die also comes up a **6,** repeat this process. | For every **1** you roll, re-roll that die. If it comes up a **1** again, repeat this process. | Once, after the dice have been cast, you may ignore the result and re-roll all dice. |
 
-Your disposition represents a certain knack you have against the other approaches, a weakness you might exploit. But beware, for your enemies also have dispositions!
+Here is an [Anydice](https://anydice.com/program/2b138) link for the corresponding probabilities.
 
-#### Disposition I
 
-**Reason must defend perfectly against your Vigor:** You are a force too overwhelming, your attacks are too mighty, your speeches are too gripping, they cannot be faced with a cool demeanour for you leave no demeanour cool.
+# {{site.skill}}s
 
-**Vigor must defend perfectly against your Intuition:** You change course too deftly, your attacks are a stunning barrage, your lies are too tricky a web to navigate, they cannot be faced head-on with brute force for you bend like grass in the wind.
+There are **6** {{ site.skill }}s in total (see [{{ site.skill }} List](/skill-list) for more details):
 
-**Intuition must defend perfectly against your Reason:** Your plans are too well thought out, your attacks are too precise, your rhetorical traps are too sophisticated, they cannot be weaseled out of for you have thought of everything.
+[{{ site.influence }}](/skill-list#influence), [{{ site.fight }}](/skill-list#fight), [{{ site.maneuver }}](/skill-list#maneuver), [{{ site.wilderness }}](/skill-list#wilderness), [{{ site.craft }}](/skill-list#craft), and [{{ site.resources }}](/skill-list#resources)
 
-#### Disposition II
+{{ site.skill }}s represent both an area of expertise, something a character may or may not be trained or even an expert in and a section of the game itself. Each adventure will be different but each adventure will consist of these **6** different types of challeges to variying degrees.
 
-**Intuition must defend perfectly against your Vigor:** You are a force too overwhelming, your attacks are too mighty, your speeches are too gripping, they cannot be faced with the cowardice of a weasel for you leave no place left to hide.
+A {{ site.skill }} has a corresponding number denoting the character's training. The default is **6.** This number denotes what is the lowest number on a die that counts as a success when that character rolls that {{ site.skill }}.
 
-**Reason must defend perfectly against your Intuition:** You change course too deftly, your attacks are a stunning barrage, your lies are too tricky a web to navigate, they cannot be faced with a cool demeanour for they still think about your last move while your are crossing the finish line.
+- untrained, a character has **6** in the corresponding {{ site.skill }}
+- trained, a character has **5+** in the {{ site.skill }}
+- as an expert, a character has **4+**
+- as a master, a character has **3+** (this is extremely rare)
 
-**Vigor must defend perfectly against your Reason:** Your plans are too well thought out, your attacks are too precise, your rhetorical traps are too sophisticated, they cannot be faced head-on with brute force for every careless step spells disaster.
+Whenever the game calls for a test, it will always call for an {{ site.attribute }} and a {{ site.skill }}. The {{ site.attribute }} determines how many dice you roll and the {{ site.skill }} determines what faces of the dice result in a hit or a miss.
 
+{{ site.skill }}s may be enhanced by [Talents.](Talents)
 
----
-
-
-# Favor, Fortune & Focus
-
-
-
----
-
-
-
-# Skills
-
-Skills represent an area of expertise, something a character may or may not be trained or even an expert in.
-
-There are **6** Skills in total (see [Skill List](#Skill-List)).
-
-A skill has a corresponding number denoting the character's training. The default is **6.** This number denotes what is the lowest number on a die that counts as a success when that character rolls that skill.
-
-A **6** in a Skill means a character is untrained.
-
-A **5+** means a character is trained in the Skill.
-
-A **4+** means a character is an expert.
-
-A **3+** means a character is a master at their craft.
-
-Skills may be enhanced by [Talents.](Talents)
-
-
-
-## Skill List
-
-### Influence
-
-Whenever you aim to change someone else's mind or impose your will on others or defend against such efforts, roll Influence.
-
-#### Special Uses
-
-- Mending mental Conditions while resting
-
-#### Vigor
-
-Oratory, Intimidation, Taunting, Performing, Drinking
-
-#### Intuition
-
-Deceit, Persuasion, Fast-Talking, Haggling, Manipulation
-
-#### Reason
-
-Negotiation, Rhetoric, Instruction, Mediation
-
----
-
-### Fight
-
-Whenever you aim to harm someone else or defend against being harmed in a physical altercation, roll Fight.
-
-#### Vigor
-
-Axe, Halberd, Brawling, Armour, Biting through the pain
-
-#### Intuition
-
-Knives, Sword, Dodging, Parrying
-
-#### Reason
-
-Bow, Spear, Shield, Footwork
-
----
-
-### Maneuver
-
-Whenever you aim to overcome an obstacle in your path, be it distance, hurdles, or difficult terrain, roll Maneuver.
-
-#### Vigor
-
-Sprinting, moving heavy obstacles, endurance running, swimming against the current
-
-#### Intuition
-
-Acrobatics, Riding, hiding in crowds
-
-#### Reason
-
-Infiltration
-
----
-
-### Wilderness
-
-Whenever you aim to navigate the wilds, aim to survive natural forces, or set up camp in the wild, roll Wilderness.
-
-#### Special Uses
-
-- Navigating between points of interest
-- Resting in the wilderness (see [Resting](Resting))
-- Foraging while resting
-
-#### Vigor
-
-Building shelter, Fire building, Ditch digging
-
-#### Intuition
-
-Hunting, Foraging, Riding, Weather-watching
-
-#### Reason
-
-Scouting, Path finding, Trapping, Astrology, Tracking
-
----
-
-### Craft
-
-Whenever you aim to create new, or improve or destroy existing items and structures, or generally work with your hands roll Craft.
-
-#### Special Uses
-
-- Creating and improving Preparations
-- Mending physical Conditions while resting
-
-#### Vigor
-
-Blacksmithing, Farming, Laboring, Masonry, Lumber jacking, Carpentry
-
-#### Intuition
-
-Cooking, Sabotage, Animal Husbandry, Painting, Field Dressing, Gold smithing
-
-#### Reason
-
-Engineering, Cartography, Surgery
-
----
-
-### Resources
-
-Whenever you aim to call on existing connections, funds or knowledge, or aim to create new ones, roll Resources.
-
-#### Special Uses
-
-- Resting in settlements
-- Buying and selling Preparations
-- Mending worldly Conditions while resting in a settlement
-
-#### Vigor
-
-Fame, Wealth, Titles
-
-#### Intuition
-
-Connections, Rumors, Favors
-
-#### Reason
-
-Investment, Administration, Bureaucracy
-
-##### Special Uses
-
-- Researching while resting.
-
-
----
 
 
 # Traits
 
-A Trait is a factual description about what makes your character extraordinary with mechanical weight. He may have a nice beard but if he has the `Magnificient Beard` Trait, he has such a great beard, you may use it to your benefit and even to your detriment to gain [Favor](Favor).
+A **Trait** is a factual description about what makes your character extraordinary with mechanical weight.
 
-A Trait has a rating, usually ranging from **1** to **3.**
+A character may have a nice beard but if he has the `Magnificient Beard` Trait, he has such a great beard, you may use it to your benefit and even to your detriment for dramatic effect.
 
-
-## Using Traits to your Benefit
-
-When you test a skill, you may spend **1** Favor to invoke one of your Traits to re-roll **1** of the dice of your roll. Per test, you may invoke a Trait a number of times up to the rating of the Trait. Per test, you may only invoke a single of your Traits per test. If you have multiple Traits which might fit, you have to choose only one of them.
-
-Traits with extraordinary high ratings (normally this means rating **3**) may let you re-roll a number of dice (as shown below) for free without spending Favor.
-
-| **Trait Rating** |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  |
-|:----------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  **Free Dice**   |  -  |  -  |  1  |  1  |  2  |  2  |  3  |  3  |  4  |  4  |
-
-So if you want to use a Trait with rating **3** to help you, you may re-roll **1** die for free and may spend up to **2** Favor to re-roll up to **2** more.
-
-
-> Cyrene has the Trait `Drunkard` with a rating of **1.**
->
-> During a drinking competition, she invokes it to re-roll **1** of her dice, which, in the end, gives her just the edge she needs to emerge victorious.
-
-
-## Using Traits to your Detriment
-
-There are many reasons to use one of your Traits to your detriment. It can lead to great roleplaying moments, it can let you communicate who your character and their flaws are, it can be simply for fun, and it can lead to you earning more Favor for later use.
-
-You may use any of your Traits to your detriment, both against static obstacles and in Contests and Conflicts, as long as it makes sense that the Trait would in some way hinder you.
-
-You may only use a Trait to either help or hinder you, not both.
-
----
-
-### Against Static Obstacles
-
-When you test with a skill against a static obstacle, you may add one of your Trait's rating to the obstacle, if it would make sense that said Trait would hinder you at what you are trying to achieve. This might increase the amount of Favor you will receive should you fail the test.
-
-The GM may compel you to use one of your Traits to your detriment when it would be both appropriate and dramatic when testing against a static obstacle. You may decline the compel by spending Favor equal to the Trait's rating. If you accept, use the Trait to your detriment as you normally would.
-
-
-> When Cyrene tries to balance across a raging river, her `Drunkard` Trait hinders her, and she adds **1** to the
-> obstacle, which results in her falling into the water and gaining additional Favor instead of succeeding.
-
----
-
-### During Contests & Conflicts
-
-Alternatively, when you test with a skill in a Contest or Conflict, you may also use a fitting Trait to your detriment. Though, in most cases, your opponent will be the one to do so first.
-
-In a Contest or Conflict, instead of increasing an obstacle, using a Trait to your detriment in this context, lets your opponent add your Trait's rating as dice to their roll.
-
-When one of your Traits is used against you in a Contest of Conflict, you may spend **1** Favor to reduce the number of dice you give your opponent by **1.** You may do this a number of times equal to the Trait's rating until you no longer give your opponent any dice.
-
-
-> During a kerfuffle at court, Cyrene tries to embarrass one of the guests she has met before (when he crossed her during a previous adventure). She only manages **1** success on her roll, though he manages none at all, he invokes Cyrene's `Drunkard` Trait against her to add **1** die to his roll. Cyrene may now spend **1** Favor to not give him that additional die, but she wants to see what will happen and decides against it.
->
-> The obnoxious guest manages to roll a success on his additional die and turns the outcome into a tie, which he, as defender, wins. The court is now laughing at Cyrene, as he deflects her insults right back into her face. What a windbag. At least she received **1** Favor from her **1** success.
-
-
-## Signaling
+A Trait has a rating ranging from **1** to **3.**
 
 By taking a Trait, a player signals to the group that they are interested in that particular part of the story or their character. The higher the rating of your Trait, the more they want the Trait to come up in the game. Consider this when choosing your own Traits. Think about what you want to experience during the game and try to model your character's Traits after the goal.
 
@@ -402,193 +194,87 @@ By taking a Trait, a player signals to the group that they are interested in tha
 > He could have also split the Trait in two such as `Exile of Gantha` and `Famed Sellsword` and given them different ratings, had one aspect been more important to him than the other or if they had nothing or little to do with each other in the story.
 
 
+
+## Using Traits to your Benefit
+
+When you test a skill, you may invoke one of your Traits, if the Trait is relevant to your current task, and it would sense for it to help you. For example, if you try to hit someone with your sword, and you have a Trait named `Legendary Blademaster`, you may naturally invoke it.
+
+When you invoke a Trait, you may use the dice modifier for the {{ site.attribute }} you are testing with.
+
+If the Trait you invoke has a rating of **2,** you may use an additional dice modifier of different {{ site.attribute }} on that roll as well. You choose which of the two other dice modifiers you want to use.
+
+If the Trait you invoke has a rating of **3,** you may use all dice modifiers of all {{ site.attribute }}s on that roll. This is incredibly powerful.
+
+You may only invoke a single of your Traits per test. If you have multiple Traits which might fit, you have to choose only one of them.
+
+You may also spend **1** Favor to treat a Trait as if it were rated **1** higher when determining dice modifier. So if you have a Trait with rating **1,** you may spend **1** Favor to use the dice modifier of the {{ site.attribute }} you rolled with and an additional dice modifier of your choice. You cannot increase a Trait's rating beyond **3** with this effect, though you may spend **1** Favor to gain your {{ site.attribute }}'s dice modifier, even if you do not have a fitting Trait.
+
+
+> Cyrene has the Trait `Drunkard` with a rating of **1.**
+>
+> During a drinking competition, she invokes it to explode the two **6s** she rolled, which, in the end, gives her just the edge she needs to emerge victorious.
+
+
+## Using Traits to your Detriment
+
+There are many reasons to use one of your Traits to your detriment. It can lead to great roleplaying moments, it can let you communicate who your character is and what their flaws are, it can be simply for fun, and it can lead to you earning more XP.
+
+You may use any of your Traits to your detriment, both against static obstacles and in Contests and Conflicts, as long as it makes sense that the Trait would in some way hinder you.
+
+You may only use a Trait to either help or hinder you, not both. Also, as above, you may only use a single of your Traits per test to hinder you. If you have multiple Traits which might fit, you have to choose only one of them.
+
+
+### Against Static Obstacles
+
+When you test with a skill against a static obstacle, you may add one of your Trait's rating to the obstacle, if it would make sense said Trait would hinder you at what you are trying to achieve. This might increase the amount of XP you will receive should you fail the test.
+
+The GM may compel you to use one of your Traits to your detriment when it would be both appropriate and dramatic when testing against a static obstacle. You may decline the compel by spending Favor equal to the Trait's rating. If you accept, use the Trait to your detriment as you normally would.
+
+
+> When Cyrene tries to balance across a raging river, her `Drunkard` Trait hinders her, and she adds **1** to the obstacle, which results in her falling into the water and gaining **1** additional XP instead of succeeding.
+
+
+### During Contests & Conflicts
+
+Alternatively, when you test with a skill in a Contest or Conflict, you may also use a fitting Trait to your detriment. Though, in most cases, your opponent will be the one to have that idea first.
+
+In a Contest or Conflict, instead of increasing an obstacle, using a Trait to your detriment in this context, lets your opponent add your Trait's rating as dice to their roll.
+
+When one of your Traits is used against you in a Contest of Conflict, you may spend Favor equal to the Trait's rating to not give your opponent any dice, just like you would against static obstacles.
+
+
+> During a kerfuffle at court, Cyrene tries to embarrass one of the guests she met previously (when he crossed her during a previous adventure). She only manages **1** success on her roll, though he manages none at all, he invokes Cyrene's `Drunkard` Trait against her to add **1** die to his roll. Cyrene may now spend **1** Favor to not give him that additional die, but she wants to see what will happen and decides against it.
+>
+> The obnoxious guest manages to roll a success on his additional die and turns the outcome into a tie, which he, as the defender, wins. The court is now laughing at Cyrene, as he deflects her insults right back into her face. What a windbag. At least she received **1** XP for her {{ site.influence }} from her **1** success.
+
+
+
 ## Traits as Knowledge & Experience
 
 If you have a Trait, openly known Traits of places, creatures, or people connected to your area of expertise. You may ask the GM for this at any time, and you are invited to enrich the world with your descriptions of your character's experience any time you see fit.
 
-Even if you don't have a fitting Trait, all superficial or incomplete knowledge, rough outlines big events is always available to you.
-
-You may also spend Favor on a Trait representing your experience or familiarity to create a mechanical advantage for you (mostly in the form of revealing new Traits). The better your rating, the more detailed, obscure information you may create or discover.
-
-Alternatively, you may spend **1** Favor on a Trait to gain a Preparation with rating **1** representing something you would always carry with you considering the experience that Trait represents.
-
 
 > During their last adventure, Mare and Cyrene have crossed path with the robber king of Gantha and Maro got swept up in his character's past and now this robber king spells quite a bit of trouble. Though, as an `Exiled Sellsword of Gantha`, there is for sure something Maro knows about this robber king that might aid them in their struggle.
 
----
 
 ### Discovering Traits
 
-Depending on the rating of your Trait, different kinds of information are available to you:
+Depending on the rating of your Trait, different kinds of information are available to you of all places, creatures, or people connected to the Trait:
 
-- **Rating 1:** All openly known Traits and the highest Approach (if applicable) of all places, creatures, or people connected to the Trait, as well as its best Skill (if applicable) and its Disposition (if applicable).
-- **Rating 2:** In-depth knowledge of the most common subject areas; rough outlines of obscure facts; all secret Traits with a rating of **1** and the two highest Approaches (if applicable) of all places, creatures, or people connected to the Trait, as well as its two best Skills (if applicable) and its Disposition (if applicable).
-- **Rating 3+:** Expert at the topic; solid knowledge of even obscure facts and occurrences; all secret Traits with a rating less than your Trait's rating and all Approaches (if applicable) of all places, creatures, or people connected to the Trait, as well as its three best Skills (if applicable) and its Disposition (if applicable).
+- **Rating 1+:** All known Traits, the highest {{ site.attribute }}, the best {{ site.skill }}, and Disposition.
+- **Rating 2+:** In-depth knowledge of common subject areas; rough outlines of obscure facts; the lowest rated secret Trait, all {{ site.attribute }}s, and the three best {{ site.skill }}s.
+- **Rating 3+:** Expert at the topic; solid knowledge of even obscure facts and occurrences; all secret Traits, as well as all {{ site.skill }}s.
 
 
-> As Maro's Trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's two highest Approaches are Reason and Intuition, as well as that both are higher than his.
+> As Maro's Trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's {{ site.attribute }}s and that his Reason is quite a lot higher than his.
 >
-> Fortunately, he also learns of the robber king's secret Trait `Only goes out at Night` which has a rating of **1.** It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see [Research](Resting#research)).
+> Fortunately, he also learns of the robber king's lowest rated secret Trait `Only goes out at Night` which has a rating of **1.** It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see [Research](Resting#research)).
 
----
 
 ### Creating Traits
 
-Alternatively, you may also suggest a new Trait for a place, a creature, or a person connected to one of your own Traits. If the table agrees with your suggestion, you may spend Favor up to the rating of your own Trait and create the new Trait on the place, creature, or person with rating equal to the amount of Insight you spent.
+Alternatively, you may also suggest a new Traits for a place, a creature, or a person connected to one of your own Traits as long as the table agrees with your suggestion.
 
-It can also happen that the GM likes your suggestion so much that he adds the Trait (or a variation of it) on his volition, without you having to spend Favor and with the rating of their choosing.
+Most often, the GM will like your suggestion and add the Trait (or a variation of it) on their own volition with the rating of their choosing as a new Trait.
 
-
-## Legacies
-
-Legacies are special and powerful Traits that are always positive.
-
-The only way to gain Legacies is through surviving a [Last Stand](Conflict#last-stand) during a Conflict. Legacies are always associated with an [Approach](Approaches).
-
-You may invoke a Legacy just like a Trait, though you may invoke both a Trait and a Legacy on the same roll. In addition, when you invoke a Legacy, you also add the associated Approach's dice modifier to that roll. This may allow you to use up to two different dice modifiers on the same roll.
-
-
----
-
-
-# Conditions
-
-Conditions are temporary, negative, but unavoidable consequences of your daring adventures. They are always negative and will get in your way or even help the blackguards who cross your way until you get rid of them.
-
-There are three different types of Conditions (as listed below). When the rules call for an *appropriate Condition,* they reference the different types of Conditions, as not all Conditions will hinder you on every test.
-
-When you test against a static obstacles and if you have an appropriate Condition with rating higher than the test's obstacle, treat the obstacle as if it were the rating of your appropriate Condition with the highest rating.
-
-During Contests and Conflicts, your opponents will use your Conditions to their advantage. For your opponents, your Conditions work like Preparations (though using them does not degrade the Condition's rating), so they may treat any roll they've made for an action that takes advantage of your Condition as at least as many successes as the Condition's rating. You may use your opponents' Conditions in the same way as your opponent's can use yours.
-
-You can reduce the rating of your Conditions by tending to them (see [Resting](Resting) on how to reduce the rating of your Conditions).
-
-
-## Condition Slots
-
-You have **6** slots for three kinds of different Conditions available. When you receive a new Condition, fill any available, empty slot with rating of at least that Condition's rating. A Condition in a slot always has the slot's rating.
-
-Any of the three different Condition types -- physical, mental, and worldly -- fit into any of your available slots.
-
-When a Condition's rating changes, move it to the according slot, given you have an according, empty slot. When a Condition's rating is reduced to **0** or less, it vanishes.
-
-Should you receive a Condition but do not have any slot to note a Condition of that rating, increase that Conditions rating by **1** and try again until you find a slot with rating of at least that Condition's rating. If you cannot find any empty space to note your Condition, either because the Conditions rating is too high or because you have no more space for more Conditions, you are in deep trouble.
-
-- During Conflicts, you must take a new detrimental Trait to absorb any remaining stress, and you are removed from the Conflict.
-- Outside of Conflicts, your fate is even worse. Whatever has been gnawing at you, finally overwhelms you. Be it feverish wounds, madness, or social ostracization, and you must retire your character.
-
----
-
-You have the following three types of slots for Conditions.
-
-### Minor Conditions (Rating 1)
-
-You have **3** slots available for minor Conditions.
-
-These are minor inconveniences. Superficial cuts, bruised egos, a revolting appearance after days of adventuring, and similar troubles that arise with living an interesting life are minor Conditions. Nothing that cannot heal or mend with even just a little resting.
-
-As a static obstacle's rating is almost always at least **1,** these kinds of Conditions are more of a nuisance than a hindrance (unless they begin to pile up and fill your Condition slots).
-
----
-
-### Moderate Conditions (Rating 2)
-
-You have **2** slots available for moderate Conditions.
-
-These are moderate setbacks. Flesh wounds, enduring exhaustion, nightmare-inducing disturbances, being accused of a crime, and similar troubles are moderate Conditions.
-
----
-
-### Major Conditions (Rating 3)
-
-You have **1** slot available for a major Condition.
-
-These are grievous injuries which threaten to fester and prematurely end your journey should they not get immediate attention. Stab wounds to the gut, feverish sickness, debilitating delusions, complete ostracization, and similar threats to your character's life are major Conditions.
-
-
-## Types of Conditions
-
-There are three types of Conditions: physical, mental, and worldly.
-
-### Physical Conditions
-
-This type of Condition encompasses all types of physical trauma, bodily injury and muscle weariness. A cut from a blade is a physical Condition, so is exhaustion from excessive travelling, and so are sickness and poisoning.
-
-Physical Conditions always will hinder you on Fight, Maneuver, Wilderness, and Craft tests.
-
-Major physical Conditions also hinder you on Influence tests.
-
-Physical Conditions never hinder you on Resource tests.
-
-While resting, you can mend physical Conditions with Craft tests, though not all ratings can be mended by all [Approaches.](Approaches)
-
-- Minor physical Conditions can be mended by Craft with any Approach.
-- Moderate physical Conditions can be mended by Craft with Intuition and Reason but not by Vigor.
-- Major physical Conditions can only be mended by Craft with Reason.
-
-
-|                |  Hinders   |     |   Vigor    |    Intuition     | Reason |
-|----------------|:----------:|-----|:----------:|:----------------:|:------:|
-| **Influence**  | Only Major |     |     -      |        -         |   -    |
-| **Fight**      |    All     |     |     -      |        -         |   -    |
-| **Maneuver**   |    All     |     |     -      |        -         |   -    |
-| **Wilderness** |    All     |     |     -      |        -         |   -    |
-| **Craft**      |    All     |     | Only Minor | Minor & Moderate |  All   |
-| **Resources**  |     -      |     |     -      |        -         |   -    |
-
----
-
-### Mental Conditions
-
-This type of Condition encompasses all types of mental trauma, spiritual injury and weariness of the mind. A biting insult to your character is a physical Condition, so is exhaustion from excessive research, and so are fear and confusion.
-
-Mental Conditions always will hinder you on Influence, Maneuver, and Fight tests.
-
-Major mental Conditions hinder you on all tests. You are never truly safe from your fears.
-
-While resting, you can mend mental Conditions with Influence tests, though not all ratings can be mended with all Approaches.
-
-- Minor mental Conditions can be mended by Influence with any Approach.
-- Moderate mental Conditions can be mended by Influence with Vigor and Intuition but not by Reason.
-- Major mental Conditions can only be mended by Influence with Intuition.
-
-
-|                |  Hinders   |     |      Vigor       | Intuition |   Reason   |
-|----------------|:----------:|-----|:----------------:|:---------:|:----------:|
-| **Influence**  |    All     |     | Minor & Moderate |    All    | Only Minor |
-| **Fight**      |    All     |     |        -         |     -     |     -      |
-| **Maneuver**   |    All     |     |        -         |     -     |     -      |
-| **Wilderness** | Only Major |     |        -         |     -     |     -      |
-| **Craft**      | Only Major |     |        -         |     -     |     -      |
-| **Resources**  | Only Major |     |        -         |     -     |     -      |
-
----
-
-### Worldly Conditions
-
-This type of Condition encompasses all types of societal rejection, representational injury and emptiness of the purse. The result of a successful slander campaign is a worldly Condition, so is reclusion (willing or otherwise) from larger society, and so are debts and being covered in muck.
-
-Worldly Conditions always will hinder you on Influence, Craft, and Resource tests.
-
-Major worldly Conditions also hinder you on Wilderness tests.
-
-Worldly Conditions never hinder you on Fight or Maneuver tests.
-
-While resting in a settlement, you can mend worldly Conditions with Resource tests, though not all ratings can be mended with all Approaches.
-
-- Minor worldly Conditions can be mended by Resources with any Approach.
-- Moderate worldly Conditions can be mended by Resources with Vigor and Reason but not by Intuition.
-- Major worldly Conditions can only be mended by Resources with Vigor.
-
-
-
-|                |  Hinders   |     | Vigor | Intuition  |      Reason      |
-|----------------|:----------:|-----|:-----:|:----------:|:----------------:|
-| **Influence**  |    All     |     |   -   |     -      |        -         |
-| **Fight**      |     -      |     |   -   |     -      |        -         |
-| **Maneuver**   |     -      |     |   -   |     -      |        -         |
-| **Wilderness** | Only Major |     |   -   |     -      |        -         |
-| **Craft**      |    All     |     |   -   |     -      |        -         |
-| **Resources**  |    All     |     |  All  | Only Minor | Minor & Moderate |
-
-
+Alternatively, if the new Trait is a fitting and creative idea but would be a little _too_ convenient for your current predicament, the GM may ask you to spend Favor up to the rating of your own Trait to create the new Trait on the place, creature, or person with rating equal to the amount of Favor you spent.

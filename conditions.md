@@ -1,3 +1,26 @@
+---
+# Page settings
+layout: default
+keywords:
+comments: false
+
+# Hero section
+title: Conditions
+description: Stuff about Conditions
+
+# Micro navigation
+micro_nav: true
+
+# Page navigation
+page_nav:
+    prev:
+        content: Skill Tests
+        url: /skill-tests
+    next:
+        content: Conflict
+        url: /conflict
+---
+
 Conditions are temporary, negative, but unavoidable consequences of your daring adventures. They are always negative and will get in your way or even help the blackguards who cross your way until you get rid of them.
 
 There are three different types of Conditions (as listed below). When the rules call for an *appropriate Condition,* they reference the different types of Conditions, as not all Conditions will hinder you on every test.
@@ -7,7 +30,6 @@ When you test against a static obstacles and if you have an appropriate Conditio
 During Contests and Conflicts, your opponents will use your Conditions to their advantage. For your opponents, your Conditions work like Preparations (though using them does not degrade the Condition's rating), so they may treat any roll they've made for an action that takes advantage of your Condition as at least as many successes as the Condition's rating. You may use your opponents' Conditions in the same way as your opponent's can use yours.
 
 You can reduce the rating of your Conditions by tending to them (see [Resting](Resting) on how to reduce the rating of your Conditions).
-
 
 
 ## Condition Slots
@@ -23,8 +45,6 @@ Should you receive a Condition but do not have any slot to note a Condition of t
 - During Conflicts, you must take a new detrimental Trait to absorb any remaining stress, and you are removed from the Conflict.
 - Outside of Conflicts, your fate is even worse. Whatever has been gnawing at you, finally overwhelms you. Be it feverish wounds, madness, or social ostracization, and you must retire your character.
 
----
-
 You have the following three types of slots for Conditions.
 
 ### Minor Conditions (Rating 1)
@@ -35,22 +55,18 @@ These are minor inconveniences. Superficial cuts, bruised egos, a revolting appe
 
 As a static obstacle's rating is almost always at least **1,** these kinds of Conditions are more of a nuisance than a hindrance (unless they begin to pile up and fill your Condition slots).
 
----
-
 ### Moderate Conditions (Rating 2)
 
 You have **2** slots available for moderate Conditions.
 
 These are moderate setbacks. Flesh wounds, enduring exhaustion, nightmare-inducing disturbances, being accused of a crime, and similar troubles are moderate Conditions.
 
----
 
 ### Major Conditions (Rating 3)
 
 You have **1** slot available for a major Condition.
 
 These are grievous injuries which threaten to fester and prematurely end your journey should they not get immediate attention. Stab wounds to the gut, feverish sickness, debilitating delusions, complete ostracization, and similar threats to your character's life are major Conditions.
-
 
 
 ## Types of Conditions
@@ -74,7 +90,6 @@ While resting, you can mend physical Conditions with Craft tests, though not all
 - Major physical Conditions can only be mended by Craft with Reason.
 
 
-
 |                |  Hinders   |     |   Vigor    |    Intuition     | Reason |
 |----------------|:----------:|-----|:----------:|:----------------:|:------:|
 | **Influence**  | Only Major |     |     -      |        -         |   -    |
@@ -84,7 +99,6 @@ While resting, you can mend physical Conditions with Craft tests, though not all
 | **Craft**      |    All     |     | Only Minor | Minor & Moderate |  All   |
 | **Resources**  |     -      |     |     -      |        -         |   -    |
 
----
 
 ### Mental Conditions
 
@@ -101,7 +115,6 @@ While resting, you can mend mental Conditions with Influence tests, though not a
 - Major mental Conditions can only be mended by Influence with Intuition.
 
 
-
 |                |  Hinders   |     |      Vigor       | Intuition |   Reason   |
 |----------------|:----------:|-----|:----------------:|:---------:|:----------:|
 | **Influence**  |    All     |     | Minor & Moderate |    All    | Only Minor |
@@ -111,7 +124,6 @@ While resting, you can mend mental Conditions with Influence tests, though not a
 | **Craft**      | Only Major |     |        -         |     -     |     -      |
 | **Resources**  | Only Major |     |        -         |     -     |     -      |
 
----
 
 ### Worldly Conditions
 
@@ -130,7 +142,6 @@ While resting in a settlement, you can mend worldly Conditions with Resource tes
 - Major worldly Conditions can only be mended by Resources with Vigor.
 
 
-
 |                |  Hinders   |     | Vigor | Intuition  |      Reason      |
 |----------------|:----------:|-----|:-----:|:----------:|:----------------:|
 | **Influence**  |    All     |     |   -   |     -      |        -         |
@@ -139,4 +150,3 @@ While resting in a settlement, you can mend worldly Conditions with Resource tes
 | **Wilderness** | Only Major |     |   -   |     -      |        -         |
 | **Craft**      |    All     |     |   -   |     -      |        -         |
 | **Resources**  |    All     |     |  All  | Only Minor | Minor & Moderate |
-
