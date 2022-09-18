@@ -21,7 +21,7 @@ page_nav:
         url: /skill-tests
 ---
 
-## {{site.influence}}
+## Influence
 
 Whenever you aim to change someone else's mind or impose your will on others or defend against such efforts, roll Influence.
 
@@ -34,7 +34,7 @@ Whenever you aim to change someone else's mind or impose your will on others or 
 | Oratory, Intimidation, Taunting, Performing, Drinking | Deceit, Persuasion, Fast-Talking, Haggling, Manipulation | Negotiation, Rhetoric, Instruction, Mediation |
 
 
-## {{site.fight}}
+## Fight
 
 Whenever you aim to harm someone else or defend against being harmed in a physical altercation, roll Fight.
 
@@ -43,7 +43,7 @@ Whenever you aim to harm someone else or defend against being harmed in a physic
 | Axe, Halberd, Brawling, Armour, Biting through the pain | Knives, Sword, Dodging, Parrying | Bow, Spear, Shield, Footwork |
 
 
-## {{site.maneuver}}
+## Maneuver
 
 Whenever you aim to overcome an obstacle in your path, be it distance, hurdles, or difficult terrain, roll Maneuver.
 
@@ -52,7 +52,7 @@ Whenever you aim to overcome an obstacle in your path, be it distance, hurdles, 
 | Sprinting, moving heavy obstacles, endurance running, swimming against the current | Acrobatics, Riding, hiding in crowds | Infiltration            |
 
 
-## {{site.wilderness}}
+## Wilderness
 
 Whenever you aim to navigate the wilds, aim to survive natural forces, or set up camp in the wild, roll Wilderness.
 
@@ -67,7 +67,7 @@ Whenever you aim to navigate the wilds, aim to survive natural forces, or set up
 | Building shelter, Fire building, Ditch digging | Hunting, Foraging, Riding, Weather-watching | Scouting, Path finding, Trapping, Astrology, Tracking |
 
 
-## {{site.craft}}
+## Craft
 
 Whenever you aim to create new, or improve or destroy existing items and structures, or generally work with your hands roll Craft.
 
@@ -81,7 +81,7 @@ Whenever you aim to create new, or improve or destroy existing items and structu
 | Blacksmithing, Farming, Laboring, Masonry, Lumber jacking, Carpentry | Cooking, Sabotage, Animal Husbandry, Painting, Field Dressing, Gold smithing | Engineering, Cartography, Surgery |
 
 
-## {{site.resources}}
+## Resources
 
 Whenever you aim to call on existing connections, funds or knowledge, or aim to create new ones, roll Resources.
 

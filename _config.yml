@@ -4,14 +4,6 @@ strength: "Vigor"
 agility: "Intuition"
 intelligence: "Reason"
 
-skill: "Skill"
-influence: "Influence"
-fight: "Fight"
-maneuver: "Maneuver"
-wilderness: "Wilderness"
-craft: "Craft"
-resources: "Resources"
-
 # Theme settings
 doks:
     baseurl: "/rpg-thingy"

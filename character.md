@@ -76,11 +76,13 @@ In a way, the Lie is a lot more central to your character's story but the Truth 
 
 Though it is implied that a Lie is always successfully challenged in the course of your character's story, so they may change for the better, it is totally legitimate to go on a lengthy journey only for your character to double down on his delusions, to refuse to face the Lie. Naturally, there will be no true happy end for such a character but that does not mean that the end to their story can not be fascinating and satisfying in its own way.
 
-## Favor
+
+
+# Favor
 
 **Favor** is a meta-currency you can spend to influence your dice rolls, tilt luck in your favor, or sometimes even fuel powerful magic. It is also part of the character progression.
 
-Whenever the Truth or Lie really come out through how you roleplay your character or through the drama that results from your choices, you earn Favor for your character. The amount of Favor you earn is decided by the group and lies anywhere between **1** and **3,** where **1** is a great character moment and **3** is the performance of your lifetime.
+Whenever the Truth or Lie really come out through how you roleplay your character or through the drama that results from your choices, you earn **1** Favor for your character.
 
 There are other ways to earn Favor, for example by forgoing XP from a failed test, but playing out Truth and Lie will be your main revenues of Favor.
 
@@ -148,33 +150,43 @@ If your character has a high {{ site.intelligence }} rating, they excel whenever
 
 ## Dice Modifiers
 
-Each {{ site.attribute }} also has a unique dice modifier. To use a {{ site.attribute }}'s dice modifier, you need to use a fitting [Trait](#traits). When you do, it will change a few things about how dice are rolled.
+Each {{ site.attribute }} also has a unique dice modifier. To use an {{ site.attribute }}'s dice modifier, you need to use a fitting [Trait](#traits). When you do, it will change a few things about how dice are rolled.
 
-| {{ site.strength }} _(Fervor)_                                                                            | {{ site.agility }} _(Fortune)_                                                                 | {{ site.intelligence }} _(Focus)_                                                    |
-|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| For every **6** you roll, roll an additional die. If that die also comes up a **6,** repeat this process. | For every **1** you roll, re-roll that die. If it comes up a **1** again, repeat this process. | Once, after the dice have been cast, you may ignore the result and re-roll all dice. |
+| {{ site.attribute }}        | Modifier Name | Effect                                 |
+|-----------------------------|---------------|----------------------------------------|
+| **{{ site.strength }}**     | _Fervor_      | For each **6,** add an additional die. |
+| **{{ site.agility }}**      | _Fortune_     | Re-roll each die that comes up **1**.  |
+| **{{ site.intelligence }}** | _Focus_       | May re-roll all dice once.             |
 
 Here is an [Anydice](https://anydice.com/program/2b138) link for the corresponding probabilities.
 
 
-# {{site.skill}}s
 
-There are **6** {{ site.skill }}s in total (see [{{ site.skill }} List](/skill-list) for more details):
+# Skills
 
-[{{ site.influence }}](/skill-list#influence), [{{ site.fight }}](/skill-list#fight), [{{ site.maneuver }}](/skill-list#maneuver), [{{ site.wilderness }}](/skill-list#wilderness), [{{ site.craft }}](/skill-list#craft), and [{{ site.resources }}](/skill-list#resources)
+There are **6** Skills in total (see [Skill List](/skill-list) for more details):
 
-{{ site.skill }}s represent both an area of expertise, something a character may or may not be trained or even an expert in and a section of the game itself. Each adventure will be different but each adventure will consist of these **6** different types of challeges to variying degrees.
+Skills represent both an area of expertise, something a character may or may not be trained or even an expert in and a section of the game itself. Each adventure will be different but each adventure will consist of these **6** different types of challenges to varying degrees.
 
-A {{ site.skill }} has a corresponding number denoting the character's training. The default is **6.** This number denotes what is the lowest number on a die that counts as a success when that character rolls that {{ site.skill }}.
+| Skill                                | Uses                                                     |
+|--------------------------------------|----------------------------------------------------------|
+| [Influence](/skill-list#influence)   | Interacting with other people                            |
+| [Fight](/skill-list#fight)           | Hurting others and defending from harm                   |
+| [Maneuver](/skill-list#maneuver)     | Overcoming immediate physical obstacles                  |
+| [Wilderness](/skill-list#wilderness) | Navigating and surviving the wild                        |
+| [Craft](/skill-list#craft)           | Creating tools and structures; manual labour             |
+| [Resources](/skill-list#resources)   | Leveraging wealth, connections, and sources of knowledge |
 
-- untrained, a character has **6** in the corresponding {{ site.skill }}
-- trained, a character has **5+** in the {{ site.skill }}
+A Skill has a corresponding number denoting the character's training. The default is **6.** This number denotes what is the lowest number on a die that counts as a success when that character rolls that Skill.
+
+- untrained, a character has **6** in the corresponding Skill
+- trained, a character has **5+** in the Skill
 - as an expert, a character has **4+**
 - as a master, a character has **3+** (this is extremely rare)
 
-Whenever the game calls for a test, it will always call for an {{ site.attribute }} and a {{ site.skill }}. The {{ site.attribute }} determines how many dice you roll and the {{ site.skill }} determines what faces of the dice result in a hit or a miss.
+Whenever the game calls for a test, it will always call for an {{ site.attribute }} and a Skill. The {{ site.attribute }} determines how many dice you roll and the Skill determines what faces of the dice result in a hit or a miss.
 
-{{ site.skill }}s may be enhanced by [Talents.](Talents)
+Skills may be enhanced by [Talents.](Talents)
 
 
 
@@ -197,7 +209,7 @@ By taking a Trait, a player signals to the group that they are interested in tha
 
 ## Using Traits to your Benefit
 
-When you test a skill, you may invoke one of your Traits, if the Trait is relevant to your current task, and it would sense for it to help you. For example, if you try to hit someone with your sword, and you have a Trait named `Legendary Blademaster`, you may naturally invoke it.
+When you test a skill, you may invoke one of your Traits, if the Trait is relevant to your current task, and it would sense for it to help you. For example, if you try to hit someone with your sword, and you have a Trait named `Legendary Blademaster`, naturally, you may invoke it.
 
 When you invoke a Trait, you may use the dice modifier for the {{ site.attribute }} you are testing with.
 
@@ -206,8 +218,6 @@ If the Trait you invoke has a rating of **2,** you may use an additional dice mo
 If the Trait you invoke has a rating of **3,** you may use all dice modifiers of all {{ site.attribute }}s on that roll. This is incredibly powerful.
 
 You may only invoke a single of your Traits per test. If you have multiple Traits which might fit, you have to choose only one of them.
-
-You may also spend **1** Favor to treat a Trait as if it were rated **1** higher when determining dice modifier. So if you have a Trait with rating **1,** you may spend **1** Favor to use the dice modifier of the {{ site.attribute }} you rolled with and an additional dice modifier of your choice. You cannot increase a Trait's rating beyond **3** with this effect, though you may spend **1** Favor to gain your {{ site.attribute }}'s dice modifier, even if you do not have a fitting Trait.
 
 
 > Cyrene has the Trait `Drunkard` with a rating of **1.**
@@ -230,8 +240,7 @@ When you test with a skill against a static obstacle, you may add one of your Tr
 
 The GM may compel you to use one of your Traits to your detriment when it would be both appropriate and dramatic when testing against a static obstacle. You may decline the compel by spending Favor equal to the Trait's rating. If you accept, use the Trait to your detriment as you normally would.
 
-
-> When Cyrene tries to balance across a raging river, her `Drunkard` Trait hinders her, and she adds **1** to the obstacle, which results in her falling into the water and gaining **1** additional XP instead of succeeding.
+> When Cyrene tries to balance across a raging river, her `Drunkard` Trait hinders her, and she adds **1** to the obstacle, which results in her falling into the water where the river drags her downstream instead of succeeding. However, the whole debakel netted her **1** additional XP .
 
 
 ### During Contests & Conflicts
@@ -240,19 +249,16 @@ Alternatively, when you test with a skill in a Contest or Conflict, you may also
 
 In a Contest or Conflict, instead of increasing an obstacle, using a Trait to your detriment in this context, lets your opponent add your Trait's rating as dice to their roll.
 
-When one of your Traits is used against you in a Contest of Conflict, you may spend Favor equal to the Trait's rating to not give your opponent any dice, just like you would against static obstacles.
-
+When one of your Traits is used against you in a Contest of Conflict, you may spend Favor equal to the Trait's rating to not give your opponent any dice, similarly like you would against static obstacles.
 
 > During a kerfuffle at court, Cyrene tries to embarrass one of the guests she met previously (when he crossed her during a previous adventure). She only manages **1** success on her roll, though he manages none at all, he invokes Cyrene's `Drunkard` Trait against her to add **1** die to his roll. Cyrene may now spend **1** Favor to not give him that additional die, but she wants to see what will happen and decides against it.
 >
-> The obnoxious guest manages to roll a success on his additional die and turns the outcome into a tie, which he, as the defender, wins. The court is now laughing at Cyrene, as he deflects her insults right back into her face. What a windbag. At least she received **1** XP for her {{ site.influence }} from her **1** success.
-
+> The obnoxious guest manages to roll a success on his additional die and turns the outcome into a tie, which he, as the defender, wins. The court is now laughing at Cyrene, as he deflects her insults right back into her face. What a windbag. At least she received **1** XP for her Influence from her **1** success.
 
 
 ## Traits as Knowledge & Experience
 
 If you have a Trait, openly known Traits of places, creatures, or people connected to your area of expertise. You may ask the GM for this at any time, and you are invited to enrich the world with your descriptions of your character's experience any time you see fit.
-
 
 > During their last adventure, Mare and Cyrene have crossed path with the robber king of Gantha and Maro got swept up in his character's past and now this robber king spells quite a bit of trouble. Though, as an `Exiled Sellsword of Gantha`, there is for sure something Maro knows about this robber king that might aid them in their struggle.
 
@@ -261,9 +267,9 @@ If you have a Trait, openly known Traits of places, creatures, or people connect
 
 Depending on the rating of your Trait, different kinds of information are available to you of all places, creatures, or people connected to the Trait:
 
-- **Rating 1+:** All known Traits, the highest {{ site.attribute }}, the best {{ site.skill }}, and Disposition.
-- **Rating 2+:** In-depth knowledge of common subject areas; rough outlines of obscure facts; the lowest rated secret Trait, all {{ site.attribute }}s, and the three best {{ site.skill }}s.
-- **Rating 3+:** Expert at the topic; solid knowledge of even obscure facts and occurrences; all secret Traits, as well as all {{ site.skill }}s.
+- **Rating 1+:** All known Traits, the highest {{ site.attribute }}, the best Skill, and Disposition.
+- **Rating 2+:** In-depth knowledge of common subject areas; rough outlines of obscure facts; the lowest rated secret Trait, all {{ site.attribute }}s, and the three best Skills.
+- **Rating 3+:** Expert at the topic; solid knowledge of even obscure facts and occurrences; all secret Traits, as well as all Skills.
 
 
 > As Maro's Trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's {{ site.attribute }}s and that his Reason is quite a lot higher than his.
@@ -277,4 +283,11 @@ Alternatively, you may also suggest a new Traits for a place, a creature, or a p
 
 Most often, the GM will like your suggestion and add the Trait (or a variation of it) on their own volition with the rating of their choosing as a new Trait.
 
-Alternatively, if the new Trait is a fitting and creative idea but would be a little _too_ convenient for your current predicament, the GM may ask you to spend Favor up to the rating of your own Trait to create the new Trait on the place, creature, or person with rating equal to the amount of Favor you spent.
+Alternatively, if the new Trait is a fitting and creative idea but would be a little _too_ convenient for your current predicament, the GM may ask you to spend **1** Favor to create the new Trait on the place, creature, or person with rating up to the rating of your own Trait.
+
+
+## Empowering Traits
+
+Any time you use a Trait, you may spend **1** Favor to increase the rating of that Trait by **1.** This effect only lasts for the context the Trait is used it.
+
+You may also spend **1** Favor if you do not have a fitting Trait to temporarily act as if you had a fitting Trait with rating **1.**
