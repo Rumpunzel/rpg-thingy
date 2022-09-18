@@ -14,14 +14,14 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Character
-        url: /character
+        content: BACK TO HOMEPAGE
+        url: /
     next:
-        content: Skill Tests
-        url: /skill-tests
+        content: Read Rules
+        url: /character
 ---
 
-## Influence
+# Influence
 
 Whenever you aim to change someone else's mind or impose your will on others or defend against such efforts, roll Influence.
 
@@ -39,7 +39,7 @@ Whenever you aim to change someone else's mind or impose your will on others or 
 </div>
 
 
-## Fight
+# Fight
 
 Whenever you aim to harm someone else or defend against being harmed in a physical altercation, roll Fight.
 
@@ -50,7 +50,7 @@ Whenever you aim to harm someone else or defend against being harmed in a physic
 | **{{ site.intelligence }}** | Bow, Spear, Shield, Footwork                            |
 
 
-## Maneuver
+# Maneuver
 
 Whenever you aim to overcome an obstacle in your path, be it distance, hurdles, or difficult terrain, roll Maneuver.
 
@@ -61,7 +61,7 @@ Whenever you aim to overcome an obstacle in your path, be it distance, hurdles, 
 | **{{ site.intelligence }}** | Infiltration, Choreography, forming formations     |
 
 
-## Wilderness
+# Wilderness
 
 Whenever you aim to navigate the wilds, aim to survive natural forces, or set up camp in the wild, roll Wilderness.
 
@@ -81,7 +81,7 @@ Whenever you aim to navigate the wilds, aim to survive natural forces, or set up
 </div>
 
 
-## Craft
+# Craft
 
 Whenever you aim to create new, or improve or destroy existing items and structures, or generally work with your hands roll Craft.
 
@@ -100,7 +100,7 @@ Whenever you aim to create new, or improve or destroy existing items and structu
 </div>
 
 
-## Resources
+# Resources
 
 Whenever you aim to call on existing connections, funds or knowledge, or aim to create new ones, roll Resources.
 

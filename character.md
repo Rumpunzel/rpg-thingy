@@ -17,8 +17,8 @@ page_nav:
         content: BACK TO HOMEPAGE
         url: /
     next:
-        content: Skill List
-        url: /skill-list
+        content: Skill Tests
+        url: /skill-tests
 ---
 
 # The Heart of rpg-thingy
@@ -84,7 +84,7 @@ Though it is implied that a Lie is always successfully challenged in the course 
 
 Whenever the Truth or Lie really come out through how you roleplay your character or through the drama that results from your choices, you earn **1** Favor for your character.
 
-There are other ways to earn Favor, for example by forgoing XP from a failed test, but playing out Truth and Lie will be your main revenues of Favor.
+There are other ways to earn Favor, for example by forgoing **XP** from a failed test, but playing out Truth and Lie will be your main revenues of Favor.
 
 
 
@@ -186,7 +186,9 @@ A Skill has a corresponding number denoting the character's training. The defaul
 
 Whenever the game calls for a test, it will always call for an {{ site.attribute }} and a Skill. The {{ site.attribute }} determines how many dice you roll and the Skill determines what faces of the dice result in a hit or a miss.
 
-Skills may be enhanced by [Talents.](Talents)
+Whenever you do not succeed on a Skill test, you learn something new and gain experience. To be precise, you gain **1** **XP** (**1** **EX**perience **P**oint) for each hit you rolled for that Skill. Each Skill has a separate track for **XP** and at certain intervals, gaining **XP** will improve your training with the Skill.
+
+Skills may also be enhanced by [Talents.](Talents)
 
 
 
@@ -199,7 +201,6 @@ A character may have a nice beard but if he has the `Magnificient Beard` Trait, 
 A Trait has a rating ranging from **1** to **3.**
 
 By taking a Trait, a player signals to the group that they are interested in that particular part of the story or their character. The higher the rating of your Trait, the more they want the Trait to come up in the game. Consider this when choosing your own Traits. Think about what you want to experience during the game and try to model your character's Traits after the goal.
-
 
 > Maro has the Trait `Exiled Sellsword of Gantha` with a rating of **2.** By taking this Trait, he let the group know quite a bit about what he wanted to experience with his character. His character is a sellsword, so he will mostly likely want to invoke the Trait during fights. His character is also from a place called Gantha from which he has been exiled. By putting both of these aspects of his character into one Trait, he also signals that those two stories are somehow interconnected.
 >
@@ -219,7 +220,6 @@ If the Trait you invoke has a rating of **3,** you may use all dice modifiers of
 
 You may only invoke a single of your Traits per test. If you have multiple Traits which might fit, you have to choose only one of them.
 
-
 > Cyrene has the Trait `Drunkard` with a rating of **1.**
 >
 > During a drinking competition, she invokes it to explode the two **6s** she rolled, which, in the end, gives her just the edge she needs to emerge victorious.
@@ -227,7 +227,7 @@ You may only invoke a single of your Traits per test. If you have multiple Trait
 
 ## Using Traits to your Detriment
 
-There are many reasons to use one of your Traits to your detriment. It can lead to great roleplaying moments, it can let you communicate who your character is and what their flaws are, it can be simply for fun, and it can lead to you earning more XP.
+There are many reasons to use one of your Traits to your detriment. It can lead to great roleplaying moments, it can let you communicate who your character is and what their flaws are, it can be simply for fun, and it can lead to you earning more **XP.**
 
 You may use any of your Traits to your detriment, both against static obstacles and in Contests and Conflicts, as long as it makes sense that the Trait would in some way hinder you.
 
@@ -236,11 +236,11 @@ You may only use a Trait to either help or hinder you, not both. Also, as above,
 
 ### Against Static Obstacles
 
-When you test with a skill against a static obstacle, you may add one of your Trait's rating to the obstacle, if it would make sense said Trait would hinder you at what you are trying to achieve. This might increase the amount of XP you will receive should you fail the test.
+When you test with a skill against a static obstacle, you may add one of your Trait's rating to the obstacle, if it would make sense said Trait would hinder you at what you are trying to achieve. This might increase the amount of **XP** you will receive should you fail the test.
 
-The GM may compel you to use one of your Traits to your detriment when it would be both appropriate and dramatic when testing against a static obstacle. You may decline the compel by spending Favor equal to the Trait's rating. If you accept, use the Trait to your detriment as you normally would.
+The GM may compel you to use one of your Traits to your detriment when it would be both appropriate and dramatic when testing against a static obstacle. You may decline to do so by spending Favor equal to the Trait's rating. If you accept, use the Trait to your detriment as you normally would.
 
-> When Cyrene tries to balance across a raging river, her `Drunkard` Trait hinders her, and she adds **1** to the obstacle, which results in her falling into the water where the river drags her downstream instead of succeeding. However, the whole debakel netted her **1** additional XP .
+> When Cyrene tries to balance across a raging river, her `Drunkard` Trait hinders her, and she adds **1** to the obstacle, which results in her falling into the water where the river drags her downstream instead of succeeding. However, the whole debakel netted her **1** additional **XP.**
 
 
 ### During Contests & Conflicts
@@ -253,7 +253,7 @@ When one of your Traits is used against you in a Contest of Conflict, you may sp
 
 > During a kerfuffle at court, Cyrene tries to embarrass one of the guests she met previously (when he crossed her during a previous adventure). She only manages **1** success on her roll, though he manages none at all, he invokes Cyrene's `Drunkard` Trait against her to add **1** die to his roll. Cyrene may now spend **1** Favor to not give him that additional die, but she wants to see what will happen and decides against it.
 >
-> The obnoxious guest manages to roll a success on his additional die and turns the outcome into a tie, which he, as the defender, wins. The court is now laughing at Cyrene, as he deflects her insults right back into her face. What a windbag. At least she received **1** XP for her Influence from her **1** success.
+> The obnoxious guest manages to roll a success on his additional die and turns the outcome into a tie, which he, as the defender, wins. The court is now laughing at Cyrene, as he deflects her insults right back into her face. What a windbag. At least she received **1** **XP** for her Influence from her **1** success.
 
 
 ## Traits as Knowledge & Experience
@@ -270,7 +270,6 @@ Depending on the rating of your Trait, different kinds of information are availa
 - **Rating 1+:** All known Traits, the highest {{ site.attribute }}, the best Skill, and Disposition.
 - **Rating 2+:** In-depth knowledge of common subject areas; rough outlines of obscure facts; the lowest rated secret Trait, all {{ site.attribute }}s, and the three best Skills.
 - **Rating 3+:** Expert at the topic; solid knowledge of even obscure facts and occurrences; all secret Traits, as well as all Skills.
-
 
 > As Maro's Trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's {{ site.attribute }}s and that his Reason is quite a lot higher than his.
 >

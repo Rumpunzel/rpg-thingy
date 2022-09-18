@@ -14,14 +14,49 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Skill List
-        url: /skill-list
+        content: Character
+        url: /character
     next:
         content: Conditions
         url: /conditions
 ---
 
-## Using Skills
+# Certainty of Actions
+
+When asking _"Is the outcome of this action certain?",_ the answer is found in three different places: opposition, character's goal, and potential outcomes.
+
+In brief, if there is no ulterior goal to an action, there is plenty of time to accomplish it, there is no opposition from either the world or another character, and there are fewer than two interesting outcomes, then an action is certain. Either you get what you want or the action is impossible, and you must find another way.
+
+## Opposition
+
+Most often an action is uncertain because either another character, a creature, or the environment is opposing you.
+
+<figure>
+  <img src="https://64.media.tumblr.com/5e31e601d9e6aaca1b23d942d0d9d913/tumblr_p9ykz6LNbs1ro2bqto1_1280.jpg" alt="Bribery">
+  <figcaption>"See ya at poker next week, Jeremy."</figcaption>
+</figure>
+
+Hitting a baddie with your sword, bribing a guard, or walking across a tightrope are uncertain actions because you face opposition. The baddie does not want to be stabbed, the guard has a duty to fulfill, and the wind pulls at your clothes as if it wanted to drag you into the ravine.
+
+On the other hand, if the baddie you want to hit with your sword is unconscious, asleep, or otherwise incapacitated, he cannot actively oppose your attempt to stab him and hence, there is no need to consult the dice; it is certain that you will hit.
+
+If it has been established that the guard you want to bribe is crooked, no roll is needed if the bribe is sufficient, as the guard has no qualms which would oppose your attempted bribe. Of course, if you do not know if the bribe is sufficient or you do not know if you can spare the expense, consult the dice.
+
+[Assets](assets) also can make otherwise uncertain actions certain. Crossing a gaping ravine becomes quite a lot simpler if there is a bridge across it. If it has not been maintained for a long time, though, the dice await.
+
+## Character Goals
+
+A character's goals also influence the certainty of actions. If you want to hit the training dummy to impress an onlooker, it may be certain that you will hit the dummy, but it is uncertain if the onlooker will be impressed, so you consult the dice.
+
+Stabbing a sleeping guard might be doable with certainty but doing so without alerting any of his fellow guards is by no means a certain task.
+
+## Potential Outcomes
+
+If an action has only one possible outcome, it is certain. And action needs at least two (interesting) outcomes to be uncertain. While it is true that, at least in theory, a character could trip and fall down the stairs every time, both walking down and falling down the stairs are intrinsically interesting, so the action is certain.
+
+
+
+# Skill Tests
 
 Choose a goal to achieve.
 
@@ -81,7 +116,7 @@ There are some Static Obstacles which work a little differently. When improving 
 > She gains **1** Favor, as she was **1** success short of achieving her goal and must now try another way to get into the city. She could try to frighten the guards into letting her pass, but with her Vigor rating of **3,** she fears this might go poorly for her and decides against it.
 
 
-## Group Tests
+# Group Tests
 
 Sometimes characters act in tandem with each other, using the same Skill and the same approach to achieve the same goal. When they do, everyone tests and adds their successes together to determine if they manage to succeed as a group.
 
@@ -98,7 +133,7 @@ When a group test fails, each character in the group resolves eventual repercuss
 > The GM sets the obstacle to climb the wall at **2.** Cyrene and Maro attempt to climb the wall together, which increased the obstacle to **3.** They both test their Maneuver and choose the Approach Reason as they try to infiltrate into the city. Maro only rolls **1** success but, thankfully, Cyrene rolls **2** successes for a total of **3**. Alone, Maro would not have managed to scale the wall but together they prevailed and are finally inside.
 
 
-## Disposition
+# Disposition
 
 The three {{ site.attribute }}s do not only form the foundation of your character but of all other characters and creatures you will encounter on your adventures, sometimes even the environment itself.
 

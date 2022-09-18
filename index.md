@@ -11,15 +11,19 @@ description: A neat little RPG project
 # Page navigation
 page_nav:
     next:
-        content: Read Rulebook
+        content: Read Rules
         url: /character
 
 # Grid navigation
 grid_navigation:
-    - title: Characters
-      excerpt: Stuff about Characters
+    - title: Rules
+      excerpt: How to play rpg-thingy
       cta: Read more
       url: character
+    - title: Skill List
+      excerpt: List of all Skills with applications
+      cta: Read more
+      url: skill-list
 ---
 
 # How to Play
@@ -60,57 +64,18 @@ More about characters and how to create on in the chapter about [Characters](cha
 
 # Consulting the Dice
 
+If you want to hit a baddie with your sword, bribe a guard, or try to walk across a tightrope.  We might have a rough idea what is more likely to happen, but we cannot know for certain. It's the moment we roll the dice to open a fleeting portal to the fictional world, so it may answer our questions.
+
 <figure>
   <img src="https://i.imgur.com/8jYjsCF.jpg" alt="Male-swordsman-fighting3orcs-scene">
   <figcaption>A fight is the classic situation where its outcome is anything but certain.</figcaption>
 </figure>
 
-As mentioned above, the dice are consulted when the outcome of an action is uncertain. [Certainty of Actions](#certainty-of-actions) details when an action is certain and when it is not.
-
-If you want to hit a baddie with your sword, bribe a guard, or try to walk across a tightrope.  We might have a rough idea what is more likely to happen but we cannot know for certain. It's the moment we roll the dice to open a fleeting portal to the fictional world, so it may answer our questions.
-
-
-### Tests
-
-When you consult the dice, the game calls it a **test.** rpg-thingy uses a **d6** dice pool system. So whenever the game calls for dice to be rolled, roll a handful of six-sided dice. Each die can either be a hit or a miss, depending on if its face shows at least a certain number. All hits counted together are called **Effort.** Achieving more Effort is always better.
+When you consult the dice, the game calls it a **Skill Test.** rpg-thingy uses a **d6** dice pool system. So whenever the game calls for dice to be rolled, roll a handful of six-sided dice. Each die can either be a hit or a miss, depending on if its face shows at least a certain number. All hits counted together are called **Effort.** Achieving more Effort is always better.
 
 A test has a difficulty, a number that defines how much Effort it takes to succeed on the test, otherwise the test is a failure. There are no tests without consequences. No matter if you succeed on a test or fail it, you will either get what you want or suffer a setback. Either way, after a test both the narrative and your character make progress, either by achieving your goal or by growing with your failures.
 
-Tests are discussed in more detail in the following chapters.
-
-
-## Certainty of Actions
-
-When asking _"Is the outcome of this action certain?",_ the answer is found in three different places: opposition, character's goal, and potential outcomes.
-
-In brief, if there is no ulterior goal to an action, there is plenty of time to accomplish it, there is no opposition from either the world or another character, and there are fewer than two interesting outcomes, then an action is certain. Either you get what you want or the action is impossible, and you must find another way.
-
-### Opposition
-
-Most often an action is uncertain because either another character, a creature, or the environment is opposing you. 
-
-<figure>
-  <img src="https://64.media.tumblr.com/5e31e601d9e6aaca1b23d942d0d9d913/tumblr_p9ykz6LNbs1ro2bqto1_1280.jpg" alt="Bribery">
-  <figcaption>"See ya at poker next week, Jeremy."</figcaption>
-</figure>
-
-Hitting a baddie with your sword, bribing a guard, or walking across a tightrope are uncertain actions because you face opposition. The baddie does not want to be stabbed, the guard has a duty to fulfill, and the wind pulls at your clothes as if it wanted to drag you into the ravine.
-
-On the other hand, if the baddie you want to hit with your sword is unconscious, asleep, or otherwise incapacitated, he cannot actively oppose your attempt to stab him and hence, there is no need to consult the dice; it is certain that you will hit.
-
-If it has been established that the guard you want to bribe is crooked, no roll is needed if the bribe is sufficient, as the guard has no qualms which would oppose your attempted bribe. Of course, if you do not know if the bribe is sufficient or you do not know if you can spare the expense, consult the dice.
-
-[Assets](assets) also can make otherwise uncertain actions certain. Crossing a gaping ravine becomes quite a lot simpler if there is a bridge across it. If it has not been maintained for a long time, though, the dice await.
-
-### Character Goals
-
-A character's goals also influence the certainty of actions. If you want to hit the training dummy to impress an onlooker, it may be certain that you will hit the dummy, but it is uncertain if the onlooker will be impressed, so you consult the dice.
-
-Stabbing a sleeping guard might be doable with certainty but doing so without alerting any of his fellow guards is by no means a certain task.
-
-### Potential Outcomes
-
-If an action has only one possible outcome, it is certain. And action needs at least two (interesting) outcomes to be uncertain. While it is true that, at least in theory, a character could trip and fall down the stairs every time, both walking down and falling down the stairs are intrinsically interesting, so the action is certain.
+As mentioned above, the dice are consulted when the outcome of an action is uncertain. [Skill Tests](/skill-tests) and the [Certainty of Actions](/skill-tests#certainty-of-actions) are discussed in more detail in their respective chapter.
 
 
 
