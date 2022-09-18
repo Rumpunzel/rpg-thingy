@@ -25,73 +25,97 @@ page_nav:
 
 Whenever you aim to change someone else's mind or impose your will on others or defend against such efforts, roll Influence.
 
-### Special Uses
+| {{ site.attribute }}        | Applications                                             |
+|-----------------------------|----------------------------------------------------------|
+| **{{ site.strength }}**     | Oratory, Intimidation, Taunting, Performing, Drinking    |
+| **{{ site.agility }}**      | Deceit, Persuasion, Fast-Talking, Haggling, Manipulation |
+| **{{ site.intelligence }}** | Negotiation, Rhetoric, Instruction, Mediation            |
 
-- Mending mental Conditions while resting
-
-| {{ site.strength }}                                   | {{ site.agility }}                                       | {{ site.intelligence }}                       |
-|-------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------|
-| Oratory, Intimidation, Taunting, Performing, Drinking | Deceit, Persuasion, Fast-Talking, Haggling, Manipulation | Negotiation, Rhetoric, Instruction, Mediation |
+<div class="callout">
+    <p><strong>Special Uses</strong></p>
+    <ul>
+        <li>Mending mental Conditions while resting</li>
+    </ul>
+</div>
 
 
 ## Fight
 
 Whenever you aim to harm someone else or defend against being harmed in a physical altercation, roll Fight.
 
-| {{ site.strength }}                                     | {{ site.agility }}               | {{ site.intelligence }}      |
-|---------------------------------------------------------|----------------------------------|------------------------------|
-| Axe, Halberd, Brawling, Armour, Biting through the pain | Knives, Sword, Dodging, Parrying | Bow, Spear, Shield, Footwork |
+| {{ site.attribute }}        | Applications                                            |
+|-----------------------------|---------------------------------------------------------|
+| **{{ site.strength }}**     | Axe, Halberd, Brawling, Armour, biting through the pain |
+| **{{ site.agility }}**      | Knives, Sword, Dodging, Parrying                        |
+| **{{ site.intelligence }}** | Bow, Spear, Shield, Footwork                            |
 
 
 ## Maneuver
 
 Whenever you aim to overcome an obstacle in your path, be it distance, hurdles, or difficult terrain, roll Maneuver.
 
-| {{ site.strength }}                                                                | {{ site.agility }}                   | {{ site.intelligence }} |
-|------------------------------------------------------------------------------------|--------------------------------------|-------------------------|
-| Sprinting, moving heavy obstacles, endurance running, swimming against the current | Acrobatics, Riding, hiding in crowds | Infiltration            |
+| {{ site.attribute }}        | Applications                                       |
+|-----------------------------|----------------------------------------------------|
+| **{{ site.strength }}**     | Running Swimming, Charging, moving heavy obstacles |
+| **{{ site.agility }}**      | Acrobatics, Riding, Balancing, hiding in crowds    |
+| **{{ site.intelligence }}** | Infiltration, Choreography, forming formations     |
 
 
 ## Wilderness
 
 Whenever you aim to navigate the wilds, aim to survive natural forces, or set up camp in the wild, roll Wilderness.
 
-### Special Uses
+| {{ site.attribute }}        | Applications                                                 |
+|-----------------------------|--------------------------------------------------------------|
+| **{{ site.strength }}**     | Fire building, Ditch-digging, building shelter               |
+| **{{ site.agility }}**      | Hunting, Foraging, Riding, Tracking, keeping watch           |
+| **{{ site.intelligence }}** | Scouting, Pathfinding, Trapping, Astrology, Weather-watching |
 
-- Navigating between points of interest
-- Resting in the wilderness (see [Resting](Resting))
-- Foraging while resting
-
-| {{ site.strength }}                            | {{ site.agility }}                          | {{ site.intelligence }}                               |
-|------------------------------------------------|---------------------------------------------|-------------------------------------------------------|
-| Building shelter, Fire building, Ditch digging | Hunting, Foraging, Riding, Weather-watching | Scouting, Path finding, Trapping, Astrology, Tracking |
+<div class="callout">
+    <p><strong>Special Uses</strong></p>
+    <ul>
+        <li>Navigating between points of interest</li>
+        <li>Resting in the wilderness (see <a href="resting">Resting</a>)</li>
+        <li>Foraging while resting</li>
+    </ul>
+</div>
 
 
 ## Craft
 
 Whenever you aim to create new, or improve or destroy existing items and structures, or generally work with your hands roll Craft.
 
-### Special Uses
+| {{ site.attribute }}        | Applications                                                |
+|-----------------------------|-------------------------------------------------------------|
+| **{{ site.strength }}**     | Blacksmithing, Farming, Laboring, Masonry, Woodworking      |
+| **{{ site.agility }}**      | Cooking, Sabotage, Animal Husbandry, Painting, Goldsmithing |
+| **{{ site.intelligence }}** | Engineering, Cartography, Surgery                           |
 
-- Creating and improving Preparations
-- Mending physical Conditions while resting
-
-| {{ site.strength }}                                                  | {{ site.agility }}                                                           | {{ site.intelligence }}           |
-|----------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------|
-| Blacksmithing, Farming, Laboring, Masonry, Lumber jacking, Carpentry | Cooking, Sabotage, Animal Husbandry, Painting, Field Dressing, Gold smithing | Engineering, Cartography, Surgery |
+<div class="callout">
+    <p><strong>Special Uses</strong></p>
+    <ul>
+        <li>Creating and improving Preparations</li>
+        <li>Mending physical Conditions while resting</li>
+    </ul>
+</div>
 
 
 ## Resources
 
 Whenever you aim to call on existing connections, funds or knowledge, or aim to create new ones, roll Resources.
 
-### Special Uses
+| {{ site.attribute }}        | Applications                                      |
+|-----------------------------|---------------------------------------------------|
+| **{{ site.strength }}**     | Fame, Wealth, Titles                              |
+| **{{ site.agility }}**      | Connections, Rumors, Favors                       |
+| **{{ site.intelligence }}** | Investment, Administration, Bureaucracy, Research |
 
-- Resting in settlements
-- Researching while resting
-- Buying and selling Preparations
-- Mending worldly Conditions while resting in a settlement
-
-| {{ site.strength }}  | {{ site.agility }}          | {{ site.intelligence }}                 |
-|----------------------|-----------------------------|-----------------------------------------|
-| Fame, Wealth, Titles | Connections, Rumors, Favors | Investment, Administration, Bureaucracy |
+<div class="callout">
+    <p><strong>Special Uses</strong></p>
+    <ul>
+        <li>Resting in settlements</li>
+        <li>Researching while resting</li>
+        <li>Buying and selling Preparations</li>
+        <li>Mending worldly Conditions while resting in a settlement</li>
+    </ul>
+</div>

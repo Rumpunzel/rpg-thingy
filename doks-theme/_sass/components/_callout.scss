@@ -8,7 +8,7 @@
   border: 2px solid darken($color-theme-dark, 4%);
   background-color: $color-theme-dark;
   padding: .9375rem 1.25rem .625rem 1.25rem;
-  margin: 3rem 0;
+  margin: 1.5rem 0;
 
   @media (min-width: $screen-sm-min) {
     padding: 1.25rem 1.875rem .9375rem 1.875rem;
@@ -36,6 +36,10 @@
     font-size: 1.133em;
     font-weight: 500;
     margin-bottom: .625rem;
+  }
+
+  ul{
+    margin: 0;
   }
 }
 
