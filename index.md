@@ -24,12 +24,12 @@ grid_navigation:
 
 # How to Play
 
+rpg-thingy is a Pen & Paper RPG. To play, you need pen, paper, a handful six-sided dice (**d6**), one player to assume the role of Game Master (**GM**) and 1-5 additional players who are each responsible for one Player Character (**PC**).
+
 <figure>
   <img src="https://i.pinimg.com/originals/b9/9f/7f/b99f7f7dd09e7d34ff50f38dbd5c8501.jpg" alt="Wizard">
   <figcaption>Pictured: me writing rules about imagining fighting monsters in a fictional world.</figcaption>
 </figure>
-
-rpg-thingy is a Pen & Paper RPG. To play, you need pen, paper, a handful six-sided dice (**d6**), one player to assume the role of Game Master (**GM**) and 1-5 additional players who are each responsible for one Player Character (**PC**).
 
 PCs exist in a fictional world in which they act, struggle, and succeed. The players' role is to bring their PC to life and the GM's responsibility is to breath life into the rest of the fictional world with descriptions, challenges, and Non-Player Characters (**NPCs**).
 
