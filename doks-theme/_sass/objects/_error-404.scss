@@ -4,17 +4,18 @@
 
 /* ----- General ----- */
 .error-404 {
-  background-color: $color-theme-blue;
   text-align: center;
 
   .align-container {
     height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 }
 
 /* ----- Title ----- */
 .error-404__title {
-  color: $color-dark-blue;
   font-weight: normal;
   font-size: $font-size-h3;
   margin-top: 0;
