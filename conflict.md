@@ -21,7 +21,7 @@ page_nav:
         url: '#'
 ---
 
-## Setup
+# Setup
 
 Establish a Goal for each side.
 
@@ -32,7 +32,7 @@ Determine the relevant [Skill](Skills) for the Conflict. ([Fight](Skills#fight) 
 Name a captain for each side. Most of the time the person who initiated the conflict and their target.
 
 
-## Positioning
+# Positioning
 
 Each captain chooses an [Approach](Approaches). Their chosen Approach's rating is each team's base Morale.
 
@@ -51,7 +51,7 @@ Turn order for the Conflict is determined by the captains' successes. The captai
 These benefits only last for this Conflict.
 
 
-### Benefits
+## Benefits
 
 - Create a Trait on the scene with rating equal to your successes
 - Create a Boon on yourself, the scene, or an ally with rating equal to your successes
@@ -62,14 +62,14 @@ These benefits only last for this Conflict.
 | Add your successes to your team's Morale a second time | Add your successes to your captain's successes when determining turn order | Learn of **1** Trait, Condition, Boon, Bane, or Preparation with rating equal to or less than your successes |
 
 
-### Immediate Conflicts
+## Immediate Conflicts
 
 Sometimes the story demands some form of arbitration from the rules for a Conflict that started in the narrative without the rolling of dice and which does not want to be delayed any further. In that case, skip the Positioning phase of the Conflict.
 
 Practically all immediate Conflicts are assumed to be held between two participants. Turn order should emerge naturally from the narrative. Furthermore, immediate Conflicts are assumed to fight until one side surrenders. There are no Morale or Benefits in immediate Conflicts.
 
 
-## The Conflict
+# The Conflict
 
 Resolve the Conflict now in turn order.
 
@@ -86,21 +86,21 @@ They also inflict that difference to their opponent's Morale, unless their Dispo
 When all members of a team have acted, continue with the next team in turn order.
 
 
-### Group Tests during Conflicts
+## Group Tests during Conflicts
 
 Two or more participants may work and attack together during their turn. If they choose to do so, they must both test against the same target as a group (the defender gains an additional die for each attacker beyond the first). For each attacker, if the defending participant achieved more successes, they inflict the difference to their attackers' Morale. Then the attackers add together all their successes and, if they achieved more successes than the defender, resolve the effects for the defender (stress and Morale damage) as if it had been one, single attack.
 
 A participant may choose to test against multiple opponents at once. In that case, the opponents defend as a group (though without giving the attacker additional dice). For each defender, if the attacking participant achieved fewer successes, the defender inflicts the difference to the attacker's Morale. Then the defenders add together all their successes and, if the attacker achieved more successes than the defenders, the attacker resolves the effects for the defenders (stress and Morale damage) as if it had been one, single attack (this option is obviously extremely dangerous).
 
 
-### Positioning during Conflicts
+## Positioning during Conflicts
 
 Instead of testing the relevant Skill, a participant may test any Skill against a target of their choice (provided they can do so). If they do, they may only inflict Stress OR reduce their opponent's Morale, not both.
 
 Instead of testing the relevant Skill to inflict Stress on an opponent, a participant may test a Skill, as if Positioning, against a target of their choice (provided they can do so). If they do, instead of inflicting Stress and reducing their opponent's Morale, they achieve they effect they would during Positioning, though instead of counting all successes, count only those they have more than their opponent (unless they would have needed to defend perfectly and did not). Their opponent still damages their Morale as normal, if they defend successfully.
 
 
-### Ending a Conflict
+## Ending a Conflict
 
 When a team member surrenders or otherwise laves the Conflict, their team loses **1** Morale.
 
@@ -121,7 +121,7 @@ Should all teams lose the Conflict, it spells catastrophic disaster. Depending o
 
 
 
-## Stress
+# Stress
 
 During their turn, a participant may choose to surrender, removing themself from the Conflict. They can no longer influence the outcome but they are out of harm's way. When they do, they test the relevant Skill and reduce their own team's Morale by the number of successes they achieved.
 
@@ -135,7 +135,7 @@ Then, the participant must choose between the following two options:
 - They enter their Last Stand.
 
 
-## Last Stand
+# Last Stand
 
 A participant's Last Stand represents one last chance to still achieve their team's Goal.
 
@@ -152,5 +152,34 @@ Resolve their actions as you normally would with the following exceptions:
 - If at the any point during a participant's Last Stand, they suffer any Stress, they perish. (Depending on the type of Conflict, they either die in battle, are exiled forever, completely lose their mind, etc.)
 
 
-## Static Conflict
+# Static Conflict
+
+
+
+
+# Disposition
+
+The three Attributes do not only form the foundation of your character but of all other characters and creatures you will encounter on your adventures, sometimes even the environment itself.
+
+The scoundrel, who ambushes you in the gloomy ally; the moonlit lord, who anticipates your every move; even passive obstacles such as a river's roaring current, they all have Attributes just like you. When you create your characters, you choose one of two possible Dispositions you have against these foes, and edge you have. But just like you, everyone else also has a Disposition, so tread carefully.
+
+Your Disposition may force your target to perfectly defend against you. Which means, during Conflicts they may only defend themself but not their team's Morale when defending with an Approach against which your chosen Approach is positively dispositioned.
+
+Your disposition represents a certain knack you have against the other approaches, a weakness you might exploit. But beware, for your enemies also have dispositions!
+
+#### Disposition I
+
+**Reason must defend perfectly against your Vigor:** You are a force too overwhelming, your attacks are too mighty, your speeches are too gripping, they cannot be faced with a cool demeanour for you leave no demeanour cool.
+
+**Vigor must defend perfectly against your Intuition:** You change course too deftly, your attacks are a stunning barrage, your lies are too tricky a web to navigate, they cannot be faced head-on with brute force for you bend like grass in the wind.
+
+**Intuition must defend perfectly against your Reason:** Your plans are too well thought out, your attacks are too precise, your rhetorical traps are too sophisticated, they cannot be weaseled out of for you have thought of everything.
+
+#### Disposition II
+
+**Intuition must defend perfectly against your Vigor:** You are a force too overwhelming, your attacks are too mighty, your speeches are too gripping, they cannot be faced with the cowardice of a weasel for you leave no place left to hide.
+
+**Reason must defend perfectly against your Intuition:** You change course too deftly, your attacks are a stunning barrage, your lies are too tricky a web to navigate, they cannot be faced with a cool demeanour for they still think about your last move while your are crossing the finish line.
+
+**Vigor must defend perfectly against your Reason:** Your plans are too well thought out, your attacks are too precise, your rhetorical traps are too sophisticated, they cannot be faced head-on with brute force for every careless step spells disaster.
 

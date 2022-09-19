@@ -88,36 +88,36 @@ There are other ways to earn Favor, for example by forgoing **XP** from a failed
 
 
 
-# {{site.attribute}}s
+# Attributes
 
-Each character has three **{{ site.attribute }}s:** **{{ site.strength }},** **{{ site.agility }},** and **{{ site.intelligence }}.**
+Each character has three **Attributes:** **Vigor,** **Intuition,** and **Reason.**
 
-Each {{ site.attribute }} also has a numerical rating, which determines how many dice you roll when you test with that {{ site.attribute }}. The rating is an objective measure of your character's potential effort they can muster when doing tasks. For example, a bear has more {{ site.strength }} than a mouse and a dragon even more than almost anything.
+Each Attribute also has a numerical rating, which determines how many dice you roll when you test with that Attribute. The rating is an objective measure of your character's potential effort they can muster when doing tasks. For example, a bear has more Vigor than a mouse and a dragon even more than almost anything.
 
-Each {{ site.attribute }} represents a different way for your characters approaches problems. How well do they coerce other people into giving them what they want or are they better at relating to others to form connections, or do they build up their case and negotiate? Do they rush in to face their enemies without fear, do they fade into the shadows when they skulk around instead, or how deftly outmaneuver them from a distance? How strong are they, how nimble, how clever?  
-That is represented by your character's {{ site.attribute }}s. Your character may approach any problem however they like but their attributes determine what they feel most comfortably doing, or perhaps even how flexible they are.
+Each Attribute represents a different way for your characters approaches problems. How well do they coerce other people into giving them what they want or are they better at relating to others to form connections, or do they build up their case and negotiate? Do they rush in to face their enemies without fear, do they fade into the shadows when they skulk around instead, or how deftly outmaneuver them from a distance? How strong are they, how nimble, how clever?  
+That is represented by your character's Attributes. Your character may approach any problem however they like but their attributes determine what they feel most comfortably doing, or perhaps even how flexible they are.
 
-Your character's {{ site.attribute }} ratings are fundamental to they are and how they interact with the world and will change only marginally over the course of their story.
+Your character's Attribute ratings are fundamental to they are and how they interact with the world and will change only marginally over the course of their story.
 
-## {{site.strength}}
+## Vigor
 
-{{ site.strength }} encompasses direct approaches to problem-solving.
+Vigor encompasses direct approaches to problem-solving.
 
 <figure>
   <img src="https://i.pinimg.com/originals/66/7e/3d/667e3d98a2ce911a9b38fb201aa38607.jpg" alt="Warrior">
   <figcaption>A warrior facing his enemy armoured in heavy steel and fiery courage.</figcaption>
 </figure>
 
-It's a matter of facing problems head-on, courageous, and with conviction always at your side. A matter of going all out to win it and to win big. As such, it is the {{ site.attribute }} most closely linked to the harnessing of fiery emotions.
+It's a matter of facing problems head-on, courageous, and with conviction always at your side. A matter of going all out to win it and to win big. As such, it is the Attribute most closely linked to the harnessing of fiery emotions.
 
-Strength, endurance, tenacity, panache, ferocity, wealth, fame, and power of will are all different aspects of {{ site.strength }}.
+Strength, endurance, tenacity, panache, ferocity, wealth, fame, and power of will are all different aspects of Vigor.
 
-If your character has a high {{ site.strength }} rating, they excel whenever they swing their mighty axe in a blinded rage, whenever they embolden their compatriots with a fiery speech, whenever they perform an impressive feat of strength, whenever they labor for hours on end at their forge, whenever they weave a heart-breaking tune on their lyre, whenever they shrug off a hit, or whenever they leverage their fame and wealth.
+If your character has a high Vigor rating, they excel whenever they swing their mighty axe in a blinded rage, whenever they embolden their compatriots with a fiery speech, whenever they perform an impressive feat of strength, whenever they labor for hours on end at their forge, whenever they weave a heart-breaking tune on their lyre, whenever they shrug off a hit, or whenever they leverage their fame and wealth.
 
 
-## {{site.agility}}
+## Intuition
 
-{{ site.agility }} encompasses adaptive approaches to problem-solving.
+Intuition encompasses adaptive approaches to problem-solving.
 
 <figure>
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae931af7-c579-4291-97f3-a7b57e6a7ac3/d25drmo-932f3032-87a7-4644-8dd3-54e50ae26ce5.jpg/v1/fill/w_600,h_746,q_75,strp/hunting_party_by_jeh_artist_d25drmo-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzQ2IiwicGF0aCI6IlwvZlwvYWU5MzFhZjctYzU3OS00MjkxLTk3ZjMtYTdiNTdlNmE3YWMzXC9kMjVkcm1vLTkzMmYzMDMyLTg3YTctNDY0NC04ZGQzLTU0ZTUwYWUyNmNlNS5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ySDefElllXftpw8aNc5YXvX7AEXsCxpD-cFjAPOSddk" alt="Hunting Party">
@@ -126,14 +126,14 @@ If your character has a high {{ site.strength }} rating, they excel whenever the
 
 It's a matter of utilizing opportunities in the moment and with the element of surprise always on your side. A matter of tipping the scales in your favour by paying close attention and going with the flow.
 
-Flexibility, nimbleness, guile, reflexes, perceptiveness, wit, connections, and empathy are all different aspects of {{ site.agility }}.
+Flexibility, nimbleness, guile, reflexes, perceptiveness, wit, connections, and empathy are all different aspects of Intuition.
 
-If your character has a high {{ site.agility }} rating, they excel whenever they swirl their blade like a dervish, whenever they outfox their enemies with their silver tongue, whenever they dodge to safety at the lase possible moment, whenever they know exactly the right thing to say to empathize with people, whenever they craft an astounding piece of art, whenever they balance across a steep ravine without breaking a sweat, or whenever they know just the right person.
+If your character has a high Intuition rating, they excel whenever they swirl their blade like a dervish, whenever they outfox their enemies with their silver tongue, whenever they dodge to safety at the lase possible moment, whenever they know exactly the right thing to say to empathize with people, whenever they craft an astounding piece of art, whenever they balance across a steep ravine without breaking a sweat, or whenever they know just the right person.
 
 
-## {{site.intelligence}}
+## Reason
 
-{{ site.intelligence }} encompasses thoughtful approaches to problem-solving.
+Reason encompasses thoughtful approaches to problem-solving.
 
 <figure>
   <img src="https://i.pinimg.com/originals/ba/48/f1/ba48f10c05b0bd7b357aceecfcdbbffb.jpg" alt="Scholar">
@@ -143,20 +143,20 @@ If your character has a high {{ site.agility }} rating, they excel whenever they
 
 It's a matter of meeting problems on your own terms and with a contingency plan always by your side. A matter of knowing your enemies, their blindspots, and taking the time to masterfully exploit them.
 
-Precision, deftness, intellect, foresight, research, industriousness, and rigor are all different aspects of {{ site.intelligence }}.
+Precision, deftness, intellect, foresight, research, industriousness, and rigor are all different aspects of Reason.
 
-If your character has a high {{ site.intelligence }} rating, they excel whenever you fell the rider approaching from the horizon with a single arrow, whenever you facilitate genuine understanding between warring parties, whenever you engineer a baffling mechanism, whenever doom misses you by a mile as you were expecting it, whenever you mend a grievous wound, whenever you find yourself in a race with fate one step ahead.
+If your character has a high Reason rating, they excel whenever you fell the rider approaching from the horizon with a single arrow, whenever you facilitate genuine understanding between warring parties, whenever you engineer a baffling mechanism, whenever doom misses you by a mile as you were expecting it, whenever you mend a grievous wound, whenever you find yourself in a race with fate one step ahead.
 
 
 ## Dice Modifiers
 
-Each {{ site.attribute }} also has a unique dice modifier. To use an {{ site.attribute }}'s dice modifier, you need to use a fitting [Trait](#traits). When you do, it will change a few things about how dice are rolled.
+Each Attribute also has a unique dice modifier. To use an Attribute's dice modifier, you need to use a fitting [Trait](#traits). When you do, it will change a few things about how dice are rolled.
 
-| {{ site.attribute }}        | Modifier Name | Effect                                 |
+| Attribute        | Modifier Name | Effect                                 |
 |-----------------------------|---------------|----------------------------------------|
-| **{{ site.strength }}**     | _Fervor_      | For each **6,** add an additional die. |
-| **{{ site.agility }}**      | _Fortune_     | Re-roll each die that comes up **1**.  |
-| **{{ site.intelligence }}** | _Focus_       | May re-roll all dice once.             |
+| **Vigor**     | _Fervor_      | For each **6,** add an additional die. |
+| **Intuition**      | _Fortune_     | Re-roll each die that comes up **1**.  |
+| **Reason** | _Focus_       | May re-roll all dice once.             |
 
 Here is an [Anydice](https://anydice.com/program/2b138) link for the corresponding probabilities.
 
@@ -184,9 +184,9 @@ A Skill has a corresponding number denoting the character's training. The defaul
 - as an expert, a character has **4+**
 - as a master, a character has **3+** (this is extremely rare)
 
-Whenever the game calls for a test, it will always call for an {{ site.attribute }} and a Skill. The {{ site.attribute }} determines how many dice you roll and the Skill determines what faces of the dice result in a hit or a miss.
+Whenever the game calls for a test, it will always call for an Attribute and a Skill. The Attribute determines how many dice you roll and the Skill determines what faces of the dice result in a hit or a miss.
 
-Whenever you do not succeed on a Skill test, you learn something new and gain experience. To be precise, you gain **1** **XP** (**1** **EX**perience **P**oint) for each hit you rolled for that Skill. Each Skill has a separate track for **XP** and at certain intervals, gaining **XP** will improve your training with the Skill.
+Whenever you do not succeed on a Skill test, you learn something new and gain experience. To be precise, you mark **1** **XP** (**1** **EX**perience **P**oint) for each hit you rolled for that Skill. Each Skill has a separate track for **XP** and at certain intervals, gaining **XP** will improve your training with the Skill.
 
 Skills may also be enhanced by [Talents.](Talents)
 
@@ -212,11 +212,11 @@ By taking a Trait, a player signals to the group that they are interested in tha
 
 When you test a skill, you may invoke one of your Traits, if the Trait is relevant to your current task, and it would sense for it to help you. For example, if you try to hit someone with your sword, and you have a Trait named `Legendary Blademaster`, naturally, you may invoke it.
 
-When you invoke a Trait, you may use the dice modifier for the {{ site.attribute }} you are testing with.
+When you invoke a Trait, you may use the dice modifier for the Attribute you are testing with.
 
-If the Trait you invoke has a rating of **2,** you may use an additional dice modifier of different {{ site.attribute }} on that roll as well. You choose which of the two other dice modifiers you want to use.
+If the Trait you invoke has a rating of **2,** you may use an additional dice modifier of different Attribute on that roll as well. You choose which of the two other dice modifiers you want to use.
 
-If the Trait you invoke has a rating of **3,** you may use all dice modifiers of all {{ site.attribute }}s on that roll. This is incredibly powerful.
+If the Trait you invoke has a rating of **3,** you may use all dice modifiers of all Attributes on that roll. This is incredibly powerful.
 
 You may only invoke a single of your Traits per test. If you have multiple Traits which might fit, you have to choose only one of them.
 
@@ -229,61 +229,34 @@ You may only invoke a single of your Traits per test. If you have multiple Trait
 
 There are many reasons to use one of your Traits to your detriment. It can lead to great roleplaying moments, it can let you communicate who your character is and what their flaws are, it can be simply for fun, and it can lead to you earning more **XP.**
 
-You may use any of your Traits to your detriment, both against static obstacles and in Contests and Conflicts, as long as it makes sense that the Trait would in some way hinder you.
+You may use any of your Traits to your detriment, as long as it makes sense that the Trait would in some way hinder you.
 
 You may only use a Trait to either help or hinder you, not both. Also, as above, you may only use a single of your Traits per test to hinder you. If you have multiple Traits which might fit, you have to choose only one of them.
 
-Depending on the [Type of Test](/skill-tests#the-3-types-of-tests), a Trait will hinder you slightly differently.
+When you test a skill, you may add one of your Trait's rating to the difficulty, if it would make sense said Trait would hinder you at what you are trying to achieve. This might increase the amount of **XP** you will receive should you fail the test.
 
-### During Unopposed Tests
+The GM may compel you to use one of your Traits to your detriment when it would be both appropriate and dramatic. You may decline to do so by spending Favor equal to the Trait's rating. If you accept, use the Trait to your detriment as you normally would.
 
-When you test with a skill against a static obstacle, you may add one of your Trait's rating to the obstacle, if it would make sense said Trait would hinder you at what you are trying to achieve. This might increase the amount of **XP** you will receive should you fail the test.
+A Trait may only hinder you on uncontested tests (see [Types of Tests](/skill-tests#types-of-tests)).
 
-The GM may compel you to use one of your Traits to your detriment when it would be both appropriate and dramatic when testing against a static obstacle. You may decline to do so by spending Favor equal to the Trait's rating. If you accept, use the Trait to your detriment as you normally would.
-
-> When Cyrene tries to balance across a raging river, her `Drunkard` Trait hinders her, and she adds **1** to the obstacle, which results in her falling into the water where the river drags her downstream instead of succeeding. However, the whole debakel netted her **1** additional **XP.**
+> When Cyrene tries to balance across a raging river, her `Drunkard` Trait hinders her, and she adds **1** to the difficulty, which results in her falling into the water where the river drags her downstream instead of succeeding. However, the whole debakel netted her **1** additional **XP.**
 
 
-### During Contests & Conflicts
+## Environmental Traits
 
-Alternatively, when you test with a skill in a Contest or Conflict, you may also use a fitting Trait to your detriment. Though, in most cases, your opponent will be the one to have that idea first.
-
-In a Contest or Conflict, instead of increasing an obstacle, using a Trait to your detriment in this context, lets your opponent add your Trait's rating as dice to their roll.
-
-When one of your Traits is used against you in a Contest of Conflict, you may spend Favor equal to the Trait's rating to not give your opponent any dice, similarly like you would against static obstacles.
-
-> During a kerfuffle at court, Cyrene tries to embarrass one of the guests she met previously (when he crossed her during a previous adventure). She only manages **1** success on her roll, though he manages none at all, he invokes Cyrene's `Drunkard` Trait against her to add **1** die to his roll. Cyrene may now spend **1** Favor to not give him that additional die, but she wants to see what will happen and decides against it.
->
-> The obnoxious guest manages to roll a success on his additional die and turns the outcome into a tie, which he, as the defender, wins. The court is now laughing at Cyrene, as he deflects her insults right back into her face. What a windbag. At least she received **1** **XP** for her Influence from her **1** success.
-
-
-## Other Traits
-
-Your character is not the only one to have Traits. Others characters also have Traits of their own and so does the environment itself, and you may use them to your advantage.
-
-### Environmental Traits
+Your character is not the only one to have Traits. Others characters also have Traits of their own (see [Contests](/skill-tests#contests)) and so does the environment itself, and you may use them to your advantage.
 
 There are always plentiful Traits on your surroundings. Finding them is the easy part, making use of them requires a varying amount of creativity, depending on the circumstances. If it's a `Sunny Day`, then that is a Trait on the scene, so is a `Lively Atmosphere`, `Pouring Rain`, `Thick Forest`, and `Treacherous Swamps`. Most environmental Traits are implied by the GM's description of the scene but some may be stated outright or created by a PC or NPC.
 
 Unless stated otherwise by the GM, all environmental Traits have a rating of **1.** Traits with rating **2** and **3** exist, but they are exceedingly rare.
 
-When you test a skill, you may invoke **1** environmental Trait which is known to you by describing how you would leverage that Trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll.  
+When you test a skill, you may invoke **1** environmental Trait which is known to you by describing how you would leverage that Trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll.
+
 You may only invoke a single environmental Trait per test. If there are multiple fitting environmental Traits, you may only choose **1** of them.
 
 Once you have invoked an environmental Trait during a scene, you may do so until the scene ends or the scene changes so that your previous description would no longer grant you an advantage without having to go into detail how you would leverage that Trait to your advantage.
 
 > Maro is infiltrating an enemy outpost in the dark of night. The group agrees that he may invoke the implied `Moonless Night` Trait on the scene to gain **1** additional die when sneaking past the guards. As long as it remains night, he may add **1** additional die to his infiltration attempts.
-
-### Opponents' Traits
-
-When you test a skill in a Contest of Conflict against an opponent, you may invoke **1** of your opponent's detrimental Traits which is known to you by describing how you would leverage that Trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll.  
-You may only invoke a single of your opponent's detrimental Traits per test. If your opponent has multiple fitting detrimental Traits, you may only choose **1** of them. If you are testing against multiple opponents, you may also choose **1** Trait from among all their Traits.
-
-Once you have invoked an opponent's Trait during a scene, you may do so until the scene ends or the scene changes so that your previous description would no longer grant you an advantage without having to go into detail how you would leverage that Trait to your advantage.
-
-You may invoke both an environmental _and_ one of your opponent's Traits on the same roll. This is the only way, after you have chosen your {{ site.attribute }} to gain extra dice on your rolls.
-
-> Cyrene tracks a ghoul through the sewers to its hiding place, where a fight erupts. Cyrene discovered the `Light Sensitivity` Trait with rating **1** of ghouls while doing research and raises the torch in her hand as she rushes forward. Everyone at the table agrees that she can invoke the Trait to her advantage, both when attacking and defending, this way, and she adds **1** die to her attack roll as she blinds the ghoul with fire. As long as she has her torch in this fight with the ghoul, she may add **1** additional die to her attack and defense rolls.
 
 
 ## Discovering Traits
@@ -294,11 +267,11 @@ If you have a Trait, openly known Traits of places, creatures, or people connect
 
 Depending on the rating of your Trait, different kinds of information are available to you of all places, creatures, or people connected to the Trait:
 
-- **Rating 1+:** All known Traits, the highest {{ site.attribute }}, the best Skill, and Disposition.
-- **Rating 2+:** In-depth knowledge of common subject areas; rough outlines of obscure facts; the lowest rated secret Trait, all {{ site.attribute }}s, and the three best Skills.
+- **Rating 1+:** All known Traits, the highest Attribute, the best Skill, and Disposition.
+- **Rating 2+:** In-depth knowledge of common subject areas; rough outlines of obscure facts; the lowest rated secret Trait, all Attributes, and the three best Skills.
 - **Rating 3+:** Expert at the topic; solid knowledge of even obscure facts and occurrences; all secret Traits, as well as all Skills.
 
-> As Maro's Trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's {{ site.attribute }}s and that his Reason is quite a lot higher than his.
+> As Maro's Trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's Attributes and that his Reason is quite a lot higher than his.
 >
 > Fortunately, he also learns of the robber king's lowest rated secret Trait `Only goes out at Night` which has a rating of **1.** It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see [Research](Resting#research)).
 

@@ -25,7 +25,7 @@ Conditions are temporary, negative, but unavoidable consequences of your daring 
 
 There are three different types of Conditions (as listed below). When the rules call for an *appropriate Condition,* they reference the different types of Conditions, as not all Conditions will hinder you on every test.
 
-When you test against a static obstacles and if you have an appropriate Condition with rating higher than the test's obstacle, treat the obstacle as if it were the rating of your appropriate Condition with the highest rating.
+During an uncontested test, if you have an appropriate Condition with rating higher than the test's obstacle, treat the obstacle as if it were the rating of your appropriate Condition with the highest rating.
 
 During Contests and Conflicts, your opponents will use your Conditions to their advantage. For your opponents, your Conditions work like Preparations (though using them does not degrade the Condition's rating), so they may treat any roll they've made for an action that takes advantage of your Condition as at least as many successes as the Condition's rating. You may use your opponents' Conditions in the same way as your opponent's can use yours.
 
@@ -53,7 +53,7 @@ You have **3** slots available for minor Conditions.
 
 These are minor inconveniences. Superficial cuts, bruised egos, a revolting appearance after days of adventuring, and similar troubles that arise with living an interesting life are minor Conditions. Nothing that cannot heal or mend with even just a little resting.
 
-As a static obstacle's rating is almost always at least **1,** these kinds of Conditions are more of a nuisance than a hindrance (unless they begin to pile up and fill your Condition slots).
+An uncontested test's difficulty is almost always at least **1,** these kinds of Conditions are more of a nuisance than a hindrance (unless they begin to pile up and fill your Condition slots).
 
 ### Moderate Conditions (Rating 2)
 

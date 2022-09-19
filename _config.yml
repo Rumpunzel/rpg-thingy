@@ -1,9 +1,3 @@
-# Rules
-attribute: "Attribute"
-strength: "Vigor"
-agility: "Intuition"
-intelligence: "Reason"
-
 # Theme settings
 doks:
     baseurl: "/rpg-thingy"

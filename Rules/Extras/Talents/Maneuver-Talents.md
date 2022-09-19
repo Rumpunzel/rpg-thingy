@@ -38,7 +38,7 @@
 
 ### Intuition
 
-**Opportunist:** When invoking an opponent's Trait (not only for Maneuver Tests), gain **1** additional die.
+**Opportunist:** When invoking an opponent's Trait (not only for Maneuver tests), gain **1** additional die.
 
 **Reversal of Fortune:** Once per Conflict, may exchange rolls with a willing ally or an opponent rolling at the same time.
 

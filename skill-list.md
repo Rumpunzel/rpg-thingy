@@ -25,11 +25,11 @@ page_nav:
 
 Whenever you aim to change someone else's mind or impose your will on others or defend against such efforts, roll Influence.
 
-| {{ site.attribute }}        | Applications                                             |
+| Attribute        | Applications                                             |
 |-----------------------------|----------------------------------------------------------|
-| **{{ site.strength }}**     | Oratory, Intimidation, Taunting, Performing, Drinking    |
-| **{{ site.agility }}**      | Deceit, Persuasion, Fast-Talking, Haggling, Manipulation |
-| **{{ site.intelligence }}** | Negotiation, Rhetoric, Instruction, Mediation            |
+| **Vigor**     | Oratory, Intimidation, Taunting, Performing, Drinking    |
+| **Intuition**      | Deceit, Persuasion, Fast-Talking, Haggling, Manipulation |
+| **Reason** | Negotiation, Rhetoric, Instruction, Mediation            |
 
 <div class="callout">
     <p><strong>Special Uses</strong></p>
@@ -43,33 +43,33 @@ Whenever you aim to change someone else's mind or impose your will on others or 
 
 Whenever you aim to harm someone else or defend against being harmed in a physical altercation, roll Fight.
 
-| {{ site.attribute }}        | Applications                                            |
+| Attribute        | Applications                                            |
 |-----------------------------|---------------------------------------------------------|
-| **{{ site.strength }}**     | Axe, Halberd, Brawling, Armour, biting through the pain |
-| **{{ site.agility }}**      | Knives, Sword, Dodging, Parrying                        |
-| **{{ site.intelligence }}** | Bow, Spear, Shield, Footwork                            |
+| **Vigor**     | Axe, Halberd, Brawling, Armour, biting through the pain |
+| **Intuition**      | Knives, Sword, Dodging, Parrying                        |
+| **Reason** | Bow, Spear, Shield, Footwork                            |
 
 
 # Maneuver
 
 Whenever you aim to overcome an obstacle in your path, be it distance, hurdles, or difficult terrain, roll Maneuver.
 
-| {{ site.attribute }}        | Applications                                       |
+| Attribute        | Applications                                       |
 |-----------------------------|----------------------------------------------------|
-| **{{ site.strength }}**     | Running Swimming, Charging, moving heavy obstacles |
-| **{{ site.agility }}**      | Acrobatics, Riding, Balancing, hiding in crowds    |
-| **{{ site.intelligence }}** | Infiltration, Choreography, forming formations     |
+| **Vigor**     | Running Swimming, Charging, moving heavy obstacles |
+| **Intuition**      | Acrobatics, Riding, Balancing, hiding in crowds    |
+| **Reason** | Infiltration, Choreography, forming formations     |
 
 
 # Wilderness
 
 Whenever you aim to navigate the wilds, aim to survive natural forces, or set up camp in the wild, roll Wilderness.
 
-| {{ site.attribute }}        | Applications                                                 |
+| Attribute        | Applications                                                 |
 |-----------------------------|--------------------------------------------------------------|
-| **{{ site.strength }}**     | Fire building, Ditch-digging, building shelter               |
-| **{{ site.agility }}**      | Hunting, Foraging, Riding, Tracking, keeping watch           |
-| **{{ site.intelligence }}** | Scouting, Pathfinding, Trapping, Astrology, Weather-watching |
+| **Vigor**     | Fire building, Ditch-digging, building shelter               |
+| **Intuition**      | Hunting, Foraging, Riding, Tracking, keeping watch           |
+| **Reason** | Scouting, Pathfinding, Trapping, Astrology, Weather-watching |
 
 <div class="callout">
     <p><strong>Special Uses</strong></p>
@@ -85,11 +85,11 @@ Whenever you aim to navigate the wilds, aim to survive natural forces, or set up
 
 Whenever you aim to create new, or improve or destroy existing items and structures, or generally work with your hands roll Craft.
 
-| {{ site.attribute }}        | Applications                                                |
+| Attribute        | Applications                                                |
 |-----------------------------|-------------------------------------------------------------|
-| **{{ site.strength }}**     | Blacksmithing, Farming, Laboring, Masonry, Woodworking      |
-| **{{ site.agility }}**      | Cooking, Sabotage, Animal Husbandry, Painting, Goldsmithing |
-| **{{ site.intelligence }}** | Engineering, Cartography, Surgery                           |
+| **Vigor**     | Blacksmithing, Farming, Laboring, Masonry, Woodworking      |
+| **Intuition**      | Cooking, Sabotage, Animal Husbandry, Painting, Goldsmithing |
+| **Reason** | Engineering, Cartography, Surgery                           |
 
 <div class="callout">
     <p><strong>Special Uses</strong></p>
@@ -104,11 +104,11 @@ Whenever you aim to create new, or improve or destroy existing items and structu
 
 Whenever you aim to call on existing connections, funds or knowledge, or aim to create new ones, roll Resources.
 
-| {{ site.attribute }}        | Applications                                      |
+| Attribute        | Applications                                      |
 |-----------------------------|---------------------------------------------------|
-| **{{ site.strength }}**     | Fame, Wealth, Titles                              |
-| **{{ site.agility }}**      | Connections, Rumors, Favors                       |
-| **{{ site.intelligence }}** | Investment, Administration, Bureaucracy, Research |
+| **Vigor**     | Fame, Wealth, Titles                              |
+| **Intuition**      | Connections, Rumors, Favors                       |
+| **Reason** | Investment, Administration, Bureaucracy, Research |
 
 <div class="callout">
     <p><strong>Special Uses</strong></p>
