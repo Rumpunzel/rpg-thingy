@@ -233,8 +233,9 @@ You may use any of your Traits to your detriment, both against static obstacles 
 
 You may only use a Trait to either help or hinder you, not both. Also, as above, you may only use a single of your Traits per test to hinder you. If you have multiple Traits which might fit, you have to choose only one of them.
 
+Depending on the [Type of Test](/skill-tests#the-3-types-of-tests), a Trait will hinder you slightly differently.
 
-### Against Static Obstacles
+### During Unopposed Tests
 
 When you test with a skill against a static obstacle, you may add one of your Trait's rating to the obstacle, if it would make sense said Trait would hinder you at what you are trying to achieve. This might increase the amount of **XP** you will receive should you fail the test.
 
@@ -256,14 +257,40 @@ When one of your Traits is used against you in a Contest of Conflict, you may sp
 > The obnoxious guest manages to roll a success on his additional die and turns the outcome into a tie, which he, as the defender, wins. The court is now laughing at Cyrene, as he deflects her insults right back into her face. What a windbag. At least she received **1** **XP** for her Influence from her **1** success.
 
 
-## Traits as Knowledge & Experience
+## Other Traits
+
+Your character is not the only one to have Traits. Others characters also have Traits of their own and so does the environment itself, and you may use them to your advantage.
+
+### Environmental Traits
+
+There are always plentiful Traits on your surroundings. Finding them is the easy part, making use of them requires a varying amount of creativity, depending on the circumstances. If it's a `Sunny Day`, then that is a Trait on the scene, so is a `Lively Atmosphere`, `Pouring Rain`, `Thick Forest`, and `Treacherous Swamps`. Most environmental Traits are implied by the GM's description of the scene but some may be stated outright or created by a PC or NPC.
+
+Unless stated otherwise by the GM, all environmental Traits have a rating of **1.** Traits with rating **2** and **3** exist, but they are exceedingly rare.
+
+When you test a skill, you may invoke **1** environmental Trait which is known to you by describing how you would leverage that Trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll.  
+You may only invoke a single environmental Trait per test. If there are multiple fitting environmental Traits, you may only choose **1** of them.
+
+Once you have invoked an environmental Trait during a scene, you may do so until the scene ends or the scene changes so that your previous description would no longer grant you an advantage without having to go into detail how you would leverage that Trait to your advantage.
+
+> Maro is infiltrating an enemy outpost in the dark of night. The group agrees that he may invoke the implied `Moonless Night` Trait on the scene to gain **1** additional die when sneaking past the guards. As long as it remains night, he may add **1** additional die to his infiltration attempts.
+
+### Opponents' Traits
+
+When you test a skill in a Contest of Conflict against an opponent, you may invoke **1** of your opponent's detrimental Traits which is known to you by describing how you would leverage that Trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll.  
+You may only invoke a single of your opponent's detrimental Traits per test. If your opponent has multiple fitting detrimental Traits, you may only choose **1** of them. If you are testing against multiple opponents, you may also choose **1** Trait from among all their Traits.
+
+Once you have invoked an opponent's Trait during a scene, you may do so until the scene ends or the scene changes so that your previous description would no longer grant you an advantage without having to go into detail how you would leverage that Trait to your advantage.
+
+You may invoke both an environmental _and_ one of your opponent's Traits on the same roll. This is the only way, after you have chosen your {{ site.attribute }} to gain extra dice on your rolls.
+
+> Cyrene tracks a ghoul through the sewers to its hiding place, where a fight erupts. Cyrene discovered the `Light Sensitivity` Trait with rating **1** of ghouls while doing research and raises the torch in her hand as she rushes forward. Everyone at the table agrees that she can invoke the Trait to her advantage, both when attacking and defending, this way, and she adds **1** die to her attack roll as she blinds the ghoul with fire. As long as she has her torch in this fight with the ghoul, she may add **1** additional die to her attack and defense rolls.
+
+
+## Discovering Traits
 
 If you have a Trait, openly known Traits of places, creatures, or people connected to your area of expertise. You may ask the GM for this at any time, and you are invited to enrich the world with your descriptions of your character's experience any time you see fit.
 
 > During their last adventure, Mare and Cyrene have crossed path with the robber king of Gantha and Maro got swept up in his character's past and now this robber king spells quite a bit of trouble. Though, as an `Exiled Sellsword of Gantha`, there is for sure something Maro knows about this robber king that might aid them in their struggle.
-
-
-### Discovering Traits
 
 Depending on the rating of your Trait, different kinds of information are available to you of all places, creatures, or people connected to the Trait:
 

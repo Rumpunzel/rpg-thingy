@@ -23,7 +23,7 @@ page_nav:
 
 # Certainty of Actions
 
-When asking _"Is the outcome of this action certain?",_ the answer is found in three different places: opposition, character's goal, and potential outcomes.
+As mentioned previously, the dice are only consulted when the outcome of an action is not certain. When asking _"Is the outcome of this action certain?",_ the answer is found in three different places: opposition, character's goal, and potential outcomes.
 
 In brief, if there is no ulterior goal to an action, there is plenty of time to accomplish it, there is no opposition from either the world or another character, and there are fewer than two interesting outcomes, then an action is certain. Either you get what you want or the action is impossible, and you must find another way.
 
@@ -54,6 +54,21 @@ Stabbing a sleeping guard might be doable with certainty but doing so without al
 
 If an action has only one possible outcome, it is certain. And action needs at least two (interesting) outcomes to be uncertain. While it is true that, at least in theory, a character could trip and fall down the stairs every time, both walking down and falling down the stairs are intrinsically interesting, so the action is certain.
 
+
+
+# The 3 Types of Tests
+
+## Unopposed Tests
+
+
+
+## Contests
+
+
+
+## Conflicts
+
+Conflicts are
 
 
 # Skill Tests
