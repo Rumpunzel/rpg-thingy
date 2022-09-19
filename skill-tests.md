@@ -222,6 +222,8 @@ Alternatively, you may choose to gain **1** Favor instead of receiving any **XP.
 
 Characters may act in tandem with each other, using the same Skill and the same approach to achieve the same goal. When they do, everyone tests and adds their successes together to determine if they manage to succeed as a group.
 
+Group tests can be incredible tools to achieve great deeds. They can also simply be used to help your compatriots to overcome obstacles you find trivial. But they come at the cost of increasing the risk for all participants. You either win or you fail as a group.
+
 
 ## Uncontested Group Tests
 
