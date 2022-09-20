@@ -201,9 +201,9 @@ Whenever you do not succeed on a skill test, you learn something new and gain ex
 
 
 
-# traits
+# Traits
 
-A **trait** is a factual description about what makes your character extraordinary with mechanical weight.
+A **Trait** is a factual description about what makes your character extraordinary with mechanical weight.
 
 A character may have a nice beard but if he has the `Magnificient Beard` trait, he has such a great beard, you may use it to your benefit and even to your detriment for dramatic effect.
 
@@ -217,7 +217,7 @@ By taking a trait, a player signals to the group that they are interested in tha
 
 
 
-## Using traits to your Benefit
+## Using Traits to your Benefit
 
 When you test a skill, you may invoke one of your traits, if the trait is relevant to your current task, and it would sense for it to help you. For example, if you try to hit someone with your sword, and you have a trait named `Legendary Blademaster`, naturally, you may invoke it.
 
@@ -234,7 +234,7 @@ You may only invoke a single of your traits per test. If you have multiple trait
 > During a drinking competition, she invokes it to explode the two **6s** she rolled, which, in the end, gives her just the edge she needs to emerge victorious.
 
 
-## Using traits to your Detriment
+## Using Traits to your Detriment
 
 There are many reasons to use one of your traits to your detriment. It can lead to great roleplaying moments, it can let you communicate who your character is and what their flaws are, it can be simply for fun, and it can lead to you earning more **XP.**
 
@@ -251,9 +251,9 @@ A trait may only hinder you on uncontested tests (see [Types of Tests](/skill-te
 > When Cyrene tries to balance across a raging river, her `Drunkard` trait hinders her, and she adds **1** to the difficulty, which results in her falling into the water where the river drags her downstream instead of succeeding. However, the whole debakel netted her **1** additional **XP.**
 
 
-## Environmental traits
+## Environmental Traits
 
-Your character is not the only one to have traits. Others characters also have traits of their own (see [contests](/skill-tests#contests)) and so does the environment itself, and you may use them to your advantage.
+Your character is not the only one to have traits. Others characters also have traits of their own (see [Contests](/skill-tests#contests)) and so does the environment itself, and you may use them to your advantage.
 
 There are always plentiful traits on your surroundings. Finding them is the easy part, making use of them requires a varying amount of creativity, depending on the circumstances. If it's a `Sunny Day`, then that is a trait on the scene, so is a `Lively Atmosphere`, `Pouring Rain`, `Thick Forest`, and `Treacherous Swamps`. Most environmental traits are implied by the GM's description of the scene but some may be stated outright or created by a PC or NPC.
 
@@ -268,7 +268,7 @@ Once you have invoked an environmental trait during a scene, you may do so until
 > Maro is infiltrating an enemy outpost in the dark of night. The group agrees that he may invoke the implied `Moonless Night` trait on the scene to gain **1** additional die when sneaking past the guards. As long as it remains night, he may add **1** additional die to his infiltration attempts.
 
 
-## Discovering traits
+## Discovering Traits
 
 If you have a trait, openly known traits of places, creatures, or people connected to your area of expertise. You may ask the GM for this at any time, and you are invited to enrich the world with your descriptions of your character's experience any time you see fit.
 
@@ -282,10 +282,10 @@ Depending on the rating of your trait, different kinds of information are availa
 
 > As Maro's trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's attributes and that his Reason is quite a lot higher than his.
 >
-> Fortunately, he also learns of the robber king's lowest rated secret trait `Only goes out at Night` which has a rating of **1.** It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see [Research](Resting#research)).
+> Fortunately, he also learns of the robber king's lowest rated secret trait `Only goes out at Night` which has a rating of **1.** It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see [Research](/conditions-and-resting#research)).
 
 
-### Creating traits
+### Creating Traits
 
 Alternatively, you may also suggest a new traits for a place, a creature, or a person connected to one of your own traits as long as the table agrees with your suggestion.
 
@@ -294,8 +294,7 @@ Most often, the GM will like your suggestion and add the trait (or a variation o
 Alternatively, if the new trait is a fitting and creative idea but would be a little _too_ convenient for your current predicament, the GM may ask you to spend **1** Favor to create the new trait on the place, creature, or person with rating up to the rating of your own trait.
 
 
-## Empowering traits
+## Empowering Traits
 
-Any time you use a trait, you may spend **1** Favor to increase the rating of that trait by **1.** This effect only lasts for the context the trait is used it.
-
-You may also spend **1** Favor if you do not have a fitting trait to temporarily act as if you had a fitting trait with rating **1.**
+If the action you are trying to undertake aligns with the Truth you have chosen for your character, you may spend **1** Favor to temporarily increase the rating of a trait by **1** for the duration of a test.  
+If you do not having a fitting trait when undertaking such an action, you may also spend **1** Favor to temporarily gain the benefits as if you had a fitting trait with rating **1.**

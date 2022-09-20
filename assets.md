@@ -46,3 +46,13 @@ Assets may have additional properties such as weapons being able to be used as a
 You may buy new assets and create new assets or improve assets you already own (see [Resting](/conditions-and-resting#crafting)).
 
 > Maro finds himself in a skirmish with a vicious assassin who ambushed him. Maro attacks with his axe, though luck isn't in his favor, and he rolls **0** successes. His opponent rolled **1** success. He is quick and threatens to deflect the blow. Maro may now use his `Axe` asset with a quality rating of **2** to treat the roll as if he had rolled **2** successes. If he does, the asset degrades as he drives the axe into his opponent's armor and the axe loses **1** quality rating. It now has a quality rating of **1** but the assassin suffered a mean wound to the chest.
+
+
+
+# Crafting Assets
+
+To create an asset with quality raring **1** is a test difficulty **1** test.
+
+After being created, assets can only be improved by **1** rating at a time. To improve an asset from a quality rating of **2** to a quality rating of **3,** is a difficulty **3** test.
+
+Improving an asset with rating **0** (an asset which broke after being used) grants **1** extra die to the test.

@@ -33,7 +33,7 @@ During contests, your opponents may use your conditions to their advantage. Your
 You may use your opponents' conditions against them to gain minimum effort in the same way as your opponent's can use yours against you.
 
 
-# Condition Slots
+## Condition Slots
 
 You have **6** slots for three different kinds of conditions. When you receive a new Condition, fill any available, empty slot with rating equal to or greater that Condition's rating. A Condition in a slot always has the slot's rating.
 
@@ -42,7 +42,7 @@ Any of the three different Condition types — physical, mental, and social — 
 Should you receive a Condition for which you do not have any empty slots, increase that conditions rating by **1** and try again until you find a slot with rating of at least that Condition's rating.  
 If you cannot find any empty slot to note your Condition, either because the conditions rating is too high or because you have no more slots available, you are in deep trouble:
 
-- During conflicts, if the Condition's rating is **3** or less, you may spend **1** Favor to, instead of taking the Condition, take a new trait with rating equal to the Condition's rating detailing your permanent injury you suffered and escaped by a hair's breadth. You are removed from the conflict.
+- During conflicts, you may spend Favor equal to the condition's rating to get a new trait with rating equal to the Condition's rating instead of taking the Condition. Name the trait to describe the permanent injury you suffered and escaped by a hair's breadth. You are removed from the conflict.
 - Otherwise, whatever has been gnawing at you, finally overwhelms you. Be it blood loss, drowning, permanent imprisonment, succumbing to sickness, execution, madness, or complete social ostrezitation, and you must retire your character.
 
 You can reduce the rating of your conditions by tending to them (see [Recovering](#recovering)). conditions only ever reduce their rating, never increase it.  
@@ -74,11 +74,11 @@ These conditions are grievous injuries which threaten to fester and prematurely 
 
 
 
-# Condition Types
+## Condition Types
 
 There are three types of conditions: physical, mental, and social.
 
-## Physical Conditions
+### Physical Conditions
 
 These conditions encompass all types of physical trauma, bodily injury and weariness. A cut from a blade is a physical Condition, so is exhaustion from excessive travelling, and so are sickness and poisoning.
 
@@ -93,7 +93,7 @@ While resting, you can mend physical conditions by testing Craft, though not all
 - **Major physical conditions can only be mended with Reason.** Practiced surgery is required to close these kinds of wounds.
 
 
-## Mental Conditions
+### Mental Conditions
 
 These conditions encompass all types of mental trauma, spiritual injury, and weariness of the mind. A biting insult to your character is a mental Condition, so is exhaustion from excessive research, and so are fear and confusion.
 
@@ -108,7 +108,7 @@ While resting, you can mend mental conditions by testing Influence, though not a
 - **Major mental conditions can only be mended by Influence with Intuition.** Heartfelt empathy is required to tackle these troubles.
 
 
-## Social Conditions
+### Social Conditions
 
 These conditions encompass all types of societal rejection, injury to your reputation, and emptiness of the purse. The result of a successful slander campaign is a social Condition, so is seclusion (willing or otherwise) from larger society, and so are debts, and being covered in muck.
 
@@ -124,7 +124,7 @@ While resting in a settlement, you can mend social conditions with Resource test
 
 
 
-# conditions in Overview
+## Conditions in Overview
 
 - There are physical, mental, and social conditions. 
 - You have **3** slots for minor conditions, **2** for moderate conditions, and **1** for a major Condition. 
@@ -158,9 +158,9 @@ The three different types of conditions have restrictions with which skill and w
 |              |  Physical Mended By  |  Mental Mended By   | Social Mended By |
 |--------------|:--------------------:|:-------------------:|:----------------:|
 | **Skill**    |      **Craft**       |    **Influence**    |  **Resources**   |
-| **Minor**    |       **All**        | _Vigor & Intuition_ |     _Vigor_      |
-| **Moderate** | _Intuition & Reason_ |     _Intuition_     |     **All**      |
-| **Major**    |       _Reason_       |       **All**       | _Vigor & Reason_ |
+| **Minor**    |       **All**        |       **All**       |     **All**      |
+| **Moderate** | _Intuition & Reason_ | _Vigor & Intuition_ | _Vigor & Reason_ |
+| **Major**    |       _Reason_       |     _Intuition_     |     _Vigor_      |
 
 
 
@@ -179,7 +179,7 @@ When you attempt a skill test while resting, you must spend actions equal to the
 
 You may end a rest at any point. Any unspent actions you have at the end of a rest are lost.
 
-While resting, you have access to some special skill tests.
+While resting, you have access to a number of special skill tests.
 
 
 ## Recovering
@@ -206,20 +206,14 @@ If you are not afflicted by any conditions, you may spend actions to gain a `Wel
 
 ## Crafting
 
-You may create new asset and improve assets you already own by testing Craft.
-
-To create an asset with quality raring **1** is a test difficulty **1** test.
-
-After being created, assets can only be improved by **1** rating at a time. To improve a asset from a quality rating of **2** to a quality rating of **3,** is a difficulty **3** test.
-
-Improving an asset with rating **0** (an asset which broke after being used) grants **1** extra die to the test.
+You may create new asset and improve assets you already own as detailed in [Crafting Assets](/assets#crafting-assets) in the chapter about assets.
 
 
 ## Weather-Watching
 
 While resting, you attempt a difficulty **1** Wilderness Intuition test to ask the GM how the weather trait will change in the near future.
 
-You may also influence the weather by creating or changing a trait on the game by testing Wilderness with Intuition. Choose a rating for the trait you would like to create (if there is already a weather trait with equal or greater rating, you must instead change the existing trait; the difficulty is the current trait's rating).
+You may also influence the weather by creating or changing a trait on the game by testing Wilderness with Intuition. Choose a rating for the trait you would like to create (if there is already a weather trait with equal or greater rating, you must instead change the existing trait and the difficulty for the test will be the current trait's rating).
 
 If you've rolled more successes than the chosen rating, the game gets the weather trait of your choosing.
 
@@ -238,7 +232,7 @@ You may forage in the wild by testing Wilderness. Choose a rating for the Boon y
 
 If you've rolled more successes than the chosen rating or tied, you create an enduring `Provisions` Boon with the chosen rating. It vanishes at the end of the rest.
 
-If you've rolled fewer successes but achieved at least **1** effort, you gain an enduring `Provisions` Boon with rating **1.**. Otherwise, unfortunately, you gain nothing.
+If you've rolled fewer successes but achieved at least **1** effort, you gain a `Provisions` Boon with rating **1.** Otherwise, unfortunately, you gain nothing.
 
 
 
