@@ -33,7 +33,8 @@ During contests, your opponents may use your conditions to their advantage. Your
 You may use your opponents' conditions against them to gain minimum effort in the same way as your opponent's can use yours against you.
 
 
-## Condition Slots
+
+# Condition Slots
 
 You have **6** slots for three different kinds of conditions. When you receive a new Condition, fill any available, empty slot with rating equal to or greater that Condition's rating. A Condition in a slot always has the slot's rating.
 
@@ -74,11 +75,11 @@ These conditions are grievous injuries which threaten to fester and prematurely 
 
 
 
-## Condition Types
+# Condition Types
 
 There are three types of conditions: physical, mental, and social.
 
-### Physical Conditions
+## Physical Conditions
 
 These conditions encompass all types of physical trauma, bodily injury and weariness. A cut from a blade is a physical Condition, so is exhaustion from excessive travelling, and so are sickness and poisoning.
 
@@ -93,7 +94,7 @@ While resting, you can mend physical conditions by testing Craft, though not all
 - **Major physical conditions can only be mended with Reason.** Practiced surgery is required to close these kinds of wounds.
 
 
-### Mental Conditions
+## Mental Conditions
 
 These conditions encompass all types of mental trauma, spiritual injury, and weariness of the mind. A biting insult to your character is a mental Condition, so is exhaustion from excessive research, and so are fear and confusion.
 
@@ -108,7 +109,7 @@ While resting, you can mend mental conditions by testing Influence, though not a
 - **Major mental conditions can only be mended by Influence with Intuition.** Heartfelt empathy is required to tackle these troubles.
 
 
-### Social Conditions
+## Social Conditions
 
 These conditions encompass all types of societal rejection, injury to your reputation, and emptiness of the purse. The result of a successful slander campaign is a social Condition, so is seclusion (willing or otherwise) from larger society, and so are debts, and being covered in muck.
 
@@ -124,7 +125,7 @@ While resting in a settlement, you can mend social conditions with Resource test
 
 
 
-## Conditions in Overview
+# Conditions in Overview
 
 - There are physical, mental, and social conditions. 
 - You have **3** slots for minor conditions, **2** for moderate conditions, and **1** for a major Condition. 
@@ -211,29 +212,31 @@ You may create new asset and improve assets you already own as detailed in [Craf
 
 ## Weather-Watching
 
-While resting, you attempt a difficulty **1** Wilderness Intuition test to ask the GM how the weather trait will change in the near future.
+While resting, you may increase or decrease the rating of the current weather trait by **1,** or alter the name of the current weather trait (within reason).  
+To do so, test Wilderness with Intuition. The difficulty for the test is the rating of the current weather trait. If you fail, the GM may increase or decrease the rating of the current weather trade or rename it to introduce a complication.
 
-You may also influence the weather by creating or changing a trait on the game by testing Wilderness with Intuition. Choose a rating for the trait you would like to create (if there is already a weather trait with equal or greater rating, you must instead change the existing trait and the difficulty for the test will be the current trait's rating).
-
-If you've rolled more successes than the chosen rating, the game gets the weather trait of your choosing.
-
-If you've rolled fewer successes or tied but still achieved at least **1** effort, increase or reduce the rating of the current weather trait by **1.** Otherwise, unfortunately, nature does is it pleases.
+You may watch the weather any number of times per rest.
 
 
 
 # Resting in the Wilderness
 
-During a rest in the wilderness, you have access to some additional, special skill tests.
+While resting in the wilderness, you have access to some additional, special skill tests.
 
 
 ## Foraging
 
-You may forage in the wild by testing Wilderness. Choose a rating for the Boon you would like to create by foraging.
+You may forage in the wild by testing Wilderness. Choose a difficulty for the foraging test.
 
-If you've rolled more successes than the chosen rating or tied, you create an enduring `Provisions` Boon with the chosen rating. It vanishes at the end of the rest.
+If you succeed, gain a `Material` asset with (see [Materials](/assets#materials)) rating equal to the test's difficulty. Otherwise, if you achieved at least **1** effort, you gain a `Material` asset with rating **1.**
 
-If you've rolled fewer successes but achieved at least **1** effort, you gain a `Provisions` Boon with rating **1.** Otherwise, unfortunately, you gain nothing.
+Depending on the attribute you tested with, the `Material` asset will be of a different quality.
 
+|    Attribute    |                                   Quality                                    |
+|:---------------:|:----------------------------------------------------------------------------:|
+|    **Vigor**    |                   `Rigid` such as lumber, stone, and metal                   |
+|  **Intuition**  |               `Flexible` such as fruit, organs, skin, and meat               |
+|   **Reason**    |  `Intricate` such as healing herbs, rare blossoms, and alchemical compounds  |
 
 
 # Resting in Settlements
@@ -243,33 +246,59 @@ During a rest in a settlement, you have access to some additional, special skill
 
 ## Buying
 
-You may buy assets in settlements by testing Resources. Choose a quality rating for the asset you would like to buy (Not all quality rating may be available everywhere, often quality rating above a town's [supply rating](/supply-rating) cannot be found).
+You may buy assets in settlements by testing Resources. Choose a quality rating for the asset you would like to buy. Not all quality rating may be available everywhere, often quality rating above a town's [supply rating](/supply-rating) cannot be found.
 
-If you've rolled more successes than the chosen quality rating, you gain the asset with the chosen quality rating.
+If you succeed, you gain the asset with the chosen quality rating. Otherwise, if you achieved at least **1** effort, you gain an asset with rating **1.**
 
-If you've rolled fewer successes or tied but achieved at least **1** effort, you gain an asset with rating **1.** Otherwise, unfortunately, you gain nothing.
+| Quality Rating | Difficulty |
+|:--------------:|:----------:|
+|     **1**      |     1      |
+|     **2**      |     3      |
+|     **3**      |     5      |
+|     **4**      |     7      |
+|     **5**      |     9      |
+|    **...**     |    ...     |
 
 
 ## Selling
 
-You may sell assets you own by testing Resources. Choose an asset to sell and discard any success exceeding the asset's quality rating. The remaining result is the offer you get in your current rest location. You may accept that offer or decline it. Either way the actions to attempt selling this asset are spent. If you accept, you gain a `Currency` asset for Resources of the local currency with rating equal to the successes you've rolled.
+You may sell an asset you own by testing Resources. Discard any success exceeding the asset's quality rating. The remaining result is the offer you get in your current rest location. You may accept that offer or decline it. Either way, the actions to attempt to sell the asset are spent.  
+If you accept, you gain a `Currency` asset for Resources of the local currency with rating equal to the effort you achieved and lose the chosen asset.
 
 
 ## Working
 
-You may spend your time working in the settlement. Choose a skill, and a difficulty for your work and spend actions accordingly (Not all work may be available everywhere).
+You may spend your time working while resting in a settlement. Choose a skill and a difficulty for your work (not all type of work may be available everywhere).
 
-Test the chosen skill against the difficulty. If you succeed, you gain a `Currency` asset for Resources of the local currency with rating equal to the chosen difficulty.
-
-If you fail to succeed but achieved at least **1** effort, you gain a `Currency` asset with rating **1.** otherwise, unfortunately, you gain nothing.
+If you succeed, you gain a `Currency` asset for Resources of the local currency with rating equal to the chosen difficulty. Otherwise, if you achieved at least **1** effort, you gain a `Currency` asset with rating **1.**
 
 
 ## Research
 
-You may spend your time among scrolls and tomes to learn more about a specific subject and its traits. Name the place, creature, or person you would like to know more about and test Resources with Reason. If you already know of a detrimental trait from the subject you are studying, you may invoke it for this test.
+You may spend your time brawling in taverns, visiting shady meetings, or among scrolls and tomes to learn more about a specific subject and its traits. Name the place, creature, or person you would like to know more about and test Resources. For each of your subject's hidden traits you already know, add **1** additional dice to your roll.
 
-For your chosen subject, treat the outcome of your roll as if it were a trait with rating equal to the successes you rolled for the purposes of discovering traits (see [Discovering traits](/character#discovering-traits)).
+You learn of your subject's highest rated, hidden trait you do not already know with rating equal to or less the effort you achieved on your test. If your effort is greater than the subject's highest rated hidden trait, you also learn that you know everything there is to know about your subject.  
+A research roll may result in no new information if you do not achieve enough effort.
 
-If you rolled more successes than the subject's highest rated secret, you also learn that you know everything there is to know about your subject.
+Depending on what subject you would like to research, a different attribute is required.
 
-A research roll may result in no new information if you do not roll enough successes.
+### Vigor
+
+- Recent and current events
+- Tall tales
+- Festivals and tournaments
+- News concerning nobility
+
+### Intuition
+
+- Living people
+- Gossip
+- Criminal activity
+- Culture and art
+
+### Reason
+
+- Dead people
+- Historic events
+- Creatures and monsters
+- Institutions, laws, and trade

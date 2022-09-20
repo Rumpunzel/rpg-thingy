@@ -276,11 +276,11 @@ If you have a trait, openly known traits of places, creatures, or people connect
 
 Depending on the rating of your trait, different kinds of information are available to you of all places, creatures, or people connected to the trait:
 
-- **Rating 1+:** All known traits, the highest attribute, the best Skill, and Disposition.
-- **Rating 2+:** In-depth knowledge of common subject areas; rough outlines of obscure facts; the lowest rated secret trait, all attributes, and the three best Skills.
-- **Rating 3+:** Expert at the topic; solid knowledge of even obscure facts and occurrences; all secret traits, as well as all Skills.
+- **Rating 1+:** All obvious traits; their best attribute and how it compares to your own (about equal, lesser, greater, less than half, or more than double); their three best skills and if they are better trained than you, equal, or worse.
+- **Rating 2+:** Their lowest rated hidden trait; their worst attribute; their disposition.
+- **Rating 3+:** Their highest rated hidden trait; all their attributes and skills.
 
-> As Maro's trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's attributes and that his Reason is quite a lot higher than his.
+> As Maro's trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's best attribute is Reason and that it is quite a lot higher than Maro's.
 >
 > Fortunately, he also learns of the robber king's lowest rated secret trait `Only goes out at Night` which has a rating of **1.** It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see [Research](/conditions-and-resting#research)).
 
@@ -289,7 +289,7 @@ Depending on the rating of your trait, different kinds of information are availa
 
 Alternatively, you may also suggest a new traits for a place, a creature, or a person connected to one of your own traits as long as the table agrees with your suggestion.
 
-Most often, the GM will like your suggestion and add the trait (or a variation of it) on their own volition with the rating of their choosing as a new trait.
+Often, the GM will like your suggestion and add the trait (or a variation of it) on their own volition with the rating of their choosing as a new trait.
 
 Alternatively, if the new trait is a fitting and creative idea but would be a little _too_ convenient for your current predicament, the GM may ask you to spend **1** Favor to create the new trait on the place, creature, or person with rating up to the rating of your own trait.
 

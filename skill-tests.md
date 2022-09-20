@@ -17,7 +17,7 @@ page_nav:
         content: Character
         url: /character
     next:
-        content: conditions & Resting
+        content: Conditions & Resting
         url: /conditions-and-resting
 ---
 
