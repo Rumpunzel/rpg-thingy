@@ -11,6 +11,8 @@ doks:
               item_url: /character
             - item_name: Skill List
               item_url: /skill-list
+            - item_name: Gear
+              item_url: /gear
 #    footer:
 #        content:
 #            logo:

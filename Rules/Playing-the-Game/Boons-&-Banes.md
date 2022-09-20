@@ -1,18 +1,18 @@
-Sometimes during a scene or [Conflict](Conflict) you want to help yourself or an ally, or hinder an opponent. In that case, you may create a Boon to aid or a Bane to hinder. In Conflicts, you may to so during [Positioning](Conflict#positioning) and hence, also during the Conflict like any other Positioning.
+Sometimes during a scene or [conflict](conflict) you want to help yourself or an ally, or hinder an opponent. In that case, you may create a Boon to aid or a Bane to hinder. In conflicts, you may to so during [Positioning](conflict#positioning) and hence, also during the conflict like any other Positioning.
 
 When you test a skill to create a Boon or Bane, the number of successes (or excess successes if someone defends against your attempt) determines the Boon's/Bane's rating.
 
-You may also turn excess successes after you have succeeded on a test into a Boon on yourself or, if you succeeded in a Contest, into a Bane on your opponent by spending up to **1** Favour for each excess success to create a Boon/Bane with rating equal to the amount of Favour spent this way.
+You may also turn excess successes after you have succeeded on a test into a Boon on yourself or, if you succeeded in a contest, into a Bane on your opponent by spending up to **1** Favour for each excess success to create a Boon/Bane with rating equal to the amount of Favour spent this way.
 
-When a Boon or a Bane is created, its creator associates it either with the [Approach,](Approaches) or the [Skill](Skills) they used to create it. If the Bane or Boon is created during a Conflict, its creator may choose attacking or defending instead of an Approach or a Skill.
+When a Boon or a Bane is created, its creator associates it either with the [Approach,](Approaches) or the [Skill](Skills) they used to create it. If the Bane or Boon is created during a conflict, its creator may choose attacking or defending instead of an Approach or a Skill.
 
-- If an Approach was chosen, the Boon or Bane may only be used with the associated Approach but any Skill.
-- If a Skill was chosen, the Boon or Bane may only be used with the associated Skill but any Approach.
-- If attacking was chosen, the Boon or Bane may be used to attack during the Conflict with any Approach and any Skill but not to defend.
-- If defending was chosen, the Boon or Bane may be used to defend during the Conflict with any Approach and any Skill but not to attack.
-- If a Boon or Bane is used with a different action, Approach or Skill than intended, its rating is halfed (rounded down).
+- If an Approach was chosen, the Boon or Bane may only be used with the associated Approach but any skill.
+- If a skill was chosen, the Boon or Bane may only be used with the associated skill but any Approach.
+- If attacking was chosen, the Boon or Bane may be used to attack during the conflict with any Approach and any skill but not to defend.
+- If defending was chosen, the Boon or Bane may be used to defend during the conflict with any Approach and any skill but not to attack.
+- If a Boon or Bane is used with a different action, Approach or skill than intended, its rating is halfed (rounded down).
 
-Boons & Banes only last for the context they were created in. In most cases that means for the duration of the Conflict or for the duration of the scene.
+Boons & Banes only last for the context they were created in. In most cases that means for the duration of the conflict or for the duration of the scene.
 
 
 
@@ -40,13 +40,13 @@ Boons with extraordinary high ratings may let you add a number of dice (as shown
 
 ## Banes
 
-Banes are temporary detrimental [Traits](Traits), though Banes, are one-use only. After a Bane increased the obstacle of a test or was used by an opponent to get extra dice, it vanishes.
+Banes are temporary detrimental [traits](traits), though Banes, are one-use only. After a Bane increased the obstacle of a test or was used by an opponent to get extra dice, it vanishes.
 
 If an opponent has multiple Banes which you might use to aid you, you have to choose only one of them.
 
-A Bane is not itself one of your opponent's Traits, so you may invoke both a Boon and a detrimental Trait for additional dice.
+A Bane is not itself one of your opponent's traits, so you may invoke both a Boon and a detrimental trait for additional dice.
 
-If you are affected by a Bane, your opponent's may use it to add dice to their rolls during Contests and Conflicts. If you instead test against a static obstacle, it is always assumed that the GM compels your highest rated Bane.
+If you are affected by a Bane, your opponent's may use it to add dice to their rolls during contests and conflicts. If you instead test against a static obstacle, it is always assumed that the GM compels your highest rated Bane.
 
 Banes with extraordinary high ratings may let you add a number of dice (as shown below) to your roll without using up the Bane and without it vanishing.
 
@@ -74,7 +74,7 @@ When an enduring Boon/Bane reaches a rating of **0,** it vanishes.
 
 An enduring Boon/Bane only degrades whenever a normal Bane/Boon would degrade (so extremely high rated enduring Boons and Banes may last even longer).
 
-Enduring Banes/Boons may exist beyond a single Conflict/scene, if it makes narrative sense.
+Enduring Banes/Boons may exist beyond a single conflict/scene, if it makes narrative sense.
 
 
 

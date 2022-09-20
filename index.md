@@ -21,7 +21,7 @@ grid_navigation:
       cta: Read more
       url: character
     - title: Skill List
-      excerpt: List of all Skills with applications
+      excerpt: List of all skills with applications
       cta: Read more
       url: skill-list
 ---

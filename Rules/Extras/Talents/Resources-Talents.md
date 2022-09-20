@@ -2,7 +2,7 @@
 
 ### Vigor
 
-**Indomitable:** Whenever you fail to defend during a Conflict, you may use your opponent's excess successes to create a Boon on yourself as if they had been your own excess successes.
+**Indomitable:** Whenever you fail to defend during a conflict, you may use your opponent's excess successes to create a Boon on yourself as if they had been your own excess successes.
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### Reason
 
-**Bookworm:** Add **1** success when researching Traits.
+**Bookworm:** Add **1** success when researching traits.
 
 
 

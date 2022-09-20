@@ -17,8 +17,8 @@ page_nav:
         content: Character
         url: /character
     next:
-        content: Conditions
-        url: /conditions
+        content: conditions & Resting
+        url: /conditions-and-resting
 ---
 
 # Certainty of Actions
@@ -91,23 +91,23 @@ The base difficulty for all uncontested tests is **1.** You only need to achieve
   <figcaption>Even a good ol' late-night mugging can be resolved with a single die roll.</figcaption>
 </figure>
 
-If there is an environmental Trait that would noticeably hinder your effort, then add its rating to the difficulty of the test. Only add the rating of **1** environmental Trait to the difficulty. When multiple would apply, choose the highest or most relevant.
+If there is an environmental trait that would noticeably hinder your effort, then add its rating to the difficulty of the test. Only add the rating of **1** environmental trait to the difficulty. When multiple would apply, choose the highest or most relevant.
 
-If a character or creature opposes your efforts, and they have a Trait that would noticeably hinder your effort, then add its rating to the difficulty of the test. Only add the rating of **1** Trait of an opponent to the difficulty. When multiple would apply, choose the highest or most relevant.
+If a character or creature opposes your efforts, and they have a trait that would noticeably hinder your effort, then add its rating to the difficulty of the test. Only add the rating of **1** trait of an opponent to the difficulty. When multiple would apply, choose the highest or most relevant.
 
-If the difficulty of an uncontested test ever exceeds **3,** consider if a single die roll really is the best way to resolve the situation or if a Conflict might be more appropriate.
+If the difficulty of an uncontested test ever exceeds **3,** consider if a single die roll really is the best way to resolve the situation or if a conflict might be more appropriate.
 
 ## Powering Through
 
 When you fail an uncontested test, you may still succeed — at a cost. When you power through, you succeed, so you do not mark any **XP.**
 
-To do so, gain a [Condition](/conditions) with a rating equal to the difference between the test's difficulty and the effort you mustered. Name the Condition something appropriate to represent your exhaustion, strain, or injury from powering through.
+To do so, gain a [Condition](/conditions-and-resting) with a rating equal to the difference between the test's difficulty and the effort you mustered. Name the Condition something appropriate to represent your exhaustion, strain, or injury from powering through.
 
 
 
 # Contests
 
-When another character, creature, or even multiple not only want to keep you from achieving your goal but have a goal of their own; or when you want to keep them from achieving their goal, the action is resolved in a Contest.
+When another character, creature, or even multiple not only want to keep you from achieving your goal but have a goal of their own; or when you want to keep them from achieving their goal, the action is resolved in a contest.
 
 <div class="callout">
     <p><strong>Examples of Contests</strong></p>
@@ -123,11 +123,11 @@ When another character, creature, or even multiple not only want to keep you fro
 
 ## Resolving a Contest
 
-The defender makes a test; the achieved effort sets the difficulty of the Contest for the attacker. Then, the attacker tests to try to beat the difficulty.
+The defender makes a test; the achieved effort sets the difficulty of the contest for the attacker. Then, the attacker tests to try to beat the difficulty.
 
 <figure>
   <img src="https://3.bp.blogspot.com/-2QqI8vSa9rQ/VKQ_ANDE7OI/AAAAAAAAEC4/XMvpPVWuUSU/s1600/10580257_10153055484583135_371744883842036670_n.jpg" alt="Magic Duel">
-  <figcaption>A duel between mages can be resolved with a single Contest.</figcaption>
+  <figcaption>A duel between mages can be resolved with a single contest.</figcaption>
 </figure>
 
 If the attacker succeeds, they get what they want but the defender does not. The attacker also inflicts an appropriate Condition on the defender with rating equal to the difference in effort.
@@ -136,48 +136,48 @@ If the attacker fails, they do not get what they want but the defender does. The
 
 On ties the defender wins but without inflicting a Condition.
 
-## Traits during Contests
+## traits during Contests
 
-During Contests, using your own Traits to your detriment does not increase the difficulty for yourself but works a little differently. You also have access to your opponents' detrimental Traits to exploit for your advantage.
+During contests, using your own traits to your detriment does not increase the difficulty for yourself but works a little differently. You also have access to your opponents' detrimental traits to exploit for your advantage.
 
-### Opponents' Traits
+### Opponents' traits
 
-During a Contest, you may invoke **1** of your opponent's detrimental Traits which is known to you by describing how you would leverage that Trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll.  
-You may only invoke a single of your opponent's detrimental Traits per test. If your opponent has multiple fitting detrimental Traits, you may only choose **1** of them. If you are testing against multiple opponents, you may also choose **1** Trait from among all their Traits.
+During a contest, you may invoke **1** of your opponent's detrimental traits which is known to you by describing how you would leverage that trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll.  
+You may only invoke a single of your opponent's detrimental traits per test. If your opponent has multiple fitting detrimental traits, you may only choose **1** of them. If you are testing against multiple opponents, you may also choose **1** trait from among all their traits.
 
-Once you have invoked an opponent's Trait during a scene, you may do so until the scene ends or the scene changes so that your previous description would no longer grant you an advantage without having to go into detail how you would leverage that Trait to your advantage.
+Once you have invoked an opponent's trait during a scene, you may do so until the scene ends or the scene changes so that your previous description would no longer grant you an advantage without having to go into detail how you would leverage that trait to your advantage.
 
-You may invoke both an environmental _and_ one of your opponent's Traits on the same roll. This is the only way, after you have chosen your Attribute to gain extra dice on your rolls.
+You may invoke both an environmental _and_ one of your opponent's traits on the same roll. This is the only way, after you have chosen your attribute to gain extra dice on your rolls.
 
-> Cyrene tracks a ghoul through the sewers to its hiding place, where a fight erupts. Cyrene discovered the `Light Sensitivity` Trait with rating **2** of ghouls while doing research and raises the torch in her hand as she rushes forward. Everyone at the table agrees that she can invoke the Trait to her advantage, both when attacking and defending, this way, and she adds **2** die to her attack roll as she blinds the ghoul with fire. As long as she has her torch in this fight with the ghoul, she may add **2** additional die to her attack and defense rolls.
+> Cyrene tracks a ghoul through the sewers to its hiding place, where a fight erupts. Cyrene discovered the `Light Sensitivity` trait with rating **2** of ghouls while doing research and raises the torch in her hand as she rushes forward. Everyone at the table agrees that she can invoke the trait to her advantage, both when attacking and defending, this way, and she adds **2** die to her attack roll as she blinds the ghoul with fire. As long as she has her torch in this fight with the ghoul, she may add **2** additional die to her attack and defense rolls.
 
-### Detrimental Traits
+### Detrimental traits
 
-When you test with a skill in a Contest, you may also use your Traits to your detriment. Though, in most cases, your opponent will be the one to have that idea first. Instead of increasing the difficulty, using a Trait to your detriment during a Contest, lets your opponent add your Trait's rating as dice to their roll.
+When you test with a skill in a contest, you may also use your traits to your detriment. Though, in most cases, your opponent will be the one to have that idea first. Instead of increasing the difficulty, using a trait to your detriment during a contest, lets your opponent add your trait's rating as dice to their roll.
 
-When one of your Traits is used against you this way, you may spend Favor equal to the Trait's rating to not give your opponent any dice, similarly like you would during uncontested tests.
+When one of your traits is used against you this way, you may spend Favor equal to the trait's rating to not give your opponent any dice, similarly like you would during uncontested tests.
 
-> During a kerfuffle at court, Cyrene tries to embarrass one of the guests she met previously (when he crossed her during a previous adventure). She only manages **1** success on her roll, though he manages none at all, he invokes Cyrene's `Drunkard` Trait against her to add **1** die to his roll. Cyrene may now spend **1** Favor to not give him that additional die, but she wants to see what will happen and decides against it.
+> During a kerfuffle at court, Cyrene tries to embarrass one of the guests she met previously (when he crossed her during a previous adventure). She only manages **1** success on her roll, though he manages none at all, he invokes Cyrene's `Drunkard` trait against her to add **1** die to his roll. Cyrene may now spend **1** Favor to not give him that additional die, but she wants to see what will happen and decides against it.
 >
 > The obnoxious guest manages to roll a success on his additional die and turns the outcome into a tie, which he, as the defender, wins. The court is now laughing at Cyrene, as he deflects her insults right back into her face. What a windbag. At least she received **1** **XP** for her Influence from her **1** success.
 
 ## Rulings
 
-In most cases, both the defender and the attacker test the same Skill, though with the Attribute of their choice. In some circumstances it might make sense to test different Skills, though those occasions will be uncommon.
+In most cases, both the defender and the attacker test the same skill, though with the attribute of their choice. In some circumstances it might make sense to test different Skills, though those occasions will be uncommon.
 
-Sometimes there is no obvious defender for a Contest. In that case, without defender for the Contest, on a tie, everyone loses. The GM may also introduce an unexpected defender to win instead in that scenario.
+Sometimes there is no obvious defender for a contest. In that case, without defender for the contest, on a tie, everyone loses. The GM may also introduce an unexpected defender to win instead in that scenario.
 
 Contests can also involve teams instead of single contestants, both on the attacking and defending side. For more details, see [Group Tests](#group-tests).
 
-There may be multiple attacking teams during a Contest (though there is only ever **1** defending team) but there can only ever be a single winner; the attacking team, who achieves the greatest effort wins the Conflict. If two or more attacking teams are tied for greatest effort, they all lose and a different attacking team (or the defending team, if they are the only one left) win instead.
+There may be multiple attacking teams during a contest (though there is only ever **1** defending team) but there can only ever be a single winner; the attacking team, who achieves the greatest effort wins the conflict. If two or more attacking teams are tied for greatest effort, they all lose and a different attacking team (or the defending team, if they are the only one left) win instead.
 
 
 
 # Conflicts
 
-In general, a Contest can handle any interaction between two or more characters; disagreements, arm-wrestling, races, even fights with only one test for each side.  
+In general, a contest can handle any interaction between two or more characters; disagreements, arm-wrestling, races, even fights with only one test for each side.  
 And uncontested Tests handle everything else without an opposing side; athletic challenges, public speeches, travelling, and even murder.  
-But a single roll does not always have enough weight to justify its effect on the narrative. For those occasions, when the stakes are high and the current scene requires a more dramatic resolution, rpg-thingy offers a more intricate resolution mechanic called a [Conflict](/conflict). In essence, it is a series of Contests but with a lot more room for details and casualties. They are detailed in their own chapter.
+But a single roll does not always have enough weight to justify its effect on the narrative. For those occasions, when the stakes are high and the current scene requires a more dramatic resolution, rpg-thingy offers a more intricate resolution mechanic called a [conflict](/conflict). In essence, it is a series of contests but with a lot more room for details and casualties. They are detailed in their own chapter.
 
 Contests work especially well for important fights, long-winded chases, heartfelt debates, and even continent-spanning journeys.
 
@@ -188,31 +188,31 @@ Contests work especially well for important fights, long-winded chases, heartfel
 - Choose a goal to achieve.
 - Describe what action you would like to undertake in the fiction.
 - Choose a skill according to your goal and described action.
-- Pick an [Attribute](/character#Attributes) If you have already described an action, try and go with the approach most fitting. Otherwise, let your choice of approach guide your roleplay.
-- Determine if the test will be uncontested, a Contest, or a Conflict.
+- Pick an [Attribute](/character#Attributes). If you have already described an action, try and go with the Attribute most fitting your description. Otherwise, let your choice of Attribute guide your roleplay.
+- Determine if the test will be uncontested, a contest, or a conflict.
 - **Roll the dice.**
 - The target number for your dice is determined by the skill you've chosen. Every face of a die that comes up as at least that number, is a hit, all others are misses.
-- Invoke Traits, use Traits to you detriment, and spend Favor.
+- Invoke traits, use traits to you detriment, and spend Favor.
 - Determine the outcome of the test.
 
 If you succeeded, you get what you want.
 
-**Failure is the best Teacher:** If you failed, you don't get what you want, but you mark **XP** for the Skill you used equal to the amount of effort you achieved.  
+**Failure is the best Teacher:** If you failed, you don't get what you want, but you mark **XP** for the skill you used equal to the amount of effort you achieved.  
 Alternatively, you may choose to gain **1** Favor instead of receiving any **XP.**
 
-**Let It Ride:** If you fail a test, you may not repeat this combination of Skill and Approach again until something fundamentally changes about the situation.
+**Let It Ride:** If you fail a test, you may not repeat this combination of skill and attribute again until something fundamentally changes about the situation.
 
 > Cyrene wants to enter the sultan's city but the gates are closed and will not open before sunrise. She decides to try her luck anyway. As she approaches the gate, she winks at the younger of the two guards.
 >
-> The Skill is obvious in this scenario, she wants to Influence the guards to let her pass. Cyrene is trained at Influence, so for her every face of a **5** or higher is a success.
+> The skill is obvious in this scenario, she wants to Influence the guards to let her pass. Cyrene is trained at Influence, so for her every face of a **5** or higher is a success.
 >
 > For her Approach, she settles on Intuition. She is going with the flow, trying to draw something out of the guards to turn to her advantage. As her rating for Intuition is **5,** she will roll **5** dice.
 >
 > The GM decides an uncontested test will suffice to convincing the guards to let Cyrene pass.
 >
-> The base difficulty for the test is **1** but the sultan's city has the Trait `Under Martial Law` with a rating of **2.** The curfew will make it harder for Cyrene to get into the city. The Trait increases the difficulty by **2** which is now **3.**
+> The base difficulty for the test is **1** but the sultan's city has the trait `Under Martial Law` with a rating of **2.** The curfew will make it harder for Cyrene to get into the city. The trait increases the difficulty by **2** which is now **3.**
 >
-> Cyrene throws her **5** dice. Two dice come up **1** and. As she has the Trait `Charming Stranger` and she chose Intuition as her Approach, she can re-roll those **1s.** Her result now is **2, 3, 4, 5, 6.** All dice which come up **5+** are hits for her, so she did get **5** hits. Had there not been a curfew, she would have gotten easily into the city. She came to the city to rest not exhaust herself even more, so she decides not to power through. 
+> Cyrene throws her **5** dice. Two dice come up **1** and. As she has the trait `Charming Stranger` and she chose Intuition as her Approach, she can re-roll those **1s.** Her result now is **2, 3, 4, 5, 6.** All dice which come up **5+** are hits for her, so she did get **5** hits. Had there not been a curfew, she would have gotten easily into the city. She came to the city to rest not exhaust herself even more, so she decides not to power through. 
 >
 > She gains **2** Favor, for the **2** effort she achieved and must now try another way to get into the city. She could try to frighten the guards into letting her pass, but with her Vigor rating of **3,** she fears this might go poorly for her and decides against it.
 
@@ -220,7 +220,7 @@ Alternatively, you may choose to gain **1** Favor instead of receiving any **XP.
 
 # Group Tests
 
-Characters may act in tandem with each other, using the same Skill and the same approach to achieve the same goal. When they do, everyone tests and adds their successes together to determine if they manage to succeed as a group.
+Characters may act in tandem with each other, using the same skill and the same approach to achieve the same goal. When they do, everyone tests and adds their successes together to determine if they manage to succeed as a group.
 
 Group tests can be incredible tools to achieve great deeds. They can also simply be used to help your compatriots to overcome obstacles you find trivial. But they come at the cost of increasing the risk for all participants. You either win or you fail as a group.
 
@@ -236,14 +236,14 @@ A group can power through but instead of only one, _each_ member of the group mu
 
 ## Group Contests
 
-When a group tests during Contests, the opposing side of the group adds **1** die for each participant beyond the first. When two or more groups test against each others, each side adds **1** die for each participant on the opposing side beyond the first (this will get incredibly dangerous very quickly).
+When a group tests during contests, the opposing side of the group adds **1** die for each participant beyond the first. When two or more groups test against each others, each side adds **1** die for each participant on the opposing side beyond the first (this will get incredibly dangerous very quickly).
 
-When a group fails a Contest, the opposing side inflict a Condition to _each_ member of the group with a rating equal to the difference between the test's difficulty and the effort they individually mustered.
+When a group fails a contest, the opposing side inflict a Condition to _each_ member of the group with a rating equal to the difference between the test's difficulty and the effort they individually mustered.
 
 > Outside the city, Cyrene meets up with her travel companion Maro, who comes to her with grave news. They definitely need to enter the sultan's city _tonight._ Luckily, Maro remembers scaffolding at a piece of collapsing wall he passed by a few days ago. When they arrive fortune is on their side. Not guards in sight. But scaling the city wall will not be an easy task.
 >
-> The base difficulty for the test is **1** but the city wall has the Trait `Weathered & Steep` with a rating of **2.** The Trait increases the difficulty by **2** which is now **3.** Though, the `Scaffolding` is a Trait with rating **1** which they can use.
+> The base difficulty for the test is **1** but the city wall has the trait `Weathered & Steep` with a rating of **2.** The trait increases the difficulty by **2** which is now **3.** Though, the `Scaffolding` is a trait with rating **1** which they can use.
 > 
-> Cyrene and Maro attempt to climb the wall together, which increases the difficulty by **1** to **4.** They both test their Maneuver with Vigor as the task will require endurance more than anything else. They both invoke the `Scaffolding` Trait to add **1** additional die to their roll. Cyrene rolls **2** hits and so does Maro for a total of **4** effort; just enough to succeed.
+> Cyrene and Maro attempt to climb the wall together, which increases the difficulty by **1** to **4.** They both test their Maneuver with Vigor as the task will require endurance more than anything else. They both invoke the `Scaffolding` trait to add **1** additional die to their roll. Cyrene rolls **2** hits and so does Maro for a total of **4** effort; just enough to succeed.
 > 
 > Alone, none of them would not have managed to scale the wall, but together they prevailed, and now they are finally inside.

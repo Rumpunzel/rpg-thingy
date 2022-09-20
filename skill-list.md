@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Skill List
-description: Details about Skills
+description: Details about skills
 
 # Micro navigation
 micro_nav: true
@@ -34,7 +34,7 @@ Whenever you aim to change someone else's mind or impose your will on others or 
 <div class="callout">
     <p><strong>Special Uses</strong></p>
     <ul>
-        <li>Mending mental Conditions while resting</li>
+        <li>Mending mental conditions while resting</li>
     </ul>
 </div>
 
@@ -95,7 +95,7 @@ Whenever you aim to create new, or improve or destroy existing items and structu
     <p><strong>Special Uses</strong></p>
     <ul>
         <li>Creating and improving Preparations</li>
-        <li>Mending physical Conditions while resting</li>
+        <li>Mending physical conditions while resting</li>
     </ul>
 </div>
 
@@ -116,6 +116,6 @@ Whenever you aim to call on existing connections, funds or knowledge, or aim to 
         <li>Resting in settlements</li>
         <li>Researching while resting</li>
         <li>Buying and selling Preparations</li>
-        <li>Mending worldly Conditions while resting in a settlement</li>
+        <li>Mending social conditions while resting in a settlement</li>
     </ul>
 </div>

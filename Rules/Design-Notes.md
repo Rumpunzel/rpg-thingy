@@ -5,7 +5,7 @@
 #### Primary
 - defending
 - **6**s
-- own Conditions
+- own conditions
 - physical stress
 - weapons & armor
 - acting actively
@@ -23,13 +23,13 @@
 - attacking
 - **1**s
 - boons & banes
-- opponent's Conditions
-- worldly stress
+- opponent's conditions
+- social stress
 - acting reactively
 
 #### Secondary
 - defending
-- opponent's Traits
+- opponent's traits
 - group tests
 - manipulating rolls
 - mental stress
@@ -40,7 +40,7 @@
 
 #### Primary
 - positioning
-- opponent's Traits & Conditions
+- opponent's traits & conditions
 - Preparations
 - mental stress
 - defending perfectly
@@ -51,4 +51,4 @@
 - defending
 - manipulating training & dice modifiers
 - armor
-- allied Conditions
+- allied conditions

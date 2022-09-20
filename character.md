@@ -90,14 +90,14 @@ There are other ways to earn Favor, for example by forgoing **XP** from a failed
 
 # Attributes
 
-Each character has three **Attributes:** **Vigor,** **Intuition,** and **Reason.**
+Each character has three **attributes:** **Vigor,** **Intuition,** and **Reason.**
 
-Each Attribute also has a numerical rating, which determines how many dice you roll when you test with that Attribute. The rating is an objective measure of your character's potential effort they can muster when doing tasks. For example, a bear has more Vigor than a mouse and a dragon even more than almost anything.
+Each attribute also has a numerical rating, which determines how many dice you roll when you test with that attribute. The rating is an objective measure of your character's potential effort they can muster when doing tasks. For example, a bear has more Vigor than a mouse and a dragon even more than almost anything.
 
-Each Attribute represents a different way for your characters approaches problems. How well do they coerce other people into giving them what they want or are they better at relating to others to form connections, or do they build up their case and negotiate? Do they rush in to face their enemies without fear, do they fade into the shadows when they skulk around instead, or how deftly outmaneuver them from a distance? How strong are they, how nimble, how clever?  
-That is represented by your character's Attributes. Your character may approach any problem however they like but their attributes determine what they feel most comfortably doing, or perhaps even how flexible they are.
+Each attribute represents a different way for your characters approaches problems. How well do they coerce other people into giving them what they want or are they better at relating to others to form connections, or do they build up their case and negotiate? Do they rush in to face their enemies without fear, do they fade into the shadows when they skulk around instead, or how deftly outmaneuver them from a distance? How strong are they, how nimble, how clever?  
+That is represented by your character's attributes. Your character may approach any problem however they like but their attributes determine what they feel most comfortably doing, or perhaps even how flexible they are.
 
-Your character's Attribute ratings are fundamental to they are and how they interact with the world and will change only marginally over the course of their story.
+Your character's attribute ratings are fundamental to they are and how they interact with the world and will change only marginally over the course of their story.
 
 ## Vigor
 
@@ -108,7 +108,7 @@ Vigor encompasses direct approaches to problem-solving.
   <figcaption>A warrior facing his enemy armoured in heavy steel and fiery courage.</figcaption>
 </figure>
 
-It's a matter of facing problems head-on, courageous, and with conviction always at your side. A matter of going all out to win it and to win big. As such, it is the Attribute most closely linked to the harnessing of fiery emotions.
+It's a matter of facing problems head-on, courageous, and with conviction always at your side. A matter of going all out to win it and to win big. As such, it is the attribute most closely linked to the harnessing of fiery emotions.
 
 Strength, endurance, tenacity, panache, ferocity, wealth, fame, and power of will are all different aspects of Vigor.
 
@@ -150,13 +150,13 @@ If your character has a high Reason rating, they excel whenever you fell the rid
 
 ## Dice Modifiers
 
-Each Attribute also has a unique dice modifier. To use an Attribute's dice modifier, you need to use a fitting [Trait](#traits). When you do, it will change a few things about how dice are rolled.
+Each attribute also has a unique dice modifier. To use an attribute's dice modifier, you need to use a fitting [trait](#traits). When you do, it will change a few things about how dice are rolled.
 
-| Attribute        | Modifier Name | Effect                                 |
-|-----------------------------|---------------|----------------------------------------|
+| Attribute     | Modifier Name | Effect                                 |
+|---------------|---------------|----------------------------------------|
 | **Vigor**     | _Fervor_      | For each **6,** add an additional die. |
-| **Intuition**      | _Fortune_     | Re-roll each die that comes up **1**.  |
-| **Reason** | _Focus_       | May re-roll all dice once.             |
+| **Intuition** | _Fortune_     | Re-roll each die that comes up **1**.  |
+| **Reason**    | _Focus_       | May re-roll all dice once.             |
 
 Here is an [Anydice](https://anydice.com/program/2b138) link for the corresponding probabilities.
 
@@ -164,7 +164,7 @@ Here is an [Anydice](https://anydice.com/program/2b138) link for the correspondi
 
 # Skills
 
-There are **6** Skills in total (see [Skill List](/skill-list) for more details):
+There are **6** skills in total (see [Skill List](/skill-list) for more details):
 
 Skills represent both an area of expertise, something a character may or may not be trained or even an expert in and a section of the game itself. Each adventure will be different but each adventure will consist of these **6** different types of challenges to varying degrees.
 
@@ -177,116 +177,125 @@ Skills represent both an area of expertise, something a character may or may not
 | [Craft](/skill-list#craft)           | Creating tools and structures; manual labour             |
 | [Resources](/skill-list#resources)   | Leveraging wealth, connections, and sources of knowledge |
 
-A Skill has a corresponding number denoting the character's training. The default is **6.** This number denotes what is the lowest number on a die that counts as a success when that character rolls that Skill.
+A skill has a corresponding number denoting the character's training. The default is **6.** This number denotes what is the lowest number on a die that counts as a success when that character rolls that Skill.
 
-- untrained, a character has **6** in the corresponding Skill
-- trained, a character has **5+** in the Skill
+- untrained, a character has **6** in the corresponding skill
+- trained, a character has **5+** in the skill
 - as an expert, a character has **4+**
 - as a master, a character has **3+** (this is extremely rare)
 
-Whenever the game calls for a test, it will always call for an Attribute and a Skill. The Attribute determines how many dice you roll and the Skill determines what faces of the dice result in a hit or a miss.
+Whenever the game calls for a test, it will always call for an attribute and a skill. The attribute determines how many dice you roll and the skill determines what faces of the dice result in a hit or a miss.
 
-Whenever you do not succeed on a Skill test, you learn something new and gain experience. To be precise, you mark **1** **XP** (**1** **EX**perience **P**oint) for each hit you rolled for that Skill. Each Skill has a separate track for **XP** and at certain intervals, gaining **XP** will improve your training with the Skill.
+Whenever you do not succeed on a skill test, you learn something new and gain experience. You mark **XP** (**EX**perience **P**oints) for that skill equal to the effort you achieved on your failed roll. Each Skill has a separate track for **XP** and, at certain intervals, gaining enough **XP** will grant you access to new [Talents](/talents) and/or improve your training in that Skill.
 
-Skills may also be enhanced by [Talents.](Talents)
+|   XP   | Training |      Talents       |
+|:------:|:--------:|:------------------:|
+| **0**  |    6     |         -          |
+| **10** |    5+    | + 1 Specialization |
+| **20** |    -     |      + 1 Feat      |
+| **30** |    4+    | + 1 Specialization |
+| **40** |    -     |      + 1 Feat      |
+| **50** |    -     |      + 1 Feat      |
+| **60** |    3+    | + 1 Specialization |
 
 
 
-# Traits
 
-A **Trait** is a factual description about what makes your character extraordinary with mechanical weight.
+# traits
 
-A character may have a nice beard but if he has the `Magnificient Beard` Trait, he has such a great beard, you may use it to your benefit and even to your detriment for dramatic effect.
+A **trait** is a factual description about what makes your character extraordinary with mechanical weight.
 
-A Trait has a rating ranging from **1** to **3.**
+A character may have a nice beard but if he has the `Magnificient Beard` trait, he has such a great beard, you may use it to your benefit and even to your detriment for dramatic effect.
 
-By taking a Trait, a player signals to the group that they are interested in that particular part of the story or their character. The higher the rating of your Trait, the more they want the Trait to come up in the game. Consider this when choosing your own Traits. Think about what you want to experience during the game and try to model your character's Traits after the goal.
+A trait has a rating ranging from **1** to **3.**
 
-> Maro has the Trait `Exiled Sellsword of Gantha` with a rating of **2.** By taking this Trait, he let the group know quite a bit about what he wanted to experience with his character. His character is a sellsword, so he will mostly likely want to invoke the Trait during fights. His character is also from a place called Gantha from which he has been exiled. By putting both of these aspects of his character into one Trait, he also signals that those two stories are somehow interconnected.
+By taking a trait, a player signals to the group that they are interested in that particular part of the story or their character. The higher the rating of your trait, the more they want the trait to come up in the game. Consider this when choosing your own traits. Think about what you want to experience during the game and try to model your character's traits after the goal.
+
+> Maro has the trait `Exiled Sellsword of Gantha` with a rating of **2.** By taking this trait, he let the group know quite a bit about what he wanted to experience with his character. His character is a sellsword, so he will mostly likely want to invoke the trait during fights. His character is also from a place called Gantha from which he has been exiled. By putting both of these aspects of his character into one trait, he also signals that those two stories are somehow interconnected.
 >
-> He could have also split the Trait in two such as `Exile of Gantha` and `Famed Sellsword` and given them different ratings, had one aspect been more important to him than the other or if they had nothing or little to do with each other in the story.
+> He could have also split the trait in two such as `Exile of Gantha` and `Famed Sellsword` and given them different ratings, had one aspect been more important to him than the other or if they had nothing or little to do with each other in the story.
 
 
 
-## Using Traits to your Benefit
+## Using traits to your Benefit
 
-When you test a skill, you may invoke one of your Traits, if the Trait is relevant to your current task, and it would sense for it to help you. For example, if you try to hit someone with your sword, and you have a Trait named `Legendary Blademaster`, naturally, you may invoke it.
+When you test a skill, you may invoke one of your traits, if the trait is relevant to your current task, and it would sense for it to help you. For example, if you try to hit someone with your sword, and you have a trait named `Legendary Blademaster`, naturally, you may invoke it.
 
-When you invoke a Trait, you may use the dice modifier for the Attribute you are testing with.
+When you invoke a trait, you may use the dice modifier for the attribute you are testing with.
 
-If the Trait you invoke has a rating of **2,** you may use an additional dice modifier of different Attribute on that roll as well. You choose which of the two other dice modifiers you want to use.
+If the trait you invoke has a rating of **2,** you may use an additional dice modifier of different attribute on that roll as well. You choose which of the two other dice modifiers you want to use.
 
-If the Trait you invoke has a rating of **3,** you may use all dice modifiers of all Attributes on that roll. This is incredibly powerful.
+If the trait you invoke has a rating of **3,** you may use all dice modifiers of all attributes on that roll. This is incredibly powerful.
 
-You may only invoke a single of your Traits per test. If you have multiple Traits which might fit, you have to choose only one of them.
+You may only invoke a single of your traits per test. If you have multiple traits which might fit, you have to choose only one of them.
 
-> Cyrene has the Trait `Drunkard` with a rating of **1.**
+> Cyrene has the trait `Drunkard` with a rating of **1.**
 >
 > During a drinking competition, she invokes it to explode the two **6s** she rolled, which, in the end, gives her just the edge she needs to emerge victorious.
 
 
-## Using Traits to your Detriment
+## Using traits to your Detriment
 
-There are many reasons to use one of your Traits to your detriment. It can lead to great roleplaying moments, it can let you communicate who your character is and what their flaws are, it can be simply for fun, and it can lead to you earning more **XP.**
+There are many reasons to use one of your traits to your detriment. It can lead to great roleplaying moments, it can let you communicate who your character is and what their flaws are, it can be simply for fun, and it can lead to you earning more **XP.**
 
-You may use any of your Traits to your detriment, as long as it makes sense that the Trait would in some way hinder you.
+You may use any of your traits to your detriment, as long as it makes sense that the trait would in some way hinder you.
 
-You may only use a Trait to either help or hinder you, not both. Also, as above, you may only use a single of your Traits per test to hinder you. If you have multiple Traits which might fit, you have to choose only one of them.
+You may only use a trait to either help or hinder you, not both. Also, as above, you may only use a single of your traits per test to hinder you. If you have multiple traits which might fit, you have to choose only one of them.
 
-When you test a skill, you may add one of your Trait's rating to the difficulty, if it would make sense said Trait would hinder you at what you are trying to achieve. This might increase the amount of **XP** you will receive should you fail the test.
+When you test a skill, you may add one of your trait's rating to the difficulty, if it would make sense said trait would hinder you at what you are trying to achieve. This might increase the amount of **XP** you will receive should you fail the test.
 
-The GM may compel you to use one of your Traits to your detriment when it would be both appropriate and dramatic. You may decline to do so by spending Favor equal to the Trait's rating. If you accept, use the Trait to your detriment as you normally would.
+The GM may compel you to use one of your traits to your detriment when it would be both appropriate and dramatic. You may decline to do so by spending Favor equal to the trait's rating. If you accept, use the trait to your detriment as you normally would.
 
-A Trait may only hinder you on uncontested tests (see [Types of Tests](/skill-tests#types-of-tests)).
+A trait may only hinder you on uncontested tests (see [Types of Tests](/skill-tests#types-of-tests)).
 
-> When Cyrene tries to balance across a raging river, her `Drunkard` Trait hinders her, and she adds **1** to the difficulty, which results in her falling into the water where the river drags her downstream instead of succeeding. However, the whole debakel netted her **1** additional **XP.**
-
-
-## Environmental Traits
-
-Your character is not the only one to have Traits. Others characters also have Traits of their own (see [Contests](/skill-tests#contests)) and so does the environment itself, and you may use them to your advantage.
-
-There are always plentiful Traits on your surroundings. Finding them is the easy part, making use of them requires a varying amount of creativity, depending on the circumstances. If it's a `Sunny Day`, then that is a Trait on the scene, so is a `Lively Atmosphere`, `Pouring Rain`, `Thick Forest`, and `Treacherous Swamps`. Most environmental Traits are implied by the GM's description of the scene but some may be stated outright or created by a PC or NPC.
-
-Unless stated otherwise by the GM, all environmental Traits have a rating of **1.** Traits with rating **2** and **3** exist, but they are exceedingly rare.
-
-When you test a skill, you may invoke **1** environmental Trait which is known to you by describing how you would leverage that Trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll.
-
-You may only invoke a single environmental Trait per test. If there are multiple fitting environmental Traits, you may only choose **1** of them.
-
-Once you have invoked an environmental Trait during a scene, you may do so until the scene ends or the scene changes so that your previous description would no longer grant you an advantage without having to go into detail how you would leverage that Trait to your advantage.
-
-> Maro is infiltrating an enemy outpost in the dark of night. The group agrees that he may invoke the implied `Moonless Night` Trait on the scene to gain **1** additional die when sneaking past the guards. As long as it remains night, he may add **1** additional die to his infiltration attempts.
+> When Cyrene tries to balance across a raging river, her `Drunkard` trait hinders her, and she adds **1** to the difficulty, which results in her falling into the water where the river drags her downstream instead of succeeding. However, the whole debakel netted her **1** additional **XP.**
 
 
-## Discovering Traits
+## Environmental traits
 
-If you have a Trait, openly known Traits of places, creatures, or people connected to your area of expertise. You may ask the GM for this at any time, and you are invited to enrich the world with your descriptions of your character's experience any time you see fit.
+Your character is not the only one to have traits. Others characters also have traits of their own (see [contests](/skill-tests#contests)) and so does the environment itself, and you may use them to your advantage.
+
+There are always plentiful traits on your surroundings. Finding them is the easy part, making use of them requires a varying amount of creativity, depending on the circumstances. If it's a `Sunny Day`, then that is a trait on the scene, so is a `Lively Atmosphere`, `Pouring Rain`, `Thick Forest`, and `Treacherous Swamps`. Most environmental traits are implied by the GM's description of the scene but some may be stated outright or created by a PC or NPC.
+
+Unless stated otherwise by the GM, all environmental traits have a rating of **1.** traits with rating **2** and **3** exist, but they are exceedingly rare.
+
+When you test a skill, you may invoke **1** environmental trait which is known to you by describing how you would leverage that trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll.
+
+You may only invoke a single environmental trait per test. If there are multiple fitting environmental traits, you may only choose **1** of them.
+
+Once you have invoked an environmental trait during a scene, you may do so until the scene ends or the scene changes so that your previous description would no longer grant you an advantage without having to go into detail how you would leverage that trait to your advantage.
+
+> Maro is infiltrating an enemy outpost in the dark of night. The group agrees that he may invoke the implied `Moonless Night` trait on the scene to gain **1** additional die when sneaking past the guards. As long as it remains night, he may add **1** additional die to his infiltration attempts.
+
+
+## Discovering traits
+
+If you have a trait, openly known traits of places, creatures, or people connected to your area of expertise. You may ask the GM for this at any time, and you are invited to enrich the world with your descriptions of your character's experience any time you see fit.
 
 > During their last adventure, Mare and Cyrene have crossed path with the robber king of Gantha and Maro got swept up in his character's past and now this robber king spells quite a bit of trouble. Though, as an `Exiled Sellsword of Gantha`, there is for sure something Maro knows about this robber king that might aid them in their struggle.
 
-Depending on the rating of your Trait, different kinds of information are available to you of all places, creatures, or people connected to the Trait:
+Depending on the rating of your trait, different kinds of information are available to you of all places, creatures, or people connected to the trait:
 
-- **Rating 1+:** All known Traits, the highest Attribute, the best Skill, and Disposition.
-- **Rating 2+:** In-depth knowledge of common subject areas; rough outlines of obscure facts; the lowest rated secret Trait, all Attributes, and the three best Skills.
-- **Rating 3+:** Expert at the topic; solid knowledge of even obscure facts and occurrences; all secret Traits, as well as all Skills.
+- **Rating 1+:** All known traits, the highest attribute, the best Skill, and Disposition.
+- **Rating 2+:** In-depth knowledge of common subject areas; rough outlines of obscure facts; the lowest rated secret trait, all attributes, and the three best Skills.
+- **Rating 3+:** Expert at the topic; solid knowledge of even obscure facts and occurrences; all secret traits, as well as all Skills.
 
-> As Maro's Trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's Attributes and that his Reason is quite a lot higher than his.
+> As Maro's trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's attributes and that his Reason is quite a lot higher than his.
 >
-> Fortunately, he also learns of the robber king's lowest rated secret Trait `Only goes out at Night` which has a rating of **1.** It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see [Research](Resting#research)).
+> Fortunately, he also learns of the robber king's lowest rated secret trait `Only goes out at Night` which has a rating of **1.** It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see [Research](Resting#research)).
 
 
-### Creating Traits
+### Creating traits
 
-Alternatively, you may also suggest a new Traits for a place, a creature, or a person connected to one of your own Traits as long as the table agrees with your suggestion.
+Alternatively, you may also suggest a new traits for a place, a creature, or a person connected to one of your own traits as long as the table agrees with your suggestion.
 
-Most often, the GM will like your suggestion and add the Trait (or a variation of it) on their own volition with the rating of their choosing as a new Trait.
+Most often, the GM will like your suggestion and add the trait (or a variation of it) on their own volition with the rating of their choosing as a new trait.
 
-Alternatively, if the new Trait is a fitting and creative idea but would be a little _too_ convenient for your current predicament, the GM may ask you to spend **1** Favor to create the new Trait on the place, creature, or person with rating up to the rating of your own Trait.
+Alternatively, if the new trait is a fitting and creative idea but would be a little _too_ convenient for your current predicament, the GM may ask you to spend **1** Favor to create the new trait on the place, creature, or person with rating up to the rating of your own trait.
 
 
-## Empowering Traits
+## Empowering traits
 
-Any time you use a Trait, you may spend **1** Favor to increase the rating of that Trait by **1.** This effect only lasts for the context the Trait is used it.
+Any time you use a trait, you may spend **1** Favor to increase the rating of that trait by **1.** This effect only lasts for the context the trait is used it.
 
-You may also spend **1** Favor if you do not have a fitting Trait to temporarily act as if you had a fitting Trait with rating **1.**
+You may also spend **1** Favor if you do not have a fitting trait to temporarily act as if you had a fitting trait with rating **1.**

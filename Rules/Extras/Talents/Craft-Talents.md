@@ -33,18 +33,18 @@
 
 ### Intuition
 
-**Always Prepared:** Boons and Banes you create with Craft during positioning for a Conflict are persistent. 
+**Always Prepared:** Boons and Banes you create with Craft during positioning for a conflict are persistent. 
 
 **Ingenuity:** Get **1** additional die when improving Preparations.
 
-**McGyver:** When you spend Favor on a Trait to gain a Preparation, increase the Preparation's rating by **1.**
+**McGyver:** When you spend Favor on a trait to gain a Preparation, increase the Preparation's rating by **1.**
 
 ---
 
 ### Reason
 
-**Master Artisan:** When you invoke a Trait representing your mastery over the relevant skill, instead of re-rolling any dice, you may increase your training for the relevant skill by one tier (from **6** to **5+**, from **5+** to **4+** etc.). >ou cannot have used any dice modifiers for that roll to use this benefit, and you may not use any dice modifiers afterwards either.
+**Master Artisan:** When you invoke a trait representing your mastery over the relevant skill, instead of re-rolling any dice, you may increase your training for the relevant skill by one tier (from **6** to **5+**, from **5+** to **4+** etc.). >ou cannot have used any dice modifiers for that roll to use this benefit, and you may not use any dice modifiers afterwards either.
 
 **Tool Belt:** You may carry up to **3** additional Preparations with you.
 
-**Traps Everywhere:** You may create a special `Traps` Preparation which may be used by your entire team and for any Skill with any Approach.
+**Traps Everywhere:** You may create a special `Traps` Preparation which may be used by your entire team and for any skill with any Approach.

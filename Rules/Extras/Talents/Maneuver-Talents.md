@@ -8,7 +8,7 @@
 
 ### Intuition
 
-**Forerunner:** During Contests (not only Maneuver Contests), ties also count as successes for you. During Conflicts (not only Maneuver Conflicts), you inflict **1** damage to your opponent's Morale on ties. These benefits do not work should your opponent also have this Talent.
+**Forerunner:** During contests (not only Maneuver contests), ties also count as successes for you. During conflicts (not only Maneuver conflicts), you inflict **1** damage to your opponent's Morale on ties. These benefits do not work should your opponent also have this Talent.
 
 **Untouchable Grace:** When you would gain physical Condition, you may rename it and gain it as a mental Condition instead.
 
@@ -38,14 +38,14 @@
 
 ### Intuition
 
-**Opportunist:** When invoking an opponent's Trait (not only for Maneuver tests), gain **1** additional die.
+**Opportunist:** When invoking an opponent's trait (not only for Maneuver tests), gain **1** additional die.
 
-**Reversal of Fortune:** Once per Conflict, may exchange rolls with a willing ally or an opponent rolling at the same time.
+**Reversal of Fortune:** Once per conflict, may exchange rolls with a willing ally or an opponent rolling at the same time.
 
 ---
 
 ### Reason
 
-**Superior Strategist:** When positioning for Conflicts with Maneuver, double your successes.
+**Superior Strategist:** When positioning for conflicts with Maneuver, double your successes.
 
 **One Step Ahead:** Your Maneuver Preparations only degrade when you do not succeed on the test.
