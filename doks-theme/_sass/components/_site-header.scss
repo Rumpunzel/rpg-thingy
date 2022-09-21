@@ -4,7 +4,11 @@
 
 /* ----- General ----- */
 .site-header {
-  position: absolute;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  margin-bottom: 60px;
+  z-index: 1020;
   width: 100%;
   height: 5.625rem;
   background-color: darken($color-theme-dark, 3%);
