@@ -125,7 +125,7 @@ While resting in a settlement, you can mend social conditions with Resource test
 
 
 
-# Conditions in Overview
+# Conditions in Revue
 
 - There are physical, mental, and social conditions. 
 - You have **3** slots for minor conditions, **2** for moderate conditions, and **1** for a major Condition. 
