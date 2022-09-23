@@ -6,6 +6,7 @@
 /* ----- General ----- */
 html {
   font-size: 14px;
+  scroll-padding-top: 150px;
   @include box-sizing(border-box);
   -webkit-tap-highlight-color: transparent;
   -webkit-font-smoothing: antialiased;
