@@ -118,11 +118,10 @@ You may always change your approach and use a different skill to achieve your go
 
 ### Powering Through
 
-When you fail an uncontested test, you may still succeed at a cost, you may power through.
+When you fail an uncontested test, you may still succeed at a cost, you may power through. Instead of failing the test, you succeed by concentrated power of will (as you succeed on the test, you do not mark any **XP**).
 
-To do so, gain a [Condition](/conditions-and-resting#conditions) with a rating equal to the difference between the test's difficulty and the effort you achieved. Name the Condition something appropriate to represent your exhaustion, strain, or injury from powering through.
-
-Instead of failing the test, you succeed by concentrated power of will (as you succeed on the test, you do not mark any **XP**).
+To do so, take a [Stress](/conditions-and-resting#stress) equal to the difference between the test's difficulty and the effort you achieved (choose the [Type of Stress](/conditions-and-resting#condition-types) depending on the situation and how you describe how you power through).  
+If this causes you to take a new condition, name it something appropriate to represent your exhaustion, strain, or injury from powering through.
 
 > Cyrene wants to enter the sultan's city but the gates are closed and will not open before sunrise. She decides to try her luck anyway. As she approaches the gate, she winks at the younger of the two guards.
 >
@@ -151,7 +150,7 @@ Group tests can be incredible tools to achieve great deeds. They can also simply
 
 When a group fails an uncontested test, each member of the group receives **XP** equal to the effort they individually mustered.
 
-A group can power through but _each_ member of the group must take a Condition with a rating equal to the difference between the test's difficulty and the effort they, individually, achieved.
+A group can power through but _each_ member of the group takes stress equal to the difference between the test's difficulty and the effort they, individually, achieved.
 
 > Outside the city, Cyrene meets up with her travel companion Maro, who comes to her with grave news. They definitely need to enter the sultan's city _tonight._ Luckily, Maro remembers scaffolding at the south wall he passed by a few days ago. When they arrive fortune is on their side. Only a few guards in sight. But scaling the city wall undetected will still not be an easy task.
 >
@@ -190,11 +189,11 @@ The defender makes a test; the achieved effort sets the difficulty of the contes
   <figcaption>A duel between mages can be resolved with a single contest.</figcaption>
 </figure>
 
-If the attacker succeeds, they get what they want but the defender does not. The attacker also inflicts an appropriate Condition on the defender with rating equal to the difference in effort.
+If the attacker succeeds, they get what they want but the defender does not. The attacker also inflicts stress of the type of their choosing (as long as it makes sense) on the defender equal to the difference in effort.
 
-If the attacker fails, they do not get what they want but the defender does. The defender also inflicts an appropriate Condition on the attacker with rating equal to the difference in effort.
+If the attacker fails, they do not get what they want but the defender does. The defender also inflicts stress of the type of their choosing (as long as it makes sense) on the attacker equal to the difference in effort.
 
-On ties the defender wins but without inflicting a Condition.
+On ties the defender wins but without inflicting stress.
 
 ## Traits during Contests
 
@@ -226,7 +225,7 @@ When one of your traits is used against you this way, you may spend **1** Favor 
 
 When a group tests during contests, the opposing side of the group adds **1** die for each participant beyond the first. When two or more groups test against each others, each side adds **1** die for each participant on the opposing side beyond the first (this will get incredibly dangerous very quickly).
 
-When a group fails a contest, the opposing side inflict a Condition to _each_ member of the group with a rating equal to the difference between the test's difficulty and the effort they individually mustered.
+When a group fails a contest, the opposing side inflict stress to _each_ member of the group who lost equal to the difference between the opposing side's effort and the effort each member of the group individually mustered.
 
 
 ## Rulings

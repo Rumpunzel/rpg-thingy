@@ -23,61 +23,23 @@ page_nav:
 
 # Conditions
 
-Conditions are temporary but unavoidable negative consequences of your daring adventures. They will get in your way and, with time, accumulate if not looked after. And worst of all, they will help the blackguards who cross your way until you get rid of them.
+Conditions are temporary but unavoidable negative consequences of when you suffer [Stress](#stress) your daring adventures. They will get in your way and, with time, fester if not looked after. And worst of all, they will help the blackguards who cross your way until you get rid of them.
 
-There are three different types of conditions: physical, mental, and social conditions (see [Condition Types](#condition-types)). When the rules call for an _appropriate_ Condition, they reference the different types of conditions, as not all conditions will hinder you on every test.
+Conditions have a number associated with them called their [Severity](#condition-severities). A conditions severity increases as you gain stress during your adventures.
 
-Uncontested test always have a minimum difficulty equal to the highest rating of your appropriate conditions. If an uncontested test already has a higher difficulty, your conditions do not increase it.
+Uncontested test always have a minimum difficulty equal to the highest severity of your appropriate conditions. If an uncontested test already has a higher difficulty, your conditions do not increase it.
 
-During contests, your opponents may use your conditions to their advantage. Your opponent's minimum effort when testing against you is equal to the highest rating of your appropriate conditions.  
-You may use your opponents' conditions against them to gain minimum effort in the same way as your opponent's can use yours against you.
-
-
-
-# Condition Slots
-
-You have **6** slots for three different kinds of conditions. When you receive a new Condition, fill any available, empty slot with rating equal to or greater that Condition's rating. A Condition in a slot always has the slot's rating.
-
-Any of the three different Condition types — physical, mental, and social — fit into any of your available slots.
-
-Should you receive a Condition for which you do not have any empty slots, increase that conditions rating by **1** and try again until you find a slot with rating of at least that Condition's rating.  
-If you cannot find any empty slot to note your Condition, either because the conditions rating is too high or because you have no more slots available, you are in deep trouble:
-
-- During conflicts, you may spend Favor equal to the condition's rating to get a new trait with rating equal to the Condition's rating instead of taking the Condition. Name the trait to describe the permanent injury you suffered and escaped by a hair's breadth. You are removed from the conflict.
-- Otherwise, whatever has been gnawing at you, finally overwhelms you. Be it blood loss, drowning, permanent imprisonment, succumbing to sickness, execution, madness, or complete social ostrezitation, and you must retire your character.
-
-You can reduce the rating of your conditions by tending to them (see [Recovering](#recovering)). conditions only ever reduce their rating, never increase it.  
-When a Condition's rating changes, move it to an empty slot of the new rating. If you do not have an empty slot of the appropriate rating, the Condition does not change.  
-When a Condition's rating is reduced to **0**, it vanishes.
-
-
-### Minor Conditions (Rating 1)
-
-You have **3** slots for minor conditions.
-
-These conditions are minor inconveniences. Superficial cuts, bruised egos, a revolting appearance after days of adventuring, and similar troubles, that arise with living an interesting life, are minor conditions. Nothing that cannot heal or mend with even just a little resting.
-
-As an uncontested test's difficulty is always at least **1** and most foes you will encounter will be armed, so these kinds of conditions are more nuisance than hindrance (unless they begin to pile up and fill your Condition slots).
-
-
-### Moderate Conditions (Rating 2)
-
-You have **2** slots for moderate conditions.
-
-These conditions are moderate setbacks. Flesh wounds, enduring exhaustion, nightmare-inducing disturbances, being accused of a crime, and similar troubles are moderate conditions.
-
-
-### Major Conditions (Rating 3)
-
-You have **1** slot for a major Condition.
-
-These conditions are grievous injuries which threaten to fester and prematurely end your journey should they not get immediate attention. Stab wounds to the gut, feverish sickness, debilitating delusions, complete ostrezitation, and similar threats to your character's life are major conditions.
+During contests, your opponents may use your conditions to their advantage. Your opponent's minimum effort when testing against you is equal to the highest severity of your appropriate conditions.  
+You may use your opponents' conditions against them for minimum effort in the same way as your opponent's can use yours against you.
 
 
 
 # Condition Types
 
-There are three types of conditions: physical, mental, and social.
+You have **1** slot for each a physical, mental, and social condition. When the rules call for an _appropriate_ Condition, they reference the different types of conditions as not all conditions will hinder you on every test.
+
+Your condition slots start of empty. Whenever you suffer stress, mark the lowest available stress box in that slot. If that slot had no stress boxes marked previously, name and add a condition in the slot (see [Stress](#stress)).
+
 
 ## Physical Conditions
 
@@ -87,7 +49,7 @@ Physical conditions always will hinder you on Fight, Maneuver, Wilderness, and C
 
 Physical conditions never hinder you on Influence and Resource tests.
 
-While resting, you can mend physical conditions by testing Craft, though not all ratings can be mended with all [Attributes](/character#attributes).
+While resting, you can mend physical conditions by testing Craft, though not all severities can be mended with all [Attributes](/character#attributes).
 
 - **Minor physical conditions can be mended with any attribute.**
 - **Moderate physical conditions can be mended with Intuition and Reason.** Some sense for field dressing or at least attentive care are required for these kinds of wounds.
@@ -102,7 +64,7 @@ Mental conditions always will hinder you on Influence, Maneuver, and Fight tests
 
 Major mental conditions hinder you on all tests. There is no running from your delusions and greatest fears.
 
-While resting, you can mend mental conditions by testing Influence, though not all ratings can be mended with all Approaches.
+While resting, you can mend mental conditions by testing Influence, though not all severities can be mended with all Approaches.
 
 - **Minor mental conditions can be mended by Influence with any Approach.**
 - **Moderate mental conditions can be mended by Influence with Vigor and Intuition but not by Reason.** Some sense of genuine compassion or at least a warming presence is required for these troubles.
@@ -111,13 +73,15 @@ While resting, you can mend mental conditions by testing Influence, though not a
 
 ## Social Conditions
 
-These conditions encompass all types of societal rejection, injury to your reputation, and emptiness of the purse. The result of a successful slander campaign is a social Condition, so is seclusion (willing or otherwise) from larger society, and so are debts, and being covered in muck.
+These conditions encompass all types of debts, societal rejection, accusations and other injuries to your reputation. The result of a successful slander campaign is a social Condition, so is seclusion (willing or otherwise) from larger society, and so are debts, and being covered in muck.
 
-Social conditions always will hinder you on Craft and Resource tests. Being cut off from the currents of society strains not only the purse but also cuts off the artisan from their supplies and a bad first — or even worse, lasting — impression is an uphill battle when making your case.
+Social conditions always will hinder you on Craft and Resource tests. Being cut off from the currents of society strains your access to all its marvels.
+
+Major social conditions also hinder you on Influence and Craft tests. A horrendous reputation is an uphill battle wherever you might want to make yourself heard and also cuts off the artisan from their supplies.
 
 Social conditions never hinder you on Fight, Maneuver, and Wilderness tests.
 
-While resting in a settlement, you can mend social conditions with Resource tests, though not all ratings can be mended with all Approaches.
+While resting in a settlement, you can mend social conditions with Resource tests, though not all severities can be mended with all Approaches.
 
 - **Minor social conditions can be mended by Resources with any Approach.**
 - **Moderate social conditions can be mended by Resources with Vigor and Reason but not by Intuition.** Fame, Wealth, rigorous bookkeeping, or a sound argument before a court are required to get out of these predicaments.
@@ -125,12 +89,57 @@ While resting in a settlement, you can mend social conditions with Resource test
 
 
 
+# Stress
+
+Each of your condition slots has **6** stress boxes that you can mark to absorb stress you suffer. Each box has a corresponding number which denotes how much stress than box absorbs when you mark it. You have **3** boxes which may absorb **1** stress each, **2** boxes which may absorb up to **2** stress each, and **2** box which may absorb up to **3** stress.
+
+Whenever you suffer stress, mark an empty box in the corresponding condition slot, noting that it absorbed that stress. Stress you suffer must be entirely absorbed by a single box, you may not distribute stress between boxes.
+
+Should you not have an empty box to absorb stress you suffered, you are in deep trouble.
+You may spend Favor equal to the stress you suffered to get a new trait with rating equal to the amount of Favor spent which absorbs the stress for you. Name the trait to describe the permanent injury you suffered and escaped by a hair's breadth. You are removed from any conflict you are participating in.  
+Otherwise, whatever has been gnawing at you, finally overwhelms you. Be it blood loss, drowning, permanent imprisonment, succumbing to sickness, execution, madness, or complete social ostrezitation, and you must retire your character.
+
+
+## Condition Severities
+
+The condition in a condition slot has a severity of **1** (minor), **2** (moderate), or **3** (major) depending on the highest stress box marked in it.
+
+You can reduce the severity of your conditions by tending to them (see [Recovering](#recovering)). When a Condition's severity changes to **0**, it vanishes.
+
+### Minor Conditions (Severity 1)
+
+A condition is minor if the highest marked stress box in its slot is **1.**
+
+These conditions are minor inconveniences. Superficial cuts, bruised egos, a revolting appearance after days of adventuring, and similar troubles, that arise with living an interesting life, are minor conditions. Nothing that cannot heal or mend with even just a little resting.
+
+As an uncontested test's difficulty is always at least **1** and most foes you will encounter will be armed, so these kinds of conditions are more nuisance than hindrance (unless they begin to pile up and fill your Condition slots).
+
+
+### Moderate Conditions (Severity 2)
+
+A condition is moderate if highest marked stress box in its slot is **2.**
+
+These conditions are moderate setbacks. Flesh wounds, enduring exhaustion, nightmare-inducing disturbances, being accused of a crime, and similar troubles are moderate conditions.
+
+
+### Major Conditions (Severity 3)
+
+A condition is major if the **3** stress box is marked.
+
+These conditions are grievous injuries which threaten to fester and prematurely end your journey should they not get immediate attention. Stab wounds to the gut, feverish sickness, debilitating delusions, complete ostrezitation, and similar threats to your character's life are major conditions.
+
+
+
 # Conditions in Revue
 
-- There are physical, mental, and social conditions. 
-- You have **3** slots for minor conditions, **2** for moderate conditions, and **1** for a major Condition. 
-- conditions can be mended by resting. 
-- Tests you encounter will have a minimum difficulty equal to your highest appropriate Condition.
+- There are physical, mental, and social conditions.
+- You have **1** slot each of the three condition types.
+- Each slot has **3** boxes to absorb **1** stress, **2** boxes to absorb up to **2** stress, and **1** box to absorb up to **3** stress.
+- A condition's severity is equal to the highest stress box marked in its slot.
+- Tests you encounter will have a minimum difficulty equal to your highest appropriate condition.
+- If a character cannot absorb stress, they meet their fate.
+- Physical and mental conditions can be mended while resting.
+- Social conditions can only be mended while resting in settlements.
 
 ### Appropriate conditions
 
@@ -143,11 +152,11 @@ This table is meant as a guide, the table's judgement is the ultimate authority 
 
 |                | Physical Hinders | Mental Hinders | Social Hinders |
 |----------------|:----------------:|:--------------:|:--------------:|
-| **Influence**  |        -         |    **All**     |    **All**     |
+| **Influence**  |        -         |    **All**     |  _Only Major_  |
 | **Fight**      |     **All**      |    **All**     |       -        |
 | **Maneuver**   |     **All**      |    **All**     |       -        |
 | **Wilderness** |     **All**      |  _Only Major_  |       -        |
-| **Craft**      |     **All**      |  _Only Major_  |    **All**     |
+| **Craft**      |     **All**      |  _Only Major_  |  _Only Major_  |
 | **Resources**  |        -         |  _Only Major_  |    **All**     |
 
 ### Mending conditions
@@ -167,7 +176,7 @@ The three different types of conditions have restrictions with which skill and w
 
 # Resting
 
-To rest, either test [Resources](/skill-list#resources) if you are in a settlement, or test [Wilderness](/skill-list#wilderness) if are beyond the borders of civilization.
+To rest, either test [Resources](/skill-list#resources) for [Downtime](#downtime) if you are in a settlement, or test [Wilderness](/skill-list#wilderness) to [Make Camp](#making-camp) if are beyond the borders of civilization.
 
 Anyone resting with you may also test the appropriate [Skill](/character#skills). Everyone, who has chosen the same skill and attribute, [tests as a group](/skill-tests#group-tests). If you are resting in a town, you will most likely get bonus dice for your rest roll (see [Supply Rating](/supply-rating)).
 
@@ -185,15 +194,17 @@ While resting, you have access to a number of special skill tests.
 
 ## Recovering
 
-You may mend conditions afflicting you or someone resting with you.
+You may mend physical and mental conditions afflicting you or someone resting with you.
 
-You can mitigate major conditions to moderate conditions, moderate conditions minor conditions, and you can remove minor conditions. You can only mitigate a condition if you have an empty condition slot available for the mitigated condition.
+You can mitigate a major condition to a moderate condition by succeeding on a difficulty **3** test. When you succeed, clear the **3** stress box in the condition's slot.
 
-To mend a minor condition is a difficulty **1** test. To mitigate a moderate condition to a minor condition is a difficulty **2** test. To mitigate a major condition to a moderate condition is a difficulty **3** test.
+You can mitigate a moderate condition to a minor condition by succeeding on a difficulty **2** test. When you succeed, clear both **2** stress boxes in the condition's slot.
+
+You can mend a minor condition by succeeding on a difficulty **1** test. When you succeed, clear all **1** stress box in the condition's slot and remove the condition from its slot.
 
 Mending one of your own conditions increases the difficulty of the test by **1.**
 
-If you are not afflicted by any conditions, you may spend actions to gain a `Well Rested` enduring [Boon](/conflict#boons). This boon lasts across scenes, until it vanishes, or until you rest again, whichever happens first.
+If you all your condition slots are empty, you may spend actions to gain a `Well Rested` enduring [Boon](/conflict#boons). This boon lasts across scenes, until it vanishes, or until you rest again, whichever happens first.
 
 | `WELL RESTED` BOON RATING | ACTIONS REQUIRED |
 |:-------------------------:|:----------------:|
@@ -219,7 +230,7 @@ You may watch the weather any number of times per rest.
 
 
 
-# Resting in the Wilderness
+# Making Camp
 
 While resting in the wilderness, you have access to some additional, special skill tests.
 
@@ -239,9 +250,15 @@ Depending on the attribute you tested with, the `Material` asset will be of a di
 |   **Reason**    |  `Intricate` such as healing herbs, rare blossoms, and alchemical compounds  |
 
 
-# Resting in Settlements
 
-During a rest in a settlement, you have access to some additional, special skill tests.
+# Downtime
+
+While resting a settlement, you have access to some additional, special skill tests.
+
+
+## Recovering in Settlements
+
+While resting in a settlement, you may mend social conditions afflicting you or someone resting with you (just like you would physical or mental conditions).
 
 
 ## Buying
