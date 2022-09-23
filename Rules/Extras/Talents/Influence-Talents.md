@@ -28,14 +28,13 @@
 
 ### Vigor
 
-**Just What You Need:** When resting, you and everyone resting with you may add **1** die when testing to mend a mental Condition. Additionally, the number of required actions to get a `Well Rested` Condition is reduced by **1** for everyone.
-
 ---
 
 ### Intuition
 
 **Dreamer:** At the end of a rest, if you have excess actions left, you may gain an enduring Boon with rating equal to the excess actions representing a prophetic dream you had while resting. Consult with the GM concerning the nature of the dream. The Boon may be used with any skill and any Approach but only in the context or with the subject of your dream.
 
+**Empath:** When resting, you and everyone resting with you may add **1** die when testing to mend a mental Condition. Additionally, the number of required actions to get a `Well Rested` Condition is reduced by **1** for everyone.
 
 ---
 

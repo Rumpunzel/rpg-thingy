@@ -10,7 +10,7 @@
 
 **Forerunner:** During contests (not only Maneuver contests), ties also count as successes for you. During conflicts (not only Maneuver conflicts), you inflict **1** damage to your opponent's Morale on ties. These benefits do not work should your opponent also have this Talent.
 
-**Untouchable Grace:** When you would gain physical Condition, you may rename it and gain it as a mental Condition instead.
+**Untouchable Grace:** When you would gain physical Condition while defending with Intuition, you may rename it and gain it as a mental Condition instead.
 
 **Slippery:** Opponents cannot create Banes with Maneuver against you.
 

@@ -84,8 +84,6 @@ Though it is implied that a Lie is always successfully challenged in the course 
 
 Whenever the Truth or Lie really come out through how you roleplay your character or through the drama that results from your choices, you earn **1** Favor for your character.
 
-There are other ways to earn Favor, for example by forgoing **XP** from a failed test, but playing out Truth and Lie will be your main revenues of Favor.
-
 
 
 # Attributes
@@ -98,6 +96,7 @@ Each attribute represents a different way for your characters approaches problem
 That is represented by your character's attributes. Your character may approach any problem however they like but their attributes determine what they feel most comfortably doing, or perhaps even how flexible they are.
 
 Your character's attribute ratings are fundamental to they are and how they interact with the world and will change only marginally over the course of their story.
+
 
 ## Vigor
 
@@ -179,7 +178,7 @@ Skills represent both an area of expertise, something a character may or may not
 
 A skill has a corresponding number denoting the character's training. The default is **6.** This number denotes what is the lowest number on a die that counts as a success when that character rolls that Skill.
 
-- untrained, a character has **6** in the corresponding skill
+- untrained, a character has **6+** in the corresponding skill
 - trained, a character has **5+** in the skill
 - as an expert, a character has **4+**
 - as a master, a character has **3+** (this is extremely rare)
@@ -244,7 +243,7 @@ You may only use a trait to either help or hinder you, not both. Also, as above,
 
 When you test a skill, you may add one of your trait's rating to the difficulty, if it would make sense said trait would hinder you at what you are trying to achieve. This might increase the amount of **XP** you will receive should you fail the test.
 
-The GM may compel you to use one of your traits to your detriment when it would be both appropriate and dramatic. You may decline to do so by spending Favor equal to the trait's rating. If you accept, use the trait to your detriment as you normally would.
+The GM may suggest one of your traits to be used to your detriment when it would be both appropriate and dramatic. You may decline to do so by spending **1** Favor. If you accept, use the trait to your detriment as you normally would.
 
 A trait may only hinder you on uncontested tests (see [Types of Tests](/skill-tests#types-of-tests)).
 

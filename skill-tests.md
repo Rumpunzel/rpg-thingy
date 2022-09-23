@@ -43,7 +43,7 @@ Most of the time this means either a character or the scene has a trait making t
 
 On the other hand, if the baddie you want to hit with your sword is unconscious, asleep, or otherwise incapacitated, he cannot actively oppose your attempt to stab him and hence, there is no need to consult the dice; it is certain that you will hit.
 
-If it has been established that the guard you want to bribe is crooked, no roll is needed if the bribe is sufficient, as the guard has no qualms which would oppose your attempted bribe. Of course, if you do not know if the bribe is sufficient or you do not know if you can spare the expense, consult the dice.
+If it has been established that the guard you want to bribe is crooked, no roll is needed if the bribe is sufficient, as the guard has no qualms which would oppose your attempted bribe. Of course, if you do not know if the bribe is sufficient, or you do not know if you can spare the expense, consult the dice.
 
 [Assets](/assets) also can make otherwise uncertain actions certain. Crossing a gaping ravine becomes quite a lot simpler if there is a bridge across it. If it has not been maintained for a long time, though, the dice await.
 
@@ -57,17 +57,16 @@ Stabbing a sleeping guard might be doable with certainty but doing so without al
 
 ## Potential Outcomes
 
-If an action has only one possible outcome, it is certain. And action needs at least two (interesting) outcomes to be uncertain. While it is true that, at least in theory, a character could trip and fall down the stairs every time, both walking down and falling down the stairs are intrinsically interesting, so the action is certain.
+Most importantly, if an action has only one (interesting) outcome, it is certain.  While it is true that, at least in theory, a character could trip and fall down the stairs every time, both walking down and falling down the stairs are absolutely uninteresting, so the action is certain and simply happens.
 
-rpg-thingy offers three different resolution mechanics, depending on the dramatic circumstances. All three will be relevant throughout the course of an adventure.
+A test and the corresponding dice roll in rpg thingy should always move the narrative forward. If you find yourself at the same point after a test as you did before, the test was uninteresting and should not have been made.
 
 
 
-# Failure is the best Teacher
+# Improving with Failure
 
-When you fail a skill test, you don't get what you want, but you mark **XP** for the skill you used equal to the number of hits you rolled on that test. This is the only way go gain **XP** for your skills. Using your own traits to increase a test's difficulty might result in you getting more **XP** than you would normally.
-
-Alternatively, you may choose to gain **1** Favor instead of receiving any **XP.**
+When you fail a skill test, you do not get what you want, but you mark **XP** for the skill you used equal to the number of hits you rolled on that test (not the amount of effort you achieved, so using assets cannot gain you additional **XP**).  
+Apart from completing goals, this is the only way go gain **XP** for your skills, though using your own traits to increase a test's difficulty can result in more **XP** than you would get normally.
 
 
 
@@ -106,7 +105,7 @@ As mentioned above, most often uncontested tests result from an environmental tr
 
 Should it ever be unclear what difficulty a test is supposed to be, it will most likely be **1;** you only need to achieve **1** effort to succeed.
 
-If both an environmental and a opponent's trait would notably hinder your efforts, add their ratings together to determine the test's difficulty.  
+If both an environmental and an opponent's trait would notably hinder your efforts, add their ratings together to determine the test's difficulty.  
 Only add the rating of **1** environmental trait and/or **1** opponent's trait to the difficulty of an uncontested test. When multiple would apply, choose the highest or most relevant.
 
 If the difficulty of an uncontested test ever exceeds **3,** consider the characters' goals to determine if a single die roll really is the best way to resolve the situation or if a more detailed conflict would be more appropriate.
@@ -135,24 +134,26 @@ Instead of failing the test, you succeed by concentrated power of will (as you s
 >
 > The sultan's city has the trait `Under Martial Law` with a rating of **2** so the difficulty for the test is also **2.** The curfew turns an otherwise trivial task into a challenge.
 >
-> Cyrene throws her **5** dice. Two dice come up **1** and. As she chose Intuition as her Approach, she uses her trait `Charming Stranger` to re-roll those **1s.** Her result now is **2, 3, 4, 4, 6.** All dice which come up **5+** are hits for her, so she did achieved **1** effort; not enough to succeed. She came to the city to rest not exhaust herself even more, so she decides against powering through.
+> Cyrene throws her **5** dice. Two dice come up **1** and. As she chose Intuition as her Approach, she uses her trait `Charming Stranger` to re-roll those **1s.** Her result now is **2, 3, 4, 4, 6.** All dice which come up **5+** are hits for her, so she achieved **1** effort; not enough to succeed. She came to the city to rest not exhaust herself even more, so she decides against powering through.
 >
 > She marks **1** **XP** for the **1** effort she achieved, but now she must try another way to get into the city. She could try to frighten the guards into letting her pass, but with them already looking irritated and with her Vigor rating of **3,** she fears this might go poorly for her and so decides against it.
 
 
 ## Group Tests
 
-Characters may act in tandem with each other, using the same skill and the same approach to achieve the same goal. When they do, everyone tests and adds their successes together to determine if they manage to succeed as a group.
+Characters may act in tandem with each other when trying to achieve the same goal while testing the same skill (they may use different attributes, though most of the time, they will also use the same attributes). When they do, everyone tests and adds their successes together to determine if they manage to succeed as a group.
 
-Group tests can be incredible tools to achieve great deeds. They can also simply be used to help your compatriots to overcome obstacles you find trivial. But they come at the cost of increasing the risk for all participants. You either win or you fail as a group.
+When two or more character use the same skill and the same attribute to achieve the same goal, they always test as a group.
 
 During uncontested tests, for each participant beyond the first, the difficulty of the test is increased by **1.**
+
+Group tests can be incredible tools to achieve great deeds. They can also simply be used to help your compatriots to overcome obstacles you find trivial. But they come at the cost of increasing the risk for all participants. You either win or you fail as a group.
 
 When a group fails an uncontested test, each member of the group receives **XP** equal to the effort they individually mustered.
 
 A group can power through but _each_ member of the group must take a Condition with a rating equal to the difference between the test's difficulty and the effort they, individually, achieved.
 
-> Outside the city, Cyrene meets up with her travel companion Maro, who comes to her with grave news. They definitely need to enter the sultan's city _tonight._ Luckily, Maro remembers scaffolding at the south wall he passed by a few days ago. When they arrive fortune is on their side. No guards in sight. But scaling the city wall will not be an easy task.
+> Outside the city, Cyrene meets up with her travel companion Maro, who comes to her with grave news. They definitely need to enter the sultan's city _tonight._ Luckily, Maro remembers scaffolding at the south wall he passed by a few days ago. When they arrive fortune is on their side. Only a few guards in sight. But scaling the city wall undetected will still not be an easy task.
 >
 > The city wall has the trait `Weathered & Steep` with a rating of **2,** so the difficulty for the test is **2** but because of the `Martial Law`, there are guards on the wall `Keeping Watch` which increases the difficulty by **1** which is now **3** because they want to enter the city unseen.
 >
@@ -214,7 +215,7 @@ You may invoke both an environmental _and_ one of your opponent's traits on the 
 
 When you test with a skill in a contest, you may also use your traits to your detriment. Though, in most cases, your opponent will be the one to have that idea first. Instead of increasing the difficulty, using a trait to your detriment during a contest, lets your opponent add your trait's rating as dice to their roll.
 
-When one of your traits is used against you this way, you may spend Favor equal to the trait's rating to not give your opponent any dice, similarly like you would during uncontested tests.
+When one of your traits is used against you this way, you may spend **1** Favor to not give your opponent any dice, similarly like you would during uncontested tests.
 
 > During a kerfuffle at court, Cyrene tries to embarrass one of the guests she met previously (when he crossed her during a previous adventure). She only manages **1** success on her roll, though he manages none at all, he invokes Cyrene's `Drunkard` trait against her to add **1** die to his roll. Cyrene may now spend **1** Favor to not give him that additional die, but she wants to see what will happen and decides against it.
 >
