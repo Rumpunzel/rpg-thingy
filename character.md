@@ -78,6 +78,14 @@ Though it is implied that a Lie is always successfully challenged in the course 
 
 
 
+# Goals
+
+At the start of each session, choose a goal for your character to achieve during that session. Try to include _what_ you want to achieve as well as a rough idea of _how_ and _why_ your character is eager to complete that goal.
+
+At the end of each session, if you have achieved your goal, mark **1** **XP** for any of your skills.
+
+
+
 # Favor
 
 **Favor** is a meta-currency you can spend to influence your dice rolls, tilt luck in your favor, or sometimes even fuel powerful magic. It is also part of the character progression.
@@ -185,18 +193,19 @@ A skill has a corresponding number denoting the character's training. The defaul
 
 Whenever the game calls for a test, it will always call for an attribute and a skill. The attribute determines how many dice you roll and the skill determines what faces of the dice result in a hit or a miss.
 
-Whenever you do not succeed on a skill test, you learn something new and gain experience. You mark **XP** (**EX**perience **P**oints) for that skill equal to the effort you achieved on your failed roll. Each Skill has a separate track for **XP** and, at certain intervals, gaining enough **XP** will grant you access to new [Talents](/talents) and/or improve your training in that Skill.
+Whenever you do not succeed on a skill test, you learn something new and mark experience (**XP**) for that skill equal to the number of hits you rolled. Each Skill has a separate track to mark **XP** and whenever you reach **10** **XP** marked for a skill, remove all **XP** marked for it and you gain a new level in that skill (each skill starts at level **0**), which will grant you access to a new [Talents](/talents) and/or improve your training in that Skill (see [Advancement](/advancement)).  
+If your skill is reaches level **7** and for every level thereafter, instead of improving the skill, you gain an [Epiphany](/epiphany) (meaning you may increase **1** of your attributes by **1** or increase the rating of **1** of your traits by **1**).
 
-|   XP   | Training |      Talents       |
-|:------:|:--------:|:------------------:|
-| **0**  |    6     |         -          |
-| **10** |    5+    | + 1 Specialization |
-| **20** |    -     |      + 1 Feat      |
-| **30** |    4+    | + 1 Specialization |
-| **40** |    -     |      + 1 Feat      |
-| **50** |    -     |      + 1 Feat      |
-| **60** |    3+    | + 1 Specialization |
-
+| Level  |  XP   | Training |  Reward  |
+|:------:|:-----:|:--------:|:--------:|
+| **0**  |  _0_  |    6+    |    -     |
+| **1**  | _10_  |    5+    |   Feat   |
+| **2**  | _20_  |    -     |  Talent  |
+| **3**  | _30_  |    4+    |   Feat   |
+| **4**  | _40_  |    -     |  Talent  |
+| **5**  | _50_  |    -     |  Talent  |
+| **6**  | _60_  |    3+    |   Feat   |
+| **7+** | _70+_ |    -     | Epiphany |
 
 
 
