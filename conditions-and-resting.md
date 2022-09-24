@@ -163,7 +163,7 @@ This table is meant as a guide, the table's judgement is the ultimate authority 
 
 The three different types of conditions have restrictions with which skill and which attribute they can be mended.
 
-[Leisure Structures](/assets#leisure-structures) can give you additional options to get rid of your conditions but on the road or without help, these are the only ways to get rid of conditions.
+[Leisure Structures](/settlements#leisure-structures) can give you additional options to get rid of your conditions but on the road or without help, these are the only ways to get rid of conditions.
 
 |              |  Physical Mended By  |  Mental Mended By   | Social Mended By |
 |--------------|:--------------------:|:-------------------:|:----------------:|
@@ -178,7 +178,7 @@ The three different types of conditions have restrictions with which skill and w
 
 To rest, either test [Resources](/skill-list#resources) for [Downtime](#downtime) if you are in a settlement, or test [Wilderness](/skill-list#wilderness) to [Make Camp](#making-camp) if are beyond the borders of civilization.
 
-Anyone resting with you may also test the appropriate [Skill](/character#skills). Everyone, who has chosen the same skill and attribute, [tests as a group](/skill-tests#group-tests). If you are resting in a town, you will most likely get bonus dice for your rest roll (see [Supply Rating](/assets#supply-rating)).
+Anyone resting with you may also test the appropriate [Skill](/character#skills). Everyone, who has chosen the same skill and attribute, [tests as a group](/skill-tests#group-tests). If you are resting in a town, you will most likely get bonus dice for your rest roll (see [Supply Rating](/settlements#supply-ratings)).
 
 You may use [Assets](/assets) as usual, especially rations.
 
@@ -263,7 +263,7 @@ While resting in a settlement, you may mend social conditions afflicting you or 
 
 ## Buying
 
-You may buy assets in settlements by testing Resources. Choose a quality rating for the asset you would like to buy. Not all quality rating may be available everywhere, often quality rating above a town's [Supply Rating](/assets/supply-rating) cannot be found.
+You may buy assets in settlements by testing Resources. Choose a quality rating for the asset you would like to buy. Not all quality rating may be available everywhere, often quality rating above a town's [Supply Rating](/settlements#supply-ratings) cannot be found.
 
 If you succeed, you gain the asset with the chosen quality rating. Otherwise, if you achieved at least **1** effort, you gain an asset with rating **1.**
 
