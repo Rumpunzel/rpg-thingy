@@ -111,7 +111,7 @@ Materials come in three varieties.
 
 ### Sturdy
 
-`Sturdy` materials are needed to create weapons, armor, and build structures. This category encompasses lumber, metals, stone, shelter, and access to high-society.
+`Sturdy` materials are needed to create weapons, armor, and build structures. This category encompasses lumber, stone, shelter, and access to high-society.
 
 ### Supple
 
@@ -119,4 +119,4 @@ Materials come in three varieties.
 
 ### Precious
 
-`Precious` materials are needed to create precise mechanism, fine instruments, and draft contracts. This category encompasses paper, inks, gemstones, rare flowers, information, and alignment with divination.
+`Precious` materials are needed to create precise mechanism, fine instruments, and draft contracts. This category encompasses metal, paper, inks, gemstones, rare flowers, information, and alignment with divination.

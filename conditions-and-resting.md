@@ -187,9 +187,9 @@ You may share materials with anyone else you are resting with as you please.
 
 Depending on the attribute you tested with, the materials will be of a different type.
 
-- **Vigor:** `Sturdy` such as lumber, stone, and metal
+- **Vigor:** `Sturdy` such as lumber and stone
 - **Intuition:** `Supple` such as fruit, organs, skin, and meat
-- **Reason:** `Precious` such as healing herbs, rare blossoms, and alchemical compounds
+- **Reason:** `Precious` such as metal ores, healing herbs, rare blossoms, and alchemical compounds
 
 When you attempt a skill test while resting, you must spend materials equal to the test's difficultly to attempt it. If you do not have enough materials, you cannot attempt it.  
 Most tests may use any type of material but some tests such as [Crafting](/assets#crafting-assets) require specific materials.
