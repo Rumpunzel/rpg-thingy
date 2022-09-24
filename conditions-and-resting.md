@@ -182,14 +182,26 @@ Anyone resting with you may also test the appropriate [Skill](/character#skills)
 
 You may use [Assets](/assets) as usual, especially rations.
 
-The effort you achieve during the rest test is the number of actions you have available for this rest before your shelter is exposed, before your allocated supplies run out and your rest ends.  
-You may share actions with anyone else you are resting with as you please.
+You gain a number of [Materials](/assets#materials) equal to the effort you achieve during the resting test. They symbolize the resources you have at your disposal and the time you have available for this rest before your shelter is exposed, before your allocated supplies run out and your rest ends.  
+You may share materials with anyone else you are resting with as you please.
 
-When you attempt a skill test while resting, you must spend actions equal to the test's difficultly to attempt it. If you do not have enough actions, you cannot attempt it.
+Depending on the attribute you tested with, the materials will be of a different type.
 
-You may end a rest at any point. Any unspent actions you have at the end of a rest are lost.
+- **Vigor:** `Sturdy` such as lumber, stone, and metal
+- **Intuition:** `Supple` such as fruit, organs, skin, and meat
+- **Reason:** `Precious` such as healing herbs, rare blossoms, and alchemical compounds
+
+When you attempt a skill test while resting, you must spend materials equal to the test's difficultly to attempt it. If you do not have enough materials, you cannot attempt it.  
+Most tests may use any type of material but some tests such as [Crafting](/assets#crafting-assets) require specific materials.
+
+You may end a rest at any point. Any unspent materials you have at the end of a rest are lost.
 
 While resting, you have access to a number of special skill tests.
+
+
+## Crafting
+
+You may create new asset and improve assets you already own as detailed in [Crafting Assets](/assets#crafting-assets) in the chapter about assets.
 
 
 ## Recovering
@@ -204,21 +216,16 @@ You can mend a minor condition by succeeding on a difficulty **1** test. When yo
 
 Mending one of your own conditions increases the difficulty of the test by **1.**
 
-If you all your condition slots are empty, you may spend actions to gain a `Well Rested` enduring [Boon](/conflict#boons). This boon lasts across scenes, until it vanishes, or until you rest again, whichever happens first.
+If you all your condition slots are empty, you may spend materials to gain a `Well Rested` enduring [Boon](/conflict#boons). This boon lasts across scenes, until it vanishes, or until you rest again, whichever happens first.
 
-| `WELL RESTED` BOON RATING | ACTIONS REQUIRED |
-|:-------------------------:|:----------------:|
-|           **1**           |        1         |
-|           **2**           |        3         |
-|           **3**           |        6         |
-|           **4**           |        10        |
-|           **5**           |        15        |
-|          **...**          |       ...        |
-
-
-## Crafting
-
-You may create new asset and improve assets you already own as detailed in [Crafting Assets](/assets#crafting-assets) in the chapter about assets.
+| `Well Rested` Boon Rating | Materials Requires |
+|:-------------------------:|:------------------:|
+|           **1**           |         1          |
+|           **2**           |         3          |
+|           **3**           |         6          |
+|           **4**           |         10         |
+|           **5**           |         15         |
+|          **...**          |        ...         |
 
 
 ## Weather-Watching
@@ -238,16 +245,6 @@ While resting in the wilderness, you have access to some additional, special ski
 ## Foraging
 
 You may forage in the wild by testing Wilderness. Choose a difficulty for the foraging test.
-
-If you succeed, gain a `Material` asset with (see [Materials](/assets#materials)) rating equal to the test's difficulty. Otherwise, if you achieved at least **1** effort, you gain a `Material` asset with rating **1.**
-
-Depending on the attribute you tested with, the `Material` asset will be of a different quality.
-
-|    Attribute    |                                   Quality                                    |
-|:---------------:|:----------------------------------------------------------------------------:|
-|    **Vigor**    |                   `Rigid` such as lumber, stone, and metal                   |
-|  **Intuition**  |               `Flexible` such as fruit, organs, skin, and meat               |
-|   **Reason**    |  `Intricate` such as healing herbs, rare blossoms, and alchemical compounds  |
 
 
 
@@ -279,7 +276,7 @@ If you succeed, you gain the asset with the chosen quality rating. Otherwise, if
 
 ## Selling
 
-You may sell an asset you own by testing Resources. Discard any success exceeding the asset's quality rating. The remaining result is the offer you get in your current rest location. You may accept that offer or decline it. Either way, the actions to attempt to sell the asset are spent.  
+You may sell an asset you own by testing Resources. Discard any success exceeding the asset's quality rating. The remaining result is the offer you get in your current rest location. You may accept that offer or decline it. Either way, the materials to attempt to sell the asset are spent.  
 If you accept, you gain a `Currency` asset for Resources of the local currency with rating equal to the effort you achieved and lose the chosen asset.
 
 

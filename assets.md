@@ -91,8 +91,32 @@ If an asset was not originally intended to be used for a purpose, but it makes p
 
 # Crafting Assets
 
+You can create new assets and improve existing assets while [Resting](/conditions-and-resting#crafting). Most of the time this creates a Craft test but sometimes a different skill might be created such as Influence to create, for example, an `Agreement with the Red Council` asset.
+
 To create an asset with quality raring **1** is a test difficulty **1** test.
 
 After being created, assets can only be improved by **1** rating at a time. To improve an asset from a quality rating of **2** to a quality rating of **3,** is a difficulty **3** test.
 
-Improving an asset with rating **0** (an asset which broke after being used) grants **1** extra die to the test.
+Restoring an asset with rating **0** (an asset which broke after being used) to rating **1** grants **1** extra die to the test.
+
+To attempt a test to create or improve and asset, you need a number of materials equal to the test's difficulty, which are consumed with the test, success or failure.
+
+## Materials
+
+You get materials when resting, either in the wilderness by making camp or in settlements when preparing for downtime. Sometimes you might also find materials while adventuring.
+
+A material can be anything from branches, steel, an animal carcass, a rare herb, to even something immaterial such as shelter from the forces of nature or comfortable bed. A material is something you either need to directly craft an asset or something which grants you the peace and quiet to work without disturbances. 
+
+Materials come in three varieties.
+
+### Sturdy
+
+`Sturdy` materials are needed to create weapons, armor, and build structures. This category encompasses lumber, metals, stone, shelter, and access to high-society.
+
+### Supple
+
+`Supple` materials are needed to create simple weapons, art, nurture animals, and prepare meals. This category encompasses wood, raw food, plants, and comfort (like a warm campfire).
+
+### Precious
+
+`Precious` materials are needed to create precise mechanism, fine instruments, and draft contracts. This category encompasses paper, inks, gemstones, rare flowers, information, and alignment with divination.
