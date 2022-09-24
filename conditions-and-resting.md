@@ -38,7 +38,7 @@ You may use your opponents' conditions against them for minimum effort in the sa
 
 You have **1** slot for each a physical, mental, and social condition. When the rules call for an _appropriate_ Condition, they reference the different types of conditions as not all conditions will hinder you on every test.
 
-Your condition slots start of empty. Whenever you suffer stress, mark the lowest available stress box in that slot. If that slot had no stress boxes marked previously, name and add a condition in the slot (see [Stress](#stress)).
+Your condition slots start of empty. Whenever you suffer stress of a certain type, mark the lowest available stress box in the slot of that type. If that slot had no stress boxes marked previously, name and add a condition into the slot (see [Stress](#stress)).
 
 
 ## Physical Conditions
@@ -163,7 +163,7 @@ This table is meant as a guide, the table's judgement is the ultimate authority 
 
 The three different types of conditions have restrictions with which skill and which attribute they can be mended.
 
-[Leisure Structures](/supply-rating#leisure-structures) can give you additional options to get rid of your conditions but on the road or without help, these are the only ways to get rid of conditions.
+[Leisure Structures](/assets#leisure-structures) can give you additional options to get rid of your conditions but on the road or without help, these are the only ways to get rid of conditions.
 
 |              |  Physical Mended By  |  Mental Mended By   | Social Mended By |
 |--------------|:--------------------:|:-------------------:|:----------------:|
@@ -178,7 +178,7 @@ The three different types of conditions have restrictions with which skill and w
 
 To rest, either test [Resources](/skill-list#resources) for [Downtime](#downtime) if you are in a settlement, or test [Wilderness](/skill-list#wilderness) to [Make Camp](#making-camp) if are beyond the borders of civilization.
 
-Anyone resting with you may also test the appropriate [Skill](/character#skills). Everyone, who has chosen the same skill and attribute, [tests as a group](/skill-tests#group-tests). If you are resting in a town, you will most likely get bonus dice for your rest roll (see [Supply Rating](/supply-rating)).
+Anyone resting with you may also test the appropriate [Skill](/character#skills). Everyone, who has chosen the same skill and attribute, [tests as a group](/skill-tests#group-tests). If you are resting in a town, you will most likely get bonus dice for your rest roll (see [Supply Rating](/assets#supply-rating)).
 
 You may use [Assets](/assets) as usual, especially rations.
 
@@ -196,9 +196,9 @@ While resting, you have access to a number of special skill tests.
 
 You may mend physical and mental conditions afflicting you or someone resting with you.
 
-You can mitigate a major condition to a moderate condition by succeeding on a difficulty **3** test. When you succeed, clear the **3** stress box in the condition's slot.
+You can mitigate a major condition to a moderate condition by succeeding on a difficulty **3** test. When you succeed, clear the **3** stress box in the condition's slot and rename the condition to reflect its mitigated severity.
 
-You can mitigate a moderate condition to a minor condition by succeeding on a difficulty **2** test. When you succeed, clear both **2** stress boxes in the condition's slot.
+You can mitigate a moderate condition to a minor condition by succeeding on a difficulty **2** test. When you succeed, clear both **2** stress boxes in the condition's slot and rename the condition to reflect its mitigated severity.
 
 You can mend a minor condition by succeeding on a difficulty **1** test. When you succeed, clear all **1** stress box in the condition's slot and remove the condition from its slot.
 
@@ -263,7 +263,7 @@ While resting in a settlement, you may mend social conditions afflicting you or 
 
 ## Buying
 
-You may buy assets in settlements by testing Resources. Choose a quality rating for the asset you would like to buy. Not all quality rating may be available everywhere, often quality rating above a town's [supply rating](/supply-rating) cannot be found.
+You may buy assets in settlements by testing Resources. Choose a quality rating for the asset you would like to buy. Not all quality rating may be available everywhere, often quality rating above a town's [Supply Rating](/assets/supply-rating) cannot be found.
 
 If you succeed, you gain the asset with the chosen quality rating. Otherwise, if you achieved at least **1** effort, you gain an asset with rating **1.**
 
