@@ -23,7 +23,7 @@ grid_navigation:
     - title: Settlements
       excerpt: Stuff about settlements & kingdoms
       cta: Read more
-      url: settlements
+      url: gm-tools/settlements
 
 ---
 
