@@ -103,7 +103,7 @@ To attempt a test to create or improve and asset, you need a number of materials
 
 ## Materials
 
-You get materials when resting, either in the wilderness by making camp or in settlements when preparing for downtime. Sometimes you might also find materials while adventuring.
+You get materials when resting, either in the wilderness by making camp or in settlements when preparing for downtime. Sometimes you might also find assets that function as materials while adventuring.
 
 A material can be anything from branches, steel, an animal carcass, a rare herb, to even something immaterial such as shelter from the forces of nature or comfortable bed. A material is something you either need to directly craft an asset or something which grants you the peace and quiet to work without disturbances. 
 
@@ -111,12 +111,12 @@ Materials come in three varieties.
 
 ### Sturdy
 
-`Sturdy` materials are needed to create weapons, armor, and build structures. This category encompasses lumber, stone, shelter, and access to high-society.
+`Sturdy` materials are needed to create simple weapons and build structures. This category encompasses lumber, stone, shelter, and access to high-society.
 
 ### Supple
 
-`Supple` materials are needed to create simple weapons, art, nurture animals, and prepare meals. This category encompasses wood, raw food, plants, and comfort (like a warm campfire).
+`Supple` materials are needed to create food, art, clothing and nurture animals. This category encompasses raw food, plants, and comfort (like a warm campfire).
 
 ### Precious
 
-`Precious` materials are needed to create precise mechanism, fine instruments, and draft contracts. This category encompasses metal, paper, inks, gemstones, rare flowers, information, and alignment with divination.
+`Precious` materials are needed to create refined weapons and armor, fine instruments, and draft contracts. This category encompasses metal, paper, ink, gemstones, rare flowers, and indispensable information.
