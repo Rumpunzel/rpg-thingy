@@ -24,7 +24,7 @@ page_nav:
 
 Gear [Preparations](Preparations) may have additional properties, abilities (properties which may activated at the cost of quality rating), and/or [traits](traits) (which work as other traits do).
 
-These properties are only for their corresponding skill [conflicts](conflict), only when the Preparation is used, and only as long as the Preparation has a rating of at least **1.**
+These properties are only for their corresponding skill [conflicts](conflicts), only when the Preparation is used, and only as long as the Preparation has a rating of at least **1.**
 
 The traits may be invoked in whatever context seems appropriate.
 
@@ -67,7 +67,7 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 - **Deadly:** If you rolled a **6,** you may treat this weapon's rating as if it were **1** greater
 - **Defensive:** Full weapon rating for defending with [Intuition](Approaches#intuition)
 - **Missile:** No Morale damage for your team when attacking and if weapon rating is not enough to succeed
-- **Reach:** May add weapon rating as dice for [Maneuver](Skills#maneuver) [Positioning](conflict#positioning) using [Reason](Approaches#reason)
+- **Reach:** May add weapon rating as dice for [Maneuver](Skills#maneuver) [Positioning](conflicts#positioning) using [Reason](Approaches#reason)
 - **Refined:** Requires **1** additional success when creating and repairing
 - **Tactical:** Boons created by Maneuver during Positioning using this weapon's extra **Reach** dice, are [enduring](Boons-&-Banes#enduring-boons--banes)
 - **Versatile:** Full weapon rating when attacking with any Approach

@@ -243,7 +243,7 @@ There may be multiple attacking teams during a contest (though there is only eve
 
 In general, a contest can handle any interaction between two or more characters; disagreements, arm-wrestling, races, even fights with only one test for each side.  
 And uncontested Tests handle everything else without an opposing side; athletic challenges, public speeches, travelling, and even murder.  
-But a single roll does not always have enough weight to justify its effect on the narrative. For those occasions, when the stakes are high and the current scene requires a more dramatic resolution, rpg-thingy offers a more intricate resolution mechanic called a [conflict](conflict). In essence, it is a series of contests but with a lot more room for details and casualties. They are detailed in their own chapter.
+But a single roll does not always have enough weight to justify its effect on the narrative. For those occasions, when the stakes are high and the current scene requires a more dramatic resolution, rpg-thingy offers a more intricate resolution mechanic called a [conflict](conflicts). In essence, it is a series of contests but with a lot more room for details and casualties. They are detailed in their own chapter.
 
 Contests work especially well for important fights, long-winded chases, heartfelt debates, and even continent-spanning journeys.
 

@@ -8,15 +8,14 @@ permalink: /gm-tools
 # Hero section
 title: GM Tools
 description: Stuff about running rpg-thingy
-
-# Micro navigation
-micro_nav: true
-
-# Page navigation
-page_nav:
-    prev:
-        content: BACK TO HOMEPAGE
-        url: /
+buttons:
+    - content: BACK TO HOMEPAGE
+      url: /
+      external_url: false
+    - icon: arrow-right
+      content: Read GM Tools
+      url: /gm-tools/settlements
+      external_url: false
 
 # Grid navigation
 grid_navigation:

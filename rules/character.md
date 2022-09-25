@@ -15,8 +15,8 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: BACK TO HOMEPAGE
-        url: /
+        content: Rules Overview
+        url: /rules
     next:
         content: Skill Tests
         url: /skill-tests

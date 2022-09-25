@@ -217,7 +217,7 @@ You can mend a minor condition by succeeding on a difficulty **1** test. When yo
 
 Mending one of your own conditions increases the difficulty of the test by **1.**
 
-If you all your condition slots are empty, you may spend materials to gain a `Well Rested` enduring [Boon](conflict#boons). This boon lasts across scenes, until it vanishes, or until you rest again, whichever happens first.
+If you all your condition slots are empty, you may spend materials to gain a `Well Rested` enduring [Boon](conflicts#boons). This boon lasts across scenes, until it vanishes, or until you rest again, whichever happens first.
 
 | `Well Rested` Boon Rating | Materials Requires |
 |:-------------------------:|:------------------:|

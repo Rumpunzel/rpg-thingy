@@ -19,7 +19,7 @@ page_nav:
         url: /conditions-and-resting
     next:
         content: Conflicts
-        url: /conflict
+        url: /conflicts
 ---
 
 # Assets
