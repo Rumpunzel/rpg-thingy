@@ -3,6 +3,7 @@
 layout: default
 keywords:
 comments: false
+permalink: /gear
 
 # Hero section
 title: Gear

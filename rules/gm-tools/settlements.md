@@ -3,6 +3,7 @@
 layout: default
 keywords:
 comments: false
+permalink: /gm-tools/settlements
 
 # Hero section
 title: Settlements

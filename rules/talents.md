@@ -3,6 +3,7 @@
 layout: default
 keywords:
 comments: false
+permalink: /talents
 
 # Hero section
 title: Talents

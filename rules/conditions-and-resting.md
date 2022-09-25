@@ -3,6 +3,7 @@
 layout: default
 keywords:
 comments: false
+permalink: /conditions-and-resting
 
 # Hero section
 title: Conditions & Resting
@@ -49,7 +50,7 @@ Physical conditions always will hinder you on Fight, Maneuver, Wilderness, and C
 
 Physical conditions never hinder you on Influence and Resource tests.
 
-While resting, you can mend physical conditions by testing Craft, though not all severities can be mended with all [Attributes](/character#attributes).
+While resting, you can mend physical conditions by testing Craft, though not all severities can be mended with all [Attributes](character#attributes).
 
 - **Minor physical conditions can be mended with any attribute.**
 - **Moderate physical conditions can be mended with Intuition and Reason.** Some sense for field dressing or at least attentive care are required for these kinds of wounds.
@@ -163,7 +164,7 @@ This table is meant as a guide, the table's judgement is the ultimate authority 
 
 The three different types of conditions have restrictions with which skill and which attribute they can be mended.
 
-[Leisure Structures](/settlements#leisure-structures) can give you additional options to get rid of your conditions but on the road or without help, these are the only ways to get rid of conditions.
+[Leisure Structures](gm-tools/settlements#leisure-structures) can give you additional options to get rid of your conditions but on the road or without help, these are the only ways to get rid of conditions.
 
 |              |  Physical Mended By  |  Mental Mended By   | Social Mended By |
 |--------------|:--------------------:|:-------------------:|:----------------:|
@@ -178,21 +179,21 @@ The three different types of conditions have restrictions with which skill and w
 
 To rest, either test [Resources](/skill-list#resources) for [Downtime](#downtime) if you are in a settlement, or test [Wilderness](/skill-list#wilderness) to [Make Camp](#making-camp) if are beyond the borders of civilization.
 
-Anyone resting with you may also test the appropriate [Skill](/character#skills). Everyone, who has chosen the same skill and attribute, [tests as a group](/skill-tests#group-tests). If you are resting in a town, you will most likely get bonus dice for your rest roll (see [Supply Rating](/settlements#supply-ratings)).
+Anyone resting with you may also test the appropriate [Skill](character#skills). Everyone, who has chosen the same skill and attribute, [tests as a group](/skill-tests#group-tests). If you are resting in a town, you will most likely get bonus dice for your rest roll (see [Supply Rating](/rules/gm-tools/settlements.md#supply-ratings)).
 
-You may use [Assets](/assets) as usual, especially rations.
+You may use [Assets](assets) as usual, especially rations.
 
-You gain a number of [Materials](/assets#materials) equal to the effort you achieve during the resting test. They symbolize the resources you have at your disposal and the time you have available for this rest before your shelter is exposed, before your allocated supplies run out and your rest ends.  
+You gain a number of [Materials](assets#materials) equal to the effort you achieve during the resting test. They symbolize the resources you have at your disposal and the time you have available for this rest before your shelter is exposed, before your allocated supplies run out and your rest ends.  
 You may share materials with anyone else you are resting with as you please.
 
 Depending on the attribute you tested with, the materials will be of a different type.
 
-|               Vigor                |             Intuition              |                 Reason                 |
-|:----------------------------------:|:----------------------------------:|:--------------------------------------:|
-| [Sturdy Materials](/assets#sturdy) | [Supple Materials](/assets#supple) | [Precious Materials](/assets#precious) |
+|               Vigor               |             Intuition             |                Reason                 |
+|:---------------------------------:|:---------------------------------:|:-------------------------------------:|
+| [Sturdy](assets#sturdy) materials | [Supple](assets#supple) materials | [Precious](assets#precious) materials |
 
 When you attempt a skill test while resting, you must spend materials equal to the test's difficultly to attempt it. If you do not have enough materials, you cannot attempt it.  
-Most tests may use any type of material but some tests such as [Crafting](/assets#crafting-assets) require specific materials.
+Most tests may use any type of material but some tests such as [Crafting](assets#crafting-assets) require specific materials.
 
 You may end a rest at any point. Any unspent materials you have at the end of a rest are lost.
 
@@ -201,7 +202,7 @@ While resting, you have access to a number of special skill tests.
 
 ## Crafting
 
-You may create new asset and improve assets you already own as detailed in [Crafting Assets](/assets#crafting-assets) in the chapter about assets.
+You may create new asset and improve assets you already own as detailed in [Crafting Assets](assets#crafting-assets) in the chapter about assets.
 
 
 ## Recovering
@@ -216,7 +217,7 @@ You can mend a minor condition by succeeding on a difficulty **1** test. When yo
 
 Mending one of your own conditions increases the difficulty of the test by **1.**
 
-If you all your condition slots are empty, you may spend materials to gain a `Well Rested` enduring [Boon](/conflict#boons). This boon lasts across scenes, until it vanishes, or until you rest again, whichever happens first.
+If you all your condition slots are empty, you may spend materials to gain a `Well Rested` enduring [Boon](conflict#boons). This boon lasts across scenes, until it vanishes, or until you rest again, whichever happens first.
 
 | `Well Rested` Boon Rating | Materials Requires |
 |:-------------------------:|:------------------:|
@@ -260,7 +261,7 @@ While resting in a settlement, you may mend social conditions afflicting you or 
 
 ## Buying
 
-You may buy assets in settlements by testing Resources. Choose a quality rating for the asset you would like to buy. Not all quality rating may be available everywhere, often quality rating above a town's [Supply Rating](/settlements#supply-ratings) cannot be found.
+You may buy assets in settlements by testing Resources. Choose a quality rating for the asset you would like to buy. Not all quality rating may be available everywhere, often quality rating above a town's [Supply Rating](gm-tools/settlements#supply-ratings) cannot be found.
 
 If you succeed, you gain the asset with the chosen quality rating. Otherwise, if you achieved at least **1** effort, you gain an asset with rating **1.**
 

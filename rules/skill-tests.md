@@ -3,6 +3,7 @@
 layout: default
 keywords:
 comments: false
+permalink: /skill-tests
 
 # Hero section
 title: Skill Tests
@@ -45,7 +46,7 @@ On the other hand, if the baddie you want to hit with your sword is unconscious,
 
 If it has been established that the guard you want to bribe is crooked, no roll is needed if the bribe is sufficient, as the guard has no qualms which would oppose your attempted bribe. Of course, if you do not know if the bribe is sufficient, or you do not know if you can spare the expense, consult the dice.
 
-[Assets](/assets) also can make otherwise uncertain actions certain. Crossing a gaping ravine becomes quite a lot simpler if there is a bridge across it. If it has not been maintained for a long time, though, the dice await.
+[Assets](assets) also can make otherwise uncertain actions certain. Crossing a gaping ravine becomes quite a lot simpler if there is a bridge across it. If it has not been maintained for a long time, though, the dice await.
 
 
 ## Character Goals
@@ -120,7 +121,7 @@ You may always change your approach and use a different skill to achieve your go
 
 When you fail an uncontested test, you may still succeed at a cost, you may power through. Instead of failing the test, you succeed by concentrated power of will (as you succeed on the test, you do not mark any **XP**).
 
-To do so, take a [Stress](/conditions-and-resting#stress) equal to the difference between the test's difficulty and the effort you achieved (choose the [Type of Stress](/conditions-and-resting#condition-types) depending on the situation and how you describe how you power through).  
+To do so, take a [Stress](conditions-and-resting#stress) equal to the difference between the test's difficulty and the effort you achieved (choose the [Type of Stress](/rules/conditions-and-resting.md#condition-types) depending on the situation and how you describe how you power through).  
 If this causes you to take a new condition, name it something appropriate to represent your exhaustion, strain, or injury from powering through.
 
 > Cyrene wants to enter the sultan's city but the gates are closed and will not open before sunrise. She decides to try her luck anyway. As she approaches the gate, she winks at the younger of the two guards.
@@ -242,7 +243,7 @@ There may be multiple attacking teams during a contest (though there is only eve
 
 In general, a contest can handle any interaction between two or more characters; disagreements, arm-wrestling, races, even fights with only one test for each side.  
 And uncontested Tests handle everything else without an opposing side; athletic challenges, public speeches, travelling, and even murder.  
-But a single roll does not always have enough weight to justify its effect on the narrative. For those occasions, when the stakes are high and the current scene requires a more dramatic resolution, rpg-thingy offers a more intricate resolution mechanic called a [conflict](/conflict). In essence, it is a series of contests but with a lot more room for details and casualties. They are detailed in their own chapter.
+But a single roll does not always have enough weight to justify its effect on the narrative. For those occasions, when the stakes are high and the current scene requires a more dramatic resolution, rpg-thingy offers a more intricate resolution mechanic called a [conflict](conflict). In essence, it is a series of contests but with a lot more room for details and casualties. They are detailed in their own chapter.
 
 Contests work especially well for important fights, long-winded chases, heartfelt debates, and even continent-spanning journeys.
 
@@ -253,7 +254,7 @@ Contests work especially well for important fights, long-winded chases, heartfel
 - Choose a goal to achieve.
 - Describe what action you would like to undertake in the fiction.
 - Choose a skill according to your goal and described action.
-- Pick an [Attribute](/character#Attributes). If you have already described an action, try and go with the Attribute most fitting your description. Otherwise, let your choice of Attribute guide your roleplay.
+- Pick an [Attribute](character#attributes). If you have already described an action, try and go with the Attribute most fitting your description. Otherwise, let your choice of Attribute guide your roleplay.
 - Determine if the test will be uncontested, a contest, or a conflict.
 - **Roll the dice.**
 - The target number for your dice is determined by the skill you've chosen. Every face of a die that comes up as at least that number, is a hit, all others are misses.

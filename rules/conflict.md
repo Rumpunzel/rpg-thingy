@@ -3,6 +3,7 @@
 layout: default
 keywords:
 comments: false
+permalink: /conflict
 
 # Hero section
 title: Conflicts
@@ -23,7 +24,7 @@ page_nav:
 
 # Boons & Banes
 
-Sometimes during a scene or [conflict](/conflict) you want to help yourself or an ally, or hinder an opponent. In that case, you may create a Boon to aid or a Bane to hinder. In conflicts, you may to so during [Positioning](/conflict#positioning) and hence, also during the conflict like any other Positioning.
+Sometimes during a scene or [conflict](conflict) you want to help yourself or an ally, or hinder an opponent. In that case, you may create a Boon to aid or a Bane to hinder. In conflicts, you may to so during [Positioning](/rules/conflict.md#positioning) and hence, also during the conflict like any other Positioning.
 
 When you test a skill to create a Boon or Bane, the number of successes (or excess successes if someone defends against your attempt) determines the Boon's/Bane's rating.
 

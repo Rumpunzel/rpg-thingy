@@ -3,6 +3,7 @@
 layout: default
 keywords:
 comments: false
+permalink: /character
 
 # Hero section
 title: Character
@@ -290,7 +291,7 @@ Depending on the rating of your trait, different kinds of information are availa
 
 > As Maro's trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's best attribute is Reason and that it is quite a lot higher than Maro's.
 >
-> Fortunately, he also learns of the robber king's lowest rated secret trait `Only goes out at Night` which has a rating of **1.** It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see [Research](/conditions-and-resting#research)).
+> Fortunately, he also learns of the robber king's lowest rated secret trait `Only goes out at Night` which has a rating of **1.** It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see [Research](conditions-and-resting#research)).
 
 
 ### Creating Traits

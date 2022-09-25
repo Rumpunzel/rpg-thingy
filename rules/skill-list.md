@@ -3,6 +3,7 @@
 layout: default
 keywords:
 comments: false
+permalink: /skill-list
 
 # Hero section
 title: Skill List

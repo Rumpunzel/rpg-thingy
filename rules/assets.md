@@ -3,6 +3,7 @@
 layout: default
 keywords:
 comments: false
+permalink: /assets
 
 # Hero section
 title: Assets
@@ -29,7 +30,7 @@ Assets have a specific use case. A weapon can be used to attack with [Fight](/sk
 
 Assets may have additional properties such as weapons being able to be used as assets for other skills than Fight or granting other benefits or have traits of their own (see [Gear](/gear)).
 
-You may buy new assets (see [Resting](/conditions-and-resting#crafting)) and create new assets or improve assets you already own (see [Crafting](/#crafting)).
+You may buy new assets (see [Resting](conditions-and-resting#crafting)) and create new assets or improve assets you already own (see [Crafting](/#crafting)).
 
 
 # Quality Rating
@@ -40,7 +41,7 @@ You may use an asset after rolling with a fitting skill. Your minimum effort for
 
 If an asset's quality rating drops to 0, it can no longer be used.
 
-When you use an asset to increase your successes, but you still fail at the test, the asset does not increase the [Favor](/character#favor) you gain. You only get Favor for the hits you have actually rolled.
+When you use an asset to increase your successes, but you still fail at the test, the asset does not increase the [Favor](character#favor) you gain. You only get Favor for the hits you have actually rolled.
 
 > Maro finds himself in a skirmish with a vicious assassin who ambushed him in a darkened street corner.
 > 
@@ -70,7 +71,7 @@ A masterpiece does not degrade if it is used for minimum effort on a test and th
 
 ### Masterpiece Traits
 
-Additionally, all masterpieces have a masterpiece [Trait](/character#traits) describing its exceptional quality with rating equal to is masterpiece rating.  
+Additionally, all masterpieces have a masterpiece [Trait](character#traits) describing its exceptional quality with rating equal to is masterpiece rating.  
 Increasing a masterpiece's quality rating might increase the masterpiece trait's rating while degrading a masterpiece's quality rating might result in it losing its masterpiece rating and with it its masterpiece trait.
 
 When you test a skill, you may invoke **1** of your assets' masterpiece traits either on a test fitting of that asset's purpose or by describing how you would leverage that trait to your advantage. When you do, add its masterpiece trait's rating as dice to your roll.
@@ -83,7 +84,7 @@ You may only invoke a single of your assets' masterpiece traits per test. If the
 When using an asset for with skill other than its intended purpose, its rating is considered to be **1.**  
 If the asset is a masterpiece, instead its rating is considered to be the asset's masterpiece rating for that test.
 
-When using an asset with an [Attribute](/character#attributes) other than its intended purpose, it always degrades, even if it is a masterpiece.
+When using an asset with an [Attribute](character#attributes) other than its intended purpose, it always degrades, even if it is a masterpiece.
 
 If an asset was not originally intended to be used for a purpose, but it makes perfect sense that it would help you for this as it would for its original purpose, you may use an asset without any penalties for that test.
 
@@ -91,7 +92,7 @@ If an asset was not originally intended to be used for a purpose, but it makes p
 
 # Crafting Assets
 
-You can create new assets and improve existing assets while [Resting](/conditions-and-resting#crafting). Most of the time this creates a Craft test but sometimes a different skill might be created such as Influence to create, for example, an `Agreement with the Red Council` asset.
+You can create new assets and improve existing assets while [Resting](conditions-and-resting#crafting). Most of the time this creates a Craft test but sometimes a different skill might be created such as Influence to create, for example, an `Agreement with the Red Council` asset.
 
 To create an asset with quality raring **1** is a test difficulty **1** test.
 

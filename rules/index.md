@@ -3,6 +3,7 @@
 layout: homepage
 keywords:
 comments: false
+permalink: /
 
 # Hero section
 title: rpg-thingy
@@ -24,6 +25,18 @@ grid_navigation:
       excerpt: List of all skills with applications
       cta: Read more
       url: skill-list
+    - title: Talents
+      excerpt: List of talents which improve skills
+      cta: Read more
+      url: talents
+    - title: Gear
+      excerpt: List of extended assets like weapons and armor
+      cta: Read more
+      url: gear
+    - title: GM Tools
+      excerpt: Additional systems and procedures to help GM's run rpg-thingy
+      cta: Read more
+      url: gm-tools
 ---
 
 # How to Play
@@ -75,7 +88,7 @@ When you consult the dice, the game calls it a **Skill Test.** rpg-thingy uses a
 
 A test has a difficulty, a number that defines how much Effort it takes to succeed on the test, otherwise the test is a failure. There are no tests without consequences. No matter if you succeed on a test or fail it, you will either get what you want or suffer a setback. Either way, after a test both the narrative and your character make progress, either by achieving your goal or by growing with your failures.
 
-As mentioned above, the dice are consulted when the outcome of an action is uncertain. [Skill Tests](/skill-tests) and the [Certainty of Actions](/skill-tests#certainty-of-actions) are discussed in more detail in their respective chapter.
+As mentioned above, the dice are consulted when the outcome of an action is uncertain. [Skill Tests](skill-tests) and the [Certainty of Actions](/rules/skill-tests.md#certainty-of-actions) are discussed in more detail in their respective chapter.
 
 
 
