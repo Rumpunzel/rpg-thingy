@@ -5,7 +5,7 @@
 /* ----- General ----- */
 .site-header {
   position: -webkit-sticky;
-  position: sticky;
+  position: fixed;
   top: 0;
   margin-bottom: 60px;
   z-index: 1020;
