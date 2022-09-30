@@ -15,8 +15,8 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Conditions & Resting
-        url: /conditions-and-resting
+        content: Assets
+        url: /assets
     next:
         content: Next page
         url: '#'
@@ -166,6 +166,8 @@ During your Last Stand you can still act normally in the conflict, despite your 
 
 
 
-# Static conflict
+# Uncontested Conflicts
 
-asdf
+Though most conflicts are contested, sometimes the narrative calls for a conflict without any active opposition, such as surviving a long and arduous journey, creating an unfathomable piece of art, or undertaking a ludicrous economic endeavour.
+
+An uncontested conflict works very similarly to a normal conflict,
