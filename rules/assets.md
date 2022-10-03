@@ -100,24 +100,24 @@ After being created, assets can only be improved by **1** rating at a time. To i
 
 Restoring an asset with rating **0** (an asset which broke after being used) to rating **1** grants **1** extra die to the test.
 
-To attempt a test to create or improve and asset, you need a number of materials equal to the test's difficulty, which are consumed with the test, success or failure.
+To attempt a test to create or improve and asset, you need a number of resources equal to the test's difficulty, which are consumed with the test, success or failure.
 
-## Materials
+## Resources
 
-You get materials when resting, either in the wilderness by making camp or in settlements when preparing for downtime. Sometimes you might also find assets that function as materials while adventuring.
+You get resources when resting, either in the wilderness by making camp or in settlements when preparing for downtime. Sometimes you might also find assets that function as materials while adventuring.
 
 A material can be anything from branches, steel, an animal carcass, a rare herb, to even something immaterial such as shelter from the forces of nature or comfortable bed. A material is something you either need to directly craft an asset or something which grants you the peace and quiet to work without disturbances. 
 
-Materials come in three varieties.
+Resources come in three varieties.
 
 ### Sturdy
 
-`Sturdy` materials are needed to create simple weapons and build structures. This category encompasses lumber, stone, shelter, and access to high-society.
+`Sturdy` resources are needed to create simple weapons and build structures. This category encompasses lumber, stone, shelter, and access to high-society.
 
 ### Supple
 
-`Supple` materials are needed to create food, art, clothing and nurture animals. This category encompasses raw food, plants, and comfort (like a warm campfire).
+`Supple` resources are needed to create food, art, clothing and nurture animals. This category encompasses raw food, plants, and comfort (like a warm campfire).
 
 ### Precious
 
-`Precious` materials are needed to create refined weapons and armor, fine instruments, and draft contracts. This category encompasses metal, paper, ink, gemstones, rare flowers, and indispensable information.
+`Precious` resources are needed to create refined weapons and armor, fine instruments, and draft contracts. This category encompasses metal, paper, ink, gemstones, rare flowers, and indispensable information.

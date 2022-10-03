@@ -183,19 +183,19 @@ Anyone resting with you may also test the appropriate [Skill](character#skills).
 
 You may use [Assets](assets) as usual, especially rations.
 
-You gain a number of [Materials](assets#materials) equal to the effort you achieve during the resting test. They symbolize the resources you have at your disposal and the time you have available for this rest before your shelter is exposed, before your allocated supplies run out and your rest ends.  
-You may share materials with anyone else you are resting with as you please.
+You gain a number of [Resources](assets#resources) equal to the effort you achieve during the resting test. They symbolize the means you have at your disposal and the time you have available for this rest before your shelter is exposed, before your allocated supplies run out and your rest ends.  
+You may share resources with anyone else you are resting with as you please.
 
-Depending on the attribute you tested with, the materials will be of a different type.
+Depending on the attribute you tested with, the resources will be of a different type.
 
 |               Vigor               |             Intuition             |                Reason                 |
 |:---------------------------------:|:---------------------------------:|:-------------------------------------:|
-| [Sturdy](assets#sturdy) materials | [Supple](assets#supple) materials | [Precious](assets#precious) materials |
+| [Sturdy](assets#sturdy) resources | [Supple](assets#supple) resources | [Precious](assets#precious) resources |
 
-When you attempt a skill test while resting, you must spend materials equal to the test's difficultly to attempt it. If you do not have enough materials, you cannot attempt it.  
-Most tests may use any type of material but some tests such as [Crafting](assets#crafting-assets) require specific materials.
+When you attempt a skill test while resting, you must spend resources equal to the test's difficultly to attempt it. If you do not have enough resources, you cannot attempt it.  
+Most tests may use any type of material but some tests such as [Crafting](assets#crafting-assets) require specific resources.
 
-You may end a rest at any point. Any unspent materials you have at the end of a rest are lost.
+You may end a rest at any point. Any unspent resources you have at the end of a rest are lost.
 
 While resting, you have access to a number of special skill tests.
 
@@ -217,9 +217,9 @@ You can mend a minor condition by succeeding on a difficulty **1** test. When yo
 
 Mending one of your own conditions increases the difficulty of the test by **1.**
 
-If you all your condition slots are empty, you may spend materials to gain a `Well Rested` enduring [Boon](conflicts#boons). This boon lasts across scenes, until it vanishes, or until you rest again, whichever happens first.
+If you all your condition slots are empty, you may spend resources to gain a `Well Rested` enduring [Boon](character#boons). This boon lasts across scenes, until it vanishes, or until you rest again, whichever happens first.
 
-| `Well Rested` Boon Rating | Materials Requires |
+| `Well Rested` Boon Rating | Resources Required |
 |:-------------------------:|:------------------:|
 |           **1**           |         1          |
 |           **2**           |         3          |
