@@ -48,15 +48,15 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ## Weapons
 
-|    Name     |                                               Properties                                                |           Resource Required           |
-|:-----------:|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------:|
-|   **Axe**   |                                    Attack with **Vigor**<br>_Deadly_                                    |               `Sturdy`                |
-| **Knives**  |                         Attack with **Intuition**<br>_Wicked_ -- `Easy to Hide`                         |              `Precious`               |
-|  **Spear**  |                                    Attack with **Reason**<br>_Reach_                                    |               `Sturdy`                |
-| **Polearm** |                                Attack with **Vigor**<br>_Deadly, Reach_                                 | `Precious`<br>_Masterpiece **Spear**_ |
-|  **Sword**  |           Attack with **ANY** Attribute<br>_Refined with `Supple`_<br>_Defensive, Versatile_            |              `Precious`               |
-|   **Bow**   | Maneuver with **Reason**<br>_[Requires **Arrows**], Refined with `Supple`_<br>_Ranged, Reach, Tactical_ |               `Sturdy`                |
-| **Arrows**  |                      Attack with **Reason**<br>_[Requires a **Bow**]_<br>_Missile_                      |               `Supple`                |
+|    Name     |                                                 Properties                                                  |           Resource Required           |
+|:-----------:|:-----------------------------------------------------------------------------------------------------------:|:-------------------------------------:|
+|   **Axe**   |                                      Attack with **Vigor**<br>_Deadly_                                      |               `Sturdy`                |
+| **Knives**  |                           Attack with **Intuition**<br>_Wicked_ -- `Easy to Hide`                           |              `Precious`               |
+|  **Spear**  |                                      Attack with **Reason**<br>_Reach_                                      |               `Sturdy`                |
+| **Polearm** |                                  Attack with **Vigor**<br>_Deadly, Reach_                                   | `Precious`<br>_Masterpiece **Spear**_ |
+|  **Sword**  |             Attack with **ANY** Attribute<br>_Refined with `Supple`_<br>_Defensive, Versatile_              |              `Precious`               |
+|   **Bow**   | Maneuver with **Reason**<br>_[Requires **Arrows**]_<br>_Refined with `Supple`_<br>_Ranged, Reach, Tactical_ |               `Sturdy`                |
+| **Arrows**  |                        Attack with **Reason**<br>_[Requires a **Bow**]_<br>_Missile_                        |               `Supple`                |
 
 ### Weapon Abilities
 
