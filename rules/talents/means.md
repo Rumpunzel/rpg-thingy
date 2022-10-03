@@ -22,31 +22,44 @@ page_nav:
         url: /talents/overview
 ---
 
-#  Feats
+# Vigor Feats
 
-## Vigor
+### Indomitable
 
-**Indomitable:** Whenever you fail to defend during a conflict, you may use your opponent's excess successes to create a Boon on yourself as if they had been your own excess successes.
-
-## Intuition
-
-**Peddler:** When resting in the wilderness, you may buy and sell Preparations with Means as if you were resting in a settlement.
-
-## Reason
-
-**Bookworm:** Add **1** success when researching traits.
-
-
-# Specializations
-
-## Vigor
+Whenever you fail to defend during a conflict, you may use your opponent's excess successes to create a Boon on yourself as if they had been your own excess successes.
 
 
 
-## Intuition
+# Intuition Feats
 
-**Cosmopolitan:** Reduce all wordly stress you take by **1.**
+### Peddler
 
-## Reason
+When resting in the wilderness, you may buy and sell Preparations with Means as if you were resting in a settlement.
+
+
+
+# Reason Feats
+
+### Bookworm
+
+Add **1** success when researching traits.
+
+
+---
+
+
+# Vigor Specializations
+
+
+
+# Intuition Specializations
+
+### Cosmopolitan
+
+Reduce all wordly stress you take by **1.**
+
+
+
+# Reason Specializations
 
 
