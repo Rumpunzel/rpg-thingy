@@ -183,19 +183,19 @@ Skills represent both an area of expertise, something a character may or may not
 | [Maneuver](/skill-list#maneuver)     | Overcoming immediate physical obstacles                  |
 | [Wilderness](/skill-list#wilderness) | Navigating and surviving the wild                        |
 | [Craft](/skill-list#craft)           | Creating tools and structures; manual labour             |
-| [Resources](/skill-list#resources)   | Leveraging wealth, connections, and sources of knowledge |
+| [Means](/skill-list#means)           | Leveraging wealth, connections, and sources of knowledge |
 
-A skill has a corresponding number denoting the character's training. The default is **6.** This number denotes what is the lowest number on a die that counts as a success when that character rolls that Skill.
+A skill has a corresponding number denoting the character's training. The default is **6+.** This number denotes what is the lowest number on a die that counts as a success when that character rolls that Skill.
 
-- untrained, a character has **6+** in the corresponding skill
-- trained, a character has **5+** in the skill
-- as an expert, a character has **4+**
-- as a master, a character has **3+** (this is extremely rare)
+- **Untrained** -- a character has **6+** in the corresponding skill
+- **Trained** -- a character has **5+** in the skill
+- **Expert** -- a character has **4+**
+- **Master** -- a character has **3+** (this is quite uncommon)
 
 Whenever the game calls for a test, it will always call for an attribute and a skill. The attribute determines how many dice you roll and the skill determines what faces of the dice result in a hit or a miss.
 
 Whenever you do not succeed on a skill test, you learn something new and mark experience (**XP**) for that skill equal to the number of hits you rolled. Each Skill has a separate track to mark **XP** and whenever you reach **10** **XP** marked for a skill, remove all **XP** marked for it and you gain a new level in that skill (each skill starts at level **0**), which will grant you access to a new [Talents](/talents) and/or improve your training in that Skill (see [Advancement](/advancement)).  
-If your skill is reaches level **7** and for every level thereafter, instead of improving the skill, you gain an [Epiphany](/epiphany) (meaning you may increase **1** of your attributes by **1** or increase the rating of **1** of your traits by **1**).
+If your skill is reaches level **7** and for every level thereafter, instead of improving the skill, you gain an [Epiphany](/advancement#epiphany) (meaning you may increase **1** of your attributes by **1** or increase the rating of **1** of your traits by **1**).
 
 | Level  |  XP   | Training |     Reward     |
 |:------:|:-----:|:--------:|:--------------:|

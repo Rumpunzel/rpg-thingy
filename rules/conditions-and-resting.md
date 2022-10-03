@@ -84,9 +84,9 @@ Social conditions never hinder you on Fight, Maneuver, and Wilderness tests.
 
 While resting in a settlement, you can mend social conditions with Resource tests, though not all severities can be mended with all Approaches.
 
-- **Minor social conditions can be mended by Resources with any Approach.**
-- **Moderate social conditions can be mended by Resources with Vigor and Reason but not by Intuition.** Fame, Wealth, rigorous bookkeeping, or a sound argument before a court are required to get out of these predicaments.
-- **Major social conditions can only be mended by Resources with Vigor.** Nobility, a made name, or chests of gold are required to get out of these predicaments.
+- **Minor social conditions can be mended by Means with any Approach.**
+- **Moderate social conditions can be mended by Means with Vigor and Reason but not by Intuition.** Fame, Wealth, rigorous bookkeeping, or a sound argument before a court are required to get out of these predicaments.
+- **Major social conditions can only be mended by Means with Vigor.** Nobility, a made name, or chests of gold are required to get out of these predicaments.
 
 
 
@@ -158,7 +158,7 @@ This table is meant as a guide, the table's judgement is the ultimate authority 
 | **Maneuver**   |     **All**      |    **All**     |       -        |
 | **Wilderness** |     **All**      |  _Only Major_  |       -        |
 | **Craft**      |     **All**      |  _Only Major_  |  _Only Major_  |
-| **Resources**  |        -         |  _Only Major_  |    **All**     |
+| **Means**      |        -         |  _Only Major_  |    **All**     |
 
 ### Mending conditions
 
@@ -168,7 +168,7 @@ The three different types of conditions have restrictions with which skill and w
 
 |              |  Physical Mended By  |  Mental Mended By   | Social Mended By |
 |--------------|:--------------------:|:-------------------:|:----------------:|
-| **Skill**    |      **Craft**       |    **Influence**    |  **Resources**   |
+| **Skill**    |      **Craft**       |    **Influence**    |    **Means**     |
 | **Minor**    |       **All**        |       **All**       |     **All**      |
 | **Moderate** | _Intuition & Reason_ | _Vigor & Intuition_ | _Vigor & Reason_ |
 | **Major**    |       _Reason_       |     _Intuition_     |     _Vigor_      |
@@ -177,7 +177,7 @@ The three different types of conditions have restrictions with which skill and w
 
 # Resting
 
-To rest, either test [Resources](/skill-list#resources) for [Downtime](#downtime) if you are in a settlement, or test [Wilderness](/skill-list#wilderness) to [Make Camp](#making-camp) if are beyond the borders of civilization.
+To rest, either test [Means](/skill-list#means) for [Downtime](#downtime) if you are in a settlement, or test [Wilderness](/skill-list#wilderness) to [Make Camp](#making-camp) if are beyond the borders of civilization.
 
 Anyone resting with you may also test the appropriate [Skill](character#skills). Everyone, who has chosen the same skill and attribute, [tests as a group](/skill-tests#group-tests). If you are resting in a town, you will most likely get bonus dice for your rest roll (see [Supply Rating](/rules/gm-tools/settlements.md#supply-ratings)).
 
@@ -261,7 +261,7 @@ While resting in a settlement, you may mend social conditions afflicting you or 
 
 ## Buying
 
-You may buy assets in settlements by testing Resources. Choose a quality rating for the asset you would like to buy. Not all quality rating may be available everywhere, often quality rating above a town's [Supply Rating](gm-tools/settlements#supply-ratings) cannot be found.
+You may buy assets in settlements by testing Means. Choose a quality rating for the asset you would like to buy. Not all quality rating may be available everywhere, often quality rating above a town's [Supply Rating](gm-tools/settlements#supply-ratings) cannot be found.
 
 If you succeed, you gain the asset with the chosen quality rating. Otherwise, if you achieved at least **1** effort, you gain an asset with rating **1.**
 
@@ -277,20 +277,20 @@ If you succeed, you gain the asset with the chosen quality rating. Otherwise, if
 
 ## Selling
 
-You may sell an asset you own by testing Resources. Discard any success exceeding the asset's quality rating. The remaining result is the offer you get in your current rest location. You may accept that offer or decline it. Either way, the materials to attempt to sell the asset are spent.  
-If you accept, you gain a `Currency` asset for Resources of the local currency with rating equal to the effort you achieved and lose the chosen asset.
+You may sell an asset you own by testing Means. Discard any success exceeding the asset's quality rating. The remaining result is the offer you get in your current rest location. You may accept that offer or decline it. Either way, the resources to attempt to sell the asset are spent.  
+If you accept, you gain a `Currency` asset for Means of the local currency with rating equal to the effort you achieved and lose the chosen asset.
 
 
 ## Working
 
 You may spend your time working while resting in a settlement. Choose a skill and a difficulty for your work (not all type of work may be available everywhere).
 
-If you succeed, you gain a `Currency` asset for Resources of the local currency with rating equal to the chosen difficulty. Otherwise, if you achieved at least **1** effort, you gain a `Currency` asset with rating **1.**
+If you succeed, you gain a `Currency` asset for Means of the local currency with rating equal to the chosen difficulty. Otherwise, if you achieved at least **1** effort, you gain a `Currency` asset with rating **1.**
 
 
 ## Research
 
-You may spend your time brawling in taverns, visiting shady meetings, or among scrolls and tomes to learn more about a specific subject and its traits. Name the place, creature, or person you would like to know more about and test Resources. For each of your subject's hidden traits you already know, add **1** additional dice to your roll.
+You may spend your time brawling in taverns, visiting shady meetings, or among scrolls and tomes to learn more about a specific subject and its traits. Name the place, creature, or person you would like to know more about and test Means. For each of your subject's hidden traits you already know, add **1** additional dice to your roll.
 
 You learn of your subject's highest rated, hidden trait you do not already know with rating equal to or less the effort you achieved on your test. If your effort is greater than the subject's highest rated hidden trait, you also learn that you know everything there is to know about your subject.  
 A research roll may result in no new information if you do not achieve enough effort.

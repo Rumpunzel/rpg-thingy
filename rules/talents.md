@@ -230,7 +230,7 @@ Stuff about Talents
 
 ### Vigor
 
-**Farmhand:** You may forage when resting even in settlements, and when you forage in a settlement, you may use Craft instead of Wilderness or Resources to forage. Boons you create while foraging gain the Fortified property (they do not degrade if their rating is greater than the amount of successes required to succeed instead of double or more).
+**Farmhand:** You may forage when resting even in settlements, and when you forage in a settlement, you may use Craft instead of Wilderness or Means to forage. Boons you create while foraging gain the Fortified property (they do not degrade if their rating is greater than the amount of successes required to succeed instead of double or more).
 
 ### Intuition
 
@@ -250,7 +250,7 @@ Stuff about Talents
 
 
 
-# Resources Talents
+# Means Talents
 
 ##  Feats
 
@@ -260,7 +260,7 @@ Stuff about Talents
 
 ### Intuition
 
-**Peddler:** When resting in the wilderness, you may buy and sell Preparations with Resources as if you were resting in a settlement.
+**Peddler:** When resting in the wilderness, you may buy and sell Preparations with Means as if you were resting in a settlement.
 
 ### Reason
 

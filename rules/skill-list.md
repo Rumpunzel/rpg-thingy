@@ -101,15 +101,15 @@ Whenever you aim to create new, or improve or destroy existing items and structu
 </div>
 
 
-# Resources
+# Means
 
-Whenever you aim to call on existing connections, funds or knowledge, or aim to create new ones, roll Resources.
+Whenever you aim to call on existing connections, funds or knowledge, or aim to create new ones, test Means.
 
-| Attribute        | Applications                                      |
-|-----------------------------|---------------------------------------------------|
+| Attribute     | Applications                                      |
+|---------------|---------------------------------------------------|
 | **Vigor**     | Fame, Wealth, Titles                              |
-| **Intuition**      | Connections, Rumors, Favors                       |
-| **Reason** | Investment, Administration, Bureaucracy, Research |
+| **Intuition** | Connections, Rumors, Favors                       |
+| **Reason**    | Investment, Administration, Bureaucracy, Research |
 
 <div class="callout">
     <p><strong>Special Uses</strong></p>
