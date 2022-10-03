@@ -26,7 +26,7 @@ page_nav:
 
 ### Bull Charge
 
-When testing Maneuver with Vigor, everything but Vigor must defend perfectly against you.
+When testing Maneuver with Vigor, all attributes but Vigor must defend perfectly against you.
 
 
 
@@ -34,15 +34,15 @@ When testing Maneuver with Vigor, everything but Vigor must defend perfectly aga
 
 ### Forerunner
 
-During contests (not only Maneuver contests), ties also count as successes for you. During conflicts (not only Maneuver conflicts), you inflict **1** damage to your opponent's Morale on ties. These benefits do not work should your opponent also have this Talent.
+During contests, ties also count as successes for you. During conflicts, you inflict **1** damage to your opponent's morale on ties. These benefits do not work should your opponent also have this talent.
 
 ### Untouchable Grace
 
-When you would gain physical Condition while defending with Intuition, you may rename it and gain it as a mental Condition instead.
+When you would gain physical stress while defending with Intuition, you may gain it as a mental stress instead.
 
 ### Slippery
 
-Opponents cannot create Banes with Maneuver against you.
+Opponents can only create banes against you if you struggle to defend because of their disposition.
 
 
 
@@ -50,11 +50,11 @@ Opponents cannot create Banes with Maneuver against you.
 
 ### Eagle Eye
 
-All Approaches but Reason must perfectly defend against your Maneuver with Reason.
+All attributes but Reason must perfectly defend against your Maneuver with Reason.
 
 ### Practiced
 
-When you create Boons and Banes from excess successes from attacking or defending, increase its rating by **1.**
+When you create a boon or bane from excess successes from attacking or defending, increase its rating by **1.**
 
 
 ---
@@ -76,11 +76,11 @@ Reduce all physical stress you take by **1.**
 
 ### Opportunist
 
-When invoking an opponent's trait (not only for Maneuver tests), gain **1** additional die.
+When using an opponent's trait or condition, increase its rating by **1** for the test.
 
 ### Reversal of Fortune
 
-Once per conflict, may exchange rolls with a willing ally or an opponent rolling at the same time.
+You may spend **1** Favor to exchange rolls with a willing ally or an opponent rolling at the same time.
 
 
 
@@ -88,8 +88,8 @@ Once per conflict, may exchange rolls with a willing ally or an opponent rolling
 
 ### Superior Strategist
 
-When positioning for conflicts with Maneuver, double your successes.
+When positioning for conflicts with Maneuver, double your effort.
 
 ### One Step Ahead
 
-Your Maneuver Preparations only degrade when you do not succeed on the test.
+Your Maneuver assets only degrade when you do not succeed on the test.

@@ -34,7 +34,7 @@ Add **1** additional die when one of your conditions increases a difficulty for 
 
 ### Hunter
 
-Once per conflict, you may create a Bane from excess successes for free, without having to spend Favour.
+Once per conflict, you may create a bane from excess successes for free, without spending Favor.
 
 
 
@@ -50,13 +50,17 @@ When positioning for a conflict with Reason, you may research as if resting with
 
 # Vigor Specializations
 
-**Shrug it Off:** Your conditions require **1** fewer success when recovering (this means you can recover from minor conditions without needing actions or having to roll while resting).
+### Shrug it Off
+
+When recovering from your own conditions require decrease the test's difficulty by **1** (this means you can potentially recover from minor conditions without needing resources or needing to roll).
 
 
 
 # Intuition Specializations
 
-**Weather Watcher:** Predicting weather while resting only costs you **1** action, not matter the difficulty.
+### Weather Watcher
+
+Predicting weather while resting only costs you **1** resource, not matter the difficulty.
 
 
 

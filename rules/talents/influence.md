@@ -24,13 +24,9 @@ page_nav:
 
 # Vigor Feats
 
-### Extrovert
-
-May use Influence Preparations with their full rating for any Approach.
-
 ### Stubborn
 
-As long as you have rolled at least one **6,** your opponent's disposition cannot force you to defend perfectly with Vigor.
+As long as you have rolled at least one **6,** your opponent's disposition cannot make you struggle to defend with Vigor.
 
 
 
@@ -42,7 +38,7 @@ As long as you do not have any conditions, you get **1** additional die on all y
 
 ### Web of Lies
 
-When creating a Boon from excess successes from a test wit Insight and Intuition, if you lied or manipulated, you gain a Preparation with rating equal to your additional successes instead of a Boon.
+When creating a boon from excess successes from a test wit Insight and Intuition, if you lied or manipulated, you gain an assets with rating equal to your margin of effort instead of a boon.
 
 
 
@@ -50,7 +46,7 @@ When creating a Boon from excess successes from a test wit Insight and Intuition
 
 ### Stoic
 
-When recovering from your own conditions, reduce the difficulty by **1.**
+When recovering from your own conditions, you do not increase the difficulty by **1.**
 
 
 ---
@@ -66,11 +62,11 @@ When recovering from your own conditions, reduce the difficulty by **1.**
 
 ### Dreamer
 
-At the end of a rest, if you have excess actions left, you may gain an enduring Boon with rating equal to the excess actions representing a prophetic dream you had while resting. Consult with the GM concerning the nature of the dream. The Boon may be used with any skill and any Approach but only in the context or with the subject of your dream.
+During a rest, you may spend resources to gain an enduring boon with rating equal to the resources spent representing a prophetic dream you had while resting. Consult with the GM concerning the nature of the dream. The boon may be used with any skill and any attribute but only in the context or with the subject of your dream.
 
 ### Empath
 
-When resting, you and everyone resting with you may add **1** die when testing to mend a mental Condition. Additionally, the number of required actions to get a `Well Rested` Condition is reduced by **1** for everyone.
+While resting, you and everyone resting with you may add **1** die when testing to mend mental conditions. Additionally, the number of resources required to gain a `Well Rested` boon is reduced by **1** for everyone resting with you.
 
 
 
@@ -78,7 +74,7 @@ When resting, you and everyone resting with you may add **1** die when testing t
 
 ### Know Thyself
 
-When an opponent invokes one of your traits against you and adds dice to their roll, you may also add the same number of dice to your roll.
+When an opponent uses one of your traits against you, you may also add the trait's rating as dice to your roll.
 
 ### Iron Will
 

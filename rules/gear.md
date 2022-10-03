@@ -84,7 +84,7 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ### Armor Abilities
 
-- **Bulwark:** Add this armor's armor rating as dice to a defense roll (with any attribute)
+- **Bulwark:** Add **1** die to a defense roll (with any attribute)
 
 ### Armor Properties
 

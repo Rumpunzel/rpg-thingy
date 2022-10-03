@@ -24,17 +24,17 @@ page_nav:
 
 # Vigor Feats
 
-### Juggernaut
+### Bolster
 
-When defending with Fight and Vigor, each **6** counts as two successes.
+When defending with Fight, each **6** counts as two hits.
 
 ### Reckless
 
-When creating a Boon with Vigor during a Fight conflict, you may make it enduring by gaining a `Reckless` Bane with rating equal to the created Boon's rating. The `Reckless` Bane does only hinder you from defending, not from attacking.
+When creating a boon with Vigor during a Fight conflict, you may make it enduring by gaining a `Reckless` bane with rating equal to the created boon's rating. The `Reckless` bane only hinders you when defending.
 
 ### Steadfast
 
-When defending with against multiple opponents, roll an additional die for each opponent attacking you.
+When defending with Vigor against multiple opponents, roll an additional die for each opponent attacking you.
 
 
 
@@ -42,11 +42,11 @@ When defending with against multiple opponents, roll an additional die for each 
 
 ### Riposte
 
-When successfully defending with Fight and Intuition, may also inflict Stress equal to the number of excess successes in addition to damaging Morale.
+When successfully defending with Fight and Intuition, may also inflict stress equal to the margin of effort in addition to damaging morale.
 
 ### Uncanny Dodge
 
-Once per Fight conflict, you may suffer a minor Condition instead of resolving a defense test.
+During Fight conflicts, you may spend **1** Favor to suffer a **1** physical or mental stress (your choice) instead of resolving a defense test.
 
 
 
@@ -54,15 +54,15 @@ Once per Fight conflict, you may suffer a minor Condition instead of resolving a
 
 ### Battle Tactician
 
-When Positioning for a Fight conflict, you may roll for Positioning twice and gain two different benefits.
+When positioning for a Fight conflict, you may test for positioning twice and gain two different benefits.
 
 ### Shield Training
 
-When adding your shield Preparation's rating as dice to defense rolls, the shield's armor rating only degrades if you fail to defend.
+When adding dice from a shield asset to a defense roll, add **1** additional die.
 
 ### Armor Training
 
-You may use armor Preparations with their full quality rating for any Approach when defending with Fight.
+Armor assets you use, gain the **Versatile** property (they do not automatically degrade when used with a different attribute than intended).
 
 
 ---
@@ -70,17 +70,17 @@ You may use armor Preparations with their full quality rating for any Approach w
 
 # Vigor Specializations
 
-### Berserker
+### Juggernaut
 
-The `Angry` Condition and other mental conditions no longer hinder your attacks (not only during Fight conflicts). At the beginning of a Fight conflict, if you suffer from the `Angry` Condition, you may gain an enduring `Battle Rage` Boon with rating equal to the Condition's rating.
+When attacking, roll an additional die for each opponent defending against you.
 
 ### Slayer
 
-When attacking with Vigor in a Fight conflict, inflict **1** additional stress for each **6** you rolled, even if your opponent defended successfully (this does not increase the damage to the opponent's Morale).
+When attacking with Vigor in a Fight conflict, inflict **1** additional stress for each **6** you rolled, even if your opponent defended successfully (this does not increase the damage to the opponent's morale).
 
 ### Martial Artist (Defend)
 
-Choose one of your traits representing your martial training (if you do not have such a trait, you cannot choose this Talent) and an Approach; you may treat the chosen trait as a Preparation with quality rating equal to its rating for defending with Fight and the chosen Approach (the trait does not degrade when used and using it does not cost Favour).
+Choose one of your traits representing your martial training; when defending with Fight, your minimum effort is equal to the chosen trait's rating.
 
 
 
@@ -90,26 +90,22 @@ Choose one of your traits representing your martial training (if you do not have
 
 You may act twice during your turn in Fight conflicts.
 
-### Dervish
-
-When attacking (not only during Fight conflicts), roll an additional die for each opponent defending against you (even if you would normally not gain any additional dice).
-
 ### Pack Tactics
 
-When attacking as a group with Intuition, your allies do not increase the difficulty and not add extra dice for your opponent.
+When attacking as a group with Intuition, your allies do not increase the difficulty and not add extra dice for your opponent(s).
 
 
 
 # Reason Specializations
 
-### Guardian
+### Peace of Mind
 
-When an ally defends against an attack (not only during Fight conflicts), you may force the attacker you attack you both and defend with your ally as a group (the attacker does not gain additional dice).
+Mental conditions no longer hinder your attacks. At the beginning of a Fight conflict, if you suffer from a mental condition, you may gain an enduring `Battle Trance` boon with rating equal to the condition's rating.
 
 ### Marksman
 
-When attacking with Fight and Reason, you may choose which dice to re-roll instead of re-rolling all at once.
+When attacking with Fight and using the Reason dice modifier, you may choose which dice to re-roll instead of re-rolling all at once.
 
 ### Martial Artist (Attack)
 
-Choose one of your traits representing your martial training (if you do not have such a trait, you cannot choose this Talent) and an Approach; you may treat the chosen trait as a Preparation with quality rating equal to its rating for attacking with Fight and the chosen Approach (the trait does not degrade when used and using it does not cost Favour).
+Choose one of your traits representing your martial training; when attacking with Fight, your minimum effort is equal to the chosen trait's rating.

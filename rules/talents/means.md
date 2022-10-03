@@ -26,7 +26,7 @@ page_nav:
 
 ### Indomitable
 
-Whenever you fail to defend during a conflict, you may use your opponent's excess successes to create a Boon on yourself as if they had been your own excess successes.
+Whenever you fail to defend during a conflict, you may use your opponent's margin of effort to create a boon on yourself as if they had been your own margin of effort.
 
 
 
@@ -34,7 +34,7 @@ Whenever you fail to defend during a conflict, you may use your opponent's exces
 
 ### Peddler
 
-When resting in the wilderness, you may buy and sell Preparations with Means as if you were resting in a settlement.
+When resting in the wilderness, you may buy and sell assets with Means as if you were resting in a settlement.
 
 
 
@@ -42,7 +42,7 @@ When resting in the wilderness, you may buy and sell Preparations with Means as 
 
 ### Bookworm
 
-Add **1** success when researching traits.
+Add **1** effort when researching traits.
 
 
 ---
@@ -56,7 +56,7 @@ Add **1** success when researching traits.
 
 ### Cosmopolitan
 
-Reduce all wordly stress you take by **1.**
+Reduce all social stress you take by **1.**
 
 
 
