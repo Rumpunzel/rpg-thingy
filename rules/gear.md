@@ -32,7 +32,8 @@ The traits may be used in whatever context seems appropriate, most often to your
 Some Preparations may be only specifically be used to attack or defend. If they are used to attack or defend but weren't meant to do so, it is treated as an off-label use and  its rating is considered to be **1** for that test.  
 If the asset is a masterpiece, instead its rating is considered to be the asset's masterpiece rating.
 
-Gear assets also list the specific resource required to both craft and improve them. Some gear assets are refined and require more than a single resource.
+Gear assets also list the specific resource required to both craft and improve them.  
+Some gear assets require another gear asset of at least masterpiece quality to be created. The masterpiece assets consumed by the process; the corresponding rating for the new asset is the rating of the consumed asset's masterpiece trait.
 
 
 # Influence Gear
@@ -47,40 +48,39 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ## Weapons
 
-|    Name     |                                Properties                                 |  Resources Required   |
-|:-----------:|:-------------------------------------------------------------------------:|:---------------------:|
-|   **Axe**   |                     Attack with **Vigor**<br>_Deadly_                     |       `Sturdy`        |
-| **Knives**  |          Attack with **Intuition**<br>_Wicked_ -- `Easy to Hide`          |      `Precious`       |
-|  **Spear**  |                     Attack with **Reason**<br>_Reach_                     |       `Sturdy`        |
-| **Polearm** |             Attack with **Vigor**<br>_Deadly, Reach, Refined_             | `Sturdy` + `Precious` |
-|  **Sword**  |     Attack with **ANY** Attribute<br>_Defensive, Refined, Versatile_      | `Supple` + `Precious` |
-|   **Bow**   | Maneuver with **Reason** _(Requires Arrows)_<br>_Ranged, Reach, Tactical_ |  `Sturdy` + `Supple`  |
-| **Arrows**  |          Attack with **Reason** _(Requires a Bow)_<br>_Missile_           |       `Supple`        |
+|    Name     |                                               Properties                                                |           Resource Required           |
+|:-----------:|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------:|
+|   **Axe**   |                                    Attack with **Vigor**<br>_Deadly_                                    |               `Sturdy`                |
+| **Knives**  |                         Attack with **Intuition**<br>_Wicked_ -- `Easy to Hide`                         |              `Precious`               |
+|  **Spear**  |                                    Attack with **Reason**<br>_Reach_                                    |               `Sturdy`                |
+| **Polearm** |                                Attack with **Vigor**<br>_Deadly, Reach_                                 | `Precious`<br>_Masterpiece **Spear**_ |
+|  **Sword**  |           Attack with **ANY** Attribute<br>_Refined with `Supple`_<br>_Defensive, Versatile_            |              `Precious`               |
+|   **Bow**   | Maneuver with **Reason**<br>_[Requires **Arrows**], Refined with `Supple`_<br>_Ranged, Reach, Tactical_ |               `Sturdy`                |
+| **Arrows**  |                      Attack with **Reason**<br>_[Requires a **Bow**]_<br>_Missile_                      |               `Supple`                |
 
 ### Weapon Abilities
 
 - **Deadly:** If you rolled a **6,** may increase this weapon's rating by **1** for this test
 - **Missile:** May ignore morale damage when attacking with Reason
-- **Ranged:** When adding dice from a [Boon](/character#boons) representing your superior positioning while defending, may force the attacker(s) to attack with Maneuver instead of Fight; you may also defend with Maneuver instead of Fight
-- **Reach:** May add weapon rating as dice for Maneuver [Positioning](conflicts#positioning) using Reason
+- **Ranged:** When adding dice from a [Boon](/character#boons) representing your superior positioning while defending, may force the attacker(s) to attack with Maneuver instead of Fight; you may also defend with Maneuver instead of Fight; if you do, this ability only degrades the weapon if you fail to defend
+- **Reach:** May add weapon rating as dice for Maneuver [Positioning](conflicts#positioning) using Reason; is also an asset for [Positioning](/conflicts#positioning) with Maneuver and Reason
 - **Wicked:** May add weapon rating as dice to the roll when adding dice from a boon
 
 ### Weapon Properties
 
 - **Defensive:** Full weapon rating for defending with Intuition
+- **Refined with RESOURCE:** Requires **1** additional resource of the named type when creating and repairing
 - **Tactical:** Boons created using this weapon's extra **Reach** dice are [enduring](/character#enduring-boons--banes)
 - **Versatile:** May be used to attack with any Attribute without degrading
 
 
 ## Armor
 
-|    Name    |                        Properties                         | Resources Required |
-|:----------:|:---------------------------------------------------------:|:------------------:|
-|  **Mail**  |      Defend with **Vigor**<br>_Fortified_ -- `Heavy`      |    `Precious`*     |
-| **Padded** |          Defend with **Intuition**<br>_Reliable_          |      `Supple`      |
-| **Shield** |    Defend with **Reason**<br>_Bulwark_ -- `Cumbersome`    |      `Sturdy`      |
-
-_*To create **Mail** amor, you require **1** masterpiece **Padded** armor, which the process consumes; the corresponding rating is the **Padded** amor's masterpiece rating._
+|       Name       |                        Properties                         |              Resource Required               |
+|:----------------:|:---------------------------------------------------------:|:--------------------------------------------:|
+| **Padded Armor** |          Defend with **Intuition**<br>_Reliable_          |                   `Supple`                   |
+|    **Shield**    |    Defend with **Reason**<br>_Bulwark_ -- `Cumbersome`    |                   `Sturdy`                   |
+|  **Chain Mail**  | Defend with **Vigor**<br>_Fortified, Reliable_ -- `Heavy` | `Precious`<br>_Masterpiece **Padded Armor**_ |
 
 ### Armor Abilities
 
@@ -95,21 +95,21 @@ _*To create **Mail** amor, you require **1** masterpiece **Padded** armor, which
 
 # Maneuver Gear
 
-**Draft Horse/Mule:**
-
-**Riding Horse:**
-
-**Warhorse:**
-
-**Climbing Gear:**
+|         Name         | Properties | Resource Required |
+|:--------------------:|:----------:|:-----------------:|
+|  **Climbing Gear**   |            |                   |
+| **Draft Horse/Mule** |            |                   |
+|   **Riding Horse**   |            |                   |
+|     **Warhorse**     |            |                   |
 
 
 
 # Wilderness Gear
 
-**Traveling Equipment:**
-
-**Rowing Boat:**
+|       Name        | Properties | Resource Required |
+|:-----------------:|:----------:|:-----------------:|
+|     **Cloak**     |            |                   |
+|  **Rowing Boat**  |            |                   |
 
 
 
