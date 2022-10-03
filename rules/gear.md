@@ -22,16 +22,17 @@ page_nav:
         url: /character
 ---
 
-Gear [Preparations](Preparations) may have additional properties, abilities (properties which may activated at the cost of quality rating), and/or [traits](traits) (which work as other traits do).
+# Gear
 
-These properties are only for their corresponding skill [conflicts](conflicts), only when the Preparation is used, and only as long as the Preparation has a rating of at least **1.**
+Gear [Assets](/assets) are more specific versions of general assets. They work just like normal assets but have additional properties, or even abilities (properties which may activated at the cost of quality rating), and/or [traits](/character#traits) (which work as other traits do).
 
-The traits may be invoked in whatever context seems appropriate.
+These properties are only for their corresponding skill [conflicts](conflicts), only when the asset is used, and only as long as the Asset has a rating of at least **1.** A gear ability counts as a use for the asset (meaning if you use its ability, you cannot use it for minimum effort) and hence, the asset degrades.  
+The traits may be used in whatever context seems appropriate, most often to your detriment.
 
-Gear Preparations may be used with a different [Approach](Approaches) than they were intended for, but will only be treated as half its quality (rounded down) for that purpose.
+Some Preparations may be only specifically be used to attack or defend. If they are used to attack or defend but weren't meant to do so, it is treated as an off-label use and  its rating is considered to be **1** for that test.  
+If the asset is a masterpiece, instead its rating is considered to be the asset's masterpiece rating.
 
-Some Preparations may be only specifically be used to attack or defend. If they are used to attack or defend but weren't meant to do so, they will only be treated as half its quality (rounded down) for that purpose.
-
+Gear assets also list the specific resource required to both craft and improve them. Some gear assets are refined and require more than a single resource.
 
 
 # Influence Gear
@@ -46,54 +47,49 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ## Weapons
 
-| Name          | Use                                             | Properties                                |
-|---------------|-------------------------------------------------|-------------------------------------------|
-| **Sword**     | Attack with any Attribute                       | **Defensive,** **Refined,** **Versatile** |
-| **Pollaxe**   | Attack with Vigor                               | **Deadly,** **Reach,** **Refined**        |
-| **Warhammer** | Attack with Vigor                               | **Deadly**                                |
-| **Knives**    | Attack with Intuition                           | **Wicked**                                |
-| **Arrows**    | Attack with Reason<br>Needs a Bow to be used    | **Missile**                               |
-| **Spear**     | Attack with Reason                              | **Reach**                                 |
-| **Bow**       | Maneuver with Reason<br>Needs Arrows to be used | **Clumsy,** **Ranged,** **Tactical**      |
+|    Name     |                                Properties                                 |  Resources Required   |
+|:-----------:|:-------------------------------------------------------------------------:|:---------------------:|
+|   **Axe**   |                     Attack with **Vigor**<br>_Deadly_                     |       `Sturdy`        |
+| **Knives**  |          Attack with **Intuition**<br>_Wicked_ -- `Easy to Hide`          |      `Precious`       |
+|  **Spear**  |                     Attack with **Reason**<br>_Reach_                     |       `Sturdy`        |
+| **Polearm** |             Attack with **Vigor**<br>_Deadly, Reach, Refined_             | `Sturdy` + `Precious` |
+|  **Sword**  |     Attack with **ANY** Attribute<br>_Defensive, Refined, Versatile_      | `Supple` + `Precious` |
+|   **Bow**   | Maneuver with **Reason** _(Requires Arrows)_<br>_Ranged, Reach, Tactical_ |  `Sturdy` + `Supple`  |
+| **Arrows**  |          Attack with **Reason** _(Requires a Bow)_<br>_Missile_           |       `Supple`        |
 
 ### Weapon Abilities
 
-- **Ranged:** May defend with Maneuver instead of Fight at the cost of degrading this weapon by **1**
-- **Wicked:** When adding dice from a [Boon](traits#boons), may also add weapon rating as dice to the roll at the cost of degrading this weapon by **1**
+- **Deadly:** If you rolled a **6,** may increase this weapon's rating by **1** for this test
+- **Missile:** May ignore morale damage when attacking with Reason
+- **Ranged:** When adding dice from a [Boon](/character#boons) representing your superior positioning while defending, may force the attacker(s) to attack with Maneuver instead of Fight; you may also defend with Maneuver instead of Fight
+- **Reach:** May add weapon rating as dice for Maneuver [Positioning](conflicts#positioning) using Reason
+- **Wicked:** May add weapon rating as dice to the roll when adding dice from a boon
 
 ### Weapon Properties
 
-- **Clumsy:** Weapon rating is halved (rounded down) when attacking with this weapon
-- **Deadly:** If you rolled a **6,** you may treat this weapon's rating as if it were **1** greater
-- **Defensive:** Full weapon rating for defending with [Intuition](Approaches#intuition)
-- **Missile:** No Morale damage for your team when attacking and if weapon rating is not enough to succeed
-- **Reach:** May add weapon rating as dice for [Maneuver](Skills#maneuver) [Positioning](conflicts#positioning) using [Reason](Approaches#reason)
-- **Refined:** Requires **1** additional success when creating and repairing
-- **Tactical:** Boons created by Maneuver during Positioning using this weapon's extra **Reach** dice, are [enduring](Boons-&-Banes#enduring-boons--banes)
-- **Versatile:** Full weapon rating when attacking with any Approach
+- **Defensive:** Full weapon rating for defending with Intuition
+- **Tactical:** Boons created using this weapon's extra **Reach** dice are [enduring](/character#enduring-boons--banes)
+- **Versatile:** May be used to attack with any Attribute without degrading
 
 
 ## Armor
 
-**Mail:** Defend with Vigor, **Fortified,** `Cumbersome 2`
+|    Name    |                        Properties                         | Resources Required |
+|:----------:|:---------------------------------------------------------:|:------------------:|
+|  **Mail**  |      Defend with **Vigor**<br>_Fortified_ -- `Heavy`      |    `Precious`*     |
+| **Padded** |          Defend with **Intuition**<br>_Reliable_          |      `Supple`      |
+| **Shield** |    Defend with **Reason**<br>_Bulwark_ -- `Cumbersome`    |      `Sturdy`      |
 
-**Padded:** Defend with Vigor, **Reliable**
-
-**Shield:** Defend with Reason, **Bulwark,** `Cumbersome 2`
+_*To create **Mail** amor, you require **1** masterpiece **Padded** armor, which the process consumes; the corresponding rating is the **Padded** amor's masterpiece rating._
 
 ### Armor Abilities
 
-- **Bulwark:** When using this asset to add dice to your defense test, add its full armor rating as dice to your roll (instead of only half)
+- **Bulwark:** Add this armor's armor rating as dice to a defense roll (with any attribute)
 
 ### Armor Properties
 
-- **Fortified:** Does not degrade if armor rating is greater than the amount of successes required to succeed instead of double or more
-- **Refined:** Requires **1** additional success when creating and repairing
+- **Fortified:** The rating of the [Masterpiece Trait](/assets#masterpiece-traits) of this armor is equal to its full armor rating
 - **Reliable:** Degrades below armor rating **1** only if you rolled at least one **1**
-
-### Armor Traits
-
-- `Cumbersome`
 
 
 
@@ -122,6 +118,6 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 
 
-# Resources Gear
+# Means Gear
 
 

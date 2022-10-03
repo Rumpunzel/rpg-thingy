@@ -81,8 +81,8 @@ You may only invoke a single of your assets' masterpiece traits per test. If the
 
 ## Off-Label Usage
 
-When using an asset for with skill other than its intended purpose, its rating is considered to be **1.**  
-If the asset is a masterpiece, instead its rating is considered to be the asset's masterpiece rating for that test.
+When using an asset for with skill other than its intended purpose, its rating is considered to be **1** for that test  
+If the asset is a masterpiece, instead its rating is considered to be the asset's masterpiece rating for.
 
 When using an asset with an [Attribute](character#attributes) other than its intended purpose, it always degrades, even if it is a masterpiece.
 

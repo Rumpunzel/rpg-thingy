@@ -160,11 +160,11 @@ If your character has a high Reason rating, they excel whenever you fell the rid
 
 Each attribute also has a unique dice modifier. To use an attribute's dice modifier, you need to use a fitting [trait](#traits). When you do, it will change a few things about how dice are rolled.
 
-| Attribute     | Modifier Name | Effect                                 |
-|---------------|---------------|----------------------------------------|
-| **Vigor**     | _Fervor_      | For each **6,** add an additional die. |
-| **Intuition** | _Fortune_     | Re-roll each die that comes up **1**.  |
-| **Reason**    | _Focus_       | May re-roll all dice once.             |
+|    Attribute    |  Modifier Name  |                  Effect                  |
+|:---------------:|:---------------:|:----------------------------------------:|
+|    **Vigor**    |    _Fervor_     |  For each **6,** add an additional die.  |
+|  **Intuition**  |    _Fortune_    |  Re-roll each die that comes up **1**.   |
+|   **Reason**    |     _Focus_     |        May re-roll all dice once.        |
 
 Here is an [Anydice](https://anydice.com/program/2b138) link for the corresponding probabilities.
 
@@ -176,14 +176,14 @@ There are **6** skills in total (see [Skill List](/skill-list) for more details)
 
 Skills represent both an area of expertise, something a character may or may not be trained or even an expert in and a section of the game itself. Each adventure will be different but each adventure will consist of these **6** different types of challenges to varying degrees.
 
-| Skill                                | Uses                                                     |
-|--------------------------------------|----------------------------------------------------------|
-| [Influence](/skill-list#influence)   | Interacting with other people                            |
-| [Fight](/skill-list#fight)           | Hurting others and defending from harm                   |
-| [Maneuver](/skill-list#maneuver)     | Overcoming immediate physical obstacles                  |
-| [Wilderness](/skill-list#wilderness) | Navigating and surviving the wild                        |
-| [Craft](/skill-list#craft)           | Creating tools and structures; manual labour             |
-| [Means](/skill-list#means)           | Leveraging wealth, connections, and sources of knowledge |
+|                 Skill                  |                            Uses                            |
+|:--------------------------------------:|:----------------------------------------------------------:|
+|   [Influence](/skill-list#influence)   |               Interacting with other people                |
+|       [Fight](/skill-list#fight)       |           Hurting others and defending from harm           |
+|    [Maneuver](/skill-list#maneuver)    |          Overcoming immediate physical obstacles           |
+|  [Wilderness](/skill-list#wilderness)  |             Navigating and surviving the wild              |
+|       [Craft](/skill-list#craft)       |        Creating tools and structures; manual labour        |
+|       [Means](/skill-list#means)       |  Leveraging wealth, connections, and sources of knowledge  |
 
 A skill has a corresponding number denoting the character's training. The default is **6+.** This number denotes what is the lowest number on a die that counts as a success when that character rolls that Skill.
 
