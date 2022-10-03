@@ -7,7 +7,7 @@ permalink: /gm-tools/settlements
 
 # Hero section
 title: Settlements
-description: Stuff settlements
+description: Stuff about settlements
 
 # Micro navigation
 micro_nav: true
@@ -18,8 +18,8 @@ page_nav:
         content: Conditions & Resting
         url: /conditions-and-resting
     next:
-        content: Conflicts
-        url: /conflicts
+        content: Next
+        url: '#'
 ---
 
 # Settlements
@@ -112,9 +112,9 @@ Per recovery test, only **1** leisure structure may contribute additional dice.
 Some examples for leisure structures are:
 
 - A coliseum, which would be associated with Vigor and allow recovery tests to be made with Fight or Maneuver by participating in the coliseum for a thrilling display of martial prowess, simply enjoying the show, or training on the sparring grounds.
-- A palace garden, which would be associated with Intuition and allow recovery tests with Resources or Wilderness by going for a serene stroll through the water gardens, washing the dirt off bruised flesh, or watching a reenactment.
-- An academy, which would be associated with Reason and allow recovery tests with Influence or Resources by getting aid from a trained surgeon or banker, or spending some quiet time in the library.
-- A hospital, which would be associated with physical conditions and allow recovery tests with Influence or Resources by acquiring medical care.
+- A palace garden, which would be associated with Intuition and allow recovery tests with Means or Wilderness by going for a serene stroll through the water gardens, washing the dirt off bruised flesh, or watching a reenactment.
+- An academy, which would be associated with Reason and allow recovery tests with Influence or Means by getting aid from a trained surgeon or banker, or spending some quiet time in the library.
+- A hospital, which would be associated with physical conditions and allow recovery tests with Influence or Means by acquiring medical care.
 - A theater, which would be associated with mental conditions and allow recovery tests with Maneuver or Craft by processing your troubles in drama.
 - A courthouse, which would be associated with social conditions and allow recovery tests with Influence or Fight by proving (or "proving") your innocence.
 

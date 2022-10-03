@@ -14,11 +14,15 @@ buttons:
       external_url: false
     - icon: arrow-right
       content: Read GM Tools
-      url: /gm-tools/settlements
+      url: /gm-tools/adversaries
       external_url: false
 
 # Grid navigation
 grid_navigation:
+    - title: Adversaries
+      excerpt: Stuff about adversaries
+      cta: Read more
+      url: gm-tools/adversaries
     - title: Settlements
       excerpt: Stuff about settlements & kingdoms
       cta: Read more
