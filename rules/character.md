@@ -194,7 +194,7 @@ A skill has a corresponding number denoting the character's training. The defaul
 
 Whenever the game calls for a test, it will always call for an attribute and a skill. The attribute determines how many dice you roll and the skill determines what faces of the dice result in a hit or a miss.
 
-Whenever you do not succeed on a skill test, you learn something new and mark experience (**XP**) for that skill equal to the number of hits you rolled. Each Skill has a separate track to mark **XP** and whenever you reach **10** **XP** marked for a skill, remove all **XP** marked for it and you gain a new level in that skill (each skill starts at level **0**), which will grant you access to a new [Talents](/talents) and/or improve your training in that Skill (see [Advancement](/advancement)).  
+Whenever you do not succeed on a skill test, you learn something new and mark experience (**XP**) for that skill equal to the number of hits you rolled. Each Skill has a separate track to mark **XP** and whenever you reach **10** **XP** marked for a skill, remove all **XP** marked for it and you gain a new level in that skill (each skill starts at level **0**), which will grant you access to a new [Talents](/talents/index) and/or improve your training in that Skill (see [Advancement](/advancement)).  
 If your skill is reaches level **7** and for every level thereafter, instead of improving the skill, you gain an [Epiphany](/advancement#epiphany) (meaning you may increase **1** of your attributes by **1** or increase the rating of **1** of your traits by **1**).
 
 | Level  |  XP   | Training |     Reward     |

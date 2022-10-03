@@ -9,7 +9,8 @@ permalink: /gm-tools
 title: GM Tools
 description: Stuff about running rpg-thingy
 buttons:
-    - content: BACK TO HOMEPAGE
+    - icon: home
+      content: Back to Homepage
       url: /
       external_url: false
     - icon: arrow-right
