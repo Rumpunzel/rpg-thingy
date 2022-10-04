@@ -100,17 +100,13 @@ These benefits only last for the duration of the conflict.
 
 A conflict is essentially a sequence of [Contests](/skill-tests#contests).
 
-Turn order is determined by whoever initiated the conflict. Should it ever be uncertain, the captain with the highest effort and their team go first. During a team's turn they may act in whatever order they choose until each member has acted once.  
+Turn order is determined by whoever initiated the conflict. Should it ever be uncertain, the teams with the highest morale goes first. During a team's turn each of its members may act in whatever order they choose until each member has acted once.  
 When all members of a team have acted, its captain tests to keep morale if its morale has been broken. Then continue with the next team in turn order.
 
 
 ## Acting during a Conflict
 
-During their turn, a character may choose to surrender and remove themselves from the conflict. They can no longer influence the outcome, but they are out of harm's way.  
-When a team member surrenders or otherwise laves the conflict, they inflict **1** damage to their team's morale.  
-When a team's captain surrenders or otherwise laves the conflict, they damage their team's morale by the number of remaining members on their team.
-
-To act, a character has two choices, either attack an opponent to inflict stress upon and damage their morale, or try to gain an advantage just like you would during positioning.
+To act, a character has three choices, either attack an opponent to inflict stress upon and damage their morale, try to gain an advantage just like you would during positioning, or surrender.
 
 ### Attacking
 
@@ -121,6 +117,8 @@ If your opponent achieved more effort, they inflict the difference as damage to 
 If you achieved more effort, you inflict the difference as stress to your opponent. You also inflict that difference as damage to your opponent's morale.  
 If the defender struggles to defend because of your disposition, they can only reduce either the stress you inflict on them _or_ the damage to their team's morale but not both.
 
+Anyone may help their teammates defend as a group when one of their allies is attacked, but they can only do so, if they are not themselves attacked. To keep an opponent to protect one of their allies, have one of your teammates attack and occupy them.
+
 ### Positioning during Conflicts
 
 Instead of testing the relevant skill to inflict stress on an opponent and their team's morale, you may test a skill, as if positioning. You still choose an opponent who will try to stop or at least hinder your efforts.
@@ -130,6 +128,11 @@ Your opponent cannot defend against your efforts with the attribute you are disp
 
 Your opponent still damages your Morale as normal, if they achieve more effort than you.
 
+### Surrendering
+
+During their turn, a character may choose to surrender and remove themselves from the conflict. They can no longer influence the outcome, but they are out of harm's way.  
+When a team member surrenders or otherwise laves the conflict, they inflict **1** damage to their team's morale.  
+When a team's captain surrenders or otherwise laves the conflict, they damage their team's morale by the number of remaining members on their team.
 
 ## Ending a Conflict
 
