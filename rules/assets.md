@@ -90,6 +90,12 @@ If an asset was not originally intended to be used for a purpose, but it makes p
 
 
 
+# Inventory
+
+TODO
+
+
+
 # Crafting Assets
 
 You can create new assets and improve existing assets while [Resting](conditions-and-resting#crafting). Most of the time this creates a Craft test but sometimes a different skill might be created such as Influence to create, for example, an `Agreement with the Red Council` asset.

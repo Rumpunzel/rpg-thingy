@@ -82,10 +82,6 @@ Get **1** additional die when crafting assets.
 
 When you invoke a trait representing your mastery over the relevant skill, instead of re-rolling or adding any dice, you may increase your training for the relevant skill by one tier (from **6** to **5+**, from **5+** to **4+** etc.). You cannot have used any dice modifiers for that roll to use this benefit, and you may not use any dice modifiers afterwards either.
 
-### Tool Belt
-
-You may carry up to **3** additional assets with you.
-
 ### Traps Everywhere
 
 You may create a special `Traps` assets which may be used by your entire team and for any skill with any attribute.

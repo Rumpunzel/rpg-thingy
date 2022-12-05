@@ -44,6 +44,10 @@ When resting in the wilderness, you may buy and sell assets with Means as if you
 
 Add **1** effort when researching traits.
 
+### Deep Pockets
+
+Increase the number of assets you can carry by **3.**
+
 
 ---
 
