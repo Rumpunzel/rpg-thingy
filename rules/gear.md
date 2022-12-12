@@ -42,7 +42,7 @@ Some gear assets require another gear asset of at least masterpiece quality to b
 Assets for Fight conflicts come in two variations: weapons to attack and armor to defend. Though some weapons (such as the bow) have a different use they will aid you in Fight conflicts nonetheless.
 
 
-## Weapons
+### Weapons
 
 |                Weapon                |                                     Properties                                     | Resource Required |
 |:------------------------------------:|:----------------------------------------------------------------------------------:|:-----------------:|
@@ -53,8 +53,6 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 |              **Sword**               |  Attack with **Intuition**<br>_Refined with `Supple`_<br>_[Defensive, Versatile]_  |    `Precious`     |
 |  **Bow**<br>_[Requires **Arrows**]_  | Maneuver with **Reason**<br>_Refined with `Sturdy`_<br>_[Ranged, Reach, Tactical]_ |     `Supple`      |
 | **Arrows**<br>_[Requires a **Bow**]_ |                       Attack with **Reason**<br>_[Missile]_                        |     `Supple`      |
-
-### Weapon Properties
 
 - **Deadly:** If you rolled a **6,** may increase this weapon's rating by **1** for this test
 - **Defensive:** May be used for defending with Intuition without penalties
@@ -71,16 +69,13 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 
 
-## Armor
+### Armor
 
 |       Name       |                    Properties                    |              Resource Required               |
 |:----------------:|:------------------------------------------------:|:--------------------------------------------:|
 |    **Shield**    |      Defend with **Reason**<br>_[Bulwark]_       |                   `Sturdy`                   |
 | **Padded Armor** |    Defend with **Intuition**<br>_[Reliable]_     |                   `Supple`                   |
 |  **Chain Mail**  | Defend with **Vigor**<br>_[Fortified, Reliable]_ | `Precious`<br>_Masterpiece **Padded Armor**_ |
-
-
-### Armor Properties
 
 - **Bulwark:** May add **1** or armor's masterpiece rating as dice to the defense roll
 - **Fortified:** The masterpiece rating of this armor is equal to its full armor rating
