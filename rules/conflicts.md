@@ -117,7 +117,7 @@ If your opponent achieved more effort, they inflict the difference as damage to 
 If you achieved more effort, you inflict the difference as stress to your opponent. You also inflict that difference as damage to your opponent's morale.  
 If the defender struggles to defend because of your disposition, they can only reduce either the stress you inflict on them _or_ the damage to their team's morale but not both.
 
-Anyone may help their teammates defend as a group when one of their allies is attacked, but they can only do so, if they are not themselves attacked. To keep an opponent to protect one of their allies, have one of your teammates attack and occupy them.
+Anyone may help their teammates defend as a group when one of their allies is attacked, but they can only do so, if they are not themselves attacked. To keep an opponent from protecting one of their allies, have one of your teammates attack and occupy them.
 
 ### Positioning during Conflicts
 

@@ -24,13 +24,9 @@ page_nav:
 
 # Gear
 
-Gear [Assets](/assets) are more specific versions of general assets. They work just like normal assets but have additional properties, or even abilities (properties which may activated at the cost of quality rating), and/or [traits](/character#traits) (which work as other traits do).
+Gear [Assets](/assets) are more specific versions of general assets. They work just like normal assets but have additional properties. These properties are only for their corresponding skill [conflicts](conflicts), only when the asset is used on a skill test. An asset's properties can only be used as long as it has a quality rating of at least **1.**
 
-These properties are only for their corresponding skill [conflicts](conflicts), only when the asset is used, and only as long as the Asset has a rating of at least **1.** A gear ability counts as a use for the asset (meaning if you use its ability, you cannot use it for minimum effort) and hence, the asset degrades.  
-The traits may be used in whatever context seems appropriate, most often to your detriment.
-
-Some Preparations may be only specifically be used to attack or defend. If they are used to attack or defend but weren't meant to do so, it is treated as an off-label use and  its rating is considered to be **1** for that test.  
-If the asset is a masterpiece, instead its rating is considered to be the asset's masterpiece rating.
+Some assets may be only specifically be used to attack or defend. If they are used to attack or defend but weren't meant to do so, it is treated as an off-label use and its rating is considered to be **1** (or its masterpiece rating, if the asset is a masterpiece) for that test.  
 
 Gear assets also list the specific resource required to both craft and improve them.  
 Some gear assets require another gear asset of at least masterpiece quality to be created. The masterpiece assets consumed by the process; the corresponding rating for the new asset is the rating of the consumed asset's masterpiece trait.
@@ -48,15 +44,15 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ## Weapons
 
-|                Weapon                |                                    Properties                                    | Resource Required |
-|:------------------------------------:|:--------------------------------------------------------------------------------:|:-----------------:|
-|               **Axe**                |                        Attack with **Vigor**<br>_Deadly_                         |     `Sturdy`      |
-|              **Knives**              |             Attack with **Intuition**<br>_Wicked_ -- `Easy to Hide`              |    `Precious`     |
-|              **Spear**               |                        Attack with **Reason**<br>_Reach_                         |     `Sturdy`      |
-|             **Polearm**              |      Attack with **Vigor**<br>_Refined with `Precious`_<br>_Deadly, Reach_       |     `Sturdy`      |
-|              **Sword**               |  Attack with **Intuition**<br>_Refined with `Supple`_<br>_Defensive, Versatile_  |    `Precious`     |
-|  **Bow**<br>_[Requires **Arrows**]_  | Maneuver with **Reason**<br>_Refined with `Sturdy`_<br>_Ranged, Reach, Tactical_ |     `Supple`      |
-| **Arrows**<br>_[Requires a **Bow**]_ |                       Attack with **Reason**<br>_Missile_                        |     `Supple`      |
+|                Weapon                |                                     Properties                                     | Resource Required |
+|:------------------------------------:|:----------------------------------------------------------------------------------:|:-----------------:|
+|               **Axe**                |                        Attack with **Vigor**<br>_[Deadly]_                         |     `Sturdy`      |
+|              **Knives**              |                      Attack with **Intuition**<br>_[Wicked]_                       |    `Precious`     |
+|              **Spear**               |                        Attack with **Reason**<br>_[Reach]_                         |     `Sturdy`      |
+|             **Polearm**              |      Attack with **Vigor**<br>_Refined with `Precious`_<br>_[Deadly, Reach]_       |     `Sturdy`      |
+|              **Sword**               |  Attack with **Intuition**<br>_Refined with `Supple`_<br>_[Defensive, Versatile]_  |    `Precious`     |
+|  **Bow**<br>_[Requires **Arrows**]_  | Maneuver with **Reason**<br>_Refined with `Sturdy`_<br>_[Ranged, Reach, Tactical]_ |     `Supple`      |
+| **Arrows**<br>_[Requires a **Bow**]_ |                       Attack with **Reason**<br>_[Missile]_                        |     `Supple`      |
 
 ### Weapon Abilities
 
@@ -76,11 +72,11 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ## Armor
 
-|       Name       |                        Properties                         |              Resource Required               |
-|:----------------:|:---------------------------------------------------------:|:--------------------------------------------:|
-| **Padded Armor** |          Defend with **Intuition**<br>_Reliable_          |                   `Supple`                   |
-|    **Shield**    |    Defend with **Reason**<br>_Bulwark_ -- `Cumbersome`    |                   `Sturdy`                   |
-|  **Chain Mail**  | Defend with **Vigor**<br>_Fortified, Reliable_ -- `Heavy` | `Precious`<br>_Masterpiece **Padded Armor**_ |
+|       Name       |                    Properties                    |              Resource Required               |
+|:----------------:|:------------------------------------------------:|:--------------------------------------------:|
+|    **Shield**    |      Defend with **Reason**<br>_[Bulwark]_       |                   `Sturdy`                   |
+| **Padded Armor** |    Defend with **Intuition**<br>_[Reliable]_     |                   `Supple`                   |
+|  **Chain Mail**  | Defend with **Vigor**<br>_[Fortified, Reliable]_ | `Precious`<br>_Masterpiece **Padded Armor**_ |
 
 ### Armor Abilities
 
