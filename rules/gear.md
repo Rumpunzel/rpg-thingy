@@ -54,20 +54,21 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 |  **Bow**<br>_[Requires **Arrows**]_  | Maneuver with **Reason**<br>_Refined with `Sturdy`_<br>_[Ranged, Reach, Tactical]_ |     `Supple`      |
 | **Arrows**<br>_[Requires a **Bow**]_ |                       Attack with **Reason**<br>_[Missile]_                        |     `Supple`      |
 
-### Weapon Abilities
-
-- **Deadly:** If you rolled a **6,** may increase this weapon's rating by **1** for this test
-- **Missile:** May ignore morale damage when attacking with Reason
-- **Ranged:** When adding dice from a [Boon](/character#boons) representing your superior positioning while defending, may force the attacker(s) to attack with Maneuver instead of Fight; you may also defend with Maneuver instead of Fight; if you do, this ability only degrades the weapon if you fail to defend
-- **Reach:** May add weapon rating as dice for Maneuver [Positioning](conflicts#positioning) using Reason; is also an asset for [Positioning](/conflicts#positioning) with Maneuver and Reason
-- **Wicked:** May add weapon rating as dice to the roll when adding dice from a boon
-
 ### Weapon Properties
 
-- **Defensive:** Full weapon rating for defending with Intuition
+- **Deadly:** If you rolled a **6,** may increase this weapon's rating by **1** for this test
+- **Defensive:** May be used for defending with Intuition without penalties
+- **Missile:** May ignore morale damage when attacking with Reason
+- **Ranged:** When adding dice from a [Boon](/character#boons) representing your superior positioning while defending, you may:
+  - Force the attackers to attack with Maneuver instead of Fight
+  - Defend with Maneuver instead of Fight. If you do, this weapon only degrades if you fail to defend
+- **Reach:** May add weapon rating as dice for Maneuver [Positioning](conflicts#positioning) using Reason; is also an asset for [Positioning](/conflicts#positioning) with Maneuver and Reason
+- **Tactical:** Boons created using this weapon are [enduring](/character#enduring-boons--banes)
+- **Versatile:** May be used to attack with any attribute without penalties
+- **Wicked:** May add **1** or weapon's masterpiece rating as dice to the attack roll when adding dice from a boon
+
 - **Refined with RESOURCE:** Requires **1** additional resource of the named type when creating and repairing
-- **Tactical:** Boons created using this weapon's extra **Reach** dice are [enduring](/character#enduring-boons--banes)
-- **Versatile:** May be used to attack with any Attribute without degrading
+
 
 
 ## Armor
@@ -78,14 +79,14 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 | **Padded Armor** |    Defend with **Intuition**<br>_[Reliable]_     |                   `Supple`                   |
 |  **Chain Mail**  | Defend with **Vigor**<br>_[Fortified, Reliable]_ | `Precious`<br>_Masterpiece **Padded Armor**_ |
 
-### Armor Abilities
-
-- **Bulwark:** Add **1** die to a defense roll (with any attribute)
 
 ### Armor Properties
 
-- **Fortified:** The rating of the [Masterpiece Trait](/assets#masterpiece-traits) of this armor is equal to its full armor rating
+- **Bulwark:** May add **1** or armor's masterpiece rating as dice to the defense roll
+- **Fortified:** The masterpiece rating of this armor is equal to its full armor rating
 - **Reliable:** Degrades below armor rating **1** only if you rolled at least one **1**
+
+- **Refined with RESOURCE:** Requires **1** additional resource of the named type when creating and repairing
 
 
 
