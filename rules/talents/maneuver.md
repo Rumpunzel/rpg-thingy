@@ -68,7 +68,7 @@ When testing Maneuver with Vigor, you may choose which dice modifier to use for 
 
 ### Body of Steel
 
-Reduce all physical stress you take by **1.**
+Whenever you take **3** or less physical stress, reduce it to **1.**
 
 
 

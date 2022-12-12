@@ -54,13 +54,16 @@ Increase the number of assets you can carry by **3.**
 
 # Vigor Specializations
 
+### One Step Ahead
+
+You may ignore the first **3** stress (of any kind) during conflicts.
 
 
 # Intuition Specializations
 
 ### Cosmopolitan
 
-Reduce all social stress you take by **1.**
+Whenever you take social stress, you may inflict **1** social stress on your attackers.
 
 
 
