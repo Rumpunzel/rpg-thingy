@@ -44,34 +44,46 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ### Weapons
 
-|                Weapon                |                                     Properties                                     | Resource Required |
-|:------------------------------------:|:----------------------------------------------------------------------------------:|:-----------------:|
-|               **Axe**                |                        Attack with **Vigor**<br>_[Deadly]_                         |     `Sturdy`      |
-|              **Knives**              |                      Attack with **Intuition**<br>_[Wicked]_                       |    `Precious`     |
-|              **Spear**               |                        Attack with **Reason**<br>_[Reach]_                         |     `Sturdy`      |
-|             **Polearm**              |      Attack with **Vigor**<br>_Refined with `Precious`_<br>_[Deadly, Reach]_       |     `Sturdy`      |
-|              **Sword**               |  Attack with **Intuition**<br>_Refined with `Supple`_<br>_[Defensive, Versatile]_  |    `Precious`     |
-|  **Bow**<br>_[Requires **Arrows**]_  | Maneuver with **Reason**<br>_Refined with `Sturdy`_<br>_[Ranged, Reach, Tactical]_ |     `Supple`      |
-| **Arrows**<br>_[Requires a **Bow**]_ |                       Attack with **Reason**<br>_[Missile]_                        |     `Supple`      |
+|   Simple   |               Properties                |  Resource  |
+|:----------:|:---------------------------------------:|:----------:|
+|  **Axe**   |   Attack with **Vigor**<br>_[Deadly]_   |  `Sturdy`  |
+|  **Mace**  |  Attack with **Vigor**<br>_[Piercing]_  |  `Sturdy`  |
+| **Knives** | Attack with **Intuition**<br>_[Wicked]_ | `Precious` |
+| **Spear**  |   Attack with **Reason**<br>_[Reach]_   |  `Sturdy`  |
 
-- **Deadly:** If you rolled a **6,** may increase this weapon's rating by **1** for this test
+|   Martial   |                                    Properties                                    |  Resource  |
+|:-----------:|:--------------------------------------------------------------------------------:|:----------:|
+| **Polearm** |     Attack with **Vigor**<br>_Refined with_ `Precious`<br>_[Deadly, Reach]_      |  `Sturdy`  |
+| **Rapier**  |  Attack with **Intuition**<br>_Refined with_ `Precious`<br>_[Deadly, Piercing]_  | `Precious` |
+|  **Sword**  | Attack with **Intuition**<br>_Refined with_ `Supple`<br>_[Defensive, Versatile]_ | `Precious` |
+|  **Lance**  |    Attack with **Reason**<br>_Refined with_ `Precious`<br>_[Piercing, Reach]_    |  `Sturdy`  |
+
+|                       Ranged                        |                       Properties                       | Resource |
+|:---------------------------------------------------:|:------------------------------------------------------:|:--------:|
+| **Longbow / Crossbow**<br>_[Requires **Missiles**]_ | _Refined with_ `Sturdy`<br>_[Ranged, Reach, Tactical]_ | `Supple` |
+|         **Arrows**<br>_[Requires **Bow**]_          |     Attack with **Reason**<br>_[Deadly, Missile]_      | `Supple` |
+|       **Bolts**<br>_[Requires **Crossbow**]_        |    Attack with **Reason**<br>_[Piercing, Missile]_     | `Supple` |
+
+- **Deadly:** If you rolled a **6,** increase this weapon's quality rating by **1** for this test
 - **Defensive:** May be used for defending with Intuition without penalties
 - **Missile:** May ignore morale damage when attacking with Reason
+- **Piercing:** For each **1** your opponent rolls while defending, decrease their minimum effort by **1**
 - **Ranged:** When adding dice from a [Boon](/character#boons) representing your superior positioning while defending, you may:
   - Force the attackers to attack with Maneuver instead of Fight
   - Defend with Maneuver instead of Fight. If you do, this weapon only degrades if you fail to defend
-- **Reach:** May add weapon rating as dice for Maneuver [Positioning](conflicts#positioning) using Reason; is also an asset for [Positioning](/conflicts#positioning) with Maneuver and Reason
+- **Reach:** Used for [Positioning](/conflicts#positioning) with Maneuver and Reason. May also add weapon rating as dice for Maneuver positioning using Reason
+- **Requires X:** Weapon and its abilities can only be used if you have an asset **X** with quality rating of at least **1**
 - **Tactical:** Boons created using this weapon are [enduring](/character#enduring-boons--banes)
 - **Versatile:** May be used to attack with any attribute without penalties
-- **Wicked:** May add **1** or weapon's masterpiece rating as dice to the attack roll when adding dice from a boon
+- **Wicked:** May add **1** or weapon's masterpiece rating as dice to the attack roll when adding dice from a boon or bane
 
-- **Refined with RESOURCE:** Requires **1** additional resource of the named type when creating and repairing
+- **Refined with RESOURCE:** Requires **1** additional **RESOURCE** while crafting
 
 
 
 ### Armor
 
-|       Name       |                    Properties                    |              Resource Required               |
+|       Name       |                    Properties                    |                   Resource                   |
 |:----------------:|:------------------------------------------------:|:--------------------------------------------:|
 |    **Shield**    |      Defend with **Reason**<br>_[Bulwark]_       |                   `Sturdy`                   |
 | **Padded Armor** |    Defend with **Intuition**<br>_[Reliable]_     |                   `Supple`                   |
@@ -79,29 +91,29 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 - **Bulwark:** May add **1** or armor's masterpiece rating as dice to the defense roll
 - **Fortified:** The masterpiece rating of this armor is equal to its full armor rating
-- **Reliable:** Degrades below armor rating **1** only if you rolled at least one **1**
+- **Reliable:** Degrades below armor rating **1** only if you rolled a **1**
 
-- **Refined with RESOURCE:** Requires **1** additional resource of the named type when creating and repairing
+- **Refined with RESOURCE:** Requires **1** additional **RESOURCE** while crafting
 
 
 
 # Maneuver Gear
 
-|         Name         | Properties | Resource Required |
-|:--------------------:|:----------:|:-----------------:|
-|  **Climbing Gear**   |            |                   |
-| **Draft Horse/Mule** |            |                   |
-|   **Riding Horse**   |            |                   |
-|     **Warhorse**     |            |                   |
+|         Name         | Properties |     Resource     |
+|:--------------------:|:----------:|:----------------:|
+|  **Climbing Gear**   |            |                  |
+| **Draft Horse/Mule** |            |                  |
+|   **Riding Horse**   |            |                  |
+|     **Warhorse**     |            |                  |
 
 
 
 # Wilderness Gear
 
-|       Name        | Properties | Resource Required |
-|:-----------------:|:----------:|:-----------------:|
-|     **Cloak**     |            |                   |
-|  **Rowing Boat**  |            |                   |
+|       Name        | Properties |     Resource     |
+|:-----------------:|:----------:|:----------------:|
+|     **Cloak**     |            |                  |
+|  **Rowing Boat**  |            |                  |
 
 
 
