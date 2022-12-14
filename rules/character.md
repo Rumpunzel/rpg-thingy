@@ -312,9 +312,10 @@ If you do not having a fitting trait when undertaking such an action, you may al
 
 # Boons & Banes
 
-When you want to create an advantage for yourself or an ally, or hinder an opponent, you may create a boon to aid or a bane to hinder. In conflicts, you may to so during positioning and hence, also during the conflict like any other Positioning.
+When you want to create an advantage for yourself or an ally, or hinder an opponent, you may create a boon to aid or a bane to hinder. During conflicts, you may the main purpose of positioning is creating boons and banes.
 
-Boons and banes are temporary traits, which are one-use only. They may be used on any test where it would make sense that they would help or hinder.
+Boons and banes are temporary traits, which are one-use only. They may be used on any test where it would make sense that they would help or hinder.  
+In general, boons and banes can only be utilized with the same attribute with which they were created. Though, if it makes sense in the narrative, you may use them with other attributes as well.
 
 When you test a skill to create a boon or bane, your effort (or margin of effort if someone defends against your attempt) determines the boon's/bane's rating.
 
