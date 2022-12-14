@@ -63,7 +63,7 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ##### Deadly
 
-When attacking, this weapon's quality rating is considered to be increased by **1** for each **6** you roll more than your opponent.
+When attacking, increase your effort by **1** for each **6** you roll more than your opponent.
 
 > This weapon hits harder or finds its target more precisely.
 
@@ -82,9 +82,10 @@ When attacking, double all dice from boons and banes which were created with Int
 ##### Reach
 
 - This weapon is also an asset for [Positioning](/conflicts#positioning) with Maneuver and Reason
-- While defending, if you have a [Boon](/character#boons) created with Maneuver, you may:
-  - force the attackers to attack with Maneuver instead of Fight
-  - defend with Maneuver instead of Fight
+- While defending, if you have a [Boon](/character#boons) created with Maneuver:
+  - you may force the attackers to attack with Maneuver instead of Fight
+  - you may defend with Maneuver instead of Fight
+  - this weapon gains the _Defensive_ property
 
 > This weapon's main purpose is keeping an opponent at a distance and exploiting that advantage.
 
