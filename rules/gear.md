@@ -26,7 +26,7 @@ page_nav:
 
 Gear [Assets](/assets) are more specific versions of general assets. They work just like normal assets but have additional properties. These properties are only for their corresponding skill [conflicts](conflicts), only when the asset is used on a skill test. An asset's properties can only be used as long as it has a quality rating of at least **1.**
 
-Some assets may be only specifically be used to attack or defend. If they are used to attack or defend but weren't meant to do so, it is treated as an off-label use and its rating is considered to be **1** (or its masterpiece rating, if the asset is a masterpiece) for that test.  
+Some assets may be only specifically be used to attack or defend. If they are used for minimum effort to attack or defend but weren't meant to do so, it is treated as an off-label use and its rating is considered to be **1** (or its masterpiece rating, if the asset is a masterpiece) for that test.  
 
 Gear assets also list the specific resource required to both craft and improve them.  
 Some gear assets require another gear asset of at least masterpiece quality to be created. The masterpiece assets consumed by the process; the corresponding rating for the new asset is the rating of the consumed asset's masterpiece trait.
@@ -83,17 +83,17 @@ When attacking, double all dice from boons and banes which were created with Int
 
 - This weapon is also an asset for [Positioning](/conflicts#positioning) with Maneuver and Reason
 - While defending, if you have a [Boon](/character#boons) created with Maneuver:
-  - you may force the attackers to attack with Maneuver instead of Fight
-  - you may defend with Maneuver instead of Fight
-  - this weapon gains the _Defensive_ property
+  - you may force the attackers to attack with Maneuver instead of Fight,
+  - you may defend with Maneuver instead of Fight,
+  - and this weapon gains the _Defensive_ property
 
 > This weapon's main purpose is keeping an opponent at a distance and exploiting that advantage.
 
 ##### Defensive
 
-May be used for defending with Intuition without penalties.
+When defending with this weapon's attack Attribute, may add its masterpiece rating + **1** as dice to the roll in addition to gaining minimum effort from this or another asset.
 
-> This weapon offers incredible defensive qualities for anyone with fast reflexes.
+> This weapon offers respectable defensive qualities for anyone with fast reflexes.
 
 ##### Versatile
 
@@ -131,27 +131,35 @@ Requires **1** additional **RESOURCE** while crafting.
 
 ## Armor
 
-|      Name      |  Defend   |       Properties        |                Resource                |
-|:--------------:|:---------:|:-----------------------:|:--------------------------------------:|
-|   **Shield**   |  Reason   |        _Bulwark_        |                `Sturdy`                |
-|   **Padded**   | Intuition |       _Reliable_        |                `Supple`                |
-| **Chain Mail** |   Vigor   | _Fortified<br>Reliable_ | `Precious`<br>_Masterpiece **Padded**_ |
+|    Name    |  Defend   |       Properties        |                Resource                |
+|:----------:|:---------:|:-----------------------:|:--------------------------------------:|
+| **Shield** |  Reason   |        _Bulwark_        |                `Sturdy`                |
+| **Padded** | Intuition |       _Reliable_        |                `Supple`                |
+|  **Mail**  |   Vigor   | _Fortified<br>Reliable_ | `Precious`<br>_Masterpiece **Padded**_ |
 
 ##### Bulwark
 
-While defending, may add **1** or armor's masterpiece rating as dice to the roll.
+When defending, may add this armor's masterpiece rating + **1** as dice to the roll in addition to gaining minimum effort from this or another asset.
+
+> This armor not only protects you but also increases your protection on top of other armor.
 
 ##### Fortified
 
-The masterpiece rating of this armor is equal to its full armor rating.
+When defending with Vigor, the masterpiece rating of this armor is equal to its full armor rating.
+
+> There is no better protection than fortified armor.
 
 ##### Reliable
 
-While defending, this armor degrades below armor rating **1** only if you roll a **1.**
+When defending, this armor degrades below armor rating **1** only if you roll a **1.**
+
+> As long as it does not suffer any direct hits, this armor will protect you.
 
 ##### Refined with RESOURCE
 
 Requires **1** additional **RESOURCE** while crafting.
+
+> This armor is more expensive to make and harder to maintain.
 
 
 
