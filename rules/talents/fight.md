@@ -40,6 +40,10 @@ When defending with Vigor against multiple opponents, roll an additional die for
 
 # Intuition Feats
 
+### Parry
+
+May defend with weapons without penalty.
+
 ### Riposte
 
 When successfully defending with Fight and Intuition, may also inflict stress equal to the margin of effort in addition to damaging morale.
