@@ -54,7 +54,7 @@ When you use an asset to increase your successes, but you still fail at the test
 
 Some assets are so well crafted for their purpose, they are considered masterpieces, and they have a masterpiece rating in addition to their quality rating, which grants them additional benefits.
 
-If an asset's quality rating is **3** or greater, it is considered a masterpiece and it has a masterpiece rating as described in the table below.
+If an asset's quality rating is **3** or greater, it is considered a masterpiece, and it has a masterpiece rating as described in the table below.
 
 | Quality Rating | Masterpiece Rating |
 |:--------------:|:------------------:|
@@ -67,7 +67,7 @@ If an asset's quality rating is **3** or greater, it is considered a masterpiece
 |     **7**      |         3          |
 |    **...**     |        ...         |
 
-A masterpiece does not degrade if it is used for minimum effort on a test and the asset's masterwork rating is equal to or greater than the test's difficulty.
+A masterpiece does not degrade if used on a test with difficulty equal to its masterpiece rating or less.
 
 ### Masterpiece Traits
 
@@ -82,7 +82,7 @@ You may only invoke a single of your assets' masterpiece traits per test. If the
 ## Off-Label Usage
 
 When using an asset for with skill other than its intended purpose, its rating is considered to be **1** for that test  
-If the asset is a masterpiece, instead its rating is considered to be the asset's masterpiece rating for.
+If the asset is a masterpiece, instead its rating is considered to be the asset's masterpiece rating for. This may result in the asset not being considered a masterpiece for this test.
 
 When using an asset with an [Attribute](character#attributes) other than its intended purpose, it always degrades, even if it is a masterpiece. If the asset already degraded, it degrades an additional time.
 
