@@ -29,7 +29,8 @@ Gear [Assets](/assets) are more specific versions of general assets. They work j
 Some assets may be only specifically be used to attack or defend. If they are used for minimum effort to attack or defend but weren't meant to do so, it is treated as an off-label use and its rating is considered to be **1** (or its masterpiece rating, if the asset is a masterpiece) for that test.  
 
 Gear assets also list the specific resource required to both craft and improve them.  
-Some gear assets require another gear asset of at least masterpiece quality to be created. The masterpiece assets consumed by the process; the corresponding rating for the new asset is the rating of the consumed asset's masterpiece trait.
+Some gear asset list one or more additional resources as required when crafting it. This additional resource(s) are requires on top of what it would normally take to craft or repair it.  
+Very few gear assets require another gear asset of at least masterpiece quality to be created. The masterpiece assets consumed by the process; the corresponding rating for the new asset is the rating of the consumed asset's masterpiece trait. After being created, the asset can be repaired like any other asset.
 
 
 # Influence Gear
@@ -44,22 +45,32 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ## Weapons
 
-|          Weapon           |  Attack   |        Properties        |              Crafted With               |
-|:-------------------------:|:---------:|:------------------------:|:---------------------------------------:|
-|          **Axe**          |   Vigor   |         _Deadly_         |                `Sturdy`                 |
-|         **Mace**          |   Vigor   |        _Piercing_        |                `Sturdy`                 |
-|        **Knives**         | Intuition |         _Wicked_         |               `Precious`                |
-|         **Spear**         |  Reason   |         _Reach_          |                `Sturdy`                 |
-|                           |           |                          |                                         |
-|        **Polearm**        |   Vigor   |    _Deadly<br>Reach_     |  `Sturdy`<br>_Refined with_ `Precious`  |
-|        **Rapier**         | Intuition |   _Deadly<br>Piercing_   | `Precious`<br>_Refined with_ `Precious` |
-|         **Lance**         |  Reason   |   _Piercing<br>Reach_    |  `Sturdy`<br>_Refined with_ `Precious`  |
-|                           |           |                          |                                         |
-|       **Longsword**       | Intuition | _Defensive<br>Versatile_ |  `Precious`<br>_Refined with_ `Supple`  |
-|                           |           |                          |                                         |
-| **Longbow /<br>Crossbow** |     -     |         _Ranged_         |   `Supple`<br>_Refined with_ `Sturdy`   |
-|        **Arrows**         |  Reason   |   _Deadly<br>Missile_    |                `Supple`                 |
-|         **Bolts**         |  Reason   |  _Piercing<br>Missile_   |                `Sturdy`                 |
+|          Weapon           |  Attack   |            Properties             |                            Crafted With                            |
+|:-------------------------:|:---------:|:---------------------------------:|:------------------------------------------------------------------:|
+|          **Axe**          |   Vigor   |             _Deadly_              |                              `Sturdy`                              |
+|         **Mace**          |   Vigor   |            _Piercing_             |                              `Sturdy`                              |
+|         **Sword**         | Intuition |     _Defensive<br>Versatile_      |                             `Precious`                             |
+|        **Knives**         | Intuition |             _Wicked_              |                             `Precious`                             |
+|         **Spear**         |  Reason   |              _Reach_              |                              `Sturdy`                              |
+|                           |           |                                   |                                                                    |
+|       **Warhammer**       |   Vigor   |       _Deadly<br>Piercing_        |               `Sturdy`<br>_Refined with_ `Precious`                |
+|         **Estoc**         | Intuition |      _Defensive<br>Piercing_      |               `Precious`<br>_Refined with_ `Supple`                |
+|         **Bill**          |  Reason   |         _Reach<br>Wicked_         |               `Sturdy`<br>_Refined with_ `Precious`                |
+|         **Pike**          |  Reason   |             _Ranged_              |               `Sturdy`<br>_Refined with_ `Precious`                |
+|                           |           |                                   |                                                                    |
+|        **Poleaxe**        |   Vigor   |   _Deadly<br>Piercing<br>Reach_   |  `Sturdy`<br>_Refined with_ `Sturdy`<br>_Refined with_ `Precious`  |
+|       **Longsword**       | Intuition | _Defensive<br>Reach<br>Versatile_ | `Precious`<br>_Refined with_ `Supple`<br>_Refined with_ `Precious` |
+|                           |           |                                   |                                                                    |
+| **Longbow /<br>Crossbow** |     -     |      _Ammunition<br>Ranged_       |                `Supple`<br>_Refined with_ `Sturdy`                 |
+|        **Arrows**         |  Reason   |        _Deadly<br>Missile_        |                              `Supple`                              |
+|         **Bolts**         |  Reason   |       _Piercing<br>Missile_       |                              `Sturdy`                              |
+
+##### Ammunition
+
+- A **Longbow** requires **Arrows** with quality rating of at least **1** to be used
+- A **Crossbow** requires **Bolts** with quality rating of at least **1** to be used
+
+> This weapon requires ammunition to be used.
 
 ##### Deadly
 
@@ -67,21 +78,29 @@ When attacking, increase your effort by **1** for each **6** you roll more than 
 
 > This weapon hits harder or finds its target more precisely.
 
+##### Defensive
+
+When defending with this weapon's attack Attribute, may add its masterpiece rating + **1** as dice to the roll in addition to gaining minimum effort from this or another asset.
+
+> This weapon offers respectable defensive qualities for anyone with fast reflexes.
+
 ##### Piercing
 
 When attacking, decrease your opponent's minimum effort by **1** for each **1** they roll.
 
 > This weapon is especially good at piercing or ignoring an opponent's armor.
 
-##### Wicked
+##### Ranged
 
-When attacking, double all dice from boons and banes which were created with Intuition.
+This weapon also has the _Reach_ property (the attack attribute is considered to be Reason).
 
-> This weapon exploits an opponent's weakness and surprises better than any other.
+In addition, if you use this weapon to create a boon with Maneuver, it becomes [enduring](/character#enduring-boons--banes).
+
+> This weapon excels at keeping foes at a distance.
 
 ##### Reach
 
-- This weapon is also an asset for [Positioning](/conflicts#positioning) with Maneuver and Reason
+- This weapon is also an asset for [Positioning](/conflicts#positioning) with Maneuver and its attack attribute
 - While defending, if you have a [Boon](/character#boons) created with Maneuver:
   - you may force the attackers to attack with Maneuver instead of Fight,
   - you may defend with Maneuver instead of Fight,
@@ -89,28 +108,19 @@ When attacking, double all dice from boons and banes which were created with Int
 
 > This weapon's main purpose is keeping an opponent at a distance and exploiting that advantage.
 
-##### Defensive
-
-When defending with this weapon's attack Attribute, may add its masterpiece rating + **1** as dice to the roll in addition to gaining minimum effort from this or another asset.
-
-> This weapon offers respectable defensive qualities for anyone with fast reflexes.
-
 ##### Versatile
 
 May be used to attack with any attribute without penalties.
 
 > This weapon can be used to attack in multiple different ways without compromise.
 
-##### Ranged
+##### Wicked
 
-All _Ranged_ weapons also have the _Reach_ property.
+When attacking, double all dice from boons and banes which were created with Intuition.
 
-If you use this weapon to create a boon with Maneuver, it becomes [enduring](/character#enduring-boons--banes).
+> This weapon exploits an opponent's weakness and surprises better than any other.
 
-- A **Longbow** requires **Arrows** with quality rating of at least **1** to be used
-- A **Crossbow** requires **Bolts** with quality rating of at least **1** to be used
-
-> This weapon excels at keeping foes at a distance.
+> This weapon exploits an opponent's weakness and surprises better than any other.
 
 ##### Missile
 
@@ -121,23 +131,18 @@ When attacking with Reason, if your opponent successfully defends, ignore all st
 
 > Missing a foe from a safe distance is a lot healthier for body and soul than missing up close.
 
-##### Refined with RESOURCE
-
-Requires **1** additional **RESOURCE** while crafting.
-
-> This weapon is more expensive to make and harder to maintain.
-
 
 
 ## Armor
 
 |    Name    |  Defend   |       Properties        |                Resource                |
 |:----------:|:---------:|:-----------------------:|:--------------------------------------:|
-| **Shield** |  Reason   |        _Bulwark_        |                `Sturdy`                |
 | **Padded** | Intuition |       _Reliable_        |                `Supple`                |
+| **Shield** |  Reason   |       _Defensive_       |                `Sturdy`                |
+|            |           |                         |                                        |
 |  **Mail**  |   Vigor   | _Fortified<br>Reliable_ | `Precious`<br>_Masterpiece **Padded**_ |
 
-##### Bulwark
+##### Defensive
 
 When defending, may add this armor's masterpiece rating + **1** as dice to the roll in addition to gaining minimum effort from this or another asset.
 
@@ -154,12 +159,6 @@ When defending with Vigor, the masterpiece rating of this armor is equal to its 
 When defending, this armor degrades below armor rating **1** only if you roll a **1.**
 
 > As long as it does not suffer any direct hits, this armor will protect you.
-
-##### Refined with RESOURCE
-
-Requires **1** additional **RESOURCE** while crafting.
-
-> This armor is more expensive to make and harder to maintain.
 
 
 
