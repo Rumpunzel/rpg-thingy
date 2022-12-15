@@ -38,7 +38,10 @@ After being created, the asset can be improved like any other asset.
 
 # Influence Gear
 
-
+|      Gear       |           Purpose            |       Properties        | Resources  |
+|:---------------:|:----------------------------:|:-----------------------:|:----------:|
+| **Fine Cloths** | Defend against social stress |            -            | `Precious` |
+|                 |                              |                         |            |
 
 
 # Fight Gear
@@ -50,6 +53,8 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 |          Weapon           |  Attack   |            Properties             |              Resources               |
 |:-------------------------:|:---------:|:---------------------------------:|:------------------------------------:|
+|        **Weapon**         |  Any One  |                 -                 |                  -                   |
+|                           |           |                                   |                                      |
 |          **Axe**          |   Vigor   |             _Deadly_              |               `Sturdy`               |
 |         **Mace**          |   Vigor   |            _Piercing_             |               `Sturdy`               |
 |         **Sword**         | Intuition |     _Defensive<br>Versatile_      |              `Precious`              |
@@ -147,6 +152,8 @@ When attacking with Reason, if your opponent successfully defends, ignore all st
 
 |   Armor    |  Defend   |       Properties        |                      Resources                      |
 |:----------:|:---------:|:-----------------------:|:---------------------------------------------------:|
+| **Armor**  |  Any One  |            -            |                          -                          |
+|            |           |                         |                                                     |
 | **Helmet** |     -     |       _Reliable_        |                     `Precious`                      |
 | **Padded** | Intuition |        _Durable_        |                      `Supple`                       |
 | **Shield** |  Reason   |       _Defensive_       |                      `Sturdy`                       |
