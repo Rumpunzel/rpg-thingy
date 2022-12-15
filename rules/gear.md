@@ -28,8 +28,8 @@ Gear [Assets](/assets) are more specific versions of general assets. They work j
 
 Some assets may be only specifically be used to attack or defend. If they are used for minimum effort to attack or defend but weren't meant to do so, it is treated as an off-label use and its rating is considered to be **1** (or its masterpiece rating, if the asset is a masterpiece) for that test.  
 
-Gear assets also list the specific resource required to both craft and improve them.  
-Some gear asset list an additional resource as required when crafting it. Either of the listed resources may be used to create or improve the asset. In addition, if an additional resource is listed, it increases the number of resources required for any Craft tests by **1,** though this does not increase the crafting test's difficulty. This also increases the difficulty of tests to buy and sell the gear asset.
+Gear assets list a specific resource required to both create and improve them. When spending resources to craft while resting, at least one of them needs to be the listed resource for you to attempt the test.  
+Some gear asset list an additional resource. You need one of each resource to create or improve the asset. In addition, if an additional resource is listed, it increases the number of resources required for any Craft tests by **1.** This does not increase the crafting test's difficulty, though this does increase the difficulty of tests to buy and sell the gear asset.
 
 Rarely, gear assets require another masterpiece quality gear asset to be created.  
 The difficulty for the test to create the new asset is the required asset's masterpiece rating, which is lost in the process (on either success or failure). If the test was successful, the desired gear asset is created and rating for the newly created asset is the required asset's masterpiece rating.  
