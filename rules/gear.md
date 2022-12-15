@@ -29,7 +29,8 @@ Gear [Assets](/assets) are more specific versions of general assets. They work j
 Some assets may be only specifically be used to attack or defend. If they are used for minimum effort to attack or defend but weren't meant to do so, it is treated as an off-label use and its rating is considered to be **1** (or its masterpiece rating, if the asset is a masterpiece) for that test.  
 
 Gear assets also list the specific resource required to both craft and improve them.  
-Some gear asset list one or more additional resources as required when crafting it. This additional resource(s) are requires on top of what it would normally take to craft or repair it.  
+Some gear asset list an additional resource as required when crafting it. Either of the listed resources may be used to create or improve the asset. In addition, if an additional resource is listed, it increases the number of resources required for any Craft tests by **1,** though this does not increase the crafting test's difficulty. This also increases the difficulty of tests to buy and sell the gear asset.
+
 Very few gear assets require another gear asset of at least masterpiece quality to be created. The masterpiece assets consumed by the process; the corresponding rating for the new asset is the rating of the consumed asset's masterpiece trait. After being created, the asset can be repaired like any other asset.
 
 
@@ -45,25 +46,25 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ## Weapons
 
-|          Weapon           |  Attack   |            Properties             |                            Crafted With                            |
-|:-------------------------:|:---------:|:---------------------------------:|:------------------------------------------------------------------:|
-|          **Axe**          |   Vigor   |             _Deadly_              |                              `Sturdy`                              |
-|         **Mace**          |   Vigor   |            _Piercing_             |                              `Sturdy`                              |
-|         **Sword**         | Intuition |     _Defensive<br>Versatile_      |                             `Precious`                             |
-|        **Knives**         | Intuition |             _Wicked_              |                             `Precious`                             |
-|         **Spear**         |  Reason   |              _Reach_              |                              `Sturdy`                              |
-|                           |           |                                   |                                                                    |
-|       **Warhammer**       |   Vigor   |       _Deadly<br>Piercing_        |               `Sturdy`<br>_Refined with_ `Precious`                |
-|         **Estoc**         | Intuition |      _Defensive<br>Piercing_      |               `Precious`<br>_Refined with_ `Supple`                |
-|         **Bill**          |  Reason   |         _Reach<br>Wicked_         |               `Sturdy`<br>_Refined with_ `Precious`                |
-|         **Pike**          |  Reason   |             _Ranged_              |               `Sturdy`<br>_Refined with_ `Precious`                |
-|                           |           |                                   |                                                                    |
-|        **Poleaxe**        |   Vigor   |   _Deadly<br>Piercing<br>Reach_   |  `Sturdy`<br>_Refined with_ `Sturdy`<br>_Refined with_ `Precious`  |
-|       **Longsword**       | Intuition | _Defensive<br>Reach<br>Versatile_ | `Precious`<br>_Refined with_ `Supple`<br>_Refined with_ `Precious` |
-|                           |           |                                   |                                                                    |
-| **Longbow /<br>Crossbow** |     -     |      _Ammunition<br>Ranged_       |                `Supple`<br>_Refined with_ `Sturdy`                 |
-|        **Arrows**         |  Reason   |        _Deadly<br>Missile_        |                              `Supple`                              |
-|         **Bolts**         |  Reason   |       _Piercing<br>Missile_       |                              `Sturdy`                              |
+|          Weapon           |  Attack   |            Properties             |             Resources              |
+|:-------------------------:|:---------:|:---------------------------------:|:----------------------------------:|
+|          **Axe**          |   Vigor   |             _Deadly_              |              `Sturdy`              |
+|         **Mace**          |   Vigor   |            _Piercing_             |              `Sturdy`              |
+|         **Sword**         | Intuition |     _Defensive<br>Versatile_      |             `Precious`             |
+|        **Knives**         | Intuition |             _Wicked_              |             `Precious`             |
+|         **Spear**         |  Reason   |              _Reach_              |              `Sturdy`              |
+|                           |           |                                   |                                    |
+|       **Warhammer**       |   Vigor   |       _Deadly<br>Piercing_        |       `Sturdy` + `Precious`        |
+|         **Estoc**         | Intuition |      _Defensive<br>Piercing_      |       `Precious` + `Supple`        |
+|         **Bill**          |  Reason   |         _Reach<br>Wicked_         |       `Sturdy` + `Precious`        |
+|         **Pike**          |  Reason   |             _Ranged_              |       `Sturdy` + `Precious`        |
+|                           |           |                                   |                                    |
+|        **Poleaxe**        |   Vigor   |   _Deadly<br>Piercing<br>Reach_   | `Sturdy` + `Precious`<br>Intricate |
+|       **Longsword**       | Intuition | _Defensive<br>Reach<br>Versatile_ | `Precious` + `Supple`<br>Intricate |
+|                           |           |                                   |                                    |
+| **Longbow /<br>Crossbow** |     -     |      _Ammunition<br>Ranged_       |        `Supple` + `Sturdy`         |
+|        **Arrows**         |  Reason   |        _Deadly<br>Missile_        |              `Supple`              |
+|         **Bolts**         |  Reason   |       _Piercing<br>Missile_       |              `Sturdy`              |
 
 ##### Ammunition
 
@@ -122,6 +123,13 @@ When attacking, double all dice from boons and banes which were created with Int
 
 > This weapon exploits an opponent's weakness and surprises better than any other.
 
+##### Intricate
+
+For Influence, Craft, and Resource tests, this weapon's quality rating is increased by **1.**  
+This also increases the difficulty to of tests to create, improve, buy, and sell this weapon.
+
+> This weapon is an impressive feat of craftsmanship.
+
 ##### Missile
 
 When attacking with Reason, if your opponent successfully defends, ignore all stress and morale damage you would suffer.
@@ -135,7 +143,7 @@ When attacking with Reason, if your opponent successfully defends, ignore all st
 
 ## Armor
 
-|    Name    |  Defend   |       Properties        |                Resource                |
+|    Name    |  Defend   |       Properties        |               Resources                |
 |:----------:|:---------:|:-----------------------:|:--------------------------------------:|
 | **Padded** | Intuition |       _Reliable_        |                `Supple`                |
 | **Shield** |  Reason   |       _Defensive_       |                `Sturdy`                |
