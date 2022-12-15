@@ -31,7 +31,9 @@ Some assets may be only specifically be used to attack or defend. If they are us
 Gear assets also list the specific resource required to both craft and improve them.  
 Some gear asset list an additional resource as required when crafting it. Either of the listed resources may be used to create or improve the asset. In addition, if an additional resource is listed, it increases the number of resources required for any Craft tests by **1,** though this does not increase the crafting test's difficulty. This also increases the difficulty of tests to buy and sell the gear asset.
 
-Very few gear assets require another gear asset of at least masterpiece quality to be created. The masterpiece assets consumed by the process; the corresponding rating for the new asset is the rating of the consumed asset's masterpiece trait. After being created, the asset can be repaired like any other asset.
+Rarely, gear assets require another masterpiece quality gear asset to be created.  
+The difficulty for the test to create the new asset is the required asset's masterpiece rating, which is lost in the process (on either success or failure). If the test was successful, the desired gear asset is created and rating for the newly created asset is the required asset's masterpiece rating.  
+After being created, the asset can be improved like any other asset.
 
 
 # Influence Gear
@@ -46,25 +48,25 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ## Weapons
 
-|          Weapon           |  Attack   |            Properties             |             Resources              |
-|:-------------------------:|:---------:|:---------------------------------:|:----------------------------------:|
-|          **Axe**          |   Vigor   |             _Deadly_              |              `Sturdy`              |
-|         **Mace**          |   Vigor   |            _Piercing_             |              `Sturdy`              |
-|         **Sword**         | Intuition |     _Defensive<br>Versatile_      |             `Precious`             |
-|        **Knives**         | Intuition |             _Wicked_              |             `Precious`             |
-|         **Spear**         |  Reason   |              _Reach_              |              `Sturdy`              |
-|                           |           |                                   |                                    |
-|       **Warhammer**       |   Vigor   |       _Deadly<br>Piercing_        |       `Sturdy` + `Precious`        |
-|         **Estoc**         | Intuition |      _Defensive<br>Piercing_      |       `Precious` + `Supple`        |
-|         **Bill**          |  Reason   |         _Reach<br>Wicked_         |       `Sturdy` + `Precious`        |
-|         **Pike**          |  Reason   |             _Ranged_              |       `Sturdy` + `Precious`        |
-|                           |           |                                   |                                    |
-|        **Poleaxe**        |   Vigor   |   _Deadly<br>Piercing<br>Reach_   | `Sturdy` + `Precious`<br>Intricate |
-|       **Longsword**       | Intuition | _Defensive<br>Reach<br>Versatile_ | `Precious` + `Supple`<br>Intricate |
-|                           |           |                                   |                                    |
-| **Longbow /<br>Crossbow** |     -     |      _Ammunition<br>Ranged_       |        `Supple` + `Sturdy`         |
-|        **Arrows**         |  Reason   |        _Deadly<br>Missile_        |              `Supple`              |
-|         **Bolts**         |  Reason   |       _Piercing<br>Missile_       |              `Sturdy`              |
+|          Weapon           |  Attack   |            Properties             |              Resources               |
+|:-------------------------:|:---------:|:---------------------------------:|:------------------------------------:|
+|          **Axe**          |   Vigor   |             _Deadly_              |               `Sturdy`               |
+|         **Mace**          |   Vigor   |            _Piercing_             |               `Sturdy`               |
+|         **Sword**         | Intuition |     _Defensive<br>Versatile_      |              `Precious`              |
+|        **Knives**         | Intuition |             _Wicked_              |              `Precious`              |
+|         **Spear**         |  Reason   |              _Reach_              |               `Sturdy`               |
+|                           |           |                                   |                                      |
+|       **Warhammer**       |   Vigor   |       _Deadly<br>Piercing_        |        `Sturdy` + `Precious`         |
+|         **Estoc**         | Intuition |      _Defensive<br>Piercing_      |        `Precious` + `Supple`         |
+|         **Bill**          |  Reason   |         _Reach<br>Wicked_         |        `Sturdy` + `Precious`         |
+|         **Pike**          |  Reason   |             _Ranged_              |        `Sturdy` + `Precious`         |
+|                           |           |                                   |                                      |
+|        **Poleaxe**        |   Vigor   |   _Deadly<br>Piercing<br>Reach_   | `Sturdy` + `Precious`<br>_Intricate_ |
+|       **Longsword**       | Intuition | _Defensive<br>Reach<br>Versatile_ | `Precious` + `Supple`<br>_Intricate_ |
+|                           |           |                                   |                                      |
+| **Longbow /<br>Crossbow** |     -     |      _Ammunition<br>Ranged_       |         `Supple` + `Sturdy`          |
+|        **Arrows**         |  Reason   |        _Deadly<br>Missile_        |               `Supple`               |
+|         **Bolts**         |  Reason   |       _Piercing<br>Missile_       |               `Sturdy`               |
 
 ##### Ammunition
 
@@ -143,12 +145,13 @@ When attacking with Reason, if your opponent successfully defends, ignore all st
 
 ## Armor
 
-|    Name    |  Defend   |       Properties        |               Resources                |
-|:----------:|:---------:|:-----------------------:|:--------------------------------------:|
-| **Padded** | Intuition |       _Reliable_        |                `Supple`                |
-| **Shield** |  Reason   |       _Defensive_       |                `Sturdy`                |
-|            |           |                         |                                        |
-|  **Mail**  |   Vigor   | _Fortified<br>Reliable_ | `Precious`<br>_Masterpiece **Padded**_ |
+|   Armor    |  Defend   |       Properties        |                      Resources                      |
+|:----------:|:---------:|:-----------------------:|:---------------------------------------------------:|
+| **Helmet** |     -     |       _Reliable_        |                     `Precious`                      |
+| **Padded** | Intuition |        _Durable_        |                      `Supple`                       |
+| **Shield** |  Reason   |       _Defensive_       |                      `Sturdy`                       |
+|            |           |                         |                                                     |
+|  **Mail**  |   Vigor   | _Fortified<br>Reliable_ | `Precious`<br>_Masterpiece **Padded**<br>Intricate_ |
 
 ##### Defensive
 
@@ -156,18 +159,30 @@ When defending, may add this armor's masterpiece rating + **1** as dice to the r
 
 > This armor not only protects you but also increases your protection on top of other armor.
 
+##### Durable
+
+When defending, this armor degrades below armor rating **1** only if you roll a **1.**
+
+> As long as it does not suffer any direct hits, this armor will protect you.
+
+##### Reliable
+
+When defending, may increase your minimum effort from this or another asset by **1.**
+
+> This armor excels at increasing your protection combined with other armor.
+
 ##### Fortified
 
 When defending with Vigor, the masterpiece rating of this armor is equal to its full armor rating.
 
 > There is no better protection than fortified armor.
 
-##### Reliable
+##### Intricate
 
-When defending, this armor degrades below armor rating **1** only if you roll a **1.**
+For Influence, Craft, and Resource tests, this armor's quality rating is increased by **1.**  
+This also increases the difficulty to of tests to create, improve, buy, and sell this armor.
 
-> As long as it does not suffer any direct hits, this armor will protect you.
-
+> This weapon is an impressive feat of craftsmanship.
 
 
 # Maneuver Gear
