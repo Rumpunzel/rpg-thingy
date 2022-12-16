@@ -35,13 +35,13 @@ You may buy new assets (see [Resting](conditions-and-resting#crafting)) and crea
 
 # Quality Rating
 
-Each asset has a quality rating. Usually, this rating is between **1** and **3.** Some special asset such as castles and other structures, as well as masterfully crafted gear might exceed a quality rating of **3.**
+Each asset has a quality rating. Usually, this rating is between **1** and **3.** Though, some special asset such as castles and other structures, as well as masterfully crafted gear might exceed even that.
 
-You may use an asset after rolling with a fitting skill. Your minimum effort for that test is equal to the asset's quality rating. This can (and often will) result in you succeeding on a test you would have otherwise failed or at least reduce your margin of failure. After you use an asset, its quality rating degrades by **1.**
+You may use an asset after rolling with a fitting skill to gain minimum effort for that test equal to the asset's quality rating. This can (and often will) result in you succeeding on a test you would have otherwise failed or at least reduce your margin of failure. After you use an asset, its quality rating degrades by **1.**
 
-If an asset's quality rating drops to 0, it can no longer be used.
+If an asset's quality rating drops to **0,** it can no longer be used.
 
-When you use an asset to increase your successes, but you still fail at the test, the asset does not increase the [Favor](character#favor) you gain. You only get Favor for the hits you have actually rolled.
+When you use an asset for minimum effort, but you still fail at the test, the asset does not increase the [Favor](character#favor) you gain. You only get Favor for the hits you have actually rolled.
 
 > Maro finds himself in a skirmish with a vicious assassin who ambushed him in a darkened street corner.
 > 
@@ -52,9 +52,11 @@ When you use an asset to increase your successes, but you still fail at the test
 
 ## Masterpieces
 
-Some assets are so well crafted for their purpose, they are considered masterpieces, and they have a masterpiece rating in addition to their quality rating, which grants them additional benefits.
+Some assets are so well crafted for their purpose that they are considered masterpieces. These assets have a masterpiece rating in addition to their quality rating, which grants them additional benefits.
 
 If an asset's quality rating is **3** or greater, it is considered a masterpiece, and it has a masterpiece rating as described in the table below.
+
+You may use a masterpiece asset to gain minimum effort equal to its quality rating, just like you would a normal asset. In addition, you may use a masterpiece asset to gain minimum effort equal to its masterpiece rating instead without degrading the asset's quality rating.
 
 | Quality Rating | Masterpiece Rating |
 |:--------------:|:------------------:|
@@ -67,14 +69,12 @@ If an asset's quality rating is **3** or greater, it is considered a masterpiece
 |     **7**      |         3          |
 |    **...**     |        ...         |
 
-A masterpiece does not degrade if used on a test with difficulty equal to its masterpiece rating or less.
-
 ### Masterpiece Traits
 
 Additionally, all masterpieces have a masterpiece [Trait](character#traits) describing its exceptional quality with rating equal to is masterpiece rating.  
 Increasing a masterpiece's quality rating might increase the masterpiece trait's rating while degrading a masterpiece's quality rating might result in it losing its masterpiece rating and with it its masterpiece trait.
 
-When you test a skill, you may invoke **1** of your assets' masterpiece traits either on a test fitting of that asset's purpose or by describing how you would leverage that trait to your advantage. When you do, add its masterpiece trait's rating as dice to your roll.
+When you test a skill, you may invoke **1** of your assets' masterpiece traits either on a test fitting of that asset's purpose or by describing how you would leverage that trait to your advantage. When you do, add its masterpiece trait's rating as dice to your roll. This does not degrade the asset.
 
 You may only invoke a single of your assets' masterpiece traits per test. If there are multiple fitting traits, you may only choose **1** of them.
 

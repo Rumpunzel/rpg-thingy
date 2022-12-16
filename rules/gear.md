@@ -38,10 +38,10 @@ After being created, the asset can be improved like any other asset.
 
 # Influence Gear
 
-|      Gear       |           Purpose            |       Properties        | Resources  |
-|:---------------:|:----------------------------:|:-----------------------:|:----------:|
-| **Fine Cloths** | Defend against social stress |            -            | `Precious` |
-|                 |                              |                         |            |
+|    Gear    |           Purpose            |       Properties        | Resources  |
+|:----------:|:----------------------------:|:-----------------------:|:----------:|
+| **Finery** | Defend against social stress |            -            | `Precious` |
+|            |                              |                         |            |
 
 
 # Fight Gear
@@ -150,15 +150,15 @@ When attacking with Reason, if your opponent successfully defends, ignore all st
 
 ## Armor
 
-|   Armor    |  Defend   |       Properties        |                      Resources                      |
-|:----------:|:---------:|:-----------------------:|:---------------------------------------------------:|
-| **Armor**  |  Any One  |            -            |                          -                          |
-|            |           |                         |                                                     |
-| **Helmet** |     -     |       _Reliable_        |                     `Precious`                      |
-| **Padded** | Intuition |        _Durable_        |                      `Supple`                       |
-| **Shield** |  Reason   |       _Defensive_       |                      `Sturdy`                       |
-|            |           |                         |                                                     |
-|  **Mail**  |   Vigor   | _Fortified<br>Reliable_ | `Precious`<br>_Masterpiece **Padded**<br>Intricate_ |
+|   Armor    |                       Defend                        |       Properties        |                      Resources                      |
+|:----------:|:---------------------------------------------------:|:-----------------------:|:---------------------------------------------------:|
+| **Armor**  |                       Any One                       |            -            |                          -                          |
+|            |                                                     |                         |                                                     |
+| **Helmet** |                          -                          |       _Reliable_        |                     `Precious`                      |
+| **Padded** | <i class="fa-solid fa-shield-halved"></i> Intuition |        _Durable_        |                      `Supple`                       |
+| **Shield** |  <i class="fa-solid fa-shield-halved"></i> Reason   |       _Defensive_       |                      `Sturdy`                       |
+|            |                                                     |                         |                                                     |
+|  **Mail**  |   <i class="fa-solid fa-shield-halved"></i> Vigor   | _Fortified<br>Reliable_ | `Precious`<br>_Masterpiece **Padded**<br>Intricate_ |
 
 ##### Defensive
 
