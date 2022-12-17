@@ -72,39 +72,38 @@ Use these for, for example, improvised weapons or instead of its lengthy list of
 
 Assets for Fight conflicts come in two variations: weapons to attack and armor to defend. Though some weapons (such as bows) have a different use they will aid you in Fight conflicts nonetheless.
 
-|          Weapon           |        Use         |                  Properties                  |                     Resources                     |
-|:-------------------------:|:------------------:|:--------------------------------------------:|:-------------------------------------------------:|
-|         _Weapon_          |     🗡 Any One     |                      -                       |                         -                         |
-|          _Armor_          |     🛡 Any One     |                      -                       |                         -                         |
-|                           |                    |                                              |                                                   |
-|          **Axe**          |      🗡 Vigor      |                   _Deadly_                   |                     `Sturdy`                      |
-|         **Mace**          |      🗡 Vigor      |                  _Piercing_                  |                     `Sturdy`                      |
-|        **Dagger**         |    🗡 Intuition    |                   _Wicked_                   |                    `Precious`                     |
-|         **Sword**         |    🗡 Intuition    |            _Defensive, Versatile_            |                    `Precious`                     |
-|         **Spear**         |     🗡 Reason      |                   _Reach_                    |                     `Sturdy`                      |
-|                           |                    |                                              |                                                   |
-|       **Warhammer**       |      🗡 Vigor      |              _Deadly, Piercing_              |               `Sturdy` + `Precious`               |
-|         **Estoc**         |    🗡 Intuition    |            _Defensive, Piercing_             |               `Supple` + `Precious`               |
-|         **Bill**          |     🗡 Reason      |               _Reach, Wicked_                |               `Sturdy` + `Precious`               |
-|         **Pike**          |     🗡 Reason      |                   _Ranged_                   |               `Sturdy` + `Precious`               |
-|                           |                    |                                              |                                                   |
-|        **Poleaxe**        |      🗡 Vigor      |   _Deadly, Piercing, Reach_<br>_Exquisite_   |               `Sturdy` + `Precious`               |
-|       **Longsword**       |    🗡 Intuition    | _Defensive, Reach, Versatile_<br>_Exquisite_ |               `Supple` + `Precious`               |
-|                           |                    |                                              |                                                   |
-| **Crossbow +<br>Longbow** | Maneuver<br>Reason |             _Ammunition, Ranged_             |                `Sturdy` + `Supple`                |
-|        **Arrows**         |     🗡 Reason      |              _Deadly, Missile_               |                     `Supple`                      |
-|         **Bolts**         |     🗡 Reason      |             _Missile, Piercing_              |                     `Sturdy`                      |
-|                           |                    |                                              |                                                   |
-|        **Helmet**         |         -          |                 _Defensive_                  |                    `Precious`                     |
-|        **Padded**         |    🛡 Intuition    |                  _Durable_                   |                     `Supple`                      |
-|        **Shield**         |     🛡 Reason      |                 _Defensive_                  |                     `Sturdy`                      |
-|                           |                    |                                              |                                                   |
-|         **Mail**          |      🛡 Vigor      |     _Fortified, Reliable_<br>_Exquisite_     | `Supple` + `Precious`<br>_Masterpiece **Padded**_ |
+|    Weapon     |     Use      |                  Properties                  |                     Resources                      |
+|:-------------:|:------------:|:--------------------------------------------:|:--------------------------------------------------:|
+|   _Weapon_    |  🗡 Any One  |                      -                       |                         -                          |
+|    _Armor_    |  🛡 Any One  |                      -                       |                         -                          |
+|               |              |                                              |                                                    |
+|    **Axe**    |   🗡 Vigor   |                   _Deadly_                   |                      `Sturdy`                      |
+|   **Mace**    |   🗡 Vigor   |                  _Piercing_                  |                      `Sturdy`                      |
+|  **Dagger**   | 🗡 Intuition |                   _Wicked_                   |                     `Precious`                     |
+|   **Sword**   | 🗡 Intuition |            _Defensive, Versatile_            |                     `Precious`                     |
+|   **Spear**   |  🗡 Reason   |                   _Reach_                    |                      `Sturdy`                      |
+|               |              |                                              |                                                    |
+|   **Bill**    |   🗡 Vigor   |          _Reach, Versatile, Wicked_          |               `Sturdy`<br>`Precious`               |
+|  **Poleaxe**  |   🗡 Vigor   |   _Deadly, Piercing, Reach_<br>_Exquisite_   |               `Sturdy`<br>`Precious`               |
+| **Warhammer** |   🗡 Vigor   |              _Deadly, Piercing_              |               `Sturdy`<br>`Precious`               |
+|   **Estoc**   | 🗡 Intuition |            _Defensive, Piercing_             |               `Supple`<br>`Precious`               |
+| **Longsword** | 🗡 Intuition | _Defensive, Reach, Versatile_<br>_Exquisite_ |               `Supple`<br>`Precious`               |
+| **Crossbow**  |  🗡 Reason   |                  _Loading_                   |               `Sturdy`<br>`Precious`               |
+|   **Pike**    |  🗡 Reason   |                   _Ranged_                   |               `Sturdy`<br>`Precious`               |
+|               |              |                                              |                                                    |
+| **Arbalest**  |  🗡 Reason   | _Loading, Piercing, Tactical_<br>_Exquisite_ |         `Sturdy`<br>`Supple`<br>`Precious`         |
+|  **Longbow**  |  🗡 Reason   |        _Ammunition, Deadly, Tactical_        |         `Sturdy`<br>`Supple`<br>`Precious`         |
+|               |              |                                              |                                                    |
+|  **Helmet**   |      -       |                 _Defensive_                  |                     `Precious`                     |
+|  **Padded**   | 🛡 Intuition |                  _Durable_                   |                      `Supple`                      |
+|  **Shield**   |  🛡 Reason   |                 _Defensive_                  |                      `Sturdy`                      |
+|               |              |                                              |                                                    |
+|   **Mail**    |   🛡 Vigor   |     _Fortified, Reliable_<br>_Exquisite_     | `Supple`<br>`Precious`<br>_Masterpiece **Padded**_ |
 
 ##### Ammunition
 
-- A **Longbow** requires **Arrows** with quality rating of at least **1** to be used
-- A **Crossbow** requires **Bolts** with quality rating of at least **1** to be used
+This asset also has the _Ranged_ property.
+When attacking, ignore all stress and morale damage.
 
 ##### Deadly
 
@@ -127,11 +126,10 @@ When defending, this asset degrades below armor rating **1** only if you roll a 
 
 When defending, the masterpiece rating of this asset is equal to its full quality rating.
 
-##### Missile
+##### Loading
 
-When attacking, if your opponent successfully defends, ignore all stress and morale damage you would suffer.
-- **Arrows** require a **Longbow** with quality rating of at least **1** to be used
-- **Bolts** require a **Crossbow** with quality rating of at least **1** to be used
+This asset also has the _Ammunition_ property.
+Not being affected by a boon created with Maneuver, is considered an off-label use of this asset.
 
 ##### Piercing
 
@@ -148,6 +146,10 @@ When testing Maneuver, add **1** + this asset's masterpiece rating as dice to yo
 When defending, if you are affected by a boon created with Maneuver, you may do the following:
 - you may force the attackers to attack with Maneuver instead of Fight,
 - you may defend with Maneuver instead of Fight,
+
+##### Tactical
+
+This asset is also an asset for Maneuver tests.
 
 ##### Versatile
 
