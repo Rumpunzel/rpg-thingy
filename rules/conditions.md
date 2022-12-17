@@ -147,7 +147,7 @@ These conditions are grievous injuries which threaten to fester and prematurely 
 
 ### Appropriate conditions
 
-The thee different ypes of conditions hinder you on different tests. Of course, you can almost always voluntarily hinder yourself with your own conditions if the table finds it appropriate.
+The three different types of conditions hinder you on different tests. Of course, you can almost always voluntarily hinder yourself with your own conditions if the table finds it appropriate.
 
 |                | Physical Hinders | Mental Hinders |  Social Hinders  |
 |----------------|:----------------:|:--------------:|:----------------:|

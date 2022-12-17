@@ -132,7 +132,7 @@ Intuition encompasses adaptive approaches to problem-solving.
   <figcaption>A hunting party tracking their prey, paying attention to every broken branch.</figcaption>
 </figure>
 
-It's a matter of utilizing opportunities in the moment and with the element of surprise always on your side. A matter of tipping the scales in your favour by paying close attention and going with the flow.
+It's a matter of utilizing opportunities in the heat of the moment and with the element of surprise always on your side. A matter of tipping the scales in your favour by paying close attention and going with the flow.
 
 Flexibility, nimbleness, guile, reflexes, perceptiveness, wit, connections, and empathy are all different aspects of Intuition.
 

@@ -68,7 +68,7 @@ A structure's masterpiece trait is called its [Support Trait](#structure-traits)
 
 > A river parts the forest in two. Crossing it is an uncertain task. The difficulty to cross it is **1.** A character could build a simple bridge across to cross. A bridge asset with rating **1** will help one character cross the river before collapsing (the river can still be crossed by succeeding on the obstacle **1** test without the help of the bridge). A bridge asset with rating **2** will help two characters cross the river but a masterpiece bridge asset with rating **3** or higher does not degrade when used, as the difficulty against which it is used is only **1.**
 >
-> The bridge has a quality rating of **3** and a support rating of **1** (the bridge will still degrade when used on tests with difficulty higher than its support rating, for example an ox and cart crossing the river, which would be an difficulty **2** test).
+> The bridge has a quality rating of **3** and a support rating of **1** (the bridge will still degrade when used on tests with difficulty higher than its support rating, for example an ox and cart crossing the river, which would be a difficulty **2** test).
 
 
 # Calculating Supply Rating
