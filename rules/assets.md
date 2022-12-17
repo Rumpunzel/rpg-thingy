@@ -55,11 +55,7 @@ When you use an asset for minimum effort, but you still fail at the test, the as
 Some assets are so well crafted for their purpose that they are considered masterpieces. These assets have a masterpiece rating in addition to their quality rating, which grants them additional benefits.
 
 If an asset's quality rating is **3** or greater, it is considered a masterpiece, and it has a masterpiece rating as described in the table below.  
-You may use a masterpiece asset to gain minimum effort equal to its quality rating, just like you would a normal asset. In addition, you may use a masterpiece asset to gain minimum effort equal to its masterpiece rating instead without degrading the asset's quality rating.
-
-When you use a masterpiece asset for minimum effort, add additional dice equal to its masterpiece rating to your roll. Contrary to using traits, if you use multiple masterpiece assets on a single tests, you gain dice for each one.
-
-Increasing a masterpiece's quality rating might also increase its masterpiece rating while degrading its quality rating might also degrade its masterpiece rating or result in the asset losing it entirely.  
+You may use a masterpiece asset to gain minimum effort equal to its quality rating, just like you would a normal asset. Alternatively, you may use a masterpiece asset to gain minimum effort equal to its masterpiece rating instead and if you succeed on the test, the asset does not degrade.
 
 | Quality Rating | Masterpiece Rating |
 |:--------------:|:------------------:|

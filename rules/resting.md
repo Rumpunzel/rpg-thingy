@@ -6,8 +6,8 @@ comments: false
 permalink: /resting
 
 # Hero section
-title: Conditions & Resting
-description: Stuff about conditions and resting
+title: Resting
+description: Stuff about resting
 
 # Micro navigation
 micro_nav: true
@@ -85,7 +85,7 @@ You may invoke a trait of an instruction manual you possess, of a training area 
 
 If you succeed on the test, you mark **1** **XP** for the skill. Otherwise, you do not, but you also do not suffer any other negative consequences.
 
-Someone who is resting with you may spend resources equal to the test's difficultly to help you practice and grant you additional dice on that test equal to their level in the skill you want to practice.
+As with any test, you may also test as a group, though only one of you will gain **XP.**
 
 ## Weather-Watching
 
@@ -135,7 +135,7 @@ If you succeed, you gain the asset with the chosen quality rating. Otherwise, if
 
 ## Selling
 
-You may sell an asset you own by testing Means. Discard any success exceeding the asset's quality rating. The remaining result is the offer you get in your current rest location. You may accept that offer or decline it. Either way, the resources to attempt to sell the asset are spent.  
+You may sell an asset you own by testing Means. Discard any hits exceeding the asset's quality rating. The achieved effort is the offer you get in your current rest location. You may accept that offer or decline it. Either way, the resources to attempt to sell the asset are spent.  
 If you accept, you gain a `Currency` asset for Means of the local currency with rating equal to the effort you achieved and lose the chosen asset.
 
 

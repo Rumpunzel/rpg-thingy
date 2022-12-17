@@ -6,8 +6,8 @@ comments: false
 permalink: /conditions
 
 # Hero section
-title: Conditions & Resting
-description: Stuff about conditions and resting
+title: Conditions
+description: Stuff about conditions
 
 # Micro navigation
 micro_nav: true
@@ -143,14 +143,14 @@ These conditions are grievous injuries which threaten to fester and prematurely 
 
 The three different types of conditions hinder you on different tests. Of course, you can almost always voluntarily hinder yourself with your own conditions if the table finds it appropriate.
 
-|                | Physical Hinders | Mental Hinders |  Social Hinders  |
-|----------------|:----------------:|:--------------:|:----------------:|
-| **Influence**  |        -         |  _Only Major_  | {{ site.check }} |
-| **Fight**      | {{ site.check }} |  _Only Major_  |        -         |
-| **Maneuver**   | {{ site.check }} |  _Only Major_  |        -         |
-| **Wilderness** | {{ site.check }} |  _Only Major_  |        -         |
-| **Craft**      | {{ site.check }} |  _Only Major_  |        -         |
-| **Means**      |        -         |  _Only Major_  | {{ site.check }} |
+|                  | Physical Hinders | Mental Hinders |  Social Hinders  |
+|:----------------:|:----------------:|:--------------:|:----------------:|
+|  **Influence**   |        -         |  _Only Major_  | {{ site.check }} |
+|    **Fight**     | {{ site.check }} |  _Only Major_  |        -         |
+|   **Maneuver**   | {{ site.check }} |  _Only Major_  |        -         |
+|  **Wilderness**  | {{ site.check }} |  _Only Major_  |        -         |
+|    **Craft**     | {{ site.check }} |  _Only Major_  |        -         |
+|    **Means**     |        -         |  _Only Major_  | {{ site.check }} |
 
 ### Mending conditions
 
@@ -158,9 +158,9 @@ The three different types of conditions have restrictions with which skill and w
 
 [Leisure Structures](gm-tools/settlements#leisure-structures) can give you additional options to get rid of your conditions but on the road or without help, these are the only ways to get rid of conditions.
 
-|              |  Physical Mended By  |  Mental Mended By   | Social Mended By |
-|--------------|:--------------------:|:-------------------:|:----------------:|
-| **Skill**    |      **Craft**       |    **Influence**    |    **Means**     |
-| **Minor**    |   {{ site.check }}   |  {{ site.check }}   | {{ site.check }} |
+|              |   Mending Physical   |   Mending Mental    |  Mending Social  |
+|:------------:|:--------------------:|:-------------------:|:----------------:|
+|  **Skill**   |      **Craft**       |    **Influence**    |    **Means**     |
+|  **Minor**   |   {{ site.check }}   |  {{ site.check }}   | {{ site.check }} |
 | **Moderate** | _Intuition & Reason_ | _Vigor & Intuition_ | _Vigor & Reason_ |
-| **Major**    |       _Reason_       |     _Intuition_     |     _Vigor_      |
+|  **Major**   |       _Reason_       |     _Intuition_     |     _Vigor_      |
