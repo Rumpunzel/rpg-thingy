@@ -64,11 +64,9 @@ Though, rpg thingy has a system for building towns and their surroundings from t
 
 Masterpieces to not degrade for simple tests with only obstacle **1.** As assets can also be structures, this has helpful implications for building a coherent and interconnected world. When talking about structures, an asset's masterpiece rating is called its support rating instead.
 
-A structure's masterpiece trait is called its [Support Trait](#structure-traits).
-
-> A river parts the forest in two. Crossing it is an uncertain task. The difficulty to cross it is **1.** A character could build a simple bridge across to cross. A bridge asset with rating **1** will help one character cross the river before collapsing (the river can still be crossed by succeeding on the obstacle **1** test without the help of the bridge). A bridge asset with rating **2** will help two characters cross the river but a masterpiece bridge asset with rating **3** or higher does not degrade when used, as the difficulty against which it is used is only **1.**
+> A river parts the forest in two. Crossing it is an uncertain task. The difficulty to cross it is **1.** A character could build a simple bridge across to cross. A bridge asset with rating **1** will help one person cross the river before collapsing (the river can still be crossed by succeeding on the difficulty **1** test without the help of the bridge). A bridge asset with rating **2** will help two people cross the river but a masterpiece bridge asset with rating **3** or higher does not degrade when used, as the difficulty against which it is used is only **1.**
 >
-> The bridge has a quality rating of **3** and a support rating of **1** (the bridge will still degrade when used on tests with difficulty higher than its support rating, for example an ox and cart crossing the river, which would be a difficulty **2** test).
+> The bridge has a quality rating of **3** and a support rating of **1** (it will still degrade when used on tests with difficulty higher than its support rating, for example an ox and cart crossing the river, which would be a difficulty **2** test).
 
 
 # Calculating Supply Rating
@@ -95,15 +93,16 @@ A settlement's supply rating based on the surrounding assets and their support r
 > Should the existing assets be improved and/or new supporting structures be built around the town, its supply rating would improve. Should the existing assets degrade or be destroyed, its supply rating would decrease.
 
 
-# Structure Traits
 
-Calculating supply rating already is a very handy tool to give characters to the towns and cities characters will visit. In some cases, though, they demand even more detail. For these cases, you can use individual structures and their support traits.
+# Structures
+
+Calculating supply rating already is a very handy tool to give characters to the towns and cities characters will visit. In some cases, though, they demand even more detail. For these cases, you can use individual structures with their own support ratings.
+
 
 ## Leisure Structures
 
 The most common example of structures to flesh out are leisure structures, which are relevant when characters are recovering while resting and which are always strongly associated with either a specific [Attribute](/character#attributes) or condition type.  
-They contribute their support rating to the settlement as normal, but their support traits may also be used to add dice to recovery tests made either with the corresponding attribute or for the corresponding condition type.  
-As with masterpiece traits and supply traits, when you use a support trait to add its rating as dice to your roll, your minimum effort for that test is equal to the structure's support rating.
+They contribute their support rating to the settlement as normal, but their support rating may also be used to add dice to recovery tests made either with the corresponding attribute or for the corresponding condition type, just like you would add dice from a masterpiece asset. As such, when you use a support rating to add dice to your roll, your minimum effort for that test is equal to the structure's support rating.
 
 Leisure structures might also allow for skills to be used for recovery tests other than normal.
 
@@ -120,9 +119,14 @@ Some examples for leisure structures are:
 
 > After a tumultuous journey, Maro arrives in the city of Artir, famed for its magnificent bathhouses. He could have made for a different town, but he wanted to return to exactly here. After dealing with cutthroats and turncloaks at every corner, taking stress left and right, he is exhausted beyond words. When he finally steps into the steamy halls, bliss finally returns to him.
 >
-> Because of the city's respectable supply rating of **4,** Maro achieved enough successes to possibly rid himself of all his conditions. Thankfully, he can use the bathhouse's impressive support trait with rating **3** to add **3** additional dice to his Intuition recovery tests and emerges condition-free, even with a `Well Rested` boon to boot.
+> Because of the city's respectable supply rating of **4,** Maro achieved enough successes to possibly rid himself of all his conditions. Thankfully, he can use the bathhouse's impressive support rating **3** to add **3** additional dice to his Intuition recovery tests and emerges condition-free, even with a `Well Rested` boon to boot.
 > 
 > Should fate befall him again like this, he is sure to return. And should something threaten the splendid city of Artir, Maro will rush to aid without hesitation, to protect the city and her wonderful bathhouse.
+
+
+## Other Structures
+
+
 
 
 

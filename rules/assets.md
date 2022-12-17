@@ -28,7 +28,7 @@ Assets are an abstraction of tools in the fictional world. Tools, in this contex
 
 Assets have a specific use case. A weapon can be used to attack with [Fight](/skill-list#fight), a horse can be used to travel distances with [Maneuver](/skill-list#maneuver) or [Wilderness](/skill-list#wilderness), an aristocrat's written favor may be used with [Influence](/skill-list#influence) at court, etc.
 
-Assets may have additional properties such as weapons being able to be used as assets for other skills than Fight or granting other benefits or have traits of their own (see [Gear](/gear)).
+Assets may have additional properties such as weapons being able to be used as assets for other skills than Fight or granting other benefits (see [Gear](/gear)). To use such a property, you must use the asset for minimum effort on a test.
 
 You may buy new assets (see [Resting](resting#crafting)) and create new assets or improve assets you already own (see [Crafting](/#crafting)).
 
@@ -54,9 +54,13 @@ When you use an asset for minimum effort, but you still fail at the test, the as
 
 Some assets are so well crafted for their purpose that they are considered masterpieces. These assets have a masterpiece rating in addition to their quality rating, which grants them additional benefits.
 
-If an asset's quality rating is **3** or greater, it is considered a masterpiece, and it has a masterpiece rating as described in the table below.
-
+If an asset's quality rating is **3** or greater, it is considered a masterpiece, and it has a masterpiece rating as described in the table below.  
 You may use a masterpiece asset to gain minimum effort equal to its quality rating, just like you would a normal asset. In addition, you may use a masterpiece asset to gain minimum effort equal to its masterpiece rating instead without degrading the asset's quality rating.
+
+When you use a masterpiece asset for minimum effort, add additional dice equal to its masterpiece rating to your roll. Contrary to trait, if you use multiple masterpiece assets on a single tests, you gain dice for each one.
+
+Increasing a masterpiece's quality rating might also increase its masterpiece rating while degrading its quality rating might also degrade its masterpiece rating or result in the asset losing it entirely.  
+This is also true if for effects like, for example, [Off-Label Usage](#off-label-usage).
 
 | Quality Rating | Masterpiece Rating |
 |:--------------:|:------------------:|
@@ -69,20 +73,11 @@ You may use a masterpiece asset to gain minimum effort equal to its quality rati
 |     **7**      |         3          |
 |    **...**     |        ...         |
 
-### Masterpiece Traits
-
-Additionally, all masterpieces have a masterpiece [Trait](character#traits) describing its exceptional quality with rating equal to is masterpiece rating.  
-Increasing a masterpiece's quality rating might increase the masterpiece trait's rating while degrading a masterpiece's quality rating might result in it losing its masterpiece rating and with it its masterpiece trait.
-
-When you test a skill, you may invoke **1** of your assets' masterpiece traits either on a test fitting of that asset's purpose or by describing how you would leverage that trait to your advantage. When you do, add its masterpiece trait's rating as dice to your roll. This does not degrade the asset.
-
-You may only invoke a single of your assets' masterpiece traits per test. If there are multiple fitting traits, you may only choose **1** of them.
-
 
 ## Off-Label Usage
 
-When using an asset for with skill other than its intended purpose, its rating is considered to be **1** for that test  
-If the asset is a masterpiece, instead its rating is considered to be the asset's masterpiece rating for. This may result in the asset not being considered a masterpiece for this test.
+When using an asset for with skill other than its intended purpose, its rating is considered to be **1** for that test.  
+If the asset is a masterpiece, instead its rating is considered to be the asset's masterpiece rating, which will likely result in the asset not being considered a masterpiece for this test.
 
 When using an asset with an [Attribute](character#attributes) other than its intended purpose, it always degrades, even if it is a masterpiece. If the asset already degraded, it degrades an additional time.
 
