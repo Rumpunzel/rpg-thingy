@@ -79,33 +79,35 @@ Use these for, for example, improvised weapons or instead of its lengthy list of
 
 Assets for Fight conflicts come in two variations: weapons to attack and armor to defend. Though some, such as the **Helmet,** are not used to attack or defend, but they will aid you in Fight conflicts nonetheless.
 
-|      Weapon      |     Use      |                  Properties                  |                     Resources                      |
-|:----------------:|:------------:|:--------------------------------------------:|:--------------------------------------------------:|
-|     _Weapon_     |  🗡 Any One  |                      -                       |                         -                          |
-|     _Armor_      |  🛡 Any One  |                      -                       |                         -                          |
-|                  |              |                                              |                                                    |
-|     **Axe**      |   🗡 Vigor   |                   _Deadly_                   |                      `Sturdy`                      |
-|     **Mace**     |   🗡 Vigor   |                  _Piercing_                  |                      `Sturdy`                      |
-| **Arming Sword** | 🗡 Intuition |            _Defensive, Versatile_            |                     `Precious`                     |
-|    **Dagger**    | 🗡 Intuition |                   _Wicked_                   |                     `Precious`                     |
-|    **Estoc**     | 🗡 Intuition |     _Defensive, Piercing_<br>`Exquisite`     |                     `Precious`                     |
-|    **Spear**     |  🗡 Reason   |                   _Reach_                    |                      `Sturdy`                      |
-|                  |              |                                              |                                                    |
-|     **Bill**     |   🗡 Vigor   |          _Reach, Versatile, Wicked_          |               `Sturdy`<br>`Precious`               |
-|  **Warhammer**   |   🗡 Vigor   |              _Deadly, Piercing_              |               `Sturdy`<br>`Precious`               |
-|  **Longsword**   | 🗡 Intuition | _Defensive, Reach, Versatile_<br>`Exquisite` |               `Supple`<br>`Precious`               |
-|   **Crossbow**   |  🗡 Reason   |                  _Loading_                   |               `Sturdy`<br>`Precious`               |
-|     **Pike**     |  🗡 Reason   |                   _Ranged_                   |               `Sturdy`<br>`Precious`               |
-|                  |              |                                              |                                                    |
-|   **Poleaxe**    |   🗡 Vigor   |          _Deadly, Piercing, Reach_           |         `Sturdy`<br>`Supple`<br>`Precious`         |
-|   **Arbalest**   |  🗡 Reason   | _Loading, Piercing, Tactical_<br>`Exquisite` |         `Sturdy`<br>`Supple`<br>`Precious`         |
-|   **Longbow**    |  🗡 Reason   |        _Ammunition, Deadly, Tactical_        |         `Sturdy`<br>`Supple`<br>`Precious`         |
-|                  |              |                                              |                                                    |
-|    **Helmet**    |      -       |                 _Defensive_                  |                     `Precious`                     |
-|    **Padded**    | 🛡 Intuition |                  _Durable_                   |                      `Supple`                      |
-|    **Shield**    |  🛡 Reason   |                 _Defensive_                  |                      `Sturdy`                      |
-|                  |              |                                              |                                                    |
-|     **Mail**     |   🛡 Vigor   |        _**Fortified**_<br>`Exquisite`        | `Supple`<br>`Precious`<br>_Masterpiece **Padded**_ |
+|      Weapon      |     Use      |                  Properties                  |                       Resources                       |
+|:----------------:|:------------:|:--------------------------------------------:|:-----------------------------------------------------:|
+|     _Weapon_     |  🗡 Any One  |                      -                       |                           -                           |
+|     _Armor_      |  🛡 Any One  |                      -                       |                           -                           |
+|                  |              |                                              |                                                       |
+|     **Axe**      |   🗡 Vigor   |                   _Deadly_                   |                       `Sturdy`                        |
+|     **Mace**     |   🗡 Vigor   |                  _Piercing_                  |                       `Sturdy`                        |
+| **Arming Sword** | 🗡 Intuition |            _Defensive, Versatile_            |                      `Precious`                       |
+|    **Dagger**    | 🗡 Intuition |                   _Wicked_                   |                      `Precious`                       |
+|    **Estoc**     | 🗡 Intuition |     _Defensive, Piercing_<br>`Exquisite`     |                      `Precious`                       |
+|    **Spear**     |  🗡 Reason   |                   _Reach_                    |                       `Sturdy`                        |
+|                  |              |                                              |                                                       |
+|     **Bill**     |   🗡 Vigor   |          _Reach, Versatile, Wicked_          |                `Sturdy`<br>`Precious`                 |
+|  **Warhammer**   |   🗡 Vigor   |              _Deadly, Piercing_              |                `Sturdy`<br>`Precious`                 |
+|  **Longsword**   | 🗡 Intuition | _Defensive, Reach, Versatile_<br>`Exquisite` |                `Supple`<br>`Precious`                 |
+|   **Crossbow**   |  🗡 Reason   |                  _Loading_                   |                `Sturdy`<br>`Precious`                 |
+|     **Pike**     |  🗡 Reason   |                   _Ranged_                   |                `Sturdy`<br>`Precious`                 |
+|                  |              |                                              |                                                       |
+|   **Poleaxe**    |   🗡 Vigor   |          _Deadly, Piercing, Reach_           |          `Sturdy`<br>`Supple`<br>`Precious`           |
+|   **Arbalest**   |  🗡 Reason   | _Loading, Piercing, Tactical_<br>`Exquisite` |          `Sturdy`<br>`Supple`<br>`Precious`           |
+|   **Longbow**    |  🗡 Reason   |        _Ammunition, Deadly, Tactical_        |          `Sturdy`<br>`Supple`<br>`Precious`           |
+|                  |              |                                              |                                                       |
+|    **Helmet**    |      -       |                 _Defensive_                  |                      `Precious`                       |
+|   **Gambeson**   | 🛡 Intuition |                  _Durable_                   |                       `Supple`                        |
+|    **Shield**    |  🛡 Reason   |                 _Defensive_                  |                       `Sturdy`                        |
+| **Great Shield** |  🛡 Reason   |            _Defensive, Tactical_             |                       `Sturdy`                        |
+|    **Pavise**    |  🛡 Reason   |            _Defensive, Tactical_             |                       `Sturdy`                        |
+|                  |              |                                              |                                                       |
+|     **Mail**     |   🛡 Vigor   |        _**Fortified**_<br>`Exquisite`        | `Supple`<br>`Precious`<br>_Masterpiece **Oganesson**_ |
 
 ##### Ammunition
 
