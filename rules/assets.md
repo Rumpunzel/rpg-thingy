@@ -15,8 +15,8 @@ micro_nav: true
 # Page navigation
 page_nav:
     prev:
-        content: Conditions & Resting
-        url: /conditions-and-resting
+        content: Resting
+        url: /resting
     next:
         content: Conflicts
         url: /conflicts
@@ -30,7 +30,7 @@ Assets have a specific use case. A weapon can be used to attack with [Fight](/sk
 
 Assets may have additional properties such as weapons being able to be used as assets for other skills than Fight or granting other benefits or have traits of their own (see [Gear](/gear)).
 
-You may buy new assets (see [Resting](conditions-and-resting#crafting)) and create new assets or improve assets you already own (see [Crafting](/#crafting)).
+You may buy new assets (see [Resting](resting#crafting)) and create new assets or improve assets you already own (see [Crafting](/#crafting)).
 
 
 # Quality Rating
@@ -98,7 +98,7 @@ TODO
 
 # Crafting Assets
 
-You can create new assets and improve existing assets while [Resting](conditions-and-resting#crafting). Most of the time this creates a Craft test but sometimes a different skill might be created such as Influence to create, for example, an `Agreement with the Red Council` asset.
+You can create new assets and improve existing assets while [Resting](resting#crafting). Most of the time this creates a Craft test but sometimes a different skill might be created such as Influence to create, for example, an `Agreement with the Red Council` asset.
 
 To create an asset with quality raring **1** is a test difficulty **1** test.
 

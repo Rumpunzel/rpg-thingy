@@ -18,8 +18,8 @@ page_nav:
         content: Character
         url: /character
     next:
-        content: Conditions & Resting
-        url: /conditions-and-resting
+        content: Conditions
+        url: /conditions
 ---
 
 # Certainty of Actions
@@ -121,7 +121,7 @@ You may always change your approach and use a different skill to achieve your go
 
 When you fail an uncontested test, you may still succeed at a cost, you may power through. Instead of failing the test, you succeed by concentrated power of will (as you succeed on the test, you do not mark any **XP**).
 
-To do so, take a [Stress](conditions-and-resting#stress) equal to the difference between the test's difficulty and the effort you achieved (choose the [Type of Stress](/rules/conditions-and-resting.md#condition-types) depending on the situation and how you describe how you power through).  
+To do so, take a [Stress](conditions#stress) equal to the difference between the test's difficulty and the effort you achieved (choose the [Type of Stress](/rules/conditions.md#condition-types) depending on the situation and how you describe how you power through).  
 If this causes you to take a new condition, name it something appropriate to represent your exhaustion, strain, or injury from powering through.
 
 > Cyrene wants to enter the sultan's city but the gates are closed and will not open before sunrise. She decides to try her luck anyway. As she approaches the gate, she winks at the younger of the two guards.
