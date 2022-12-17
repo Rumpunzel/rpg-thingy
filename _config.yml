@@ -1,3 +1,6 @@
+# Icons
+check: "<i class='fa-solid fa-check'></i>"
+
 # Theme settings
 doks:
     baseurl: "/rpg-thingy"
