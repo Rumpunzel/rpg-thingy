@@ -39,7 +39,7 @@ In general, dice modifiers can be completely omitted for basically all adversari
 ## Traits
 
 As an adversary's traits are not used for dice modifiers, instead they may be used for minimum effort. Adversaries should have a limited number of adversaries and even fewer of them high rated. High rated traits make adversaries incredibly dangerous to face ill-prepared.  
-Adversary traits are marked with an approach and a skill to indicate in which context they excel. In any other context, an adversary's trait is considered to be rated **1.**
+Adversary traits are marked with an approach and a skill to indicate in which context they excel. In any other context, an adversary's trait grant only **1** minimum effort.
 
 ## Assets
 

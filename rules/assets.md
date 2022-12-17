@@ -57,10 +57,9 @@ Some assets are so well crafted for their purpose that they are considered maste
 If an asset's quality rating is **3** or greater, it is considered a masterpiece, and it has a masterpiece rating as described in the table below.  
 You may use a masterpiece asset to gain minimum effort equal to its quality rating, just like you would a normal asset. In addition, you may use a masterpiece asset to gain minimum effort equal to its masterpiece rating instead without degrading the asset's quality rating.
 
-When you use a masterpiece asset for minimum effort, add additional dice equal to its masterpiece rating to your roll. Contrary to trait, if you use multiple masterpiece assets on a single tests, you gain dice for each one.
+When you use a masterpiece asset for minimum effort, add additional dice equal to its masterpiece rating to your roll. Contrary to using traits, if you use multiple masterpiece assets on a single tests, you gain dice for each one.
 
 Increasing a masterpiece's quality rating might also increase its masterpiece rating while degrading its quality rating might also degrade its masterpiece rating or result in the asset losing it entirely.  
-This is also true if for effects like, for example, [Off-Label Usage](#off-label-usage).
 
 | Quality Rating | Masterpiece Rating |
 |:--------------:|:------------------:|
@@ -76,10 +75,8 @@ This is also true if for effects like, for example, [Off-Label Usage](#off-label
 
 ## Off-Label Usage
 
-When using an asset for with skill other than its intended purpose, its rating is considered to be **1** for that test.  
-If the asset is a masterpiece, instead its rating is considered to be the asset's masterpiece rating, which will likely result in the asset not being considered a masterpiece for this test.
-
-When using an asset with an [Attribute](character#attributes) other than its intended purpose, it always degrades, even if it is a masterpiece. If the asset already degraded, it degrades an additional time.
+When using an asset for with a skill or [Attribute](character#attributes) other than its intended purpose, it grants only **1** minimum effort for that test.  
+If the asset is a masterpiece, instead it can only be used to gain minimum effort equal to its masterpiece rating.
 
 If an asset was not originally intended to be used for a purpose, but it makes perfect sense that it would help you and the table agrees, you may use an asset without any penalties for that test.
 
