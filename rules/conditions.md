@@ -49,9 +49,7 @@ Your condition slots start of empty. Whenever you suffer stress of a certain typ
 
 These conditions encompass all types of physical trauma, bodily injury and weariness. A cut from a blade is a physical condition, so is exhaustion from excessive travelling, and so are sickness and poisoning.
 
-Physical conditions always hinder you on Fight, Maneuver, Wilderness, and Craft tests. Wounds nor exhaustion get in the way of your concentration and coordination.
-
-Physical conditions never hinder you on Influence and Resource tests.
+Physical conditions hinder you on Fight, Maneuver, Wilderness, and Craft tests. Wounds nor exhaustion get in the way of your concentration and coordination.
 
 While resting, you can mend physical conditions by testing Craft, though not all severities can be mended with all [Attributes](character#attributes).
 
@@ -77,11 +75,7 @@ While resting, you can mend mental conditions by testing Influence, though not a
 
 These conditions encompass all types of debts, societal rejection, accusations and other injuries to your reputation. The result of a successful slander campaign is a social condition, so is seclusion (willing or otherwise) from larger society, and so are debts, and being covered in muck.
 
-Social conditions always hinder you on Craft and Resource tests. Being cut off from the currents of society strains your access to all its marvels.
-
-Major social conditions also hinder you on Influence and Craft tests. A horrendous reputation is an uphill battle wherever you might want to make yourself heard and also cuts off the artisan from their supplies.
-
-Social conditions never hinder you on Fight, Maneuver, and Wilderness tests.
+Social conditions hinder you on Influence and Resource tests. A horrendous reputation is an uphill battle wherever you might want to make yourself heard and being cut off from the currents of society strains your access to all its marvels.
 
 While resting in a settlement, you can mend social conditions with Resource tests, though not all severities can be mended with all attributes.
 
@@ -155,7 +149,7 @@ The three different types of conditions hinder you on different tests. Of course
 | **Fight**      | {{ site.check }} |  _Only Major_  |        -         |
 | **Maneuver**   | {{ site.check }} |  _Only Major_  |        -         |
 | **Wilderness** | {{ site.check }} |  _Only Major_  |        -         |
-| **Craft**      | {{ site.check }} |  _Only Major_  | {{ site.check }} |
+| **Craft**      | {{ site.check }} |  _Only Major_  |        -         |
 | **Means**      |        -         |  _Only Major_  | {{ site.check }} |
 
 ### Mending conditions
