@@ -46,7 +46,7 @@ May defend with weapons without penalty.
 
 ### Riposte
 
-When successfully defending with Fight and Intuition, may also inflict stress equal to the margin of effort in addition to damaging morale.
+When successfully defending with Fight and Intuition, in addition to inflicting morale damaging, you may also inflict stress equal the morale damage dealt.
 
 ### Uncanny Dodge
 
