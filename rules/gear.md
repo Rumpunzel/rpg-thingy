@@ -1,4 +1,43 @@
 ---
+bulwark: "##### Bulwark
+
+When defending, increase your effort by **1** for each **6** you roll."
+
+deadly: "##### Deadly
+
+When attacking, decrease your opponent's minimum effort by **1** + this asset's masterpiece rating.  
+This does not reduce minimum effort gained from one of your conditions."
+
+ferocious: "##### Ferocious
+
+When attacking, Increase your effort by **1** for each **6** you roll."
+
+ranged: "##### Ranged
+
+Reduce morale damage you take by this asset's quality rating."
+
+reach: "##### Reach
+
+When you create a [Boon](/character#boons) with Maneuver, it becomes [Enduring](/character#enduring-boons--banes)."
+
+reliable: "##### Reliable
+
+Increase the minimum effort you gain from another asset by **1** + this asset's masterpiece rating."
+
+tactical: "##### Tactical
+
+This asset may be used for Maneuver tests without penalty.  
+When testing Maneuver, add **1** + this asset's masterpiece rating as dice to your roll."
+
+versatile: "##### Versatile
+
+This asset may be used with any attribute without penalty."
+
+wicked: "##### Wicked
+
+When adding dice from a boon or bane created with Intuition, also add **1** + this asset's masterpiece rating as dice to your roll."
+
+
 # Page settings
 layout: default
 keywords:
@@ -42,7 +81,7 @@ When buying and selling such an asset, its quality rating is considered to be do
 
 A gear asset may have a trait called `Exquisite`. This trait is relevant for Influence, Craft, and Resource tests, concerning the asset itself. Meaning an asset's `Exquisite` trait will increase the difficulty to create, improve, and buy it. Though it may also be invoked in social situations. Additionally, increase your effort by **1** when selling and `Exquisite` asset.
 
-A gear asset may also have a property called _**Fortified**._ A _**Fortified**_ asset's masterpiece rating is equal to its full quality rating, even outside of conflicts.
+A gear asset may also have a property called **Fortified.** A **Fortified** asset's masterpiece rating is equal to its full quality rating, even outside of conflicts.
 
 At the top of each category of gear, there is also generic variant without properties. They do not require specific resources to be crafted as they are simply normal assets. Of course, they are still associated with an attribute, just like any other asset.  
 Use these for, for example, improvised weapons or instead of its lengthy list of gear entirely.
@@ -79,85 +118,79 @@ Use these for, for example, improvised weapons or instead of its lengthy list of
 
 Assets for Fight conflicts come in two variations: weapons to attack and armor to defend. Though some, such as the **Helmet,** are not used to attack or defend, but they will aid you in Fight conflicts nonetheless.
 
-|      Weapon      |     Use      |                  Properties                  |                       Resources                       |
-|:----------------:|:------------:|:--------------------------------------------:|:-----------------------------------------------------:|
-|     _Weapon_     |  🗡 Any One  |                      -                       |                           -                           |
-|     _Armor_      |  🛡 Any One  |                      -                       |                           -                           |
-|                  |              |                                              |                                                       |
-|     **Axe**      |   🗡 Vigor   |                   _Deadly_                   |                       `Sturdy`                        |
-|     **Mace**     |   🗡 Vigor   |                  _Piercing_                  |                       `Sturdy`                        |
-| **Arming Sword** | 🗡 Intuition |            _Defensive, Versatile_            |                      `Precious`                       |
-|    **Dagger**    | 🗡 Intuition |                   _Wicked_                   |                      `Precious`                       |
-|    **Estoc**     | 🗡 Intuition |     _Defensive, Piercing_<br>`Exquisite`     |                      `Precious`                       |
-|    **Spear**     |  🗡 Reason   |                   _Reach_                    |                       `Sturdy`                        |
-|                  |              |                                              |                                                       |
-|     **Bill**     |   🗡 Vigor   |          _Reach, Versatile, Wicked_          |                `Sturdy`<br>`Precious`                 |
-|  **Warhammer**   |   🗡 Vigor   |              _Deadly, Piercing_              |                `Sturdy`<br>`Precious`                 |
-|  **Longsword**   | 🗡 Intuition | _Defensive, Reach, Versatile_<br>`Exquisite` |                `Supple`<br>`Precious`                 |
-|   **Crossbow**   |  🗡 Reason   |                  _Loading_                   |                `Sturdy`<br>`Precious`                 |
-|     **Pike**     |  🗡 Reason   |                   _Ranged_                   |                `Sturdy`<br>`Precious`                 |
-|                  |              |                                              |                                                       |
-|   **Poleaxe**    |   🗡 Vigor   |          _Deadly, Piercing, Reach_           |          `Sturdy`<br>`Supple`<br>`Precious`           |
-|   **Arbalest**   |  🗡 Reason   | _Loading, Piercing, Tactical_<br>`Exquisite` |          `Sturdy`<br>`Supple`<br>`Precious`           |
-|   **Longbow**    |  🗡 Reason   |        _Ammunition, Deadly, Tactical_        |          `Sturdy`<br>`Supple`<br>`Precious`           |
-|                  |              |                                              |                                                       |
-|    **Helmet**    |      -       |                 _Defensive_                  |                      `Precious`                       |
-|   **Gambeson**   | 🛡 Intuition |                  _Durable_                   |                       `Supple`                        |
-|    **Shield**    |  🛡 Reason   |                 _Defensive_                  |                       `Sturdy`                        |
-| **Great Shield** |  🛡 Reason   |            _Defensive, Tactical_             |                       `Sturdy`                        |
-|    **Pavise**    |  🛡 Reason   |            _Defensive, Tactical_             |                       `Sturdy`                        |
-|                  |              |                                              |                                                       |
-|     **Mail**     |   🛡 Vigor   |        _**Fortified**_<br>`Exquisite`        | `Supple`<br>`Precious`<br>_Masterpiece **Oganesson**_ |
 
-##### Ammunition
+## Vigor Gear
 
-This asset also has the _Ranged_ property.  
-When attacking, ignore all stress and morale damage.
+|      Weapon      |                  Properties                  |                      Resources                      |
+|:----------------:|:--------------------------------------------:|:---------------------------------------------------:|
+|    🗡 **Axe**    |                 _Ferocious_                  |                      `Sturdy`                       |
+|   🗡 **Mace**    |                   _Deadly_                   |                      `Sturdy`                       |
+| 🗡 **Warhammer** |             _Deadly, Ferocious_              |                `Sturdy` + `Precious`                |
+|  🗡 **Poleaxe**  | _Deadly, Ferocious, Tactical_<br>`Exquisite` |                `Sturdy` + `Precious`                |
+|  🛡 **Shield**   |             _Bulwark, Tactical_              |                `Sturdy` + `Precious`                |
+|   🛡 **Mail**    |         **Fortified**<br>`Exquisite`         | `Supple` + `Precious`<br>_Masterpiece **Gambeson**_ |
 
-##### Deadly
+{{ page.bulwark }}
+{{ page.deadly }}
+{{ page.ferocious }}
+{{ page.tactical }}
 
-When attacking, increase your effort by **1** for each **6** you roll.
 
-##### Defensive
+## Intuition Gear
 
-When defending, you may increase your minimum effort gained from this or another asset by **1.**
+|        Weapon         |                   Properties                    |       Resources       |
+|:---------------------:|:-----------------------------------------------:|:---------------------:|
+|     🗡 **Knife**      |                    _Wicked_                     |      `Precious`       |
+|     🗡 **Dagger**     |                _Deadly, Wicked_                 | `Supple` + `Precious` |
+|   🗡 + 🛡 **Sword**   |                   _Versatile_                   |      `Precious`       |
+|   🗡 + 🛡 **Estoc**   |             _Deadly_<br>`Exquisite`             |      `Precious`       |
+| 🗡 + 🛡 **Longsword** | _Ferocious, Tactical, Versatile_<br>`Exquisite` | `Supple` + `Precious` |
+|    🛡 **Gambeson**    |                    _Durable_                    |       `Supple`        |
 
-##### Durable
+{{ page.deadly }}
+{{ page.durable }}
+{{ page.ferocious }}
+{{ page.tactical }}
+{{ page.versatile }}
+{{ page.wicked }}
 
-When defending, this asset degrades below armor rating **1** only if you roll a **1.**
 
-##### Loading
+## Reason Gear
 
-This asset also has the _Ammunition_ property.  
-Not being affected by a boon created with Maneuver, is considered an off-label use of this asset.
+|     Weapon      |                Properties                 |            Resources             |
+|:---------------:|:-----------------------------------------:|:--------------------------------:|
+|  🗡 **Spear**   |                _Tactical_                 |             `Sturdy`             |
+|   🗡 **Bill**   |            _Tactical, Wicked_             |      `Sturdy` + `Precious`       |
+| 🗡 **Crossbow** |            _Ranged, Tactical_             |      `Sturdy` + `Precious`       |
+|   🗡 **Pike**   |             _Reach, Tactical_             |      `Sturdy` + `Precious`       |
+| 🗡 **Arbalest** | _Deadly, Ranged, Tactical_<br>`Exquisite` |      `Sturdy` + `Precious`       |
+| 🗡 **Longbow**  |         _Ranged, Reach, Tactical_         | `Sturdy` + `Supple` + `Precious` |
+| 🛡 **Buckler**  |                _Tactical_                 |            `Precious`            |
 
-##### Piercing
+{{ page.deadly }}
+{{ page.reach }}
+{{ page.ranged }}
+{{ page.tactical }}
+{{ page.wicked }}
 
-When attacking, decrease your opponent's minimum effort by **1** + this asset's masterpiece rating.
 
-##### Ranged
+## Special Gear
 
-This asset also has the _Reach_ property.  
-When you create a [Boon](/character#boons) with Maneuver, it becomes [enduring](/character#enduring-boons--banes).
+|     Weapon     |           Properties           |       Resources       |
+|:--------------:|:------------------------------:|:---------------------:|
+|   **Helmet**   |           _Reliable_           |      `Precious`       |
+| **Ammunition** |      _Missile, Reliable_       |       `Supple`        |
+|   **Barbed**   | _Ferocious, Missile, Reliable_ | `Supple` + `Precious` |
+|   **Bodkin**   |  _Deadly, Missile, Reliable_   | `Supple` + `Precious` |
 
-##### Reach
+{{ page.deadly }}
+{{ page.ferocious }}
 
-When testing Maneuver, add **1** + this asset's masterpiece rating as dice to your roll.  
-When defending, if you are affected by a boon created with Maneuver, you may do the following:
-- you may force the attackers to attack with Maneuver instead of Fight
-- you may defend with Maneuver instead of Fight
+##### Missile
 
-##### Tactical
+Can only be used in combination with an asset with the _Ranged_ property.
 
-This asset is also an asset for Maneuver tests.
-
-##### Versatile
-
-This asset may be used with any attribute without penalty.
-
-##### Wicked
-
-When adding dice from a boon or bane created with Intuition, also add **1** + this asset's masterpiece rating as dice to your roll.
+{{ page.reliable }}
 
 
 
