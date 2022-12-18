@@ -8,6 +8,10 @@ deadly: "##### Deadly
 When attacking, decrease your opponent's minimum effort by **1** + this asset's masterpiece rating.  
 This does not reduce minimum effort gained from one of your conditions."
 
+durable: "##### Durable
+
+This asset only degrades below quality rating **1,** if you roll a **1.**"
+
 ferocious: "##### Ferocious
 
 When attacking, Increase your effort by **1** for each **6** you roll."
@@ -27,7 +31,7 @@ Increase the minimum effort you gain from another asset by **1** + this asset's 
 tactical: "##### Tactical
 
 This asset may be used for Maneuver tests without penalty.  
-When testing Maneuver, add **1** + this asset's masterpiece rating as dice to your roll."
+When testing Maneuver, add **1** + its masterpiece rating as dice to your roll."
 
 versatile: "##### Versatile
 
@@ -157,15 +161,15 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ## Reason Gear
 
-|     Weapon      |                Properties                 |            Resources             |
-|:---------------:|:-----------------------------------------:|:--------------------------------:|
-|  🗡 **Spear**   |                _Tactical_                 |             `Sturdy`             |
-|   🗡 **Bill**   |            _Tactical, Wicked_             |      `Sturdy` + `Precious`       |
-| 🗡 **Crossbow** |            _Ranged, Tactical_             |      `Sturdy` + `Precious`       |
-|   🗡 **Pike**   |             _Reach, Tactical_             |      `Sturdy` + `Precious`       |
-| 🗡 **Arbalest** | _Deadly, Ranged, Tactical_<br>`Exquisite` |      `Sturdy` + `Precious`       |
-| 🗡 **Longbow**  |         _Ranged, Reach, Tactical_         | `Sturdy` + `Supple` + `Precious` |
-| 🛡 **Buckler**  |                _Tactical_                 |            `Precious`            |
+|     Weapon      |                Properties                 |       Resources       |
+|:---------------:|:-----------------------------------------:|:---------------------:|
+|  🗡 **Spear**   |                _Tactical_                 |       `Sturdy`        |
+|   🗡 **Bill**   |            _Tactical, Wicked_             | `Sturdy` + `Precious` |
+| 🗡 **Crossbow** |            _Ranged, Tactical_             |  `Sturdy` + `Supple`  |
+|   🗡 **Pike**   |             _Reach, Tactical_             | `Sturdy` + `Precious` |
+| 🗡 **Arbalest** | _Deadly, Ranged, Tactical_<br>`Exquisite` | `Sturdy` + `Precious` |
+| 🗡 **Longbow**  | _Ranged, Reach, Tactical_<br>`Exquisite`  |  `Sturdy` + `Supple`  |
+| 🛡 **Buckler**  |                _Tactical_                 |       `Sturdy`        |
 
 {{ page.deadly }}
 {{ page.reach }}
@@ -176,20 +180,15 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ## Special Gear
 
-|     Weapon     |           Properties           |       Resources       |
-|:--------------:|:------------------------------:|:---------------------:|
-|   **Helmet**   |           _Reliable_           |      `Precious`       |
-| **Ammunition** |      _Missile, Reliable_       |       `Supple`        |
-|   **Barbed**   | _Ferocious, Missile, Reliable_ | `Supple` + `Precious` |
-|   **Bodkin**   |  _Deadly, Missile, Reliable_   | `Supple` + `Precious` |
+|      Weapon       |         Properties         |       Resources       |
+|:-----------------:|:--------------------------:|:---------------------:|
+| 🗡 **Ammunition** |         _Reliable_         |       `Supple`        |
+|   🗡 **Barbed**   |   _Ferocious, Reliable_    | `Supple` + `Precious` |
+|   🗡 **Bodkin**   |     _Deadly, Reliable_     | `Supple` + `Precious` |
+|   🛡 **Helmet**   |         _Reliable_         |      `Precious`       |
 
 {{ page.deadly }}
 {{ page.ferocious }}
-
-##### Missile
-
-Can only be used in combination with an asset with the _Ranged_ property.
-
 {{ page.reliable }}
 
 
