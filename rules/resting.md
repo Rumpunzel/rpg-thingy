@@ -80,7 +80,8 @@ If you all your condition slots are empty, you may spend resources to gain a `We
 
 You may practice one of your skills while resting by testing that skill and potentially gain **XP** for that skill.
 
-The difficulty for the test is equal to half your current level in the skill, rounded down, plus the amount of **XP** needed to level it up. So if you want to train Wilderness, are already level **3** in it and have marked **7** **XP,** the difficulty for the training test to gain **1** **XP** is **4** (**1** from your current level plus **3** from missing **XP**).If you have no **XP** marked and/or are already highly trained in a skill, practicing becomes practically impossible.  
+The difficulty for the test is equal to half your current level in the skill, rounded down, plus the amount of **XP** needed to level it up. So if you want to train Wilderness, are already level **3** in it and have marked **7** **XP,** the difficulty for the training test to gain **1** **XP** is **4** (**1** from your current level plus **3** from missing **XP**).  
+If you have no **XP** marked and/or are already highly trained in a skill, practicing becomes practically impossible.  
 You may invoke a trait of an instruction manual you possess, of a training area you have access to, or of a tutor for this test.
 
 If you succeed on the test, you mark **1** **XP** for the skill. Otherwise, you do not, but you also do not suffer any other negative consequences.
