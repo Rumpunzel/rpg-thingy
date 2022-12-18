@@ -3,15 +3,13 @@
 <meta name="viewport" content="width=device-width, minimum-scale=1.0">
 <title>{{ page.title }}</title>
 {% if page.description %}
-<meta name="description" content="{{ page.description }}">
+  <meta name="description" content="{{ page.description }}">
 {% endif %}
 {% if page.keywords %}
-<meta name="keywords" content="{{ page.keywords }}">
+  <meta name="keywords" content="{{ page.keywords }}">
 {% endif %}
-<link rel="icon" href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}/favicon.ico"
-      type="image/x-icon">
-<link rel="stylesheet"
-      href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,700,700i|Noto+Sans:400,400i,700,700i|Source+Code+Pro&amp;subset=latin-ext">
-<link rel="stylesheet"
-      href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}/doks-theme/assets/css/style.css">
+<link rel="icon" href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}/favicon.ico" type="image/x-icon">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,700,700i|Noto+Sans:400,400i,700,700i|Source+Code+Pro&amp;subset=latin-ext">
+<link rel="stylesheet" href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}/doks-theme/assets/css/style.css">
 <script src="https://kit.fontawesome.com/66aa4428cc.js" crossorigin="anonymous"></script>
