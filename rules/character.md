@@ -89,7 +89,8 @@ At the end of each session, if you have achieved your goal, mark **1** **XP** fo
 
 # Favor
 
-**Favor** is a meta-currency you can spend to influence your dice rolls, tilt luck in your favor, or sometimes even fuel powerful magic. It is also part of the character progression.
+**Favor** is a meta-currency you can spend to influence your dice rolls, tilt luck in your favor, bite through the pain, or sometimes even fuel powerful magic.  
+Depending on your character, it might represent how much lady luck smiles upon you, the good graces of the higher forces you hold sacred, or your iron will and determination.
 
 Whenever the Truth or Lie really come out through how you roleplay your character or through the drama that results from your choices, you earn **1** Favor for your character.
 
@@ -97,7 +98,7 @@ Whenever the Truth or Lie really come out through how you roleplay your characte
 
 # Attributes
 
-Each character has three **attributes:** **Vigor,** **Intuition,** and **Reason.**
+Each character has three **Attributes:** **Vigor,** **Intuition,** and **Reason.**
 
 Each attribute also has a numerical rating, which determines how many dice you roll when you test with that attribute. The rating is an objective measure of your character's potential effort they can muster when doing tasks. For example, a bear has more Vigor than a mouse and a dragon even more than almost anything.
 

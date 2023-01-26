@@ -80,7 +80,7 @@ When attacking, roll an additional die for each opponent defending against you.
 
 ### Slayer
 
-When attacking with Vigor in a Fight conflict, inflict **1** additional stress for each **6** you rolled, even if your opponent defended successfully (this does not increase the damage to the opponent's morale).
+When attacking with Vigor in a Fight conflict, you always inflict at least **1** stress for each **6** you rolled, even if your opponent defended successfully (this does not increase the damage to the opponent's morale).
 
 ### Martial Artist (Defend)
 

@@ -11,7 +11,7 @@ doks:
             image:
         nav:
             - item_name: Rules
-              item_url: /character
+              item_url: /rules
             - item_name: Skill List
               item_url: /skill-list
             - item_name: Talents
