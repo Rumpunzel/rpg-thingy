@@ -1,0 +1,1004 @@
+{"0": {
+    "doc": "Adversaries",
+    "title": "Adversaries",
+    "content": "Adversaries gain no Favor. ",
+    "url": "/rpg-thingy/gm-tools/adversaries.html",
+    "relUrl": "/gm-tools/adversaries.html"
+  },"1": {
+    "doc": "Adversaries",
+    "title": "Simplifying",
+    "content": "Adversaries can be constructed with the same detail as PCs, though in almost all cases, they can be greatly abstracted to achieve the same impact, if not improve it and make your life as a GM easier along the way. ",
+    "url": "/rpg-thingy/gm-tools/adversaries.html#simplifying",
+    "relUrl": "/gm-tools/adversaries.html#simplifying"
+  },"2": {
+    "doc": "Adversaries",
+    "title": "Dice Modifiers",
+    "content": "In general, dice modifiers can be completely omitted for basically all adversaries (though important foes may still utilize them to increase their threat level). ",
+    "url": "/rpg-thingy/gm-tools/adversaries.html#dice-modifiers",
+    "relUrl": "/gm-tools/adversaries.html#dice-modifiers"
+  },"3": {
+    "doc": "Adversaries",
+    "title": "Traits",
+    "content": "As an adversary’s traits are not used for dice modifiers, instead they may be used for minimum effort. Adversaries should have a limited number of adversaries and even fewer of them high rated. High rated traits make adversaries incredibly dangerous to face ill-prepared. Adversary traits are marked with an approach and a skill to indicate in which context they excel. In any other context, an adversary’s trait grant only 1 minimum effort. ",
+    "url": "/rpg-thingy/gm-tools/adversaries.html#traits",
+    "relUrl": "/gm-tools/adversaries.html#traits"
+  },"4": {
+    "doc": "Adversaries",
+    "title": "Assets",
+    "content": "Most of the time keeping of track adversaries is enough work without keeping track of a handful of asset quality ratings on top. Instead of assets, adversaries use their traits for minimum effort, so they have no need for them. Unless attrition is vital for the adversary to be interesting, replace assets with lower rated traits. Down in the sewers, Cyrene manages a nice hit against a ghoul by exploiting its Light Sensitivity trait with rating 1 but the vile beast does not abandon its nest so easily and jumps past Cyrene’s torch, clawing at her face. The ghoul rolls terribly, but it has the trait Festering Fangs &amp; Claws with a rating of 2, which work as a weapon on its Vigor attacks, so Cyrene will have to roll 2 successes to evade. She invokes the Light Sensitivity trait again to aid with her defense roll and, thankfully, she rolls 2 successes and survives unscathed to fight another round. ",
+    "url": "/rpg-thingy/gm-tools/adversaries.html#assets",
+    "relUrl": "/gm-tools/adversaries.html#assets"
+  },"5": {
+    "doc": "Assets",
+    "title": "Assets",
+    "content": "Assets are an abstraction of tools in the fictional world. Tools, in this context, is anything from artisan’s tools, weapons, armor, riding horses, mills to grind flour, and castle fortifications to defend against a siege. Assets have a specific use case. A weapon can be used to attack with Fight, a horse can be used to travel distances with Maneuver or Wilderness, an aristocrat’s written favor may be used with Influence at court, etc. Assets may have additional properties such as weapons being able to be used as assets for other skills than Fight or granting other benefits (see Gear). To use such a property, you must use the asset for minimum effort on a test. You may buy new assets (see Resting) and create new assets or improve assets you already own (see Crafting). ",
+    "url": "/rpg-thingy/playing-the-game/assets.html",
+    "relUrl": "/playing-the-game/assets.html"
+  },"6": {
+    "doc": "Assets",
+    "title": "Quality Rating",
+    "content": "Each asset has a quality rating. Usually, this rating is between 1 and 3. Though, some special asset such as castles and other structures, as well as masterfully crafted gear might exceed even that. You may use an asset after rolling with a fitting skill to gain minimum effort for that test equal to the asset’s quality rating. This can (and often will) result in you succeeding on a test you would have otherwise failed or at least reduce your margin of failure. After you use an asset, its quality rating degrades by 1. If an asset’s quality rating drops to 0, it can no longer be used. When you use an asset for minimum effort, but you still fail at the test, the asset does not increase the Favor you gain. You only get Favor for the hits you have actually rolled. Maro finds himself in a skirmish with a vicious assassin who ambushed him in a darkened street corner. Maro attacks him with his axe, though luck isn’t on his side, and he rolls 0 hits. His opponent achieved 1 effort. He is quicker than Maro and threatens to deflect the blow. Maro may now use his Axe asset with a quality rating of 2 to get a minimum effort of 2 on his test. He does and drives his Axe into his opponent’s armored shoulder. As he used his Axe, it degrades and loses 1 quality rating. It now has a quality rating of 1 but the assassin suffered a wound despite his efforts and will be easier to fight from now on. ",
+    "url": "/rpg-thingy/playing-the-game/assets.html#quality-rating",
+    "relUrl": "/playing-the-game/assets.html#quality-rating"
+  },"7": {
+    "doc": "Assets",
+    "title": "Masterpieces",
+    "content": "Some assets are so well crafted for their purpose that they are considered masterpieces. These assets have a masterpiece rating in addition to their quality rating, which grants them additional benefits. If an asset’s quality rating is 3 or greater, it is considered a masterpiece, and it has a masterpiece rating as described in the table below. You may use a masterpiece asset to gain minimum effort equal to its quality rating, just like you would a normal asset. Alternatively, you may use a masterpiece asset to gain minimum effort equal to its masterpiece rating instead and if you succeed on the test, the asset does not degrade. | Quality Rating | Masterpiece Rating | . | 1 | - | . | 2 | - | . | 3 | 1 | . | 4 | 1 | . | 5 | 2 | . | 6 | 2 | . | 7 | 3 | . | … | … | . ",
+    "url": "/rpg-thingy/playing-the-game/assets.html#masterpieces",
+    "relUrl": "/playing-the-game/assets.html#masterpieces"
+  },"8": {
+    "doc": "Assets",
+    "title": "Off-Label Usage",
+    "content": "When using an asset for with a skill or Attribute other than its intended purpose, it grants only 1 minimum effort for that test. If the asset is a masterpiece, instead it can only be used to gain minimum effort equal to its masterpiece rating. If an asset was not originally intended to be used for a purpose, but it makes perfect sense that it would help you and the table agrees, you may use an asset without any penalties for that test. ",
+    "url": "/rpg-thingy/playing-the-game/assets.html#off-label-usage",
+    "relUrl": "/playing-the-game/assets.html#off-label-usage"
+  },"9": {
+    "doc": "Assets",
+    "title": "Inventory",
+    "content": "TODO . ",
+    "url": "/rpg-thingy/playing-the-game/assets.html#inventory",
+    "relUrl": "/playing-the-game/assets.html#inventory"
+  },"10": {
+    "doc": "Assets",
+    "title": "Crafting Assets",
+    "content": "You can create new assets and improve existing assets while Resting. Most of the time this creates a Craft test but sometimes a different skill might be created such as Influence to create, for example, an Agreement with the Red Council asset. To create an asset with quality raring 1 is a test difficulty 1 test. After being created, assets can only be improved by 1 rating at a time. To improve an asset from a quality rating of 2 to a quality rating of 3, is a difficulty 3 test. Restoring an asset with rating 0 (an asset which broke after being used) to rating 1 grants 1 extra die to the test. To attempt a test to create or improve and asset, you need a number of resources equal to the test’s difficulty, which are consumed with the test, success or failure. ",
+    "url": "/rpg-thingy/playing-the-game/assets.html#crafting-assets",
+    "relUrl": "/playing-the-game/assets.html#crafting-assets"
+  },"11": {
+    "doc": "Assets",
+    "title": "Resources",
+    "content": "You get resources when resting, either in the wilderness by making camp or in settlements when preparing for downtime. Sometimes you might also find assets that function as materials while adventuring. A material can be anything from branches, steel, an animal carcass, a rare herb, to even something immaterial such as shelter from the forces of nature or comfortable bed. A material is something you either need to directly craft an asset or something which grants you the peace and quiet to work without disturbances. Resources come in three varieties. Sturdy . Sturdy resources are needed to create simple weapons and build structures. This category encompasses lumber, stone, shelter, and access to high-society. Supple . Supple resources are needed to create food, art, clothing and nurture animals. This category encompasses raw food, plants, and comfort (like a warm campfire). Precious . Precious resources are needed to create refined weapons and armor, fine instruments, and draft contracts. This category encompasses metal, paper, ink, gemstones, rare flowers, and indispensable information. ",
+    "url": "/rpg-thingy/playing-the-game/assets.html#resources",
+    "relUrl": "/playing-the-game/assets.html#resources"
+  },"12": {
+    "doc": "Attributes",
+    "title": "Attributes",
+    "content": "Each character has three Attributes: Vigor, Intuition, and Reason. Each attribute also has a numerical rating, which determines how many dice you roll when you test with that attribute. The rating is an objective measure of your character’s potential effort they can muster when doing tasks. For example, a bear has more Vigor than a mouse and a dragon even more than almost anything. Each attribute represents a different way for your characters approaches problems. How well do they coerce other people into giving them what they want or are they better at relating to others to form connections, or do they build up their case and negotiate? Do they rush in to face their enemies without fear, do they fade into the shadows when they skulk around instead, or how deftly outmaneuver them from a distance? How strong are they, how nimble, how clever? That is represented by your character’s attributes. Your character may approach any problem however they like but their attributes determine what they feel most comfortably doing, or perhaps even how flexible they are. Your character’s attribute ratings are fundamental to they are and how they interact with the world and will change only marginally over the course of their story. ",
+    "url": "/rpg-thingy/character/attributes.html",
+    "relUrl": "/character/attributes.html"
+  },"13": {
+    "doc": "Attributes",
+    "title": "Vigor",
+    "content": "Vigor embodies immediacy, grit, and overwhelming force. A warrior faces his enemy armoured in heavy steel and fiery courage. It’s a matter of facing problems directly, head-on, courageous, and with conviction always at your side. A matter of going all out to win it and to win big. As such, it is the attribute most closely linked to the harnessing of fiery emotions. Strength, endurance, tenacity, panache, ferocity, wealth, fame, and power of will are all different aspects of Vigor. If your character has a high Vigor rating, they excel whenever they swing their mighty axe in a blinded rage, whenever they embolden their compatriots with a fiery speech, whenever they perform an impressive feat of strength, whenever they labor for hours on end at their forge, whenever they weave a heart-breaking tune on their lyre, whenever they shrug off a hit, or whenever they leverage their fame and wealth. ",
+    "url": "/rpg-thingy/character/attributes.html#vigor",
+    "relUrl": "/character/attributes.html#vigor"
+  },"14": {
+    "doc": "Attributes",
+    "title": "Intuition",
+    "content": "Intuition embodies reactivity, improvisation, and fluid adaptability. A hunting party tracks their prey, paying attention to every scrape and broken branch. It’s a matter of utilizing opportunities in the heat of the moment and with the element of surprise always on your side. A matter of tipping the scales in your favour by paying close attention and going with the flow. Flexibility, nimbleness, guile, reflexes, perceptiveness, wit, connections, and empathy are all different aspects of Intuition. If your character has a high Intuition rating, they excel whenever they swirl their blade like a dervish, whenever they outfox their enemies with their silver tongue, whenever they dodge to safety at the lase possible moment, whenever they know exactly the right thing to say to empathize with people, whenever they craft an astounding piece of art, whenever they balance across a steep ravine without breaking a sweat, or whenever they know just the right person. ",
+    "url": "/rpg-thingy/character/attributes.html#intuition",
+    "relUrl": "/character/attributes.html#intuition"
+  },"15": {
+    "doc": "Attributes",
+    "title": "Reason",
+    "content": "Reason embodies prevention, foresight, and rigorous determination. A scholar, after years of research, finally figures out what horror terrorizes the city. It’s a matter of meeting problems on your own terms and with a contingency plan always by your side. A matter of knowing your enemies, their blind spots, and taking the time to masterfully exploit them. Precision, deftness, intellect, foresight, research, industriousness, and rigor are all different aspects of Reason. If your character has a high Reason rating, they excel whenever you fell the rider approaching from the horizon with a single arrow, whenever you facilitate genuine understanding between warring parties, whenever you engineer a baffling mechanism, whenever doom misses you by a mile as you were expecting it, whenever you mend a grievous wound, whenever you find yourself in a race with fate one step ahead. ",
+    "url": "/rpg-thingy/character/attributes.html#reason",
+    "relUrl": "/character/attributes.html#reason"
+  },"16": {
+    "doc": "Attributes",
+    "title": "Dice Modifiers",
+    "content": "When you test with an attribute, and you have a Trait representing either your expertise or adeptness in the task you are tackling, depending on the attribute you test with, you may change how the dice are rolled. | Attribute | Modifier Name | Effect | . | Vigor | Fervor | For each 6 you roll, roll an additional die. | . | Intuition | Fortune | Re-roll each die that comes up 1. | . | Reason | Focus | Once you may re-roll all dice. | . Here is an Anydice link for the corresponding probabilities. ",
+    "url": "/rpg-thingy/character/attributes.html#dice-modifiers",
+    "relUrl": "/character/attributes.html#dice-modifiers"
+  },"17": {
+    "doc": "Attributes",
+    "title": "Disposition",
+    "content": "The three attributes do not only form the foundation of your character but of all other characters and creatures you will encounter on your adventures, sometimes even the environment itself. The scoundrel, who ambushes you in the gloomy ally; the moonlit lord, who anticipates your every move; even passive obstacles such as a river’s roaring current, they all have attributes just like you. When you create your character, you choose one of two possible dispositions you have against these foes, and edge you have during conflicts. Your disposition represents a certain knack you have against the other approaches, a weakness you might exploit. But beware, for your enemies also have dispositions. Your disposition may impose a penalty on your target when they defend against you with a certain attribute. Each of your attributes is disposed against one of the other two attributes. During conflicts, when an opponent defend against you with an attribute you are disposed against, they can only prevent stress you deal them or damage you deal to their team’s morale, not both. ",
+    "url": "/rpg-thingy/character/attributes.html#disposition",
+    "relUrl": "/character/attributes.html#disposition"
+  },"18": {
+    "doc": "Attributes",
+    "title": "Disposition I",
+    "content": "Reason struggles to defend against your Vigor: You are a force too overwhelming, your attacks are too mighty, your speeches are too gripping, they cannot be faced with a cool demeanour for you leave no demeanour cool. Vigor struggles to defend against your Intuition: You change course too deftly, your attacks are a stunning barrage, your lies are too tricky a web to navigate, they cannot be faced head-on with brute force for you bend like grass in the wind. Intuition struggles to defend against your Reason: Your plans are too well-thought-out, your attacks are too precise, your rhetorical traps are too sophisticated, they cannot be weaseled out of for you have thought of everything. ",
+    "url": "/rpg-thingy/character/attributes.html#disposition-i",
+    "relUrl": "/character/attributes.html#disposition-i"
+  },"19": {
+    "doc": "Attributes",
+    "title": "Disposition II",
+    "content": "Intuition struggles to defend against your Vigor: You are a force too overwhelming, your attacks are too mighty, your speeches are too gripping, they cannot be faced with the cowardice of a weasel for you leave no place left to hide. Reason struggles to defend against your Intuition: You change course too deftly, your attacks are a stunning barrage, your lies are too tricky a web to navigate, they cannot be faced with a cool demeanour for they still think about your last move while you are crossing the finish line. Vigor struggles to defend against your Reason: Your plans are too well-thought-out, your attacks are too precise, your rhetorical traps are too sophisticated, they cannot be faced head-on with brute force for every careless step spells disaster. ",
+    "url": "/rpg-thingy/character/attributes.html#disposition-ii",
+    "relUrl": "/character/attributes.html#disposition-ii"
+  },"20": {
+    "doc": "Boons & Banes",
+    "title": "Boons &amp; Banes",
+    "content": "When you want to create an advantage for yourself or an ally, or hinder an opponent, you may create a boon to aid or a bane to hinder. During conflicts, you may the main purpose of positioning is creating boons and banes. Boons and banes are temporary traits, which are one-use only. They may be used on any test where it would make sense that they would help or hinder. In general, boons and banes can only be utilized with the same attribute with which they were created. Though, if it makes sense in the narrative, you may use them with other attributes as well. When you test a skill to create a boon or bane, your effort (or margin of effort if someone defends against your attempt) determines the boon’s/bane’s rating. You may also turn excess effort after you have succeeded on a test into a boon on yourself; or, if you succeeded in a contest, into a bane on your opponent, by spending 1 Favour. Most boons and banes only last for the context they were created in, so for the duration of the conflict. Sometimes boons and banes may also occur or are created outside a conflict. In that case, they last for the duration of the scene they were created in. ",
+    "url": "/rpg-thingy/playing-the-game/boons-&-banes.html#boons--banes",
+    "relUrl": "/playing-the-game/boons-&-banes.html#boons--banes"
+  },"21": {
+    "doc": "Boons & Banes",
+    "title": "Boons",
+    "content": "When you use a boon, add dice equal to the boon’s rating to your roll. Though, after you do, the boon is used up and vanishes. If you have multiple Boons which might fit, you have to choose only one of them. Cyrene wants to hide and sneak behind enemy lines. The camp is well guarded; someone is expecting her. The GM sets the difficulty to sneak into the camp at 2. Cyrene tests Maneuver with Reason as she steps from shadow to shadow and rolls a phenomenal 4 successes. Easily enough to succeed. She spends 1 Favour and turns the 2 excess successes into a boon named Hidden from Sight with rating 2 on herself. In the enemy camp, she finds her target of her assassination mission: the loathsome merchant king Samson. Cyrene and the GM agree that they are more interested in the fallout of this event than the assassination itself, so murdering the merchant discretely without anyone noticing and making it out unseen will be a resolved with a single uncontested test with difficulty 3. Cyrene’s initial roll shows only 2 successes, but she may now invoke her Boon Hidden from Sight to gain 2 extra dice for her assassination attempt. The 2 extra dice turn her attempt into a success. The boon has been used and vanishes and so does Cyrene into the night. ",
+    "url": "/rpg-thingy/playing-the-game/boons-&-banes.html#boons",
+    "relUrl": "/playing-the-game/boons-&-banes.html#boons"
+  },"22": {
+    "doc": "Boons & Banes",
+    "title": "Banes",
+    "content": "Banes are temporary detrimental Traits, though banes, are one-use only. After a bane increased the difficulty of a test or was used by an opponent to get extra dice, it vanishes. If an opponent has multiple banes which you might use to aid you, you have to choose only one of them. A bane is not itself one of your opponent’s traits, so you may invoke both a bane and a detrimental trait for additional dice. If you are affected by a bane, your opponent’s may use it to add dice to their rolls during contests. During uncontested tests, add your highest rated bane’s rating, which would logically hinder you, to the test’s difficulty. The caravan Maro is escorting is being ambushed by bandits. One of the bandits is covered in mean battle scars, so Maro decides to leverage his superior mobility before engaging him directly. He tries to create a bane with Maneuver and Intuition on the bandit by running circles around him and throwing sand into his eyes. The bandit fails to defend against the attempt. Maro rolls 2 excess successes and creates a bane named Sand in my Eyes! with rating 2 on the bandit. Anyone attacking the bandit or defending against one of his attacks may now add 2 to their roll once after which the bane vanishes. ",
+    "url": "/rpg-thingy/playing-the-game/boons-&-banes.html#banes",
+    "relUrl": "/playing-the-game/boons-&-banes.html#banes"
+  },"23": {
+    "doc": "Boons & Banes",
+    "title": "Enduring Boons &amp; Banes",
+    "content": "Sometimes either extremely powerful effects like magic or narrative reasons might create boons or banes that endure for longer than but a moment. An enduring boon or bane degrades by 1 rating when it is used (instead of vanishing like normal boon would). When an enduring boon or bane reaches a rating of 0, it vanishes. Enduring boons and banes may exist beyond the context of a single conflict or scene, if it makes narrative sense. Cyrene and Maro have sneaked into a sleeping dragon’s hoard to recover a long-lost artifact. The GM makes it quite clear that any test they fail while searching for the artifact will draw the attention of the dragon, though, thankfully, the dragon is asleep. To represent this, it has an enduring bane called Caught in a Deep Slumber with a rating of 3. Maro starts climbing the hoard of gold with a Maneuver test but the dice forsake him, and he achieves 0 effort. He uses the Caught in a Deep Slumber bane and adds 3 extra dice to his roll, turning it into a success, though the Caught in a Deep Slumber bane degrades to a rating of 2 as a result. The dragon grunts in his sleep, one eye almost opens but Maro remains unnoticed. The two of them have some breathing room before the dragon wakes. For now. ",
+    "url": "/rpg-thingy/playing-the-game/boons-&-banes.html#enduring-boons--banes",
+    "relUrl": "/playing-the-game/boons-&-banes.html#enduring-boons--banes"
+  },"24": {
+    "doc": "Boons & Banes",
+    "title": "Extraordinary Boons &amp; Banes",
+    "content": "Boons and banes with extraordinary high ratings may let you add free dice to your roll without using up the boon and without it vanishing (similar to Masterpiece Assets). An extraordinary enduring boon or bane only degrades whenever a normal boon or bane would degrade, so not when you use its free dice. | Boon Rating | Free Dice | . | 1 | - | . | 2 | - | . | 3 | 1 | . | 4 | 1 | . | 5 | 2 | . | 6 | 2 | . | 7 | 3 | . | … | … | . ",
+    "url": "/rpg-thingy/playing-the-game/boons-&-banes.html#extraordinary-boons--banes",
+    "relUrl": "/playing-the-game/boons-&-banes.html#extraordinary-boons--banes"
+  },"25": {
+    "doc": "Boons & Banes",
+    "title": "Boons & Banes",
+    "content": " ",
+    "url": "/rpg-thingy/playing-the-game/boons-&-banes.html",
+    "relUrl": "/playing-the-game/boons-&-banes.html"
+  },"26": {
+    "doc": "Conditions",
+    "title": "Conditions",
+    "content": "Conditions are temporary but unavoidable negative consequences of when you suffer Stress your daring adventures. They will get in your way and, with time, fester if not looked after. And worst of all, they will help the blackguards who cross your way until you get rid of them. Conditions have a number associated with them called their Severity. A conditions severity increases as you gain stress during your adventures. Uncontested test always have a minimum difficulty equal to the highest severity of your appropriate conditions. If an uncontested test already has a higher difficulty, your conditions do not increase it. During contests, your opponents may use your conditions to their advantage. Your opponent’s minimum effort when testing against you is equal to the highest severity of your appropriate conditions. You may use your opponents’ conditions against them for minimum effort in the same way as your opponent’s can use yours against you. The rules on when a condition hinders you on which kind of test are supposed to be a solid foundation to operate on but by no means law set in stone. As conditions are named after the circumstance they were inflicted, a condition’s name might suggest that it should be applicable in even broader circumstances. Mental conditions are a prime example that might hinder you in almost any circumstance, even if the condition is not major. Or, for example, a social condition marking you as a wanted for a gruesome murder might even hinder you on Wilderness tests as the tales of your misdeeds travelled across the land and no one you meet on the road is willing to help you, even getting in your way, and you must keep from the travelled road. ",
+    "url": "/rpg-thingy/character/conditions.html",
+    "relUrl": "/character/conditions.html"
+  },"27": {
+    "doc": "Conditions",
+    "title": "Condition Types",
+    "content": "You have 1 slot for each a physical, mental, and social condition. When the rules call for an appropriate condition, they reference the different types of conditions as not all conditions will hinder you on every test. Your condition slots start of empty. Whenever you suffer stress of a certain type, mark the lowest available stress box in the slot of that type. If that slot had no stress boxes marked previously, name and add a condition into the slot (see Stress). ",
+    "url": "/rpg-thingy/character/conditions.html#condition-types",
+    "relUrl": "/character/conditions.html#condition-types"
+  },"28": {
+    "doc": "Conditions",
+    "title": "Physical Conditions",
+    "content": "These conditions encompass all types of physical trauma, bodily injury and weariness. A cut from a blade is a physical condition, so is exhaustion from excessive travelling, and so are sickness and poisoning. Physical conditions hinder you on Fight, Maneuver, Wilderness, and Craft tests. Wounds nor exhaustion get in the way of your concentration and coordination. While resting, you can mend physical conditions by testing Craft, though not all severities can be mended with all Attributes. | Minor physical conditions can be mended with any attribute. | Moderate physical conditions can be mended with Intuition and Reason. Some sense for field dressing or at least attentive care are required for these kinds of wounds. | Major physical conditions can only be mended with Reason. Practiced surgery is required to close these kinds of wounds. | . ",
+    "url": "/rpg-thingy/character/conditions.html#physical-conditions",
+    "relUrl": "/character/conditions.html#physical-conditions"
+  },"29": {
+    "doc": "Conditions",
+    "title": "Mental Conditions",
+    "content": "These conditions encompass all types of mental trauma, spiritual injury, and weariness of the mind. A biting insult to your character is a mental condition, so is exhaustion from excessive research, and so are fear and confusion. Mental conditions hinder you on no tests, unless they are major, then they hinder you on all tests. There is no running from your delusions and greatest fears. While resting, you can mend mental conditions by testing Influence, though not all severities can be mended with all attributes. | Minor mental conditions can be mended by Influence with any Approach. | Moderate mental conditions can be mended by Influence with Vigor and Intuition but not by Reason. Some sense of genuine compassion or at least a warming presence is required for these troubles. | Major mental conditions can only be mended by Influence with Intuition. Heartfelt empathy is required to tackle these troubles. | . ",
+    "url": "/rpg-thingy/character/conditions.html#mental-conditions",
+    "relUrl": "/character/conditions.html#mental-conditions"
+  },"30": {
+    "doc": "Conditions",
+    "title": "Social Conditions",
+    "content": "These conditions encompass all types of debts, societal rejection, accusations and other injuries to your reputation. The result of a successful slander campaign is a social condition, so is seclusion (willing or otherwise) from larger society, and so are debts, and being covered in muck. Social conditions hinder you on Influence and Resource tests. A horrendous reputation is an uphill battle wherever you might want to make yourself heard and being cut off from the currents of society strains your access to all its marvels. While resting in a settlement, you can mend social conditions with Resource tests, though not all severities can be mended with all attributes. | Minor social conditions can be mended by Means with any Approach. | Moderate social conditions can be mended by Means with Vigor and Reason but not by Intuition. Fame, Wealth, rigorous bookkeeping, or a sound argument before a court are required to get out of these predicaments. | Major social conditions can only be mended by Means with Vigor. Nobility, a made name, or chests of gold are required to get out of these predicaments. | . ",
+    "url": "/rpg-thingy/character/conditions.html#social-conditions",
+    "relUrl": "/character/conditions.html#social-conditions"
+  },"31": {
+    "doc": "Conditions",
+    "title": "Stress",
+    "content": "Each of your condition slots has 6 stress boxes that you can mark to absorb stress you suffer. Each box has a corresponding number which denotes how much stress than box absorbs when you mark it. You have 3 boxes which may absorb 1 stress each, 2 boxes which may absorb up to 2 stress each, and 2 box which may absorb up to 3 stress. Whenever you suffer stress, mark an empty box in the corresponding condition slot, noting that it absorbed that stress. Stress you suffer must be entirely absorbed by a single box, you may not distribute stress between boxes. Should you not have an empty box to absorb stress you suffered, you are in deep trouble. You may spend Favor equal to the stress you suffered to get a new trait with rating equal to the amount of Favor spent which absorbs the stress for you. Name the trait to describe the permanent injury you suffered and escaped by a hair’s breadth. Otherwise, whatever has been gnawing at you, finally overwhelms you. Be it blood loss, drowning, permanent imprisonment, succumbing to sickness, execution, madness, or complete social ostracism, and you must retire your character. ",
+    "url": "/rpg-thingy/character/conditions.html#stress",
+    "relUrl": "/character/conditions.html#stress"
+  },"32": {
+    "doc": "Conditions",
+    "title": "Condition Severities",
+    "content": "The condition in a condition slot has a severity of 1 (minor), 2 (moderate), or 3 (major) depending on the highest stress box marked in it. You can reduce the severity of your conditions by tending to them (see Recovering). When a Condition’s severity changes to 0, it vanishes. ",
+    "url": "/rpg-thingy/character/conditions.html#condition-severities",
+    "relUrl": "/character/conditions.html#condition-severities"
+  },"33": {
+    "doc": "Conditions",
+    "title": "Minor Conditions",
+    "content": "A condition is minor if the highest marked stress box in its slot is 1. These conditions are minor inconveniences. Superficial cuts, bruised egos, a revolting appearance after days of adventuring, and similar troubles, that arise with living an interesting life, are minor conditions. Nothing that cannot heal or mend with even just a little resting. As an uncontested test’s difficulty is always at least 1 and most foes you will encounter will be armed, so these kinds of conditions are more nuisance than hindrance (unless they begin to pile up and fill your Condition slots). ",
+    "url": "/rpg-thingy/character/conditions.html#minor-conditions",
+    "relUrl": "/character/conditions.html#minor-conditions"
+  },"34": {
+    "doc": "Conditions",
+    "title": "Moderate Conditions",
+    "content": "A condition is moderate if highest marked stress box in its slot is 2. These conditions are moderate setbacks. Flesh wounds, enduring exhaustion, nightmare-inducing disturbances, being accused of a crime, and similar troubles are moderate conditions. ",
+    "url": "/rpg-thingy/character/conditions.html#moderate-conditions",
+    "relUrl": "/character/conditions.html#moderate-conditions"
+  },"35": {
+    "doc": "Conditions",
+    "title": "Major Conditions",
+    "content": "A condition is major if the 3 stress box is marked. These conditions are grievous injuries which threaten to fester and prematurely end your journey should they not get immediate attention. Stab wounds to the gut, feverish sickness, debilitating delusions, complete ostracization, and similar threats to your character’s life are major conditions. ",
+    "url": "/rpg-thingy/character/conditions.html#major-conditions",
+    "relUrl": "/character/conditions.html#major-conditions"
+  },"36": {
+    "doc": "Conditions",
+    "title": "Conditions in Revue",
+    "content": ". | There are physical, mental, and social conditions. | You have 1 slot each of the three condition types. | Each slot has 3 boxes to absorb 1 stress, 2 boxes to absorb up to 2 stress, and 1 box to absorb up to 3 stress. | A condition’s severity is equal to the highest stress box marked in its slot. | Tests you encounter will have a minimum difficulty equal to your highest appropriate condition. | If a character cannot absorb stress, they meet their fate. | Physical and mental conditions can be mended while resting. | Social conditions can only be mended while resting in settlements. | . Appropriate conditions . The three different types of conditions hinder you on different tests. Of course, you can almost always voluntarily hinder yourself with your own conditions if the table finds it appropriate. |   | Physical Hinders | Mental Hinders | Social Hinders | . | Influence | - | Only Major |   | . | Fight |   | Only Major | - | . | Maneuver |   | Only Major | - | . | Wilderness |   | Only Major | - | . | Craft |   | Only Major | - | . | Means | - | Only Major |   | . Mending conditions . The three different types of conditions have restrictions with which skill and which attribute they can be mended. Leisure Structures can give you additional options to get rid of your conditions but on the road or without help, these are the only ways to get rid of conditions. |   | Mending Physical | Mending Mental | Mending Social | . | Skill | Craft | Influence | Means | . | Minor |   |   |   | . | Moderate | Intuition &amp; Reason | Vigor &amp; Intuition | Vigor &amp; Reason | . | Major | Reason | Intuition | Vigor | . ",
+    "url": "/rpg-thingy/character/conditions.html#conditions-in-revue",
+    "relUrl": "/character/conditions.html#conditions-in-revue"
+  },"37": {
+    "doc": "Conflicts",
+    "title": "Conflicts",
+    "content": "When the stakes are high, and you want to circle in on each individual decision to see who comes out on top, then that calls for a conflict. A lot of the time fights with important enemies will be handled through conflicts, as will crucial chases, heated debates, and even something like a deciding competition between craftsmen or trade guilds. A conflict is divided between at least two sides, each with their own captain, though there can be more than two teams with different goals. Each side has a captain and needs at least one character to fulfill that role but may include many more characters. To start a conflict, establish a Goal for each side and name a captain for each side. Most of the time this will be the character who initiated the conflict and their target. All remaining characters who want to participate in the conflict either join an existing team or, if their goal differs from the established goals, form a new team with them as captain. A character may abstain from a conflict, though that means they can only witness and not influence its outcome. Then determine the relevant Skill for the conflict. (Fight for skirmishes; Influence for debates; Maneuver for chases; etc.) . ",
+    "url": "/rpg-thingy/playing-the-game/conflicts.html",
+    "relUrl": "/playing-the-game/conflicts.html"
+  },"38": {
+    "doc": "Conflicts",
+    "title": "Morale",
+    "content": "During a conflict, each team’s capability to fight on is represented by their morale, or more specifically, the damage to their morale. A team captain’s main responsibility is to ensure their team’s morale does not break lest they will most likely lost the conflict. Building Morale . Whenever a member of a team in a conflict succeeds on a test, their captain notes the margin of effort and adds it to their team’s morale. Damaging Morale . Whenever a member of a team in a conflict fails to succeed on a test, their captain notes the margin of effort and subtracts it from their team’s morale. When a team’s morale drops below 0, the team as a whole gain a Broken Morale. Increase that trait’s rating by 1 for each point of morale below 0. This trait counts as a character trait to be used against the teams members during contests. Keeping Morale . At the end of each turn, if a team has a Broken Morale trait, its captain must test a skill that is not the relevant skill to keep their team’s morale from breaking. The test’s base difficulty is equal to the Broken Morale trait’s rating. If the captain does not succeed on the test, their team’s morale breaks. Otherwise, or if the team does not have a Broken Morale trait, the team keeps their morale. A captain’s teammates may help their captain keep morale by testing with them as a group (increase the test’s difficulty by 1 for each teammate who tests beyond the captain). ",
+    "url": "/rpg-thingy/playing-the-game/conflicts.html#morale",
+    "relUrl": "/playing-the-game/conflicts.html#morale"
+  },"39": {
+    "doc": "Conflicts",
+    "title": "Positioning",
+    "content": "In rpg-thingy, not ever does a conflict erupt spontaneously out of the blue. There is always at least a brief moment, sometimes even a lengthy period of time, a calm before the storm, in which sides anticipate imminent confrontation and position themselves. If characters are surprised at the start of a conflict, then only ever about how their opponent engaged them, maybe even who exactly engaged them but not ever that they were engaged at all. Before a conflict, a team positions, either literally by forming a formation or leveraging their environment; but also figuratively, by motivating their comrades, ensuring supply lines, researching the enemy and sneaking up on them. To position for a conflict, test a skill that is not the relevant skill and note the effort you achieved. ",
+    "url": "/rpg-thingy/playing-the-game/conflicts.html#positioning",
+    "relUrl": "/playing-the-game/conflicts.html#positioning"
+  },"40": {
+    "doc": "Conflicts",
+    "title": "Benefits",
+    "content": "Each participant in the conflict chooses a benefit depending on their noted effort. There are two general benefit to choose from and three that are each available depending on what attribute you tested with. These benefits only last for the duration of the conflict. Any Attribute . | Create a trait on the scene with rating equal to your effort | Create a Boon on yourself or an ally (or a Bane on an opponent) with rating equal to your effort | . Vigor . | Add your effort to your team’s morale | . Intuition . | Discard 1 asset with rating equal to or less than your effort for the duration of the conflict; or regain 1 asset with rating equal to or less than your effort which was discarded during this conflict | . Reason . | Learn of the highest rated hidden trait with rating equal to or less than your successes | . ",
+    "url": "/rpg-thingy/playing-the-game/conflicts.html#benefits",
+    "relUrl": "/playing-the-game/conflicts.html#benefits"
+  },"41": {
+    "doc": "Conflicts",
+    "title": "The Conflict",
+    "content": "A conflict is essentially a sequence of Contests. Turn order is determined by whoever initiated the conflict. Should it ever be uncertain, the teams with the highest morale goes first. During a team’s turn each of its members may act in whatever order they choose until each member has acted once. When all members of a team have acted, its captain tests to keep morale if its morale has been broken. Then continue with the next team in turn order. ",
+    "url": "/rpg-thingy/playing-the-game/conflicts.html#the-conflict",
+    "relUrl": "/playing-the-game/conflicts.html#the-conflict"
+  },"42": {
+    "doc": "Conflicts",
+    "title": "Acting during a Conflict",
+    "content": "To act, a character has three choices, either attack an opponent to inflict stress upon and damage their morale, try to gain an advantage just like you would during positioning, or surrender. Attacking . To attack, test the relevant skill with any attribute against an opponent of your choice. If your opponent achieved more effort, they inflict the difference as damage to your team’s morale. If you achieved more effort, you inflict the difference as stress to your opponent. You also inflict that difference as damage to your opponent’s morale. If the defender struggles to defend because of your disposition, they can only reduce either the stress you inflict on them or the damage to their team’s morale but not both. Anyone may help their teammates defend as a group when one of their allies is attacked, but they can only do so, if they are not themselves attacked. To keep an opponent from protecting one of their allies, have one of your teammates attack and occupy them. Positioning during Conflicts . Instead of testing the relevant skill to inflict stress on an opponent and their team’s morale, you may test a skill, as if positioning. You still choose an opponent who will try to stop or at least hinder your efforts. Instead of inflicting stress and reducing your opponent’s morale, you gain an effect as you would during positioning, though your effort is reduced by your opponent’s effort. Your opponent cannot defend against your efforts with the attribute you are disposed against. Your opponent still damages your Morale as normal, if they achieve more effort than you. Surrendering . During their turn, a character may choose to surrender and remove themselves from the conflict. They can no longer influence the outcome, but they are out of harm’s way. When a team member surrenders or otherwise laves the conflict, they inflict 1 damage to their team’s morale. When a team’s captain surrenders or otherwise laves the conflict, they damage their team’s morale by the number of remaining members on their team. ",
+    "url": "/rpg-thingy/playing-the-game/conflicts.html#acting-during-a-conflict",
+    "relUrl": "/playing-the-game/conflicts.html#acting-during-a-conflict"
+  },"43": {
+    "doc": "Conflicts",
+    "title": "Ending a Conflict",
+    "content": "When all members of a team have surrendered or are otherwise no longer able to act, they lose the conflict and do not achieve their goal. When a team’s morale breaks, any of its members may enter their Last Stand to potentially prevent them from losing. A team, whose morale has been broken, loses the conflict and does not achieve its goal if either of the following conditions is true: . | None of its members have entered their Last Stand. | All its members, who have entered their Last Stand have perished. | All their opponents have been defeated (meaning all teams lose the conflict). | . When only one team whose morale has not been broken remains, they win the conflict and achieve their goal. Should all teams lose the conflict, it spells catastrophic disaster. Depending on the narrative, all teams might achieve their goals or none at all. A battle might leave the countryside in ruins with neither party having achieved their objective; the plotting of two rival underground factions might drive them both to ruin as they assure their mutual destruction; a heated debate between the king and his advisor about succession rights might end in them finding understanding for each other, leaving their disputes behind, and deciding on a third solution. When in doubt, settle for a compromise without any winners. ",
+    "url": "/rpg-thingy/playing-the-game/conflicts.html#ending-a-conflict",
+    "relUrl": "/playing-the-game/conflicts.html#ending-a-conflict"
+  },"44": {
+    "doc": "Conflicts",
+    "title": "Last Stand",
+    "content": "Should you not have an empty box to absorb stress you suffered during a conflict, and you spend Favor to gain a new trait (as detailed in Stress), you must choose between the following two options: . | Immediately surrender from the conflict. | Enter your Last Stand. | . Your Last Stand represents one last chance to still achieve your team’s goal, to rage, potentially for the last time, even against the most desperate of odds. During your Last Stand you can still act normally in the conflict, despite your grievous setbacks until your leave your Last Stand. Resolve your actions as you normally would with the following exceptions: . | During your Last Stand, if any of your actions cause the morale of an opposing team to break, you gain an Epiphany | When all opposing teams have lost the conflict, your leave your Last Stand and you live to see another day. | If, at any point during your Last Stand, you suffer any stress, you perish. (Depending on the type of conflict, you either die in battle, are exiled forever, completely lose you mind, etc.) | . ",
+    "url": "/rpg-thingy/playing-the-game/conflicts.html#last-stand",
+    "relUrl": "/playing-the-game/conflicts.html#last-stand"
+  },"45": {
+    "doc": "Conflicts",
+    "title": "Uncontested Conflicts",
+    "content": "Though most conflicts are contested, sometimes the narrative calls for a conflict without any active opposition, such as surviving a long and arduous journey, creating an unfathomable piece of art, or undertaking a ludicrous economic endeavour. An uncontested conflict works very similarly to a normal conflict, . ",
+    "url": "/rpg-thingy/playing-the-game/conflicts.html#uncontested-conflicts",
+    "relUrl": "/playing-the-game/conflicts.html#uncontested-conflicts"
+  },"46": {
+    "doc": "Craft Gear",
+    "title": "Craft Gear",
+    "content": " ",
+    "url": "/rpg-thingy/gear/craft.html",
+    "relUrl": "/gear/craft.html"
+  },"47": {
+    "doc": "Craft Gear",
+    "title": "Means Gear",
+    "content": " ",
+    "url": "/rpg-thingy/gear/craft.html#means-gear",
+    "relUrl": "/gear/craft.html#means-gear"
+  },"48": {
+    "doc": "Craft Talents",
+    "title": "Vigor Feats",
+    "content": "War Smith . You may ignore the Refined with RESOURCE property of weapon and armor assets. Renown . Double your successes when working in a settlement while resting. ",
+    "url": "/rpg-thingy/talents/craft.html#vigor-feats",
+    "relUrl": "/talents/craft.html#vigor-feats"
+  },"49": {
+    "doc": "Craft Talents",
+    "title": "Intuition Feats",
+    "content": "Trickster . Boons you create with Craft and Intuition only vanish (or degrade) if you do not succeed on the test. ",
+    "url": "/rpg-thingy/talents/craft.html#intuition-feats",
+    "relUrl": "/talents/craft.html#intuition-feats"
+  },"50": {
+    "doc": "Craft Talents",
+    "title": "Reason Feats",
+    "content": "Engineer . When creating or improving an asset with a property, you may double the property’s effort when determining difficulty. Surgeon . When mending a condition with Craft while resting, instead of mending it by 1, you may mend it by the number of your margin of effort. ",
+    "url": "/rpg-thingy/talents/craft.html#reason-feats",
+    "relUrl": "/talents/craft.html#reason-feats"
+  },"51": {
+    "doc": "Craft Talents",
+    "title": "Vigor Specializations",
+    "content": "Farmhand . You may forage when resting even in settlements. When you do, you may use Craft instead of Wilderness or Means to forage. Instead of boons, you create assets while foraging and the assets have the Fortified property (do not degrade if their rating is greater than the difficulty of tests they are used on). ",
+    "url": "/rpg-thingy/talents/craft.html#vigor-specializations",
+    "relUrl": "/talents/craft.html#vigor-specializations"
+  },"52": {
+    "doc": "Craft Talents",
+    "title": "Intuition Specializations",
+    "content": "Always Prepared . Boons and banes you create with Craft during positioning for a conflict are enduring. Ingenuity . Get 1 additional die when crafting assets. ",
+    "url": "/rpg-thingy/talents/craft.html#intuition-specializations",
+    "relUrl": "/talents/craft.html#intuition-specializations"
+  },"53": {
+    "doc": "Craft Talents",
+    "title": "Reason Specializations",
+    "content": "Master Artisan . When you invoke a trait representing your mastery over the relevant skill, instead of re-rolling or adding any dice, you may increase your training for the relevant skill by one tier (from 6 to 5+, from 5+ to 4+ etc.). You cannot have used any dice modifiers for that roll to use this benefit, and you may not use any dice modifiers afterwards either. Traps Everywhere . You may create a special Traps assets which may be used by your entire team and for any skill with any attribute. ",
+    "url": "/rpg-thingy/talents/craft.html#reason-specializations",
+    "relUrl": "/talents/craft.html#reason-specializations"
+  },"54": {
+    "doc": "Craft Talents",
+    "title": "Craft Talents",
+    "content": " ",
+    "url": "/rpg-thingy/talents/craft.html",
+    "relUrl": "/talents/craft.html"
+  },"55": {
+    "doc": "Fight Gear",
+    "title": "Fight Gear",
+    "content": "Assets for Fight conflicts come in two variations: weapons to attack and armor to defend. Though some, such as the Helmet, are not used to attack or defend, but they will aid you in Fight conflicts nonetheless. ",
+    "url": "/rpg-thingy/gear/fight.html",
+    "relUrl": "/gear/fight.html"
+  },"56": {
+    "doc": "Fight Gear",
+    "title": "Vigor Gear",
+    "content": "| Weapon | Properties | Resources | . | 🗡 Axe | Ferocious | Sturdy | . | 🗡 Mace | Deadly | Sturdy | . | 🗡 Warhammer | Deadly, Ferocious | Sturdy + Precious | . | 🗡 Poleaxe | Deadly, Ferocious, TacticalExquisite | Sturdy + Precious | . | 🛡 Shield | Bulwark, Tactical | Sturdy + Precious | . | 🛡 Mail | FortifiedExquisite | Supple + PreciousMasterpiece Gambeson | . | Bulwark: When defending, increase your effort by 1 for each 6 you roll. | Deadly: When attacking, decrease your opponent’s minimum effort by 1 + this asset’s masterpiece rating. This does not reduce minimum effort gained from one of your conditions. | Ferocious: When attacking, increase your effort by 1 for each 6 you roll. | Tactical: This asset may be used for Maneuver tests without penalty. When testing Maneuver, add 1 + its masterpiece rating as dice to your roll. | . ",
+    "url": "/rpg-thingy/gear/fight.html#vigor-gear",
+    "relUrl": "/gear/fight.html#vigor-gear"
+  },"57": {
+    "doc": "Fight Gear",
+    "title": "Intuition Gear",
+    "content": "| Weapon | Properties | Resources | . | 🗡 Knife | Wicked | Precious | . | 🗡 Dagger | Deadly, Wicked | Supple + Precious | . | 🗡 + 🛡 Sword | Versatile | Precious | . | 🗡 + 🛡 Estoc | DeadlyExquisite | Precious | . | 🗡 + 🛡 Longsword | Ferocious, Tactical, VersatileExquisite | Supple + Precious | . | 🛡 Gambeson | Durable | Supple | . | Deadly: When attacking, decrease your opponent’s minimum effort by 1 + this asset’s masterpiece rating. This does not reduce minimum effort gained from one of your conditions. | Durable: This asset only degrades below quality rating 1, if you roll a 1. | Ferocious: When attacking, increase your effort by 1 for each 6 you roll. | Tactical: This asset may be used for Maneuver tests without penalty. When testing Maneuver, add 1 + its masterpiece rating as dice to your roll. | Versatile: This asset may be used with any attribute without penalty. | Wicked: When adding dice from a boon or bane created with Intuition, also add 1 + this asset’s masterpiece rating as dice to your roll. | . ",
+    "url": "/rpg-thingy/gear/fight.html#intuition-gear",
+    "relUrl": "/gear/fight.html#intuition-gear"
+  },"58": {
+    "doc": "Fight Gear",
+    "title": "Reason Gear",
+    "content": "| Weapon | Properties | Resources | . | 🗡 Spear | Tactical | Sturdy | . | 🗡 Bill | Tactical, Wicked | Sturdy + Precious | . | 🗡 Crossbow | Ranged, Tactical | Sturdy + Supple | . | 🗡 Pike | Reach, Tactical | Sturdy + Precious | . | 🗡 Arbalest | Deadly, Ranged, TacticalExquisite | Sturdy + Precious | . | 🗡 Longbow | Ranged, Reach, TacticalExquisite | Sturdy + Supple | . | 🛡 Buckler | Tactical | Sturdy | . | Deadly: When attacking, decrease your opponent’s minimum effort by 1 + this asset’s masterpiece rating. This does not reduce minimum effort gained from one of your conditions. | Reach: When you create a Boon with Maneuver, it becomes Enduring. | Ranged: Reduce morale damage you take by this asset’s quality rating. | Tactical: This asset may be used for Maneuver tests without penalty. When testing Maneuver, add 1 + its masterpiece rating as dice to your roll. | Wicked: When adding dice from a boon or bane created with Intuition, also add 1 + this asset’s masterpiece rating as dice to your roll. | . ",
+    "url": "/rpg-thingy/gear/fight.html#reason-gear",
+    "relUrl": "/gear/fight.html#reason-gear"
+  },"59": {
+    "doc": "Fight Gear",
+    "title": "Special Gear",
+    "content": "| Weapon | Properties | Resources | . | 🗡 Ammunition | Reliable | Supple | . | 🗡 Barbed | Ferocious, Reliable | Supple + Precious | . | 🗡 Bodkin | Deadly, Reliable | Supple + Precious | . | 🛡 Helmet | Reliable | Precious | . | Deadly: When attacking, decrease your opponent’s minimum effort by 1 + this asset’s masterpiece rating. This does not reduce minimum effort gained from one of your conditions. | Ferocious: When attacking, increase your effort by 1 for each 6 you roll. | Reliable: Increase the minimum effort you gain from another asset by 1 + this asset’s masterpiece rating. | . ",
+    "url": "/rpg-thingy/gear/fight.html#special-gear",
+    "relUrl": "/gear/fight.html#special-gear"
+  },"60": {
+    "doc": "Fight Talents",
+    "title": "Vigor Feats",
+    "content": "Bolster . When defending with Fight, each 6 counts as two hits. Reckless . When creating a boon with Vigor during a Fight conflict, you may make it enduring by gaining a Reckless bane with rating equal to the created boon’s rating. The Reckless bane only hinders you when defending. Steadfast . When defending with Vigor against multiple opponents, roll an additional die for each opponent attacking you. ",
+    "url": "/rpg-thingy/talents/fight.html#vigor-feats",
+    "relUrl": "/talents/fight.html#vigor-feats"
+  },"61": {
+    "doc": "Fight Talents",
+    "title": "Intuition Feats",
+    "content": "Parry . May defend with weapons without penalty. Riposte . When successfully defending with Fight and Intuition, in addition to inflicting morale damaging, you may also inflict stress equal the morale damage dealt. Uncanny Dodge . During Fight conflicts, you may spend 1 Favor to suffer a 1 physical or mental stress (your choice) instead of resolving a defense test. ",
+    "url": "/rpg-thingy/talents/fight.html#intuition-feats",
+    "relUrl": "/talents/fight.html#intuition-feats"
+  },"62": {
+    "doc": "Fight Talents",
+    "title": "Reason Feats",
+    "content": "Battle Tactician . When positioning for a Fight conflict, you may test for positioning twice and gain two different benefits. Shield Training . When adding dice from a shield asset to a defense roll, add 1 additional die. Armor Training . Armor assets you use, gain the Versatile property (they do not automatically degrade when used with a different attribute than intended). ",
+    "url": "/rpg-thingy/talents/fight.html#reason-feats",
+    "relUrl": "/talents/fight.html#reason-feats"
+  },"63": {
+    "doc": "Fight Talents",
+    "title": "Vigor Specializations",
+    "content": "Juggernaut . When attacking, roll an additional die for each opponent defending against you. Slayer . When attacking with Vigor in a Fight conflict, you always inflict at least 1 stress for each 6 you rolled, even if your opponent defended successfully (this does not increase the damage to the opponent’s morale). Martial Artist (Defend) . Choose one of your traits representing your martial training; when defending with Fight, your minimum effort is equal to the chosen trait’s rating. ",
+    "url": "/rpg-thingy/talents/fight.html#vigor-specializations",
+    "relUrl": "/talents/fight.html#vigor-specializations"
+  },"64": {
+    "doc": "Fight Talents",
+    "title": "Intuition Specializations",
+    "content": "Battle Master . You may act twice during your turn in Fight conflicts. Pack Tactics . When attacking as a group with Intuition, your allies do not increase the difficulty and not add extra dice for your opponent(s). ",
+    "url": "/rpg-thingy/talents/fight.html#intuition-specializations",
+    "relUrl": "/talents/fight.html#intuition-specializations"
+  },"65": {
+    "doc": "Fight Talents",
+    "title": "Reason Specializations",
+    "content": "Peace of Mind . Mental conditions no longer hinder your attacks. At the beginning of a Fight conflict, if you suffer from a mental condition, you may gain an enduring Battle Trance boon with rating equal to the condition’s rating. Marksman . When attacking with Fight and using the Reason dice modifier, you may choose which dice to re-roll instead of re-rolling all at once. Martial Artist (Attack) . Choose one of your traits representing your martial training; when attacking with Fight, your minimum effort is equal to the chosen trait’s rating. ",
+    "url": "/rpg-thingy/talents/fight.html#reason-specializations",
+    "relUrl": "/talents/fight.html#reason-specializations"
+  },"66": {
+    "doc": "Fight Talents",
+    "title": "Fight Talents",
+    "content": " ",
+    "url": "/rpg-thingy/talents/fight.html",
+    "relUrl": "/talents/fight.html"
+  },"67": {
+    "doc": "GM Tools",
+    "title": "GM Tools",
+    "content": " ",
+    "url": "/rpg-thingy/gm-tools/",
+    "relUrl": "/gm-tools/"
+  },"68": {
+    "doc": "Playing the Game",
+    "title": "Playing the Game",
+    "content": " ",
+    "url": "/rpg-thingy/playing-the-game/",
+    "relUrl": "/playing-the-game/"
+  },"69": {
+    "doc": "Character",
+    "title": "The Heart of rpg-thingy",
+    "content": "People are the very heart of this roleplaying game. Their struggles, their virtues, their faults, and their relationships; in short: stories. There are also battles, monsters, intrigue, and treasure, but they only matter in their relation to people. Who would care about a monster that scares no one, who about a treasure that no one wants, who about a throne in a kingdom without people? . Your character is one of these people, but they matter more than any of the others because through them, you influence the world. But in a way, they are also how you experience the fictional world. A world that is dangerous, awe-inspiring, and full of people who are convinced just as you are that they are the hero of this (or at least their) story. Though you actually are the hero of this story. And that is no light responsibility to bear. They — and, by proxy, you — are the heart of all the drama. To you, there is no monsters more important than the one that most scare your character and no treasure more precious than the one they covet most. So your characters needs something to care about, something that motivates them to put themselves in harm’s way. And they need something to terrify them, something they dare not even look at for there seems no way to overcome it. rpg-thingy calls these the Truth and the Lie your character believes. A lie they must grow to face and a truth to keep them pressing on, to forge a story wroth remembering. And who knows, perhaps we might even grow a little with them. ",
+    "url": "/rpg-thingy/character/#the-heart-of-rpg-thingy",
+    "relUrl": "/character/#the-heart-of-rpg-thingy"
+  },"70": {
+    "doc": "Character",
+    "title": "The Truth",
+    "content": "The Truth your characters believes in is an objectively true fact about your character. You can either phrase it as a statement… . The traitor who killed my father must die. The honour of my family will endure. …or as a quote your character might regularly think, say, or embody. “Every one of my friends can rely on me through hell.” . “BY THE POWER OF GRAYSKULL, I HAVE THE POWER!” . The sign of a good Truth is that whenever you find yourself in a tricky situation or unsure what to do next, you can look at your character sheet, and it nudges you into the right direction. The Truth you formulate for your character is incredibly useful for your fellow players. It tells everyone at the table what you want to do with your character. If part of your belief is that your character is the \"Patriarch of the Goldwyn family\", then that is not up to question. The Truth encompasses what your character excels at and who they truly are. ",
+    "url": "/rpg-thingy/character/#the-truth",
+    "relUrl": "/character/#the-truth"
+  },"71": {
+    "doc": "Character",
+    "title": "The Lie",
+    "content": "Just like the Truth your character believes in, you can phrase the Lie your they believe either as a statement about them or as something they regularly think or say, though the Lie is not objectively true. To be more precise, it comes in two different flavors: . A conviction your character believes to be true, wittingly or unwittingly, though it is a delusion, a self-deception or misjudgement about their surroundings that you, as a player, know to be incorrect. The central questions such a Lie poses are: How will the character learn? What will it take? Where will it take? Will they find the courage to face the truth when push comes to shove? . I owe the Order of the Silver Falcon my life. There is no nobler goal than to give my life to repay my debt. I have left my life as a mercenary behind me. Is now a well-adjusted, productive member of society. A conjecture about your character that might or might not be true. Neither your character nor you know if it true or not. A Lie that is a conjecture is often possibly true and the character’s journey will consist of them proving that they were right to believe so from the start or learn the hard way that they were mistaken. The central question such a Lie poses is: Is this true? . “I am not worthy to inherit my master’s workshop.” . “The traitor who killed my father must die.” . As you can see, the same phrase can be used either as a Truth or a Lie, though its meaning drastically shifts. As a Truth, \"The traitor who killed my father must die.\" is a goal your character has that they will either fulfill or die trying. As a Lie, it is meant to be challenged as the story progresses. Does he indeed deserve to die? What did my father do that he was betrayed and murdered? Am I at fault for my father’s death? These are all questions that only result from Lies, for they are meant to be challenged, not from Truths. ",
+    "url": "/rpg-thingy/character/#the-lie",
+    "relUrl": "/character/#the-lie"
+  },"72": {
+    "doc": "Character",
+    "title": "Playing out the Story",
+    "content": "In a way, the Lie is a lot more central to your character’s story but the Truth is just as important, for it is what will drive them to press on when everything else tells them to give in. Though it is implied that a Lie is always successfully challenged in the course of your character’s story, so they may change for the better, it is totally legitimate to go on a lengthy journey only for your character to double down on his delusions, to refuse to face the Lie. Naturally, there will be no true happy end for such a character but that does not mean that the end to their story can not be fascinating and satisfying in its own way. ",
+    "url": "/rpg-thingy/character/#playing-out-the-story",
+    "relUrl": "/character/#playing-out-the-story"
+  },"73": {
+    "doc": "Character",
+    "title": "Goals",
+    "content": "At the start of each session, choose a goal for your character to achieve during that session. Try to include what you want to achieve as well as a rough idea of how and why your character is eager to complete that goal. At the end of each session, if you have achieved your goal, mark 1 XP for any of your skills. ",
+    "url": "/rpg-thingy/character/#goals",
+    "relUrl": "/character/#goals"
+  },"74": {
+    "doc": "Character",
+    "title": "Favor",
+    "content": "Favor is a meta-currency you can spend to influence your dice rolls, tilt luck in your favor, bite through the pain, or sometimes even fuel powerful magic. Depending on your character, it might represent how much lady luck smiles upon you, the good graces of the higher forces you hold sacred, or your iron will and determination. Whenever the Truth or Lie really come out through how you roleplay your character or through the drama that results from your choices, you earn 1 Favor for your character. ",
+    "url": "/rpg-thingy/character/#favor",
+    "relUrl": "/character/#favor"
+  },"75": {
+    "doc": "Character",
+    "title": "Character",
+    "content": " ",
+    "url": "/rpg-thingy/character/",
+    "relUrl": "/character/"
+  },"76": {
+    "doc": "Gear",
+    "title": "Gear",
+    "content": "Gear Assets are more specific versions of general assets. They work just like normal assets but have additional properties. These properties are only for their corresponding skill Conflicts, only when the asset is used on a skill test to gain minimum effort. An asset’s properties can only be used as long as it has a quality rating of at least 1. Some assets may be only specifically be used to attack or defend. If they are used for minimum effort to attack or defend but weren’t meant to do so, it is treated as an Off-Label Use. Whether an asset is used to attack is signified by a 🗡 and by a 🛡 if it is meant to defend. Sometimes a different skill is listed, such as a Longbow is used to for Maneuver during Fight conflicts. If there is no additional information given, the gear asset is neither meant to attack nor defend, though it may, of course, still be used for that as an off-label use. Outside of conflicts, gear assets may be used on skill tests regardless if they were meant for attacking or defending as long as it makes sense in the narrative. Gear assets will become significantly more powerful when they are masterpieces, as you may use their abilities more often without degrading the asset. Gear assets list a specific resource required to both create and improve them. When spending resources to craft while resting, at least one of them needs to be the listed resource for you to attempt the test. Some gear asset list an additional resource. You need one of each resource to create or improve the asset. In addition, if an additional resource is listed, it increases the number of resources required for any Craft tests by 1. This does not increase the crafting test’s difficulty, though this does increase the difficulty of tests to buy and sell the gear asset. Rarely, gear assets require another masterpiece quality gear asset to be created. The difficulty for the test to create the new asset is the required asset’s masterpiece rating, which is lost in the process (on either success or failure). If the test was successful, the desired gear asset is created and rating for the newly created asset is the required asset’s masterpiece rating. After being created, the asset can be improved like any other asset. When buying and selling such an asset, its quality rating is considered to be doubled. A gear asset may have a trait called Exquisite. This trait is relevant for Influence, Craft, and Resource tests, concerning the asset itself. Meaning an asset’s Exquisite trait will increase the difficulty to create, improve, and buy it. Though it may also be invoked in social situations. Additionally, increase your effort by 1 when selling and Exquisite asset. A gear asset may also have a property called Fortified. A Fortified asset’s masterpiece rating is equal to its full quality rating, even outside of conflicts. At the top of each category of gear, there is also generic variant without properties. They do not require specific resources to be crafted as they are simply normal assets. Of course, they are still associated with an attribute, just like any other asset. Use these for, for example, improvised weapons or instead of its lengthy list of gear entirely. Why use Gear? . You can play rpg-thingy without gear entirely, as assets are an already useful abstractions. If you use gear, you should use them for the purpose for which I designed them: . | To add meaningful choices to conflicts | Because I think they’re neat | . So if, for example, your game does not have a lot of Fight conflicts, gear adds little meaningful choice and may be neglected. Or simply use them cause you think they’re neat. ",
+    "url": "/rpg-thingy/gear/",
+    "relUrl": "/gear/"
+  },"77": {
+    "doc": "Talents",
+    "title": "Talents",
+    "content": "Talents are special abilities you can unlock for your character’s skills. There are two categories of talents: Feats and Specializations. Feats enhance your character’s ability or slightly bend the rules. Specializations grant you new abilities or completely change the rules for your character. Whenever you leve up a skill, you gain a talent. In most cases you gain a Feat, but if your skill training improves with that level up, you gain a Specialization instead. Each talent is associated with one of the three attributes, Vigor, Intuition, or Reason. For each skill, you may at most have 2 Feats which belong to same attribute, and you may only have 1 Specialization which belongs to each attribute. ",
+    "url": "/rpg-thingy/talents/",
+    "relUrl": "/talents/"
+  },"78": {
+    "doc": "Home",
+    "title": "How to Play",
+    "content": "rpg-thingy is a Pen &amp; Paper RPG. To play, you need pen, paper, a handful six-sided dice (d6), one player to assume the role of Game Master (GM) and 1-5 additional players who are each responsible for one Player Character (PC). Pictured: me writing rules about imagining fighting monsters in a fictional world. PCs exist in a fictional world in which they act, struggle, and succeed. The players’ role is to bring their PC to life and the GM’s responsibility is to breath life into the rest of this fictional world with descriptions, challenges, and Non-Player Characters (NPCs). The PCs interact with the situation and the world presented by the GM by asking questions and narrating what they would like their characters to accomplish and how they would like to do so until the outcome of an action is no longer certain and the group consults the dice (see Consulting the Dice). ",
+    "url": "/rpg-thingy/#how-to-play",
+    "relUrl": "/#how-to-play"
+  },"79": {
+    "doc": "Home",
+    "title": "Characters in rpg-thingy",
+    "content": "To play a Player Character (PC) in rpg-thingy means to toke on the mantle of fictional character. You make choices on behalf of that fictional character. Choices that will put your character in danger, choices that will protect them from harm but never choices that take them out of trouble. \"You enter the forest at the darkest point, where there is no path.\" — Joseph Campbell Characters in rpg-thingy heroes and heroes come in many forms. They can be valiant adventurers, daring scoundrels, wise sages, knights in shining armor, thrifty merchants, cunning diplomats, stoic smiths, disciplined spies, or even kindly bakers. They are people with goals who are competent in their area of expertise, but they cannot be competent at everything. It is inevitable that they will fail but characters in rpg-thingy shy away from such challenges. Failure is the best teacher, so they say. Part of the fun of playing a character in rpg-thingy is watching them succeed at what they excel and even more when they do so on nothing but naked luck. But most of the fun is watching them grow with their challenges, to be in their head as they surmount difficult challenges and face their demons. Be that literal demons, a missing leg, a domineering ego, or a fear of public speaking. This is what makes them heroes in the end. Not the number of monsters they slay, not the hoards of treasure they find, or the songs that are sung about them, but that they face the challenges that scare them the most. At their core, characters in rpg-thingy believe a truth that propels them forwards and a lie about the world or themselves that keeps them from achieving their full potential. They are emotional beings on an emotional journey to face that lie and this game is about that journey. And when it ends, they must find another dragon to slay, so to say, or they no longer qualify to be PCs, as they settle down, travel to distant lands, or perish. Either as better people because they faced their lie or worse for they fled when the abyss looked back into them. More about characters and how to create on in the chapter about Characters. ",
+    "url": "/rpg-thingy/#characters-in-rpg-thingy",
+    "relUrl": "/#characters-in-rpg-thingy"
+  },"80": {
+    "doc": "Home",
+    "title": "Consulting the Dice",
+    "content": "If you want to hit a baddie with your sword, bribe a guard, or try to walk across a tightrope, we might have a rough idea what is more likely to happen, but we cannot know for certain. It’s the moment we roll the dice to open a fleeting portal to the fictional world, so it may answer our questions. A fight is the classic situation where its outcome is anything but certain. When you consult the dice, the game calls it a Skill Test. rpg-thingy uses a d6 dice pool system. So whenever the game calls for dice to be rolled, roll a handful of six-sided dice. Each die can either be a hit or a miss, depending on if its face shows at least a certain number. All hits counted together are called Effort. Achieving more Effort is always better. A test has a difficulty, a number that defines how much Effort it takes to succeed on the test, otherwise the test is a failure. There are no tests without consequences. No matter if you succeed on a test or fail it, you will either get what you want or suffer a setback. Either way, after a test both the narrative and your character make progress, either by achieving your goal or by growing with your failures. As mentioned above, the dice are consulted when the outcome of an action is uncertain. Skill Tests and the Certainty of Actions are discussed in more detail in their respective chapter. ",
+    "url": "/rpg-thingy/#consulting-the-dice",
+    "relUrl": "/#consulting-the-dice"
+  },"81": {
+    "doc": "Home",
+    "title": "The 5 Pillars",
+    "content": "The following pages will provide more detailed rules on how rpg-thingy works, though, in short, it tries to achieve a certain vision of how a game of rpg-thingy looks like. All rules decisions aim to contribute to achieve that vision, and they all rest on the following 5 pillars representing ideals to which rpg-thingy strives to adhere. Agency . | There are no actions without consequences | Choose your own path and leave your mark on the world | Be creative with the tools you have | . Exploration . | There are secrets hidden everywhere | Venturing into dangerous parts of the world yields the biggest rewards | There is nothing more powerful than paying attention and asking questions | . Strategy . | Always consider what you want to accomplish next and how to tackle it | There is always a goal to achieve or a wound to mend | Face challenges and enemies as attentive and well-prepared as you can | . Heroism . | There is no greater act of heroism than facing what you are most afraid of | Find what your character treasures and protect it | Shine a bright beacon into the vast unknown | . Growth . | The world will fade to darkness without your light, so kindle it | Do no shy away from challenges and grow with them instead | Live not to destroy but to build and improve | . ",
+    "url": "/rpg-thingy/#the-5-pillars",
+    "relUrl": "/#the-5-pillars"
+  },"82": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/rpg-thingy/",
+    "relUrl": "/"
+  },"83": {
+    "doc": "Influence Gear",
+    "title": "Influence Gear",
+    "content": "| Gear | Use | Properties | Resources | . | Finery | 🛡 Vigor | - | Precious | . |   |   |   |   | . | Finery | 🛡 Vigor | - | Precious | . ",
+    "url": "/rpg-thingy/gear/influence.html",
+    "relUrl": "/gear/influence.html"
+  },"84": {
+    "doc": "Influence Talents",
+    "title": "Vigor Feats",
+    "content": "Stubborn . As long as you have rolled at least one 6, your opponent’s disposition cannot make you struggle to defend with Vigor. ",
+    "url": "/rpg-thingy/talents/influence.html#vigor-feats",
+    "relUrl": "/talents/influence.html#vigor-feats"
+  },"85": {
+    "doc": "Influence Talents",
+    "title": "Intuition Feats",
+    "content": "Dazzling Elegance . As long as you do not have any conditions, you get 1 additional die on all your rolls. Web of Lies . When creating a boon from excess successes from a test wit Insight and Intuition, if you lied or manipulated, you gain an assets with rating equal to your margin of effort instead of a boon. ",
+    "url": "/rpg-thingy/talents/influence.html#intuition-feats",
+    "relUrl": "/talents/influence.html#intuition-feats"
+  },"86": {
+    "doc": "Influence Talents",
+    "title": "Reason Feats",
+    "content": "Stoic . When recovering from your own conditions, you do not increase the difficulty by 1. ",
+    "url": "/rpg-thingy/talents/influence.html#reason-feats",
+    "relUrl": "/talents/influence.html#reason-feats"
+  },"87": {
+    "doc": "Influence Talents",
+    "title": "Vigor Specializations",
+    "content": " ",
+    "url": "/rpg-thingy/talents/influence.html#vigor-specializations",
+    "relUrl": "/talents/influence.html#vigor-specializations"
+  },"88": {
+    "doc": "Influence Talents",
+    "title": "Intuition Specializations",
+    "content": "Dreamer . During a rest, you may spend resources to gain an enduring boon with rating equal to the resources spent representing a prophetic dream you had while resting. Consult with the GM concerning the nature of the dream. The boon may be used with any skill and any attribute but only in the context or with the subject of your dream. Empath . While resting, you and everyone resting with you may add 1 die when testing to mend mental conditions. Additionally, the number of resources required to gain a Well Rested boon is reduced by 1 for everyone resting with you. ",
+    "url": "/rpg-thingy/talents/influence.html#intuition-specializations",
+    "relUrl": "/talents/influence.html#intuition-specializations"
+  },"89": {
+    "doc": "Influence Talents",
+    "title": "Reason Specializations",
+    "content": "Know Thyself . When an opponent uses one of your traits against you, you may also add the trait’s rating as dice to your roll. Iron Will . Reduce all mental stress you take by 1. ",
+    "url": "/rpg-thingy/talents/influence.html#reason-specializations",
+    "relUrl": "/talents/influence.html#reason-specializations"
+  },"90": {
+    "doc": "Influence Talents",
+    "title": "Influence Talents",
+    "content": " ",
+    "url": "/rpg-thingy/talents/influence.html",
+    "relUrl": "/talents/influence.html"
+  },"91": {
+    "doc": "Interacting with Traits",
+    "title": "Environmental Traits",
+    "content": "Your character is not the only one to have traits. Others characters also have traits of their own (see Contests) and so does the environment itself, and you may use them to your advantage. There are always plentiful traits on your surroundings. Finding them is the easy part, making use of them requires a varying amount of creativity, depending on the circumstances. If it’s a Sunny Day, then that is a trait on the scene, so is a Lively Atmosphere, Pouring Rain, Thick Forest, and Treacherous Swamps. Most environmental traits are implied by the GM’s description of the scene but some may be stated outright or created by a PC or NPC. Unless stated otherwise by the GM, all environmental traits have a rating of 1. traits with rating 2 and 3 exist, but they are exceedingly rare. When you test a skill, you may invoke 1 environmental trait which is known to you by describing how you would leverage that trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll. You may only invoke a single environmental trait per test. If there are multiple fitting environmental traits, you may only choose 1 of them. Once you have invoked an environmental trait during a scene, you may do so until the scene ends or the scene changes so that your previous description would no longer grant you an advantage without having to go into detail how you would leverage that trait to your advantage. Maro is infiltrating an enemy outpost in the dark of night. The group agrees that he may invoke the implied Moonless Night trait on the scene to gain 1 additional die when sneaking past the guards. As long as it remains night, he may add 1 additional die to his infiltration attempts. ",
+    "url": "/rpg-thingy/playing-the-game/interacting-with-traits.html#environmental-traits",
+    "relUrl": "/playing-the-game/interacting-with-traits.html#environmental-traits"
+  },"92": {
+    "doc": "Interacting with Traits",
+    "title": "Discovering Traits",
+    "content": "If you have a trait, openly known traits of places, creatures, or people connected to your area of expertise. You may ask the GM for this at any time, and you are invited to enrich the world with your descriptions of your character’s experience any time you see fit. During their last adventure, Mare and Cyrene have crossed path with the robber king of Gantha and Maro got swept up in his character’s past and now this robber king spells quite a bit of trouble. Though, as an Exiled Sellsword of Gantha, there is for sure something Maro knows about this robber king that might aid them in their struggle. Depending on the rating of your trait, different kinds of information are available to you of all places, creatures, or people connected to the trait: . | Rating 1+: All obvious traits; their best attribute and how it compares to your own (about equal, lesser, greater, less than half, or more than double); their three best skills and if they are better trained than you, equal, or worse. | Rating 2+: Their lowest rated hidden trait; their worst attribute; their disposition. | Rating 3+: Their highest rated hidden trait; all their attributes and skills. | . As Maro’s trait Exiled Sellsword of Gantha has a rating of 2, he knows of the robber king’s best attribute is Reason and that it is quite a lot higher than Maro’s. Fortunately, he also learns of the robber king’s lowest rated secret trait Only goes out at Night which has a rating of 1. It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see Research). ",
+    "url": "/rpg-thingy/playing-the-game/interacting-with-traits.html#discovering-traits",
+    "relUrl": "/playing-the-game/interacting-with-traits.html#discovering-traits"
+  },"93": {
+    "doc": "Interacting with Traits",
+    "title": "Creating Traits",
+    "content": "Alternatively, you may also suggest a new traits for a place, a creature, or a person connected to one of your own traits as long as the table agrees with your suggestion. Often, the GM will like your suggestion and add the trait (or a variation of it) on their own volition with the rating of their choosing as a new trait. Alternatively, if the new trait is a fitting and creative idea but would be a little too convenient for your current predicament, the GM may ask you to spend 1 Favor to create the new trait on the place, creature, or person with rating up to the rating of your own trait. ",
+    "url": "/rpg-thingy/playing-the-game/interacting-with-traits.html#creating-traits",
+    "relUrl": "/playing-the-game/interacting-with-traits.html#creating-traits"
+  },"94": {
+    "doc": "Interacting with Traits",
+    "title": "Interacting with Traits",
+    "content": " ",
+    "url": "/rpg-thingy/playing-the-game/interacting-with-traits.html",
+    "relUrl": "/playing-the-game/interacting-with-traits.html"
+  },"95": {
+    "doc": "Maneuver Gear",
+    "title": "Maneuver Gear",
+    "content": "| Name | Use | Properties | Resources | . | Climbing Gear | 🗡 Intuition |   |   | . | Draft Horse/Mule | 🗡 Vigor |   |   | . | Riding Horse | 🛡 Intuition |   |   | . | Warhorse | 🗡 🛡 Vigor |   |   | . | Warhorse: When attacking with a weapon with the Reach property, it also gains the Versatile property for that attack | . ",
+    "url": "/rpg-thingy/gear/maneuver.html",
+    "relUrl": "/gear/maneuver.html"
+  },"96": {
+    "doc": "Maneuver Talents",
+    "title": "Vigor Feats",
+    "content": "Bull Charge . When testing Maneuver with Vigor, all attributes but Vigor must defend perfectly against you. ",
+    "url": "/rpg-thingy/talents/maneuver.html#vigor-feats",
+    "relUrl": "/talents/maneuver.html#vigor-feats"
+  },"97": {
+    "doc": "Maneuver Talents",
+    "title": "Intuition Feats",
+    "content": "Forerunner . During contests, ties also count as successes for you. During conflicts, you inflict 1 damage to your opponent’s morale on ties. These benefits do not work should your opponent also have this talent. Untouchable Grace . When you would gain physical stress while defending with Intuition, you may gain it as a mental stress instead. Slippery . Opponents can only create banes against you if you struggle to defend because of their disposition. ",
+    "url": "/rpg-thingy/talents/maneuver.html#intuition-feats",
+    "relUrl": "/talents/maneuver.html#intuition-feats"
+  },"98": {
+    "doc": "Maneuver Talents",
+    "title": "Reason Feats",
+    "content": "Eagle Eye . All attributes but Reason must perfectly defend against your Maneuver with Reason. Practiced . When you create a boon or bane from excess successes from attacking or defending, increase its rating by 1. ",
+    "url": "/rpg-thingy/talents/maneuver.html#reason-feats",
+    "relUrl": "/talents/maneuver.html#reason-feats"
+  },"99": {
+    "doc": "Maneuver Talents",
+    "title": "Vigor Specializations",
+    "content": "Athlete . When testing Maneuver with Vigor, you may choose which dice modifier to use for the roll. Body of Steel . Whenever you take 3 or less physical stress, reduce it to 1. ",
+    "url": "/rpg-thingy/talents/maneuver.html#vigor-specializations",
+    "relUrl": "/talents/maneuver.html#vigor-specializations"
+  },"100": {
+    "doc": "Maneuver Talents",
+    "title": "Intuition Specializations",
+    "content": "Opportunist . When using an opponent’s trait or condition, increase its rating by 1 for the test. Reversal of Fortune . You may spend 1 Favor to exchange rolls with a willing ally or an opponent rolling at the same time. ",
+    "url": "/rpg-thingy/talents/maneuver.html#intuition-specializations",
+    "relUrl": "/talents/maneuver.html#intuition-specializations"
+  },"101": {
+    "doc": "Maneuver Talents",
+    "title": "Reason Specializations",
+    "content": "Superior Strategist . When positioning for conflicts with Maneuver, double your effort. One Step Ahead . Your Maneuver assets only degrade when you do not succeed on the test. ",
+    "url": "/rpg-thingy/talents/maneuver.html#reason-specializations",
+    "relUrl": "/talents/maneuver.html#reason-specializations"
+  },"102": {
+    "doc": "Maneuver Talents",
+    "title": "Maneuver Talents",
+    "content": " ",
+    "url": "/rpg-thingy/talents/maneuver.html",
+    "relUrl": "/talents/maneuver.html"
+  },"103": {
+    "doc": "Means Gear",
+    "title": "Means Gear",
+    "content": " ",
+    "url": "/rpg-thingy/gear/means.html",
+    "relUrl": "/gear/means.html"
+  },"104": {
+    "doc": "Means Talents",
+    "title": "Vigor Feats",
+    "content": " ",
+    "url": "/rpg-thingy/talents/means.html#vigor-feats",
+    "relUrl": "/talents/means.html#vigor-feats"
+  },"105": {
+    "doc": "Means Talents",
+    "title": "Intuition Feats",
+    "content": "Peddler . When resting in the wilderness, you may buy and sell assets with Means as if you were resting in a settlement. ",
+    "url": "/rpg-thingy/talents/means.html#intuition-feats",
+    "relUrl": "/talents/means.html#intuition-feats"
+  },"106": {
+    "doc": "Means Talents",
+    "title": "Reason Feats",
+    "content": "Bookworm . Add 1 effort when researching traits. Deep Pockets . Increase the number of assets you can carry by 3. ",
+    "url": "/rpg-thingy/talents/means.html#reason-feats",
+    "relUrl": "/talents/means.html#reason-feats"
+  },"107": {
+    "doc": "Means Talents",
+    "title": "Vigor Specializations",
+    "content": "Indomitable . Whenever you fail to defend during a conflict, you gain a boon with rating equal to your opponent’s margin of effort. Resourceful . If you roll a 6 on a test, one asset of your choice you used on that test does not degrade. One Step Ahead . You may ignore the first 3 stress (of any kind) during conflicts. ",
+    "url": "/rpg-thingy/talents/means.html#vigor-specializations",
+    "relUrl": "/talents/means.html#vigor-specializations"
+  },"108": {
+    "doc": "Means Talents",
+    "title": "Intuition Specializations",
+    "content": "Cosmopolitan . Whenever you take social stress, you may inflict 1 social stress on your attackers. ",
+    "url": "/rpg-thingy/talents/means.html#intuition-specializations",
+    "relUrl": "/talents/means.html#intuition-specializations"
+  },"109": {
+    "doc": "Means Talents",
+    "title": "Reason Specializations",
+    "content": " ",
+    "url": "/rpg-thingy/talents/means.html#reason-specializations",
+    "relUrl": "/talents/means.html#reason-specializations"
+  },"110": {
+    "doc": "Means Talents",
+    "title": "Means Talents",
+    "content": " ",
+    "url": "/rpg-thingy/talents/means.html",
+    "relUrl": "/talents/means.html"
+  },"111": {
+    "doc": "Resting",
+    "title": "Resting",
+    "content": "To rest, either test Means for Downtime if you are in a settlement, or test Wilderness to Make Camp if are beyond the borders of civilization. Anyone resting with you may also test the appropriate Skill. Everyone, who has chosen the same skill and attribute, tests as a group. If you are resting in a town, you will most likely get bonus dice for your rest roll (see Supply Rating). You may use Assets as usual, especially rations. You gain a number of Resources equal to the effort you achieve during the resting test. They symbolize the means you have at your disposal and the time you have available for this rest before your shelter is exposed, before your allocated supplies run out and your rest ends. You may share resources with anyone else you are resting with as you please. Depending on the attribute you tested with, the resources will be of a different type. | Vigor | Intuition | Reason | . | Sturdy resources | Supple resources | Precious resources | . When you attempt a skill test while resting, you must spend resources equal to the test’s difficultly to attempt it. If you do not have enough resources, you cannot attempt it. Most tests may use any type of material but some tests such as Crafting require specific resources. You may end a rest at any point. Any unspent resources you have at the end of a rest are lost. While resting, you have access to a number of special skill tests. ",
+    "url": "/rpg-thingy/playing-the-game/resting.html",
+    "relUrl": "/playing-the-game/resting.html"
+  },"112": {
+    "doc": "Resting",
+    "title": "Crafting",
+    "content": "You may create new asset and improve assets you already own as detailed in Crafting Assets in the chapter about assets. ",
+    "url": "/rpg-thingy/playing-the-game/resting.html#crafting",
+    "relUrl": "/playing-the-game/resting.html#crafting"
+  },"113": {
+    "doc": "Resting",
+    "title": "Recovering",
+    "content": "You may mend physical and mental conditions afflicting you or someone resting with you. You can mitigate a major condition to a moderate condition by succeeding on a difficulty 3 test. When you succeed, clear the 3 stress box in the condition’s slot and rename the condition to reflect its mitigated severity. You can mitigate a moderate condition to a minor condition by succeeding on a difficulty 2 test. When you succeed, clear both 2 stress boxes in the condition’s slot and rename the condition to reflect its mitigated severity. You can mend a minor condition by succeeding on a difficulty 1 test. When you succeed, clear all 1 stress box in the condition’s slot and remove the condition from its slot. Mending one of your own conditions increases the difficulty of the test by 1. If you all your condition slots are empty, you may spend resources to gain a Well Rested enduring Boon. This boon lasts across scenes, until it vanishes, or until you rest again, whichever happens first. | Well Rested Boon Rating | Resources Required | . | 1 | 1 | . | 2 | 3 | . | 3 | 6 | . | 4 | 10 | . | 5 | 15 | . | … | … | . ",
+    "url": "/rpg-thingy/playing-the-game/resting.html#recovering",
+    "relUrl": "/playing-the-game/resting.html#recovering"
+  },"114": {
+    "doc": "Resting",
+    "title": "Practice",
+    "content": "You may practice one of your skills while resting by testing that skill and potentially gain XP for that skill. The difficulty for the test is equal to half your current level in the skill, rounded down, plus the amount of XP needed to level it up. So if you want to train Wilderness, are already level 3 in it and have marked 7 XP, the difficulty for the training test to gain 1 XP is 4 (1 from your current level plus 3 from missing XP). If you have no XP marked and/or are already highly trained in a skill, practicing becomes practically impossible. You may invoke a trait of an instruction manual you possess, of a training area you have access to, or of a tutor for this test. If you succeed on the test, you mark 1 XP for the skill. Otherwise, you do not, but you also do not suffer any other negative consequences. As with any test, you may also test as a group, though only one of you will gain XP. ",
+    "url": "/rpg-thingy/playing-the-game/resting.html#practice",
+    "relUrl": "/playing-the-game/resting.html#practice"
+  },"115": {
+    "doc": "Resting",
+    "title": "Weather-Watching",
+    "content": "While resting, you may increase or decrease the rating of the current weather trait by 1, or alter the name of the current weather trait (within reason). To do so, test Wilderness with Intuition. The difficulty for the test is the rating of the current weather trait. If you fail, the GM may increase or decrease the rating of the current weather trade or rename it to introduce a complication. You may watch the weather any number of times per rest. ",
+    "url": "/rpg-thingy/playing-the-game/resting.html#weather-watching",
+    "relUrl": "/playing-the-game/resting.html#weather-watching"
+  },"116": {
+    "doc": "Resting",
+    "title": "Making Camp",
+    "content": "While resting in the wilderness, you have access to some additional, special skill tests. ",
+    "url": "/rpg-thingy/playing-the-game/resting.html#making-camp",
+    "relUrl": "/playing-the-game/resting.html#making-camp"
+  },"117": {
+    "doc": "Resting",
+    "title": "Foraging",
+    "content": "You may forage in the wild by testing Wilderness. Choose a difficulty for the foraging test. ",
+    "url": "/rpg-thingy/playing-the-game/resting.html#foraging",
+    "relUrl": "/playing-the-game/resting.html#foraging"
+  },"118": {
+    "doc": "Resting",
+    "title": "Downtime",
+    "content": "While resting a settlement, you have access to some additional, special skill tests. ",
+    "url": "/rpg-thingy/playing-the-game/resting.html#downtime",
+    "relUrl": "/playing-the-game/resting.html#downtime"
+  },"119": {
+    "doc": "Resting",
+    "title": "Recovering in Settlements",
+    "content": "While resting in a settlement, you may mend social conditions afflicting you or someone resting with you (just like you would physical or mental conditions). ",
+    "url": "/rpg-thingy/playing-the-game/resting.html#recovering-in-settlements",
+    "relUrl": "/playing-the-game/resting.html#recovering-in-settlements"
+  },"120": {
+    "doc": "Resting",
+    "title": "Buying",
+    "content": "You may buy assets in settlements by testing Means. Choose a quality rating for the asset you would like to buy. Not all quality rating may be available everywhere, often quality rating above a town’s Supply Rating cannot be found. If you succeed, you gain the asset with the chosen quality rating. Otherwise, if you achieved at least 1 effort, you gain an asset with rating 1. | Quality Rating | Difficulty | . | 1 | 1 | . | 2 | 3 | . | 3 | 5 | . | 4 | 7 | . | 5 | 9 | . | … | … | . ",
+    "url": "/rpg-thingy/playing-the-game/resting.html#buying",
+    "relUrl": "/playing-the-game/resting.html#buying"
+  },"121": {
+    "doc": "Resting",
+    "title": "Selling",
+    "content": "You may sell an asset you own by testing Means. Discard any hits exceeding the asset’s quality rating. The achieved effort is the offer you get in your current rest location. You may accept that offer or decline it. Either way, the resources to attempt to sell the asset are spent. If you accept, you gain a Currency asset for Means of the local currency with rating equal to the effort you achieved and lose the chosen asset. ",
+    "url": "/rpg-thingy/playing-the-game/resting.html#selling",
+    "relUrl": "/playing-the-game/resting.html#selling"
+  },"122": {
+    "doc": "Resting",
+    "title": "Working",
+    "content": "You may spend your time working while resting in a settlement. Choose a skill and a difficulty for your work (not all type of work may be available everywhere). If you succeed, you gain a Currency asset for Means of the local currency with rating equal to the chosen difficulty. Otherwise, if you achieved at least 1 effort, you gain a Currency asset with rating 1. ",
+    "url": "/rpg-thingy/playing-the-game/resting.html#working",
+    "relUrl": "/playing-the-game/resting.html#working"
+  },"123": {
+    "doc": "Resting",
+    "title": "Research",
+    "content": "You may spend your time brawling in taverns, visiting shady meetings, or among scrolls and tomes to learn more about a specific subject and its traits. Name the place, creature, or person you would like to know more about and test Means. For each of your subject’s hidden traits you already know, add 1 additional dice to your roll. You learn of your subject’s highest rated, hidden trait you do not already know with rating equal to or less the effort you achieved on your test. If your effort is greater than the subject’s highest rated hidden trait, you also learn that you know everything there is to know about your subject. A research roll may result in no new information if you do not achieve enough effort. Depending on what subject you would like to research, a different attribute is required. Vigor . | Recent and current events | Tall tales | Festivals and tournaments | News concerning nobility | . Intuition . | Living people | Gossip | Criminal activity | Culture and art | . Reason . | Dead people | Historic events | Creatures and monsters | Institutions, laws, and trade | . ",
+    "url": "/rpg-thingy/playing-the-game/resting.html#research",
+    "relUrl": "/playing-the-game/resting.html#research"
+  },"124": {
+    "doc": "Settlements",
+    "title": "Settlements",
+    "content": "There are few things nicer than arriving in town after a long journey through the countryside, a hot bath tub and a nice feathery bed waiting for you. Though these nice luxuries, of course, did not fall from the sky. To achieve this, towns, cities, villages, and castles can be abstracted with the asset system. ",
+    "url": "/rpg-thingy/gm-tools/settlements.html",
+    "relUrl": "/gm-tools/settlements.html"
+  },"125": {
+    "doc": "Settlements",
+    "title": "Supply Ratings",
+    "content": "As a general rule of thumb, the richer a town and the better its infrastructure, nicer it is to stay there. This rule of thumb is abstracted into a number that is called the supply rating of a settlement. The supply rating of a settlement is analog to the masterpiece rating of an ordinary asset. When a character rests in a town, they may add its supply rating as dice to their roll and their minimum effort on their test is equal to the town’s supply rating. Eyeballing It . If you simply need a quick number without much of the details: most towns in villages have a simple supply rating of 1. Harbor towns and cities have a supply rating of 2, and magnificently rich and capitols a supply rating of 3. Extremely lush forests or oases may also be given a supply rating when Making Camp. Though, rpg thingy has a system for building towns and their surroundings from the ground up to determine their supply rating using Assets to abstract structures. Why would I want to put effort into calculating the supply rating of a town when I can simply assign a number and be done with it? . In longer running campaigns, towns and cities will sometimes take on the role of characters. Mostly commonly that role will be Home. Home can be improved but Home can also be destroyed. Surely the mill being burned down by bandits will have some consequences for the town and its wealth. As GMs, we often flesh out these consequences in the narrative but this system aims to also offer a tool to easily flesh them out even more with reasonable mechanical weight by making use of the asset system. ",
+    "url": "/rpg-thingy/gm-tools/settlements.html#supply-ratings",
+    "relUrl": "/gm-tools/settlements.html#supply-ratings"
+  },"126": {
+    "doc": "Settlements",
+    "title": "Support Ratings",
+    "content": "Masterpieces to not degrade for simple tests with only obstacle 1. As assets can also be structures, this has helpful implications for building a coherent and interconnected world. When talking about structures, an asset’s masterpiece rating is called its support rating instead. A river parts the forest in two. Crossing it is an uncertain task. The difficulty to cross it is 1. A character could build a simple bridge across to cross. A bridge asset with rating 1 will help one person cross the river before collapsing (the river can still be crossed by succeeding on the difficulty 1 test without the help of the bridge). A bridge asset with rating 2 will help two people cross the river but a masterpiece bridge asset with rating 3 or higher does not degrade when used, as the difficulty against which it is used is only 1. The bridge has a quality rating of 3 and a support rating of 1 (it will still degrade when used on tests with difficulty higher than its support rating, for example an ox and cart crossing the river, which would be a difficulty 2 test). ",
+    "url": "/rpg-thingy/gm-tools/settlements.html#support-ratings",
+    "relUrl": "/gm-tools/settlements.html#support-ratings"
+  },"127": {
+    "doc": "Settlements",
+    "title": "Calculating Supply Rating",
+    "content": "Settlements are, almost by definition, where multiple structures with a support rating of at least 1 accumulate. Next to the bridge with a support rating of 1, a little town has formed around a magnificent mill asset with quality rating 5, so its support rating is 2. A settlement’s supply rating based on the surrounding assets and their support ratings. It is calculated just like a masterpiece/support rating. | Surrounding Support Ratings | Supply Rating | . | 1 | - | . | 2 | - | . | 3 | 1 | . | 4 | 1 | . | 5 | 2 | . | 6 | 2 | . | 7 | 3 | . | … | … | . The bridge and mill around the town have a combined support rating of 3, so the supply rating of the town is 1. When characters rest in the town, they add an extra die to their rest roll and their minimum effort for that test is also 1. Should the existing assets be improved and/or new supporting structures be built around the town, its supply rating would improve. Should the existing assets degrade or be destroyed, its supply rating would decrease. ",
+    "url": "/rpg-thingy/gm-tools/settlements.html#calculating-supply-rating",
+    "relUrl": "/gm-tools/settlements.html#calculating-supply-rating"
+  },"128": {
+    "doc": "Settlements",
+    "title": "Structures",
+    "content": "Calculating supply rating already is a very handy tool to give characters to the towns and cities characters will visit. In some cases, though, they demand even more detail. For these cases, you can use individual structures with their own support ratings. ",
+    "url": "/rpg-thingy/gm-tools/settlements.html#structures",
+    "relUrl": "/gm-tools/settlements.html#structures"
+  },"129": {
+    "doc": "Settlements",
+    "title": "Leisure Structures",
+    "content": "The most common example of structures to flesh out are leisure structures, which are relevant when characters are recovering while resting and which are always strongly associated with either a specific Attribute or condition type. They contribute their support rating to the settlement as normal, but their support rating may also be used to add dice to recovery tests made either with the corresponding attribute or for the corresponding condition type, just like you would add dice from a masterpiece asset. As such, when you use a support rating to add dice to your roll, your minimum effort for that test is equal to the structure’s support rating. Leisure structures might also allow for skills to be used for recovery tests other than normal. Per recovery test, only 1 leisure structure may contribute additional dice. Some examples for leisure structures are: . | A coliseum, which would be associated with Vigor and allow recovery tests to be made with Fight or Maneuver by participating in the coliseum for a thrilling display of martial prowess, simply enjoying the show, or training on the sparring grounds. | A palace garden, which would be associated with Intuition and allow recovery tests with Means or Wilderness by going for a serene stroll through the water gardens, washing the dirt off bruised flesh, or watching a reenactment. | An academy, which would be associated with Reason and allow recovery tests with Influence or Means by getting aid from a trained surgeon or banker, or spending some quiet time in the library. | A hospital, which would be associated with physical conditions and allow recovery tests with Influence or Means by acquiring medical care. | A theater, which would be associated with mental conditions and allow recovery tests with Maneuver or Craft by processing your troubles in drama. | A courthouse, which would be associated with social conditions and allow recovery tests with Influence or Fight by proving (or “proving”) your innocence. | . After a tumultuous journey, Maro arrives in the city of Artir, famed for its magnificent bathhouses. He could have made for a different town, but he wanted to return to exactly here. After dealing with cutthroats and turncloaks at every corner, taking stress left and right, he is exhausted beyond words. When he finally steps into the steamy halls, bliss finally returns to him. Because of the city’s respectable supply rating of 4, Maro achieved enough successes to possibly rid himself of all his conditions. Thankfully, he can use the bathhouse’s impressive support rating 3 to add 3 additional dice to his Intuition recovery tests and emerges condition-free, even with a Well Rested boon to boot. Should fate befall him again like this, he is sure to return. And should something threaten the splendid city of Artir, Maro will rush to aid without hesitation, to protect the city and her wonderful bathhouse. ",
+    "url": "/rpg-thingy/gm-tools/settlements.html#leisure-structures",
+    "relUrl": "/gm-tools/settlements.html#leisure-structures"
+  },"130": {
+    "doc": "Settlements",
+    "title": "Other Structures",
+    "content": " ",
+    "url": "/rpg-thingy/gm-tools/settlements.html#other-structures",
+    "relUrl": "/gm-tools/settlements.html#other-structures"
+  },"131": {
+    "doc": "Settlements",
+    "title": "Increasing the Scale",
+    "content": "Just like the supply rating is one level above support and masterpiece ratings, so can this system be extended to easily simulate even grander scales. For example can a barony be given a wealth rating based on the supply ratings of the towns and castles within, just like a duchy can be given an influence rating based on the baronies it contains, while the duchy is again part of a kingdom. Almost like a fractal, a kingdom asset is made of smaller assets, which are again made of even smaller assets. The asset system can also be used as a guidance of straining effects on settlements. Just like degradation of structures can negatively influence a town’s supply rating, so can a large host occupying it as it strains the settlement by using more than its supply rating, degrading the settlement asset in the process. ",
+    "url": "/rpg-thingy/gm-tools/settlements.html#increasing-the-scale",
+    "relUrl": "/gm-tools/settlements.html#increasing-the-scale"
+  },"132": {
+    "doc": "Skill Tests",
+    "title": "Certainty of Actions",
+    "content": "As mentioned previously, the dice are only consulted when the outcome of an action is not certain. When asking “Is the outcome of this action certain?”, the answer is found in three different places: opposition, character’s goal, and potential outcomes. In brief, if there is no ulterior goal to an action, there is plenty of time to accomplish it, there is no opposition from either the world or another character, and there are fewer than two interesting outcomes, then an action is certain. Either you get what you want or the action is impossible, and you must find another way. ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html#certainty-of-actions",
+    "relUrl": "/playing-the-game/skill-tests.html#certainty-of-actions"
+  },"133": {
+    "doc": "Skill Tests",
+    "title": "Opposition",
+    "content": "Most often an action is uncertain because either another character, a creature, or the environment is opposing you. \"See ya at poker next week, Jeremy.\" Hitting a baddie with your sword, bribing a guard, or walking across a tightrope are uncertain actions because you face opposition. The baddie does not want to be stabbed, the guard has a duty to fulfill, and the wind pulls at your clothes as if it wanted to drag you into the ravine. Most of the time this means either a character or the scene has a trait making the action you are trying to undertake uncertain. As described below, that trait’s rating will mark the difficulty for your test. On the other hand, if the baddie you want to hit with your sword is unconscious, asleep, or otherwise incapacitated, he cannot actively oppose your attempt to stab him and hence, there is no need to consult the dice; it is certain that you will hit. If it has been established that the guard you want to bribe is crooked, no roll is needed if the bribe is sufficient, as the guard has no qualms which would oppose your attempted bribe. Of course, if you do not know if the bribe is sufficient, or you do not know if you can spare the expense, consult the dice. Assets also can make otherwise uncertain actions certain. Crossing a gaping ravine becomes quite a lot simpler if there is a bridge across it. If it has not been maintained for a long time, though, the dice await. ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html#opposition",
+    "relUrl": "/playing-the-game/skill-tests.html#opposition"
+  },"134": {
+    "doc": "Skill Tests",
+    "title": "Character Goals",
+    "content": "A character’s goals also influence the certainty of actions. If you want to hit the training dummy to impress an onlooker, it may be certain that you will hit the dummy, but it is uncertain if the onlooker will be impressed, so you consult the dice. Stabbing a sleeping guard might be doable with certainty but doing so without alerting any of his fellow guards is by no means a certain task. ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html#character-goals",
+    "relUrl": "/playing-the-game/skill-tests.html#character-goals"
+  },"135": {
+    "doc": "Skill Tests",
+    "title": "Potential Outcomes",
+    "content": "Most importantly, if an action has only one (interesting) outcome, it is certain. While it is true that, at least in theory, a character could trip and fall down the stairs every time, both walking down and falling down the stairs are absolutely uninteresting, so the action is certain and simply happens. A test and the corresponding dice roll in rpg thingy should always move the narrative forward. If you find yourself at the same point after a test as you did before, the test was uninteresting and should not have been made. ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html#potential-outcomes",
+    "relUrl": "/playing-the-game/skill-tests.html#potential-outcomes"
+  },"136": {
+    "doc": "Skill Tests",
+    "title": "Improving with Failure",
+    "content": "When you fail a skill test, you do not get what you want, but you mark XP for the skill you used equal to the number of hits you rolled on that test (not the amount of effort you achieved, so using assets cannot gain you additional XP). Apart from completing goals, this is the only way go gain XP for your skills, though using your own traits to increase a test’s difficulty can result in more XP than you would get normally. ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html#improving-with-failure",
+    "relUrl": "/playing-the-game/skill-tests.html#improving-with-failure"
+  },"137": {
+    "doc": "Skill Tests",
+    "title": "Uncontested Tests",
+    "content": "Uncontested tests are the most basic form of test. When is a Test Uncontested? . | There is no other character or creature to directly or indirectly keep you from achieving your goal | Another character or creature tries to keep you from achieving your goal, but they do not have any other goals of their own | . Examples of Uncontested Tests . | Jumping a ravine | Haggling with a merchant | Forging a weapon | Quietly murdering a guard keeping watch | Buying a horse | . ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html#uncontested-tests",
+    "relUrl": "/playing-the-game/skill-tests.html#uncontested-tests"
+  },"138": {
+    "doc": "Skill Tests",
+    "title": "Resolving Uncontested Tests",
+    "content": "As mentioned above, most often uncontested tests result from an environmental trait that would noticeably hinder your effort or a character or creature with a trait that would noticeably hinder your effort opposing you. The trait’s rating is the test’s difficulty. A good ol' late-night mugging can be resolved with a single die roll. Should it ever be unclear what difficulty a test is supposed to be, it will most likely be 1; you only need to achieve 1 effort to succeed. If both an environmental and an opponent’s trait would notably hinder your efforts, add their ratings together to determine the test’s difficulty. Only add the rating of 1 environmental trait and/or 1 opponent’s trait to the difficulty of an uncontested test. When multiple would apply, choose the highest or most relevant. If the difficulty of an uncontested test ever exceeds 3, consider the characters’ goals to determine if a single die roll really is the best way to resolve the situation or if a more detailed conflict would be more appropriate. Consequences . It is vital that the story is never unchanged after a skill test, so when you fail an uncontested test, at least one of a few different things which will happen. In many cases the GM will introduce an interesting narrative consequence. Either you got what you wanted at a cost or something dramatic follows your failure. Alternatively, as it is hard to come up with interesting consequences for every test, you might take a Stress equal to the difference between the test’s difficulty and the effort you achieved (choose the Type of Stress depending on the situation and how you failed). If this causes you to take a new condition, name it something appropriate to represent your exhaustion, strain, or injury from your failure. The aim is to create a solid baseline for the flow of play. Cyrene wants to enter the sultan’s city but the gates are closed and will not open before sunrise. She decides to try her luck anyway. As she approaches the gate, she winks at the younger of the two guards. The skill is obvious in this scenario, she wants to Influence the guards to let her pass. Cyrene is trained at Influence, so for her every face of a 5 or higher is a success. For her Approach, she settles on Intuition. She is going with the flow, trying to draw something out of the guards to turn to her advantage. As her rating for Intuition is 5, she will roll 5 dice. The GM decides an uncontested test will suffice to convincing the guards to let Cyrene pass. The sultan’s city has the trait Under Martial Law with a rating of 2 so the difficulty for the test is also 2. The curfew turns an otherwise trivial task into a challenge. Cyrene throws her 5 dice. Two dice come up 1 and. As she chose Intuition as her Approach, she uses her trait Charming Stranger to re-roll those 1s. Her result now is 2, 3, 4, 4, 6. All dice which come up 5+ are hits for her, so she achieved 1 effort; not enough to succeed. The guards remain untouched by her charm, though one ogles the sword at her side. She came to the city to rest not exhaust herself even more, nor is she willing to give up her sword to gain entry, so she decides against powering through and . She marks 1 XP for the 1 effort she achieved, but now she must try another way to get into the city. She could try to frighten the guards into letting her pass, but with them already looking irritated and with her Vigor rating of 3, she fears this might go poorly for her and so decides against it. Let It Ride . If you fail a test, you may not repeat the test with the same skill and attribute again until something fundamentally changes about the situation. You may attempt a different attribute but the difficulty of the test might increase. You may always change your approach and use a different skill to achieve your goal a different way. ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html#resolving-uncontested-tests",
+    "relUrl": "/playing-the-game/skill-tests.html#resolving-uncontested-tests"
+  },"139": {
+    "doc": "Skill Tests",
+    "title": "Group Tests",
+    "content": "Characters may act in tandem with each other when trying to achieve the same goal while testing the same skill (they may use different attributes, though most of the time, they will also use the same attributes). When they do, everyone tests and adds their successes together to determine if they manage to succeed as a group. When two or more character use the same skill and the same attribute to achieve the same goal, they always test as a group. During uncontested tests, for each participant beyond the first, the difficulty of the test is increased by 1. Group tests can be incredible tools to achieve great deeds. They can also simply be used to help your compatriots to overcome obstacles you find trivial. But they come at the cost of increasing the risk for all participants. You either win or you fail as a group. When a group fails an uncontested test, each member of the group receives XP equal to the effort they individually mustered. A group can power through but each member of the group takes stress equal to the difference between the test’s difficulty and the effort they, individually, achieved. Outside the city, Cyrene meets up with her travel companion Maro, who comes to her with grave news. They definitely need to enter the sultan’s city tonight. Luckily, Maro remembers scaffolding at the south wall he passed by a few days ago. When they arrive fortune is on their side. Only a few guards in sight. But scaling the city wall undetected will still not be an easy task. The city wall has the trait Weathered &amp; Steep with a rating of 2, so the difficulty for the test is 2 but because of the Martial Law, there are guards on the wall Keeping Watch which increases the difficulty by 1 which is now 3 because they want to enter the city unseen. Though, they can use the Scaffolding trait with rating 1 to their advantage. Cyrene and Maro attempt to climb the wall as a group, which increases the difficulty by 1 to 4. They both test their Maneuver with Vigor (as the task will require endurance more than anything else). They both invoke the Scaffolding trait to add 1 additional die to their roll. Cyrene rolls 2 hits and so does Maro for a total of 4 effort; just enough to succeed. Alone, none of them would not have managed to scale the wall undetected, but together they prevailed, and now they are finally inside. ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html#group-tests",
+    "relUrl": "/playing-the-game/skill-tests.html#group-tests"
+  },"140": {
+    "doc": "Skill Tests",
+    "title": "Contests",
+    "content": "When another character, creature, or even multiple not only want to keep you from achieving your goal but have a goal of their own; or when you want to keep them from achieving their goal, the action is resolved in a contest. Examples of Contests . | A race to the finish line | A bidding war at an auction | Two rivals competing to see who can forge the better weapon | A tavern brawl to impress a patron | Taming a horse that wants to eat your underwear | . ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html#contests",
+    "relUrl": "/playing-the-game/skill-tests.html#contests"
+  },"141": {
+    "doc": "Skill Tests",
+    "title": "Resolving a Contest",
+    "content": "The defender makes a test; the achieved effort sets the difficulty of the contest for the attacker. Then, the attacker tests to try to beat the difficulty. A duel between mages can be resolved with a single contest. If the attacker succeeds, they get what they want but the defender does not. The attacker also inflicts stress of the type of their choosing (as long as it makes sense) on the defender equal to the difference in effort. If the attacker fails, they do not get what they want but the defender does. The defender also inflicts stress of the type of their choosing (as long as it makes sense) on the attacker equal to the difference in effort. On ties the defender wins but without inflicting stress. ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html#resolving-a-contest",
+    "relUrl": "/playing-the-game/skill-tests.html#resolving-a-contest"
+  },"142": {
+    "doc": "Skill Tests",
+    "title": "Traits during Contests",
+    "content": "During contests, using your own traits to your detriment does not increase the difficulty for yourself but works a little differently. You also have access to your opponents’ detrimental traits to exploit for your advantage. Opponents’ traits . During a contest, you may invoke 1 of your opponent’s detrimental traits which is known to you by describing how you would leverage that trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll. You may only invoke a single of your opponent’s detrimental traits per test. If your opponent has multiple fitting detrimental traits, you may only choose 1 of them. If you are testing against multiple opponents, you may also choose 1 trait from among all their traits. Once you have invoked an opponent’s trait during a scene, you may do so until the scene ends or the scene changes so that your previous description would no longer grant you an advantage without having to go into detail how you would leverage that trait to your advantage. You may invoke both an environmental and one of your opponent’s traits on the same roll. Cyrene tracks a ghoul through the sewers to its hiding place, where a fight erupts. Cyrene discovered the Light Sensitivity trait with rating 2 of ghouls while doing research and raises the torch in her hand as she rushes forward. Everyone at the table agrees that she can invoke the trait to her advantage, both when attacking and defending, this way, and she adds 2 die to her attack roll as she blinds the ghoul with fire. As long as she has her torch in this fight with the ghoul, she may add 2 additional die to her attack and defense rolls. Detrimental traits . When you test with a skill in a contest, you may also use your traits to your detriment. Though, in most cases, your opponent will be the one to have that idea first. Instead of increasing the difficulty, using a trait to your detriment during a contest, lets your opponent add your trait’s rating as dice to their roll. When one of your traits is used against you this way, you may spend 1 Favor to not give your opponent any dice, similarly like you would during uncontested tests. During a kerfuffle at court, Cyrene tries to embarrass one of the guests she met previously (when he crossed her during a previous adventure). She only manages 1 success on her roll, though he manages none at all, he invokes Cyrene’s Drunkard trait against her to add 1 die to his roll. Cyrene may now spend 1 Favor to not give him that additional die, but she wants to see what will happen and decides against it. The obnoxious guest manages to roll a success on his additional die and turns the outcome into a tie, which he, as the defender, wins. The court is now laughing at Cyrene, as he deflects her insults right back into her face. What a windbag. At least she received 1 XP for her Influence from her 1 success. ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html#traits-during-contests",
+    "relUrl": "/playing-the-game/skill-tests.html#traits-during-contests"
+  },"143": {
+    "doc": "Skill Tests",
+    "title": "Group Contests",
+    "content": "When a group tests during contests, the opposing side of the group adds 1 die for each participant beyond the first. When two or more groups test against each others, each side adds 1 die for each participant on the opposing side beyond the first (this will get incredibly dangerous very quickly). When a group fails a contest, the opposing side inflict stress to each member of the group who lost equal to the difference between the opposing side’s effort and the effort each member of the group individually mustered. ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html#group-contests",
+    "relUrl": "/playing-the-game/skill-tests.html#group-contests"
+  },"144": {
+    "doc": "Skill Tests",
+    "title": "Rulings",
+    "content": "In most cases, both the defender and the attacker test the same skill, though with the attribute of their choice. In some circumstances it might make sense to test different Skills, though those occasions will be uncommon. Sometimes there is no obvious defender for a contest. In that case, without defender for the contest, on a tie, everyone loses. The GM may also introduce an unexpected defender to win instead in that scenario. There may be multiple attacking teams during a contest (though there is only ever 1 defending team) but there can only ever be a single winner; the attacking team, who achieves the greatest effort wins the conflict. If two or more attacking teams are tied for greatest effort, they all lose and a different attacking team (or the defending team, if they are the only one left) win instead. ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html#rulings",
+    "relUrl": "/playing-the-game/skill-tests.html#rulings"
+  },"145": {
+    "doc": "Skill Tests",
+    "title": "Conflicts",
+    "content": "In general, a contest can handle any interaction between two or more characters; disagreements, arm-wrestling, races, even fights with only one test for each side. And uncontested Tests handle everything else without an opposing side; athletic challenges, public speeches, travelling, and even murder. But a single roll does not always have enough weight to justify its effect on the narrative. For those occasions, when the stakes are high and the current scene requires a more dramatic resolution, rpg-thingy offers a more intricate resolution mechanic called a Conflict. In essence, it is a series of contests but with a lot more room for details and casualties. They are detailed in their own chapter. Contests work especially well for important fights, long-winded chases, heartfelt debates, and even continent-spanning journeys. ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html#conflicts",
+    "relUrl": "/playing-the-game/skill-tests.html#conflicts"
+  },"146": {
+    "doc": "Skill Tests",
+    "title": "Resolving Tests in Revue",
+    "content": ". | Choose a goal to achieve. | Describe what action you would like to undertake in the fiction. | Choose a skill according to your goal and described action. | Pick an Attribute. If you have already described an action, try and go with the Attribute most fitting your description. Otherwise, let your choice of Attribute guide your roleplay. | Determine if the test will be uncontested, a contest, or a conflict. | Roll the dice. | The target number for your dice is determined by the skill you’ve chosen. Every face of a die that comes up as at least that number, is a hit, all others are misses. | Invoke traits, use traits to you detriment, and spend Favor. | Determine the outcome of the test. If you succeeded, you get what you want, otherwise mark XP equal to the number of hits you rolled. | . ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html#resolving-tests-in-revue",
+    "relUrl": "/playing-the-game/skill-tests.html#resolving-tests-in-revue"
+  },"147": {
+    "doc": "Skill Tests",
+    "title": "Skill Tests",
+    "content": " ",
+    "url": "/rpg-thingy/playing-the-game/skill-tests.html",
+    "relUrl": "/playing-the-game/skill-tests.html"
+  },"148": {
+    "doc": "Skills",
+    "title": "Skills",
+    "content": "There are 6 skills in total (see the list of skills below for more details): . Skills represent both an area of expertise, something a character may or may not be trained or even an expert in and a section of the game itself. Each adventure will be different but each adventure will consist of these 6 different types of challenges to varying degrees. | Skill | Uses | . | Influence | Interacting with other people | . | Fight | Hurting others and defending from harm | . | Maneuver | Overcoming immediate physical obstacles | . | Wilderness | Navigating and surviving the wild | . | Craft | Creating tools and structures; manual labour | . | Means | Leveraging wealth, connections, and sources of knowledge | . A skill has a corresponding number denoting the character’s training. The default is 6+. This number denotes what is the lowest number on a die that counts as a success when that character rolls that Skill. | Untrained – a character has 6+ in the corresponding skill | Trained – a character has 5+ in the skill | Expert – a character has 4+ | Master – a character has 3+ (this is quite uncommon) | . Whenever the game calls for a test, it will always call for an attribute and a skill. The attribute determines how many dice you roll and the skill determines what faces of the dice result in a hit or a miss. Whenever you do not succeed on a skill test, you learn something new and mark experience (XP) for that skill equal to the number of hits you rolled. Each Skill has a separate track to mark XP and whenever you reach 10 XP marked for a skill, remove all XP marked for it and you gain a new level in that skill (each skill starts at level 0), which will grant you access to a new Talents and/or improve your training in that Skill (see Advancement). If your skill is reaches level 7 and for every level thereafter, instead of improving the skill, you gain an Epiphany (meaning you may increase 1 of your attributes by 1 or increase the rating of 1 of your traits by 1). | Level | XP | Training | Reward | . | 0 | 0 | 6+ | - | . | 1 | 10 | 5+ | Feat | . | 2 | 20 | - | Specialization | . | 3 | 30 | 4+ | Feat | . | 4 | 40 | - | Specialization | . | 5 | 50 | - | Specialization | . | 6 | 60 | 3+ | Feat | . | 7+ | 70+ | - | Epiphany | . ",
+    "url": "/rpg-thingy/character/skills.html",
+    "relUrl": "/character/skills.html"
+  },"149": {
+    "doc": "Skills",
+    "title": "Influence",
+    "content": "Whenever you aim to change someone else’s mind or impose your will on others or defend against such efforts, roll Influence. | Attribute | Applications | . | Vigor | Oratory, Intimidation, Taunting, Performing, Drinking | . | Intuition | Deceit, Persuasion, Fast-Talking, Haggling, Manipulation | . | Reason | Negotiation, Rhetoric, Instruction, Mediation | . Special Uses . | Mending mental conditions while resting | . ",
+    "url": "/rpg-thingy/character/skills.html#influence",
+    "relUrl": "/character/skills.html#influence"
+  },"150": {
+    "doc": "Skills",
+    "title": "Fight",
+    "content": "Whenever you aim to harm someone else or defend against being harmed in a physical altercation, roll Fight. | Attribute | Applications | . | Vigor | Axe, Halberd, Brawling, Armour, biting through the pain | . | Intuition | Knives, Sword, Dodging, Parrying | . | Reason | Bow, Spear, Shield, Footwork | . ",
+    "url": "/rpg-thingy/character/skills.html#fight",
+    "relUrl": "/character/skills.html#fight"
+  },"151": {
+    "doc": "Skills",
+    "title": "Maneuver",
+    "content": "Whenever you aim to overcome an obstacle in your path, be it distance, hurdles, or difficult terrain, roll Maneuver. | Attribute | Applications | . | Vigor | Running Swimming, Charging, moving heavy obstacles | . | Intuition | Acrobatics, Riding, Balancing, hiding in crowds | . | Reason | Infiltration, Choreography, forming formations | . ",
+    "url": "/rpg-thingy/character/skills.html#maneuver",
+    "relUrl": "/character/skills.html#maneuver"
+  },"152": {
+    "doc": "Skills",
+    "title": "Wilderness",
+    "content": "Whenever you aim to navigate the wilds, aim to survive natural forces, or set up camp in the wild, roll Wilderness. | Attribute | Applications | . | Vigor | Fire building, Ditch-digging, building shelter | . | Intuition | Hunting, Foraging, Riding, Tracking, keeping watch | . | Reason | Scouting, Pathfinding, Trapping, Astrology, Weather-watching | . Special Uses . | Navigating between points of interest | Resting in the wilderness (see Resting) | Foraging while resting | . ",
+    "url": "/rpg-thingy/character/skills.html#wilderness",
+    "relUrl": "/character/skills.html#wilderness"
+  },"153": {
+    "doc": "Skills",
+    "title": "Craft",
+    "content": "Whenever you aim to create new, or improve or destroy existing items and structures, or generally work with your hands roll Craft. | Attribute | Applications | . | Vigor | Blacksmithing, Farming, Laboring, Masonry, Woodworking | . | Intuition | Cooking, Sabotage, Animal Husbandry, Painting, Goldsmithing | . | Reason | Engineering, Cartography, Surgery | . Special Uses . | Creating and improving Assets | Mending physical conditions while resting | . ",
+    "url": "/rpg-thingy/character/skills.html#craft",
+    "relUrl": "/character/skills.html#craft"
+  },"154": {
+    "doc": "Skills",
+    "title": "Means",
+    "content": "Whenever you aim to call on existing connections, funds or knowledge, or aim to create new ones, test Means. | Attribute | Applications | . | Vigor | Fame, Wealth, Titles | . | Intuition | Connections, Rumors, Favors | . | Reason | Investment, Administration, Bureaucracy, Research | . Special Uses . | Resting in settlements | Researching while resting | Buying and selling assets | Mending social conditions while resting in a settlement | . ",
+    "url": "/rpg-thingy/character/skills.html#means",
+    "relUrl": "/character/skills.html#means"
+  },"155": {
+    "doc": "Traits",
+    "title": "Traits",
+    "content": "A Trait is a factual description about what makes your character extraordinary with mechanical weight. A character may have a nice beard but if he has the Magnificient Beard trait, he has such a great beard, you may use it to your benefit and even to your detriment for dramatic effect. A trait has a rating ranging from 1 to 3. By taking a trait, a player signals to the group that they are interested in that particular part of the story or their character. The higher the rating of your trait, the more they want the trait to come up in the game. Consider this when choosing your own traits. Think about what you want to experience during the game and try to model your character’s traits after the goal. Maro has the trait Exiled Sellsword of Gantha with a rating of 2. By taking this trait, he let the group know quite a bit about what he wanted to experience with his character. His character is a sellsword, so he will mostly likely want to invoke the trait during fights. His character is also from a place called Gantha from which he has been exiled. By putting both of these aspects of his character into one trait, he also signals that those two stories are somehow interconnected. He could have also split the trait in two such as Exile of Gantha and Famed Sellsword and given them different ratings, had one aspect been more important to him than the other or if they had nothing or little to do with each other in the story. ",
+    "url": "/rpg-thingy/character/traits.html",
+    "relUrl": "/character/traits.html"
+  },"156": {
+    "doc": "Traits",
+    "title": "Using Traits to your Benefit",
+    "content": "When you test a skill, you may invoke one of your traits, if the trait is relevant to your current task, and it would sense for it to help you. For example, if you try to hit someone with your sword, and you have a trait named Legendary Blademaster, naturally, you may invoke it. When you invoke a trait, you may use the dice modifier for the attribute you are testing with. If the trait you invoke has a rating of 2, you may use an additional dice modifier of different attribute on that roll as well. You choose which of the two other dice modifiers you want to use. If the trait you invoke has a rating of 3, you may use all dice modifiers of all attributes on that roll. This is incredibly powerful. You may only invoke a single of your traits per test. If you have multiple traits which might fit, you have to choose only one of them. Cyrene has the trait Drunkard with a rating of 1. During a drinking competition, she invokes it to explode the two 6s she rolled, which, in the end, gives her just the edge she needs to emerge victorious. ",
+    "url": "/rpg-thingy/character/traits.html#using-traits-to-your-benefit",
+    "relUrl": "/character/traits.html#using-traits-to-your-benefit"
+  },"157": {
+    "doc": "Traits",
+    "title": "Using Traits to your Detriment",
+    "content": "There are many reasons to use one of your traits to your detriment. It can lead to great roleplaying moments, it can let you communicate who your character is and what their flaws are, it can be simply for fun, and it can lead to you earning more XP. You may use any of your traits to your detriment, as long as it makes sense that the trait would in some way hinder you. You may only use a trait to either help or hinder you, not both. Also, as above, you may only use a single of your traits per test to hinder you. If you have multiple traits which might fit, you have to choose only one of them. When you test a skill, you may add one of your trait’s rating to the difficulty, if it would make sense said trait would hinder you at what you are trying to achieve. This might increase the amount of XP you will receive should you fail the test. The GM may suggest one of your traits to be used to your detriment when it would be both appropriate and dramatic. You may decline to do so by spending 1 Favor. If you accept, use the trait to your detriment as you normally would. A trait may only hinder you on uncontested tests (see Types of Tests). When Cyrene tries to balance across a raging river, her Drunkard trait hinders her, and she adds 1 to the difficulty, which results in her falling into the water where the river drags her downstream instead of succeeding. However, the whole debakel netted her 1 additional XP. ",
+    "url": "/rpg-thingy/character/traits.html#using-traits-to-your-detriment",
+    "relUrl": "/character/traits.html#using-traits-to-your-detriment"
+  },"158": {
+    "doc": "Traits",
+    "title": "Empowering Traits",
+    "content": "If the action you are trying to undertake aligns with the Truth you have chosen for your character, you may spend 1 Favor to temporarily increase the rating of a trait by 1 for the duration of a test. If you do not having a fitting trait when undertaking such an action, you may also spend 1 Favor to temporarily gain the benefits as if you had a fitting trait with rating 1. ",
+    "url": "/rpg-thingy/character/traits.html#empowering-traits",
+    "relUrl": "/character/traits.html#empowering-traits"
+  },"159": {
+    "doc": "Wilderness Gear",
+    "title": "Wilderness Gear",
+    "content": "| Name | Use | Properties | Resources | . | Cloak | 🛡 Vigor |   |   | . | Rowing Boat | 🗡 Vigor |   |   | . ",
+    "url": "/rpg-thingy/gear/wilderness.html",
+    "relUrl": "/gear/wilderness.html"
+  },"160": {
+    "doc": "Wilderness Talents",
+    "title": "Vigor Feats",
+    "content": "Tough as Nails . Add 1 additional die when one of your conditions increases a difficulty for you or when an opponent uses one of your conditions against you. ",
+    "url": "/rpg-thingy/talents/wilderness.html#vigor-feats",
+    "relUrl": "/talents/wilderness.html#vigor-feats"
+  },"161": {
+    "doc": "Wilderness Talents",
+    "title": "Intuition Feats",
+    "content": "Hunter . Once per conflict, you may create a bane from excess successes for free, without spending Favor. ",
+    "url": "/rpg-thingy/talents/wilderness.html#intuition-feats",
+    "relUrl": "/talents/wilderness.html#intuition-feats"
+  },"162": {
+    "doc": "Wilderness Talents",
+    "title": "Reason Feats",
+    "content": "Expedient Tracker . When positioning for a conflict with Reason, you may research as if resting with your successes against a target you are positioning against. ",
+    "url": "/rpg-thingy/talents/wilderness.html#reason-feats",
+    "relUrl": "/talents/wilderness.html#reason-feats"
+  },"163": {
+    "doc": "Wilderness Talents",
+    "title": "Vigor Specializations",
+    "content": "Shrug it Off . When recovering from your own conditions require decrease the test’s difficulty by 1 (this means you can potentially recover from minor conditions without needing resources or needing to roll). ",
+    "url": "/rpg-thingy/talents/wilderness.html#vigor-specializations",
+    "relUrl": "/talents/wilderness.html#vigor-specializations"
+  },"164": {
+    "doc": "Wilderness Talents",
+    "title": "Intuition Specializations",
+    "content": "Weather Watcher . Predicting weather while resting only costs you 1 resource, not matter the difficulty. ",
+    "url": "/rpg-thingy/talents/wilderness.html#intuition-specializations",
+    "relUrl": "/talents/wilderness.html#intuition-specializations"
+  },"165": {
+    "doc": "Wilderness Talents",
+    "title": "Reason Specializations",
+    "content": " ",
+    "url": "/rpg-thingy/talents/wilderness.html#reason-specializations",
+    "relUrl": "/talents/wilderness.html#reason-specializations"
+  },"166": {
+    "doc": "Wilderness Talents",
+    "title": "Wilderness Talents",
+    "content": " ",
+    "url": "/rpg-thingy/talents/wilderness.html",
+    "relUrl": "/talents/wilderness.html"
+  }
+}
