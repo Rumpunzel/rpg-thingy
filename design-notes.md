@@ -1,3 +1,10 @@
+---
+layout: default
+title: Design Notes
+description: Stuff about the design of rpg-thingy
+nav_order: 10000
+---
+
 ## Approaches Color Pie
 
 ### Vigor

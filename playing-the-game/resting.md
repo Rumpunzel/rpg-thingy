@@ -10,7 +10,7 @@ nav_order: 5
 
 To rest, either test [Means](../character/skills#means) for [Downtime](#downtime) if you are in a settlement, or test [Wilderness](../character/skills#wilderness) to [Make Camp](#making-camp) if are beyond the borders of civilization.
 
-Anyone resting with you may also test the appropriate [Skill](../character#skills). Everyone, who has chosen the same skill and attribute, [tests as a group](skill-tests/index.md#group-tests). If you are resting in a town, you will most likely get bonus dice for your rest roll (see [Supply Rating](../gm-tools/settlements.md#supply-ratings)).
+Anyone resting with you may also test the appropriate [Skill](../character#skills). Everyone, who has chosen the same skill and attribute, [tests as a group](skill-tests/index.md#group-tests). If you are resting in a town, you will most likely get bonus dice for your rest roll (see [Supply Rating](../running-the-game/settlements.md#supply-ratings)).
 
 You may use [Assets](assets) as usual, especially rations.
 
@@ -104,7 +104,7 @@ While resting in a settlement, you may mend social conditions afflicting you or 
 
 ## Buying
 
-You may buy assets in settlements by testing Means. Choose a quality rating for the asset you would like to buy. Not all quality rating may be available everywhere, often quality rating above a town's [Supply Rating](../gm-tools/settlements#supply-ratings) cannot be found.
+You may buy assets in settlements by testing Means. Choose a quality rating for the asset you would like to buy. Not all quality rating may be available everywhere, often quality rating above a town's [Supply Rating](../running-the-game/settlements#supply-ratings) cannot be found.
 
 If you succeed, you gain the asset with the chosen quality rating. Otherwise, if you achieved at least **1** effort, you gain an asset with rating **1.**
 

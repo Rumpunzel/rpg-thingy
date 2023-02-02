@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Interacting with Traits
-description: Stuff about interacting with traits
+title: Interacting with the World
+description: Stuff about interacting with the world
 parent: Playing the Game
 nav_order: 0
 ---

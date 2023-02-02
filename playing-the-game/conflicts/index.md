@@ -82,7 +82,7 @@ These benefits only last for the duration of the conflict.
 
 # The Conflict
 
-A conflict is essentially a sequence of [Contests](skill-tests#contests).
+A conflict is essentially a sequence of [Contests](../skill-tests#contests).
 
 Turn order is determined by whoever initiated the conflict. Should it ever be uncertain, the teams with the highest morale goes first. During a team's turn each of its members may act in whatever order they choose until each member has acted once.  
 When all members of a team have acted, its captain tests to keep morale if its morale has been broken. Then continue with the next team in turn order.

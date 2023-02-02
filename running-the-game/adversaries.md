@@ -2,7 +2,7 @@
 layout: default
 title: Adversaries
 description: Stuff about adversaries
-parent: GM Tools
+parent: Running the Game
 nav_order: 1
 ---
 

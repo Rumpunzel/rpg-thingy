@@ -2,7 +2,7 @@
 layout: default
 title: Settlements
 description: Stuff about settlements
-parent: GM Tools
+parent: Running the Game
 nav_order: 2
 ---
 

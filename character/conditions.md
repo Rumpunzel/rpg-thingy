@@ -12,7 +12,7 @@ Conditions are temporary but unavoidable negative consequences of when you suffe
 
 Conditions have a number associated with them called their [Severity](#condition-severities). A conditions severity increases as you gain stress during your adventures.
 
-Simple test always have a minimum difficulty equal to the highest severity of your appropriate conditions. If an uncontested test already has a higher difficulty, your conditions do not increase it.
+Simple tests always have a minimum difficulty equal to the highest severity of your appropriate conditions. If an uncontested test already has a higher difficulty, your conditions do not increase it.
 
 During contests, your opponents may use your conditions to their advantage. Your opponent's minimum effort when testing against you is equal to the highest severity of your appropriate conditions.  
 You may use your opponents' conditions against them for minimum effort in the same way as your opponent's can use yours against you.
@@ -140,7 +140,7 @@ The three different types of conditions hinder you on different tests. Of course
 
 The three different types of conditions have restrictions with which skill and which attribute they can be mended.
 
-[Leisure Structures](../gm-tools/settlements#leisure-structures) can give you additional options to get rid of your conditions but on the road or without help, these are the only ways to get rid of conditions.
+[Leisure Structures](../running-the-game/settlements#leisure-structures) can give you additional options to get rid of your conditions but on the road or without help, these are the only ways to get rid of conditions.
 
 |              |   Mending Physical   |   Mending Mental    |  Mending Social  |
 |:------------:|:--------------------:|:-------------------:|:----------------:|
