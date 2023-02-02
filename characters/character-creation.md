@@ -2,7 +2,7 @@
 layout: default
 title: Character Creation
 description: Stuff about character creation
-parent: Character
+parent: Characters
 nav_order: 10
 ---
 

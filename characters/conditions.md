@@ -2,7 +2,7 @@
 layout: default
 title: Conditions
 description: Stuff about conditions
-parent: Character
+parent: Characters
 nav_order: 4
 ---
 

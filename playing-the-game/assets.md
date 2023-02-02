@@ -25,7 +25,7 @@ You may use an asset after rolling with a fitting skill to gain minimum effort f
 
 If an asset's quality rating drops to **0,** it can no longer be used.
 
-When you use an asset for minimum effort, but you still fail at the test, the asset does not increase the [Favor](/character#favor) you gain. You only get Favor for the hits you have actually rolled.
+When you use an asset for minimum effort, but you still fail at the test, the asset does not increase the [Favor](/characters#favor) you gain. You only get Favor for the hits you have actually rolled.
 
 {: .important }
 > Maro finds himself in a skirmish with a vicious assassin who ambushed him in a darkened street corner.
@@ -56,7 +56,7 @@ You may use a masterpiece asset to gain minimum effort equal to its quality rati
 
 ## Off-Label Usage
 
-When using an asset for with a skill or [Attribute](../character#attributes) other than its intended purpose, it grants only **1** minimum effort for that test.  
+When using an asset for with a skill or [Attribute](../characters#attributes) other than its intended purpose, it grants only **1** minimum effort for that test.  
 If the asset is a masterpiece, instead it can only be used to gain minimum effort equal to its masterpiece rating.
 
 If an asset was not originally intended to be used for a purpose, but it makes perfect sense that it would help you and the table agrees, you may use an asset without any penalties for that test.

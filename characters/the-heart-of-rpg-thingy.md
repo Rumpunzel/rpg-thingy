@@ -2,7 +2,7 @@
 layout: default
 title: The Heart of rpg-thingy
 description: Stuff about the heart of rpg-thingy
-parent: Character
+parent: Characters
 nav_order: 0
 ---
 

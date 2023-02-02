@@ -115,7 +115,7 @@ Contests work especially well for important fights, long-winded chases, heartfel
 - Choose a goal to achieve.
 - Describe what action you would like to undertake in the fiction.
 - Choose a skill according to your goal and described action.
-- Pick an [Attribute](../../character#attributes). If you have already described an action, try and go with the Attribute most fitting your description. Otherwise, let your choice of Attribute guide your roleplay.
+- Pick an [Attribute](../../characters#attributes). If you have already described an action, try and go with the Attribute most fitting your description. Otherwise, let your choice of Attribute guide your roleplay.
 - Determine if the test will be simple, a contest, or a conflict.
 - **Roll the dice.**
 - The target number for your dice is determined by the skill you've chosen. Every face of a die that comes up as at least that number, is a hit, all others are misses.

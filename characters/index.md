@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Character
+title: Characters
 description: Stuff about characters
 nav_order: 10
 has_children: true

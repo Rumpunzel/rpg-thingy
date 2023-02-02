@@ -11,7 +11,7 @@ description: "A neat little RPG project."
 The most _Jamal_ way for the modern dice goblin to hallucinate!
 {: .fs-6 .fw-300 }
 
-[Read the Rules](character){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Read the Rules](characters){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Create a Character](404){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -29,6 +29,7 @@ PCs exist in a fictional world in which they act, struggle, and succeed. The pla
 
 The PCs interact with the situation and the world presented by the GM by asking questions and narrating what they would like their characters to accomplish and how they would like to do so until the outcome of an action is no longer certain and the group consults the dice (see [Skill Tests](playing-the-game/skill-tests)).
 
+{: .mt-8 }
 {: .note-title }
 > The 5 Pillars
 >

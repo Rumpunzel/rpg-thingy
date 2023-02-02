@@ -2,7 +2,7 @@
 layout: default
 title: Attributes
 description: Stuff about attributes
-parent: Character
+parent: Characters
 nav_order: 1
 ---
 

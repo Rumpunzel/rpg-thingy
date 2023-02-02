@@ -81,7 +81,7 @@ Calculating supply rating already is a very handy tool to give characters to the
 
 ## Leisure Structures
 
-The most common example of structures to flesh out are leisure structures, which are relevant when characters are recovering while resting and which are always strongly associated with either a specific [Attribute](/character#attributes) or condition type.  
+The most common example of structures to flesh out are leisure structures, which are relevant when characters are recovering while resting and which are always strongly associated with either a specific [Attribute](/characters#attributes) or condition type.  
 They contribute their support rating to the settlement as normal, but their support rating may also be used to add dice to recovery tests made either with the corresponding attribute or for the corresponding condition type, just like you would add dice from a masterpiece asset. As such, when you use a support rating to add dice to your roll, your minimum effort for that test is equal to the structure's support rating.
 
 Leisure structures might also allow for skills to be used for recovery tests other than normal.

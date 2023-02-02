@@ -2,7 +2,7 @@
 layout: default
 title: Traits
 description: Stuff about traits
-parent: Character
+parent: Characters
 nav_order: 2
 ---
 
