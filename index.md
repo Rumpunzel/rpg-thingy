@@ -8,7 +8,7 @@ description: "A neat little RPG project."
 # rpg-thingy
 {: .fs-9 }
 
-The most _Jamal_ way to throw dice and hallucinate!
+The most _Jamal_ way for the modern dice goblin to hallucinate!
 {: .fs-6 .fw-300 }
 
 [Read the Rules](character){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

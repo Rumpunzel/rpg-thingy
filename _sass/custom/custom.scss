@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+//@import url('https://fonts.googleapis.com/css?family=Special+Elite');
 
 /* ----- General ----- */
 //body {
@@ -35,6 +35,12 @@ figcaption {
 }
 
 /* ----- Quotes ----- */
+blockquote {
+  ul {
+    margin-bottom: 0;
+  }
+}
+
 //blockquote {
 //  line-height: 2.0;
 //  border-left: 0;
