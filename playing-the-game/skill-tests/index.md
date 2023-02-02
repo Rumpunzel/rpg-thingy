@@ -73,13 +73,7 @@ Apart from completing goals, this is the only way go gain **XP** for your skills
 
 # Simple Tests
 
-Simple tests are the most basic form of test.
-
-{: .note-title }
-> When is a Test Simple?
-> 
-> - There is no other character or creature to directly or indirectly keep you from achieving your goal
-> - Another character or creature tries to keep you from achieving your goal, but they do not have any other goals of their own
+Simple tests are the most basic form of test. A test is simple when there is no other character or creature to directly or indirectly keep you from achieving your goal, or they are simply trying to keep you from achieving your goal without having any other goals of their own.
 
 {: .note-title }
 > Examples of Simple Tests

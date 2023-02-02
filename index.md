@@ -29,42 +29,36 @@ PCs exist in a fictional world in which they act, struggle, and succeed. The pla
 
 The PCs interact with the situation and the world presented by the GM by asking questions and narrating what they would like their characters to accomplish and how they would like to do so until the outcome of an action is no longer certain and the group consults the dice (see [Skill Tests](playing-the-game/skill-tests)).
 
-
-
-# The 5 Pillars
-
-The following pages will provide more detailed rules on how rpg-thingy works, though, in short, it tries to achieve a certain vision of how a game of rpg-thingy looks like. All rules decisions aim to contribute to achieve that vision, and they all rest on the following 5 pillars representing ideals to which rpg-thingy strives to adhere.
-
 {: .note-title }
-> Agency
+> The 5 Pillars
 >
+> The following pages will provide more detailed rules on how rpg-thingy works, though, in short, it tries to achieve a certain vision of how a game of rpg-thingy looks like. All rules decisions aim to contribute to achieve that vision, and they all rest on the following 5 pillars representing ideals to which rpg-thingy strives to adhere.
+>
+> ## Agency
+> 
 > - There are no actions without consequences
 > - Choose your own path and leave your mark on the world
 > - Be creative with the tools you have
-
-{: .note-title }
-> Exploration
+>
+> ## Exploration
 >
 > - There are secrets hidden everywhere
 > - Venturing into dangerous parts of the world yields the biggest rewards
 > - There is nothing more powerful than paying attention and asking questions
-
-{: .note-title }
-> Strategy
+>
+> ## Strategy
 >
 > - Always consider what you want to accomplish next and how to tackle it
 > - There is always a goal to achieve or a wound to mend
 > - Face challenges and enemies as attentive and well-prepared as you can
-
-{: .note-title }
-> Heroism
+>
+> ## Heroism
 >
 > - There is no greater act of heroism than facing what you are most afraid of
 > - Find what your character treasures and protect it
 > - Shine a bright beacon into the vast unknown
-
-{: .note-title }
-> Growth
+>
+> ## Growth
 >
 > - The world will fade to darkness without your light, so kindle it
 > - Do no shy away from challenges and grow with them instead
