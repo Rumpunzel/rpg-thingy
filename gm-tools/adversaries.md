@@ -30,4 +30,5 @@ Adversary traits are marked with an approach and a skill to indicate in which co
 Most of the time keeping of track adversaries is enough work without keeping track of a handful of asset quality ratings on top. Instead of assets, adversaries use their traits for minimum effort, so they have no need for them.  
 Unless attrition is vital for the adversary to be interesting, replace assets with lower rated traits.
 
+{: .important }
 > Down in the sewers, Cyrene manages a nice hit against a ghoul by exploiting its `Light Sensitivity` trait with rating **1** but the vile beast does not abandon its nest so easily and jumps past Cyrene's torch, clawing at her face. The ghoul rolls terribly, but it has the trait `Festering Fangs & Claws` with a rating of **2,** which work as a weapon on its Vigor attacks, so Cyrene will have to roll **2** successes to evade. She invokes the `Light Sensitivity` trait again to aid with her defense roll and, thankfully, she rolls **2** successes and survives unscathed to fight another round.

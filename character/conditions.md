@@ -12,7 +12,7 @@ Conditions are temporary but unavoidable negative consequences of when you suffe
 
 Conditions have a number associated with them called their [Severity](#condition-severities). A conditions severity increases as you gain stress during your adventures.
 
-Uncontested test always have a minimum difficulty equal to the highest severity of your appropriate conditions. If an uncontested test already has a higher difficulty, your conditions do not increase it.
+Simple test always have a minimum difficulty equal to the highest severity of your appropriate conditions. If an uncontested test already has a higher difficulty, your conditions do not increase it.
 
 During contests, your opponents may use your conditions to their advantage. Your opponent's minimum effort when testing against you is equal to the highest severity of your appropriate conditions.  
 You may use your opponents' conditions against them for minimum effort in the same way as your opponent's can use yours against you.
@@ -94,7 +94,7 @@ A condition is minor if the highest marked stress box in its slot is **1.**
 
 These conditions are minor inconveniences. Superficial cuts, bruised egos, a revolting appearance after days of adventuring, and similar troubles, that arise with living an interesting life, are minor conditions. Nothing that cannot heal or mend with even just a little resting.
 
-As an uncontested test's difficulty is always at least **1** and most foes you will encounter will be armed, so these kinds of conditions are more nuisance than hindrance (unless they begin to pile up and fill your Condition slots).
+As a simple test's difficulty is always at least **1** and most foes you will encounter will be armed, so these kinds of conditions are more nuisance than hindrance (unless they begin to pile up and fill your Condition slots).
 
 
 ## Moderate Conditions

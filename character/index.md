@@ -6,82 +6,19 @@ nav_order: 10
 has_children: true
 ---
 
-# The Heart of rpg-thingy
+# Characters in rpg-thingy
 
-People are the very heart of this roleplaying game. Their struggles, their virtues, their faults, and their relationships; in short: stories. There are also battles, monsters, intrigue, and treasure, but they only matter in their relation to people. Who would care about a monster that scares no one, who about a treasure that no one wants, who about a throne in a kingdom without people? 
+To play a Player Character (**PC**) in rpg-thingy means to toke on the mantle of fictional character. You make choices on behalf of that fictional character. Choices that will put your character in danger, choices that will protect them from harm but never choices that take them out of trouble.
 
-Your character is one of these people, but they matter more than any of the others because through them, you influence the world. But in a way, they are also how you experience the fictional world. A world that is dangerous, awe-inspiring, and full of people who are convinced just as you are that they are the hero of this (or at least their) story.
+<figure>
+  <img src="https://i.pinimg.com/originals/7d/49/12/7d49128d3c55ef6d822bd949be425c2f.jpg" alt="Dark Forest">
+  <figcaption>"You enter the forest at the darkest point, where there is no path." — Joseph Campbell</figcaption>
+</figure>
 
-Though you actually are the hero of this story. And that is no light responsibility to bear. They — and, by proxy, you — are the heart of all the drama. To you, there is no monsters more important than the one that most scare your character and no treasure more precious than the one they covet most. So your characters needs something to care about, something that motivates them to put themselves in harm's way. And they need something to terrify them, something they dare not even look at for there seems no way to overcome it.
+Characters in rpg-thingy heroes and heroes come in many forms. They can be valiant adventurers, daring scoundrels, wise sages, knights in shining armor, thrifty merchants, cunning diplomats, stoic smiths, disciplined spies, kindly bakers, or even devious blackguards.  
+They are people with goals who are competent in their area of expertise, but they cannot be competent at everything. It is inevitable that they will fail but characters in rpg-thingy shy away from such challenges.  
+Failure is the best teacher, so they say.
 
-rpg-thingy calls these the **Truth** and the **Lie** your character believes. A lie they must grow to face and a truth to keep them pressing on, to forge a story wroth remembering. And who knows, perhaps we might even grow a little with them.
+Part of the fun of playing a character in rpg-thingy is watching them succeed at what they excel and even more when they do so on nothing but naked luck. But most of the fun is watching them grow with their challenges, to be in their head as they surmount difficult challenges and face their demons. Be that literal demons, a missing leg, a domineering ego, or a fear of public speaking. This is what makes them heroes in the end. Not the number of monsters they slay, not the hoards of treasure they find, or the songs that are sung about them, but that they face the challenges that scare them the most.
 
-
-## The Truth
-
-The Truth your characters believes in is an objectively true fact about your character.
-
-You can either phrase it as a statement...
-
-{: .highlight }
-The traitor who killed my father must die.
-
-{: .highlight }
-The honour of my family will endure.
-
-...or as a quote your character might regularly think, say, or embody.
-
-{: .highlight }
-"Every one of my friends can rely on me through hell."
-
-{: .highlight }
-"BY THE POWER OF GRAYSKULL, I HAVE THE POWER!"
-
-The sign of a good Truth is that whenever you find yourself in a tricky situation or unsure what to do next, you can look at your character sheet, and it nudges you into the right direction.
-
-The Truth you formulate for your character is incredibly useful for your fellow players. It tells everyone at the table what you want to do with your character. If part of your belief is that your character is the `"Patriarch of the Goldwyn family"`, then that is not up to question. The Truth encompasses what your character excels at and who they truly are.
-
-## The Lie
-
-Just like the Truth your character believes in, you can phrase the Lie your they believe either as a statement about them or as something they regularly think or say, though the Lie is not objectively true. To be more precise, it comes in two different flavors:
-
-A conviction your character believes to be true, wittingly or unwittingly, though it is a delusion, a self-deception or misjudgement about their surroundings that you, as a player, know to be incorrect. The central questions such a Lie poses are: How will the character learn? What will it take? Where will it take? Will they find the courage to face the truth when push comes to shove?
-
-{: .highlight }
-I owe the Order of the Silver Falcon my life. There is no nobler goal than to give my life to repay my debt. 
-
-{: .highlight }
-I have left my life as a mercenary behind me. Is now a well-adjusted, productive member of society.
-
-A conjecture about your character that might or might not be true. Neither your character nor you know if it true or not. A Lie that is a conjecture is often _possibly_ true and the character's journey will consist of them proving that they were right to believe so from the start or learn the hard way that they were mistaken. The central question such a Lie poses is: Is this true?
-
-{: .highlight }
-"I am not worthy to inherit my master's workshop."
-
-{: .highlight }
-"The traitor who killed my father must die."
-
-As you can see, the same phrase can be used either as a Truth or a Lie, though its meaning drastically shifts. As a Truth, `"The traitor who killed my father must die."` is a goal your character has that they will either fulfill or die trying. As a Lie, it is meant to be challenged as the story progresses. Does he indeed deserve to die? What did my father do that he was betrayed and murdered? Am I at fault for my father's death? These are all questions that only result from Lies, for they are meant to be challenged, not from Truths.
-
-## Playing out the Story
-
-In a way, the Lie is a lot more central to your character's story but the Truth is just as important, for it is what will drive them to press on when everything else tells them to give in.
-
-Though it is implied that a Lie is always successfully challenged in the course of your character's story, so they may change for the better, it is totally legitimate to go on a lengthy journey only for your character to double down on his delusions, to refuse to face the Lie. Naturally, there will be no true happy end for such a character but that does not mean that the end to their story can not be fascinating and satisfying in its own way.
-
-
-
-# Goals
-
-At the start of each session, choose a goal for your character to achieve during that session. Try to include _what_ you want to achieve as well as a rough idea of _how_ and _why_ your character is eager to complete that goal.
-
-At the end of each session, if you have achieved your goal, mark **1** **XP** for any of your skills.
-
-
-
-# Favor
-
-**Favor** is a meta-currency you can spend to influence your dice rolls, tilt luck in your favor, bite through the pain, or sometimes even fuel powerful magic.  
-Depending on your character, it might represent how much lady luck smiles upon you, the good graces of the higher forces you hold sacred, or your iron will and determination.
-
-Whenever the Truth or Lie really come out through how you roleplay your character or through the drama that results from your choices, you earn **1** Favor for your character.
+At their core, characters in rpg-thingy believe a truth that propels them forwards and a lie about the world or themselves that keeps them from achieving their full potential. They are emotional beings on an emotional journey to face that lie and this game is about that journey. And when it ends, they must find another dragon to slay, so to say, or they no longer qualify to be PCs, as they settle down, travel to distant lands, or perish. Either as better people because they faced their lie or worse for they fled when the abyss looked back into them.

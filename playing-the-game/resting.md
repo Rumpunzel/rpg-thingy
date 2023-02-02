@@ -10,7 +10,7 @@ nav_order: 5
 
 To rest, either test [Means](../character/skills#means) for [Downtime](#downtime) if you are in a settlement, or test [Wilderness](../character/skills#wilderness) to [Make Camp](#making-camp) if are beyond the borders of civilization.
 
-Anyone resting with you may also test the appropriate [Skill](../character#skills). Everyone, who has chosen the same skill and attribute, [tests as a group](skill-tests.md#group-tests). If you are resting in a town, you will most likely get bonus dice for your rest roll (see [Supply Rating](../gm-tools/settlements.md#supply-ratings)).
+Anyone resting with you may also test the appropriate [Skill](../character#skills). Everyone, who has chosen the same skill and attribute, [tests as a group](skill-tests/index.md#group-tests). If you are resting in a town, you will most likely get bonus dice for your rest roll (see [Supply Rating](../gm-tools/settlements.md#supply-ratings)).
 
 You may use [Assets](assets) as usual, especially rations.
 

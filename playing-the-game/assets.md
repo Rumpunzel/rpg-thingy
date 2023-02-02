@@ -27,6 +27,7 @@ If an asset's quality rating drops to **0,** it can no longer be used.
 
 When you use an asset for minimum effort, but you still fail at the test, the asset does not increase the [Favor](/character#favor) you gain. You only get Favor for the hits you have actually rolled.
 
+{: .important }
 > Maro finds himself in a skirmish with a vicious assassin who ambushed him in a darkened street corner.
 > 
 > Maro attacks him with his axe, though luck isn't on his side, and he rolls **0** hits. His opponent achieved **1** effort. He is quicker than Maro and threatens to deflect the blow. Maro may now use his `Axe` asset with a quality rating of **2** to get a minimum effort of **2** on his test.

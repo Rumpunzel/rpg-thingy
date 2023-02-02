@@ -16,6 +16,7 @@ A trait has a rating ranging from **1** to **3.**
 
 By taking a trait, a player signals to the group that they are interested in that particular part of the story or their character. The higher the rating of your trait, the more they want the trait to come up in the game. Consider this when choosing your own traits. Think about what you want to experience during the game and try to model your character's traits after the goal.
 
+{: .important }
 > Maro has the trait `Exiled Sellsword of Gantha` with a rating of **2.** By taking this trait, he let the group know quite a bit about what he wanted to experience with his character. His character is a sellsword, so he will mostly likely want to invoke the trait during fights. His character is also from a place called Gantha from which he has been exiled. By putting both of these aspects of his character into one trait, he also signals that those two stories are somehow interconnected.
 >
 > He could have also split the trait in two such as `Exile of Gantha` and `Famed Sellsword` and given them different ratings, had one aspect been more important to him than the other or if they had nothing or little to do with each other in the story.
@@ -34,6 +35,7 @@ If the trait you invoke has a rating of **3,** you may use all dice modifiers of
 
 You may only invoke a single of your traits per test. If you have multiple traits which might fit, you have to choose only one of them.
 
+{: .important }
 > Cyrene has the trait `Drunkard` with a rating of **1.**
 >
 > During a drinking competition, she invokes it to explode the two **6s** she rolled, which, in the end, gives her just the edge she needs to emerge victorious.
@@ -51,8 +53,9 @@ When you test a skill, you may add one of your trait's rating to the difficulty,
 
 The GM may suggest one of your traits to be used to your detriment when it would be both appropriate and dramatic. You may decline to do so by spending **1** Favor. If you accept, use the trait to your detriment as you normally would.
 
-A trait may only hinder you on uncontested tests (see [Types of Tests](/skill-tests#uncontested-tests)).
+A trait may only hinder you on simple tests (see [Types of Tests](../playing-the-game/skill-tests/resolving-simple-tests)).
 
+{: .important }
 > When Cyrene tries to balance across a raging river, her `Drunkard` trait hinders her, and she adds **1** to the difficulty, which results in her falling into the water where the river drags her downstream instead of succeeding. However, the whole debakel netted her **1** additional **XP.**
 
 

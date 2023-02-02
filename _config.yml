@@ -67,7 +67,7 @@ callouts:
   highlight:
     color: yellow
   important:
-    title: Important
+    title: Story Time
     color: blue
   new:
     title: New

@@ -8,7 +8,7 @@ nav_order: 1
 
 # Attributes
 
-Each character has three **Attributes:** **Vigor,** **Intuition,** and **Reason.**
+Each character has three attributes: **Vigor,** **Intuition,** and **Reason.**
 
 Each attribute also has a numerical rating, which determines how many dice you roll when you test with that attribute. The rating is an objective measure of your character's potential effort they can muster when doing tasks. For example, a bear has more Vigor than a mouse and a dragon even more than almost anything.
 
@@ -23,8 +23,8 @@ Your character's attribute ratings are fundamental to they are and how they inte
 Vigor embodies immediacy, grit, and overwhelming force.
 
 <figure>
-  <img src="https://i.pinimg.com/originals/66/7e/3d/667e3d98a2ce911a9b38fb201aa38607.jpg" alt="Warrior">
-  <figcaption>A warrior faces his enemy armoured in heavy steel and fiery courage.</figcaption>
+  <img src="https://i.imgur.com/XY3Gqm5.jpg" alt="Warrior">
+  <figcaption>A warrior faces his undead enemy armoured in heavy steel and fiery courage.</figcaption>
 </figure>
 
 It's a matter of facing problems directly, head-on, courageous, and with conviction always at your side. A matter of going all out to win it and to win big. As such, it is the attribute most closely linked to the harnessing of fiery emotions.
@@ -58,7 +58,6 @@ Reason embodies prevention, foresight, and rigorous determination.
   <img src="https://i.pinimg.com/originals/ba/48/f1/ba48f10c05b0bd7b357aceecfcdbbffb.jpg" alt="Scholar">
   <figcaption>A scholar, after years of research, finally figures out what horror terrorizes the city.</figcaption>
 </figure>
-
 
 It's a matter of meeting problems on your own terms and with a contingency plan always by your side. A matter of knowing your enemies, their blind spots, and taking the time to masterfully exploit them.
 

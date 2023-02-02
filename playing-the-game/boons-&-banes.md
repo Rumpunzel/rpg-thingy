@@ -26,9 +26,10 @@ Sometimes boons and banes may also occur or are created outside a conflict. In t
 When you use a boon, add dice equal to the boon's rating to your roll. Though, after you do, the boon is used up and vanishes.  
 If you have multiple Boons which might fit, you have to choose only one of them.
 
+{: .important }
 > Cyrene wants to hide and sneak behind enemy lines. The camp is well guarded; someone is expecting her. The GM sets the difficulty to sneak into the camp at **2.** Cyrene tests Maneuver with Reason as she steps from shadow to shadow and rolls a phenomenal **4** successes. Easily enough to succeed. She spends **1** Favour and turns the **2** excess successes into a boon named `Hidden from Sight` with rating **2** on herself.
 >
-> In the enemy camp, she finds her target of her assassination mission: the loathsome merchant king Samson. Cyrene and the GM agree that they are more interested in the fallout of this event than the assassination itself, so murdering the merchant discretely without anyone noticing and making it out unseen will be a resolved with a single uncontested test with difficulty **3.**
+> In the enemy camp, she finds her target of her assassination mission: the loathsome merchant king Samson. Cyrene and the GM agree that they are more interested in the fallout of this event than the assassination itself, so murdering the merchant discretely without anyone noticing and making it out unseen will be a resolved with a single simple test with difficulty **3.**
 >
 > Cyrene's initial roll shows only **2** successes, but she may now invoke her Boon `Hidden from Sight` to gain **2** extra dice for her assassination attempt. The **2** extra dice turn her attempt into a success. The boon has been used and vanishes and so does Cyrene into the night.
 
@@ -40,8 +41,9 @@ If an opponent has multiple banes which you might use to aid you, you have to ch
 
 A bane is not itself one of your opponent's traits, so you may invoke both a bane and a detrimental trait for additional dice.
 
-If you are affected by a bane, your opponent's may use it to add dice to their rolls during contests. During uncontested tests, add your highest rated bane's rating, which would logically hinder you, to the test's difficulty.
+If you are affected by a bane, your opponent's may use it to add dice to their rolls during contests. During simple tests, add your highest rated bane's rating, which would logically hinder you, to the test's difficulty.
 
+{: .important }
 > The caravan Maro is escorting is being ambushed by bandits. One of the bandits is covered in mean battle scars, so Maro decides to leverage his superior mobility before engaging him directly. He tries to create a bane with Maneuver and Intuition on the bandit by running circles around him and throwing sand into his eyes. The bandit fails to defend against the attempt. Maro rolls **2** excess successes and creates a bane named `Sand in my Eyes!` with rating **2** on the bandit.
 >
 > Anyone attacking the bandit or defending against one of his attacks may now add **2** to their roll once after which the bane vanishes.
@@ -55,6 +57,7 @@ An enduring boon or bane degrades by **1** rating when it is used (instead of va
 
 Enduring boons and banes may exist beyond the context of a single conflict or scene, if it makes narrative sense.
 
+{: .important }
 > Cyrene and Maro have sneaked into a sleeping dragon's hoard to recover a long-lost artifact. The GM makes it quite clear that any test they fail while searching for the artifact will draw the attention of the dragon, though, thankfully, the dragon is asleep. To represent this, it has an enduring bane called `Caught in a Deep Slumber` with a rating of **3.**
 >
 > Maro starts climbing the hoard of gold with a Maneuver test but the dice forsake him, and he achieves **0** effort. He uses the `Caught in a Deep Slumber` bane and adds **3** extra dice to his roll, turning it into a success, though the `Caught in a Deep Slumber` bane degrades to a rating of **2** as a result. The dragon grunts in his sleep, one eye almost opens but Maro remains unnoticed. The two of them have some breathing room before the dragon wakes. For now.

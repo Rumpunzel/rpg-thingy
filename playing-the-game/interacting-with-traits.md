@@ -20,6 +20,7 @@ You may only invoke a single environmental trait per test. If there are multiple
 
 Once you have invoked an environmental trait during a scene, you may do so until the scene ends or the scene changes so that your previous description would no longer grant you an advantage without having to go into detail how you would leverage that trait to your advantage.
 
+{: .important }
 > Maro is infiltrating an enemy outpost in the dark of night. The group agrees that he may invoke the implied `Moonless Night` trait on the scene to gain **1** additional die when sneaking past the guards. As long as it remains night, he may add **1** additional die to his infiltration attempts.
 
 
@@ -27,6 +28,7 @@ Once you have invoked an environmental trait during a scene, you may do so until
 
 If you have a trait, openly known traits of places, creatures, or people connected to your area of expertise. You may ask the GM for this at any time, and you are invited to enrich the world with your descriptions of your character's experience any time you see fit.
 
+{: .important }
 > During their last adventure, Mare and Cyrene have crossed path with the robber king of Gantha and Maro got swept up in his character's past and now this robber king spells quite a bit of trouble. Though, as an `Exiled Sellsword of Gantha`, there is for sure something Maro knows about this robber king that might aid them in their struggle.
 
 Depending on the rating of your trait, different kinds of information are available to you of all places, creatures, or people connected to the trait:
@@ -35,6 +37,7 @@ Depending on the rating of your trait, different kinds of information are availa
 - **Rating 2+:** Their lowest rated hidden trait; their worst attribute; their disposition.
 - **Rating 3+:** Their highest rated hidden trait; all their attributes and skills.
 
+{: .important }
 > As Maro's trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's best attribute is Reason and that it is quite a lot higher than Maro's.
 >
 > Fortunately, he also learns of the robber king's lowest rated secret trait `Only goes out at Night` which has a rating of **1.** It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see [Research](resting#research)).
