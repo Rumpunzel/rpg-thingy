@@ -47,7 +47,7 @@ If you do not having a fitting trait when undertaking such an action, you may al
 ## Using Traits to your Detriment
 
 There are many reasons to use one of your traits to your detriment. It can lead to great roleplaying moments, it can let you communicate who your character is and what their flaws are, it can be simply for fun, and it can lead to you earning more **XP.**  
-During a [Simple Test](../playing-the-game/skill-tests/resolving-simple-tests.md), you may add one of your trait's rating to the difficulty, if it would make sense said trait would hinder you at what you are trying to achieve.
+During a [Simple Test](../playing-the-game/skill-tests/simple-tests.md), you may add one of your trait's rating to the difficulty, if it would make sense said trait would hinder you at what you are trying to achieve.
 
 You may use any of your traits to your detriment, as long as it makes sense that the trait would in some way hinder you.
 

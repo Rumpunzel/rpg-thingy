@@ -113,7 +113,7 @@ Once you have used an environmental trait during a scene, you may do so until th
 {: .important }
 > Maro is infiltrating an enemy outpost in the dark of night. The group agrees that he may use the implied `Moonless Night` trait on the scene to gain **1** additional die when sneaking past the guards. As long as it remains night, he may add **1** additional die to his infiltration attempts.
 
-When you test a skill targeting another character (either in a [Simple Test](skill-tests/resolving-simple-tests) or [Contest](skill-tests/resolving-contests)), you may use **1** of your target's traits which is known to you by describing how you would leverage that trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll.
+When you test a skill targeting another character (either in a [Simple Test](skill-tests/simple-tests) or [Contest](skill-tests/contests)), you may use **1** of your target's traits which is known to you by describing how you would leverage that trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll.
 
 You may only use a single of your target's traits per test. If your target has multiple fitting traits, you may only choose **1** of them.  
 If you are testing against multiple opponents in a contest, you may also choose **1** trait from among all their traits.

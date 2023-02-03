@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Resolving Simple Tests
-description: Stuff about resolving simple tests
+title: Simple Tests
+description: Stuff about simple tests
 parent: Skill Tests
 grand_parent: Playing the Game
 nav_order: 1
 ---
 
-# Resolving Tests
+# Simple Tests
 
 As mentioned above, most often simple tests result from an environmental trait that would noticeably hinder your effort or a character or creature with a trait that would noticeably hinder your effort opposing you. The trait's rating is the test's difficulty.
 
@@ -22,6 +22,7 @@ If both an environmental and an opponent's trait would notably hinder your effor
 Only add the rating of **1** environmental trait and/or **1** opponent's trait to the difficulty of a simple test. When multiple would apply, choose the highest or most relevant.
 
 If the difficulty of a simple test ever exceeds **3,** consider the characters' goals to determine if a single die roll really is the best way to resolve the situation or if a more detailed conflict would be more appropriate.
+
 
 ## Consequences
 
@@ -48,6 +49,7 @@ The aim is to create a solid baseline for the flow of play.
 > Cyrene throws her **5** dice. Two dice come up **1** and. As she chose Intuition as her Approach, she uses her trait `Charming Stranger` to re-roll those **1s.** Her result now is **2, 3, 4, 4, 6.** All dice which come up **5+** are hits for her, so she achieved **1** effort; not enough to succeed. The guards remain untouched by her charm, though one ogles the sword at her side. She came to the city to rest not exhaust herself even more, nor is she willing to give up her sword to gain entry, so she decides against powering through and .
 >
 > She marks **1** **XP** for the **1** effort she achieved, but now she must try another way to get into the city. She could try to frighten the guards into letting her pass, but with them already looking irritated and with her Vigor rating of **3,** she fears this might go poorly for her and so decides against it.
+
 
 ## Let It Ride
 

@@ -8,30 +8,54 @@ nav_order: 2
 
 # Boons & Banes
 
-When you want to create an advantage for yourself or an ally, or hinder an opponent, you may create a boon to aid or a bane to hinder. During conflicts, you may the main purpose of positioning is creating boons and banes.
+When you want to create an advantage for yourself or an ally, or hinder an opponent, you may create a boon to aid or a bane to hinder.
 
-Boons and banes are temporary traits, which are one-use only. They may be used on any test where it would make sense that they would help or hinder.  
+Boons and banes are temporary traits, which are one-use only. They may be used on any test where it would make sense that they would help or hinder.
+
 In general, boons and banes can only be utilized with the same attribute with which they were created. Though, if it makes sense in the narrative, you may use them with other attributes as well.
 
-When you test a skill to create a boon or bane, your effort (or margin of effort if someone defends against your attempt) determines the boon's/bane's rating.
+## Creating Boons & Banes
 
-You may also turn excess effort after you have succeeded on a test into a boon on yourself; or, if you succeeded in a contest, into a bane on your opponent, by spending **1** Favour.
+### Positioning during Conflicts
 
-Most boons and banes only last for the context they were created in, so for the duration of the conflict.  
-Sometimes boons and banes may also occur or are created outside a conflict. In that case, they last for the duration of the scene they were created in.
+During [Conflicts](conflicts) the main purpose of [Positioning](conflicts#positioning) is creating boons and banes.
+
+When you test a skill to create a boon or bane during a conflict, your effort (or margin of effort if someone defends against your attempt) determines the boon's/bane's rating.
+
+Most boons and banes (unless they are [Enduring](#enduring-boons--banes)) only last for the context they were created in, so for the duration of the conflict.
+
+{: .important }
+> The caravan Maro is escorting is being ambushed by bandits. One of the bandits is covered in mean battle scars, so Maro decides to leverage his superior mobility before engaging him directly. He tries to create a bane with Maneuver and Intuition on the bandit by running circles around him and throwing sand into his eyes. The bandit fails to defend against the attempt. Maro rolls **2** excess successes and creates a bane named `SAND IN MY EYES!` with rating **2** on the bandit.
+>
+> Anyone attacking the bandit or defending against one of his attacks may now add **2** to their roll once after which the bane vanishes.
+
+### With Skill Tests
+
+Boons and banes may also be created outside a conflict. In that case, they last for as long as it makes sense or the scene ends.
+
+You may increase the difficulty of a test (even if the difficulty is **0** i.e. you would not have rolled a skill test normally) by the rating of an additional trait.  
+When you do, and you succeed on the skill test, in addition to succeeding, you create a boon or bane with rating equal to the rating of the additional trait you chose.  
+Should you not succeed on the test, not only will you not get what you want, but instead of creating a boon a bane is created on you (and instead of a bane a boon is created).
+
+You may also turn excess effort after you have succeeded on a test into a boon on yourself; or, if you succeeded in a contest, into a bane on your opponent, by spending **1** Favour.  
+You may also improve a boon or bane by the excess effort you achieved when creating it by spending **1** Favour.  
+
+{: .important }
+> Cyrene wants to hide and sneak behind enemy lines to deliver a threat to their general. The camp is well guarded and there are `GUARDS PATROLLING EVERYWHERE`; they are expecting unwanted visitors.
+> 
+> As she is a simple messenger, she could ask to be taken to the general, but she wants to meat him on her own terms and sneak into the camp instead. The difficulty to sneak into the camp at **2** because of the `GUARDS PATROLLING EVERYWHERE` trait. Cyrene tests Maneuver with Reason as she steps from shadow to shadow and succeeds. She creates a boon named `ONE WITH THE SHADOWS` with rating **2** on herself.
 
 
 ## Boons
 
-When you use a boon, add dice equal to the boon's rating to your roll. Though, after you do, the boon is used up and vanishes.  
-If you have multiple Boons which might fit, you have to choose only one of them.
+When you use a boon, add dice equal to the boon's rating to your roll. Though, after you do, the boon is used up and vanishes.
+
+If you have multiple Boons which might aid you, you have to choose only one of them.
 
 {: .important }
-> Cyrene wants to hide and sneak behind enemy lines. The camp is well guarded; someone is expecting her. The GM sets the difficulty to sneak into the camp at **2.** Cyrene tests Maneuver with Reason as she steps from shadow to shadow and rolls a phenomenal **4** successes. Easily enough to succeed. She spends **1** Favour and turns the **2** excess successes into a boon named `Hidden from Sight` with rating **2** on herself.
+> In the enemy camp, Cyrene finds the general in his tent meditating. She steps from the shadows and delivers her message with the utmost intent to intimidate him into accepting peace negotiations. The general's `DEVOTED SERVANT OF THE EMPIRE` trait sets the difficulty of the test at **2.** Though, the GM argues that the `FORTIFIED CAMP` trait increases the difficulty to a total of **3.**
 >
-> In the enemy camp, she finds her target of her assassination mission: the loathsome merchant king Samson. Cyrene and the GM agree that they are more interested in the fallout of this event than the assassination itself, so murdering the merchant discretely without anyone noticing and making it out unseen will be a resolved with a single simple test with difficulty **3.**
->
-> Cyrene's initial roll shows only **2** successes, but she may now invoke her Boon `Hidden from Sight` to gain **2** extra dice for her assassination attempt. The **2** extra dice turn her attempt into a success. The boon has been used and vanishes and so does Cyrene into the night.
+> Cyrene's tests Influence with Vigor and her initial roll shows only **1** success, as her Vigor is not very high, but she may now invoke her Boon `ONE WITH THE SHADOWS` to gain **2** extra dice for her intimidation attempt. The **2** extra dice turn her attempt into a success. The boon has been used and vanishes and so does Cyrene into the night, with a smile on her face.
 
 
 ## Banes
@@ -42,11 +66,6 @@ If an opponent has multiple banes which you might use to aid you, you have to ch
 A bane is not itself one of your opponent's traits, so you may invoke both a bane and a detrimental trait for additional dice.
 
 If you are affected by a bane, your opponent's may use it to add dice to their rolls during contests. During simple tests, add your highest rated bane's rating, which would logically hinder you, to the test's difficulty.
-
-{: .important }
-> The caravan Maro is escorting is being ambushed by bandits. One of the bandits is covered in mean battle scars, so Maro decides to leverage his superior mobility before engaging him directly. He tries to create a bane with Maneuver and Intuition on the bandit by running circles around him and throwing sand into his eyes. The bandit fails to defend against the attempt. Maro rolls **2** excess successes and creates a bane named `Sand in my Eyes!` with rating **2** on the bandit.
->
-> Anyone attacking the bandit or defending against one of his attacks may now add **2** to their roll once after which the bane vanishes.
 
 
 ## Enduring Boons & Banes
@@ -65,9 +84,9 @@ Enduring boons and banes may exist beyond the context of a single conflict or sc
 
 ## Extraordinary Boons & Banes
 
-Boons and banes with extraordinary high ratings may let you add free dice to your roll without using up the boon and without it vanishing (similar to [Masterpiece Assets](/assets#masterpieces)).
+Boons and banes with extraordinary high ratings may let you add free dice to your roll without using up the boon and without it vanishing (similar to [Masterpiece Assets](assets#masterpieces)).
 
-An extraordinary enduring boon or bane only degrades whenever a normal boon or bane would degrade, so not when you use its free dice.
+An extraordinary enduring boon or bane only degrades whenever a normal boon or bane would vanish, so not when you use its free dice.
 
 | Boon Rating | Free Dice |
 |:-----------:|:---------:|

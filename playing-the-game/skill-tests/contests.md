@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Resolving Contests
-description: Stuff about resolving contests
+title: Contests
+description: Stuff about contests
 parent: Skill Tests
 grand_parent: Playing the Game
 nav_order: 2
 ---
 
-# Resolving a Contest
+# Contests
 
 The attacker makes a test; the achieved effort sets the difficulty of the contest for the defender. Then, the defender tests to try to achieve enough effort.
 
