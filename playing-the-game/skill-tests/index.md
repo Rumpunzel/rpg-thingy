@@ -75,5 +75,5 @@ Apart from completing goals, this is the only way go gain **XP** for your skills
 > - Determine if the test will be simple, a contest, or a conflict.
 > - **Roll the dice.**
 > - The target number for your dice is determined by the skill you've chosen. Every face of a die that comes up as at least that number, is a hit, all others are misses.
-> - Invoke traits, use traits to you detriment, and spend Favor.
-> - Determine the outcome of the test. If you succeeded, you get what you want, otherwise mark **XP** equal to the number of hits you rolled.
+> - Use traits either for dice modifiers, extra dice, or an increases difficulty, and spend Favor.
+> - Determine the outcome of the test. If you succeeded, you get what you want, otherwise mark **XP** equal to the number of hits you rolled and resolve the consequences of the test.

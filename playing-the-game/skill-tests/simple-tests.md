@@ -44,7 +44,7 @@ The aim is to create a solid baseline for the flow of play.
 >
 > The GM decides a simple test will suffice to convincing the guards to let Cyrene pass.
 >
-> The sultan's city has the trait `Under Martial Law` with a rating of **2** so the difficulty for the test is also **2.** The curfew turns an otherwise trivial task into a challenge.
+> The sultan's city has the trait `UNDER MARTIAL LAW` with a rating of **2** so the difficulty for the test is also **2.** The curfew turns an otherwise trivial task into a challenge.
 >
 > Cyrene throws her **5** dice. Two dice come up **1** and. As she chose Intuition as her Approach, she uses her trait `Charming Stranger` to re-roll those **1s.** Her result now is **2, 3, 4, 4, 6.** All dice which come up **5+** are hits for her, so she achieved **1** effort; not enough to succeed. The guards remain untouched by her charm, though one ogles the sword at her side. She came to the city to rest not exhaust herself even more, nor is she willing to give up her sword to gain entry, so she decides against powering through and .
 >
@@ -68,17 +68,17 @@ During simple tests, for each participant beyond the first, the difficulty of th
 
 Group tests can be incredible tools to achieve great deeds. They can also simply be used to help your compatriots to overcome obstacles you find trivial. But they come at the cost of increasing the risk for all participants. You either win or you fail as a group.
 
-When a group fails a simple test, each member of the group receives **XP** equal to the effort they individually mustered.
+When a group fails a simple test, each member of the group receives **XP** equal to the hits each of them individually rolled.
 
-A group can power through but _each_ member of the group takes stress equal to the difference between the test's difficulty and the effort they, individually, achieved.
+When a group suffers stress, _each_ member of the group takes stress equal to the difference between the test's difficulty and the effort they, individually, achieved. As difficulty increases with each member of a group, this can result in drastic setbacks.
 
 {: .important }
 > Outside the city, Cyrene meets up with her travel companion Maro, who comes to her with grave news. They definitely need to enter the sultan's city _tonight._ Luckily, Maro remembers scaffolding at the south wall he passed by a few days ago. When they arrive fortune is on their side. Only a few guards in sight. But scaling the city wall undetected will still not be an easy task.
 >
-> The city wall has the trait `Weathered & Steep` with a rating of **2,** so the difficulty for the test is **2** but because of the `Martial Law`, there are guards on the wall `Keeping Watch` which increases the difficulty by **1** which is now **3** because they want to enter the city unseen.
+> The city wall has the trait `WEATHERED AND STEEP FORTIFICATIONS` with a rating of **2,** so the difficulty for the test is **2** but because of the `UNDER MARTIAL LAW`, there are `GUARDS PATROLLING THE WALLS`, though that trait only has rating **1** which increases the difficulty to **3** because they want to enter the city unseen.
 >
-> Though, they can use the `Scaffolding` trait with rating **1** to their advantage.
+> Though, they can use the `SCAFFOLDING` trait with rating **1** to their advantage.
 > 
-> Cyrene and Maro attempt to climb the wall as a group, which increases the difficulty by **1** to **4.** They both test their Maneuver with Vigor (as the task will require endurance more than anything else). They both invoke the `Scaffolding` trait to add **1** additional die to their roll. Cyrene rolls **2** hits and so does Maro for a total of **4** effort; just enough to succeed.
+> Cyrene and Maro attempt to climb the wall as a group, which increases the difficulty by **1** to **4.** They both test their Maneuver with Vigor (as the task will require endurance more than anything else). They both use the `SCAFFOLDING` trait to add **1** additional die to their roll. Cyrene rolls **2** hits and so does Maro for a total of **4** effort; just enough to succeed.
 > 
 > Alone, none of them would not have managed to scale the wall undetected, but together they prevailed, and now they are finally inside.

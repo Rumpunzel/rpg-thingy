@@ -24,18 +24,18 @@ The Truth your characters believes in is an objectively true fact about your cha
 
 You can either phrase it as a statement...
 
-{: .highlight }
+{: .important-title }
 The traitor who killed my father must die.
 
-{: .highlight }
+{: .important-title }
 The honour of my family will endure.
 
 ...or as a quote your character might regularly think, say, or embody.
 
-{: .highlight }
+{: .important-title }
 "Every one of my friends can rely on me through hell."
 
-{: .highlight }
+{: .important-title }
 "BY THE POWER OF GRAYSKULL, I HAVE THE POWER!"
 
 The sign of a good Truth is that whenever you find yourself in a tricky situation or unsure what to do next, you can look at your character sheet, and it nudges you into the right direction.
@@ -48,18 +48,18 @@ Just like the Truth your character believes in, you can phrase the Lie your they
 
 A conviction your character believes to be true, wittingly or unwittingly, though it is a delusion, a self-deception or misjudgement about their surroundings that you, as a player, know to be incorrect. The central questions such a Lie poses are: How will the character learn? What will it take? Where will it take? Will they find the courage to face the truth when push comes to shove?
 
-{: .highlight }
+{: .important-title }
 I owe the Order of the Silver Falcon my life. There is no nobler goal than to give my life to repay my debt. 
 
-{: .highlight }
+{: .important-title }
 I have left my life as a mercenary behind me. Is now a well-adjusted, productive member of society.
 
 A conjecture about your character that might or might not be true. Neither your character nor you know if it true or not. A Lie that is a conjecture is often _possibly_ true and the character's journey will consist of them proving that they were right to believe so from the start or learn the hard way that they were mistaken. The central question such a Lie poses is: Is this true?
 
-{: .highlight }
+{: .important-title }
 "I am not worthy to inherit my master's workshop."
 
-{: .highlight }
+{: .important-title }
 "The traitor who killed my father must die."
 
 As you can see, the same phrase can be used either as a Truth or a Lie, though its meaning drastically shifts. As a Truth, `"The traitor who killed my father must die."` is a goal your character has that they will either fulfill or die trying. As a Lie, it is meant to be challenged as the story progresses. Does he indeed deserve to die? What did my father do that he was betrayed and murdered? Am I at fault for my father's death? These are all questions that only result from Lies, for they are meant to be challenged, not from Truths.

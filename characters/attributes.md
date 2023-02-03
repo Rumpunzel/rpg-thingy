@@ -39,8 +39,8 @@ If your character has a high Vigor rating, they excel whenever they swing their 
 Intuition embodies reactivity, improvisation, and fluid adaptability.
 
 <figure>
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae931af7-c579-4291-97f3-a7b57e6a7ac3/d25drmo-932f3032-87a7-4644-8dd3-54e50ae26ce5.jpg/v1/fill/w_600,h_746,q_75,strp/hunting_party_by_jeh_artist_d25drmo-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzQ2IiwicGF0aCI6IlwvZlwvYWU5MzFhZjctYzU3OS00MjkxLTk3ZjMtYTdiNTdlNmE3YWMzXC9kMjVkcm1vLTkzMmYzMDMyLTg3YTctNDY0NC04ZGQzLTU0ZTUwYWUyNmNlNS5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ySDefElllXftpw8aNc5YXvX7AEXsCxpD-cFjAPOSddk" alt="Hunting Party">
-  <figcaption>A hunting party tracks their prey, paying attention to every scrape and broken branch.</figcaption>
+  <img src="https://4.bp.blogspot.com/-Is2zCtUopaI/WQd6HCn_XdI/AAAAAAAAE-M/-eJ_-y3BAzg7iVFS_6lfhFuef9ZPBhHsACLcB/s640/single%2Bfight.jpg" alt="Derwish">
+  <figcaption>A derwish deftly swirls his weapons as he dances around his foes.</figcaption>
 </figure>
 
 It's a matter of utilizing opportunities in the heat of the moment and with the element of surprise always on your side. A matter of tipping the scales in your favour by paying close attention and going with the flow.
@@ -55,8 +55,8 @@ If your character has a high Intuition rating, they excel whenever they swirl th
 Reason embodies prevention, foresight, and rigorous determination.
 
 <figure>
-  <img src="https://i.pinimg.com/originals/ba/48/f1/ba48f10c05b0bd7b357aceecfcdbbffb.jpg" alt="Scholar">
-  <figcaption>A scholar, after years of research, finally figures out what horror terrorizes the city.</figcaption>
+  <img src="https://64.media.tumblr.com/b3935c71f195a39d5be393c995f63c8b/tumblr_olfcntpb0I1ro2bqto1_1280.jpg" alt="Spies">
+  <figcaption>A group of spies infiltrates enemy territory, unseen and unheard.</figcaption>
 </figure>
 
 It's a matter of meeting problems on your own terms and with a contingency plan always by your side. A matter of knowing your enemies, their blind spots, and taking the time to masterfully exploit them.

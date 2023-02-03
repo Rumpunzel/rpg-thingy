@@ -10,12 +10,12 @@ nav_order: 0
 
 A lot of the time, when you want to do something in the fictional world, you simply do it. For example, if you want to stroll across the countryside and take in the sights, you simply do it.
 
-On the other hand, if you wanted to venture deep into the dark unknown to throw the One Ring into Mount Doom, it would feel quite cheap and anticlimactic if you simply were done with it and home again by the end of your sentence.
-
 <figure>
   <img src="https://i.imgur.com/8jYjsCF.jpg" alt="Male-swordsman-fighting3orcs-scene">
   <figcaption>A fight is the classic situation where we want dice to have a say in determining the outcome.</figcaption>
 </figure>
+
+On the other hand, if you wanted to venture deep into the dark unknown to throw the One Ring into Mount Doom, it would feel quite cheap and anticlimactic if you simply were done with it and home again by the end of your sentence.
 
 A similar need for a dramatic resolution occurs when you want to hit a baddie with your sword, bribe a guard, or try to walk across a tightrope. It's the moment we roll the dice, the moment we relinquish total control over the fictional world of our own making so random chance may satisfy our thirst for a dramatic resolution.
 
