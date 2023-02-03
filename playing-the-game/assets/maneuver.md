@@ -21,17 +21,20 @@ wicked: "- **Wicked:** When adding dice from a boon or bane created with Intuiti
 
 
 layout: default
-title: Craft Gear
-description: List of Craft gear
-parent: Gear
-nav_order: 5
+title: Maneuver Gear
+description: List of Maneuver gear
+parent: Assets
+grand_parent: Playing the Game
+nav_order: 3
 ---
 
-# Craft Gear
+# Maneuver Gear
 
+|         Name         |     Use      | Properties | Resources |
+|:--------------------:|:------------:|:----------:|:---------:|
+|  **Climbing Gear**   | 🗡 Intuition |            |           |
+| **Draft Horse/Mule** |   🗡 Vigor   |            |           |
+|   **Riding Horse**   | 🛡 Intuition |            |           |
+|     **Warhorse**     | 🗡 🛡 Vigor  |            |           |
 
-
-
-# Means Gear
-
-
+- **Warhorse:** When attacking with a weapon with the _Reach_ property, it also gains the _Versatile_ property for that attack

@@ -23,7 +23,8 @@ wicked: "- **Wicked:** When adding dice from a boon or bane created with Intuiti
 layout: default
 title: Fight Gear
 description: List of Fight gear
-parent: Gear
+parent: Assets
+grand_parent: Playing the Game
 nav_order: 2
 ---
 

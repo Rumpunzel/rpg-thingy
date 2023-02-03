@@ -3,7 +3,7 @@ layout: default
 title: Conflicts
 description: Stuff about conflicts
 parent: Playing the Game
-nav_order: 4
+nav_order: 3
 ---
 
 # Conflicts

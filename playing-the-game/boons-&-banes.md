@@ -3,7 +3,7 @@ layout: default
 title: Boons & Banes
 description: Stuff about boons & banes
 parent: Playing the Game
-nav_order: 3
+nav_order: 2
 ---
 
 # Boons & Banes

@@ -94,12 +94,10 @@ If you want to hit a training dummy, it simply happens, as it has no trait that 
 
 In gameplay terms, the difficulty of the test would be the rating of the trait `Lady of Castle Longlake`, so in this case **2.** The dummy can be completely neglected as it hardly opposes you in your attempt to impress.
 
-If, instead of hitting a training dummy, you wanted to also achieve a second, different goal, such as beating a rival knight in a duel, while still impressing the `Lady of Castle Longlake`, add the rating of the trait describing the second challenge to the difficulty of the test. If you succeed on the test, you accomplish both goals at the same time; otherwise if you achieved enough effort to you accomplish one of the two goals, you do so (this means you might beat your rival with impressing or impress while losing the duel); otherwise you accomplish neither.
-
-In general, if an action has only one (interesting) outcome, it simply happens. While it is true that, at least in theory, a character could trip and fall down the stairs every time (as there is a `Staircase` trait on the scene), both walking down and falling down the stairs are absolutely uninteresting, and the `Staircase` does not get into your way when trying to achieve your goal to ascend or descend it, so the action simply happens.
-
 {: .note-title }
 > Traits as Obstacles in Revue
+> 
+> In general, if an action has only one (interesting) outcome, it simply happens. While it is true that, at least in theory, a character could trip and fall down the stairs every time (as there is a `Staircase` trait on the scene), both walking down and falling down the stairs are absolutely uninteresting, and the `Staircase` does not get into your way when trying to achieve your goal to ascend or descend it, so the action simply happens.
 > 
 > In brief, if there is no ulterior goal to an action, there is plenty of time to accomplish it, there is no opposition from either the world or another character, and there are fewer than two interesting outcomes, then an action simply happens. Either you get what you want or the action is impossible, and you must find another way.
 

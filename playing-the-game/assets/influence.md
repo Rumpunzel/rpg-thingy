@@ -23,7 +23,8 @@ wicked: "- **Wicked:** When adding dice from a boon or bane created with Intuiti
 layout: default
 title: Influence Gear
 description: List of Influence gear
-parent: Gear
+parent: Assets
+grand_parent: Playing the Game
 nav_order: 1
 ---
 

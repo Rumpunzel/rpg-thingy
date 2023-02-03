@@ -21,12 +21,16 @@ wicked: "- **Wicked:** When adding dice from a boon or bane created with Intuiti
 
 
 layout: default
-title: Means Gear
-description: List of Means gear
-parent: Gear
-nav_order: 6
+title: Wilderness Gear
+description: List of Wilderness gear
+parent: Assets
+grand_parent: Playing the Game
+nav_order: 4
 ---
 
-# Means Gear
+# Wilderness Gear
 
-
+|       Name        |   Use    | Properties | Resources |
+|:-----------------:|:--------:|:----------:|:---------:|
+|     **Cloak**     | 🛡 Vigor |            |           |
+|  **Rowing Boat**  | 🗡 Vigor |            |           |
