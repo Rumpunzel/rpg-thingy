@@ -12,7 +12,7 @@ The most _Jamal_ way for the modern dice goblin to hallucinate!
 {: .fs-6 .fw-300 }
 
 [Read the Rules](characters){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Create a Character](404){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Create a Character](characters/character-creation){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

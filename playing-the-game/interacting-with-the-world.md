@@ -92,7 +92,7 @@ A character's goals also influence the certainty of actions. Though, a test and 
 
 If you want to hit a training dummy, it simply happens, as it has no trait that might oppose you. If, on the other hand, you want to hit the training dummy to impress an onlooker, you may still hit the dummy, but as the onlooker might have a trait (such as `Lady of Castle Longlake`) which would oppose you in your attempts to impress, the situation calls for a dramatic resolution, so you consult the dice.
 
-In gameplay terms, the difficulty of the test would be the rating of the trait `Lady of Castle Longlake`, so in this case **2.** The dummy can be completely neglected as it hardly opposes you in your attempt to impress.
+In gameplay terms, the difficulty of the test would be the rating of the trait `Lady of Castle Longlake`, so in this case **2.** The dummy can be completely neglected as it hardly opposes you in your attempt to impress (the result of this test would be a [Boon](boons-&-banes#using-traits)).
 
 {: .note-title }
 > Traits as Obstacles in Revue

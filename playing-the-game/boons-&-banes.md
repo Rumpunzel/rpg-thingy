@@ -29,7 +29,7 @@ Most boons and banes (unless they are [Enduring](#enduring-boons--banes)) only l
 >
 > Anyone attacking the bandit or defending against one of his attacks may now add **2** to their roll once after which the bane vanishes.
 
-### With Skill Tests
+### Using Traits
 
 Boons and banes may also be created outside a conflict. In that case, they last for as long as it makes sense or the scene ends.
 
