@@ -9,23 +9,23 @@ nav_order: 2
 
 # Fight Feats
 
-### Reckless
+### Juggernaut
 
-When creating a boon or bane with Vigor, you may make it enduring by suffering **1** physical stress.
+When attacking with Vigor, roll an additional die for each opponent defending against you.
 
 ### Steadfast
 
-When defending with Vigor against multiple opponents, roll an additional die for each opponent attacking you.
+When defending with Vigor, roll an additional die for each opponent attacking you.
 
 ---
 
 ### Cutthroat
 
-When attacking, roll an additional die for each opponent defending against you.
+When creating a boon or bane, you may make it enduring by suffering **1** physical or mental stress (your choice).
 
-### Pack Tactics
+### Saboteur
 
-When attacking as a group with Intuition, your allies do not increase the difficulty and not add extra dice for your opponent(s).
+During conflicts, when you successfully attack with Intuition, you may discard an opponent's asset with rating less or equal to the amount of stress you inflicted.
 
 ---
 
@@ -34,9 +34,9 @@ When attacking as a group with Intuition, your allies do not increase the diffic
 Conditions cannot hinder your attacks.  
 At the beginning of a Fight conflict, if you suffer from a condition, you may gain an enduring `Battle Trance` boon with rating equal to the condition's rating.
 
-### Where there's a Will
+### Deadly Precision
 
-During conflicts, you may choose a number and suffer that much stress. When you do, create a boon on yourself with rating equal to the amount of stress you suffered.
+While you are affected by a boon, increase your effort by **1** for each **1** your opponents roll.
 
 
 
@@ -44,11 +44,11 @@ During conflicts, you may choose a number and suffer that much stress. When you 
 
 ### Bolster
 
-When defending with Fight, each **6** counts as two hits.
+When defending as a group with Fight, your allies do not increase the difficulty and not add extra dice for your opponent(s).
 
 ### Slayer
 
-When attacking with Vigor in a Fight conflict, you inflict **1** additional stress for each **6** you rolled, even if your opponent defended successfully (this does not increase the damage to the opponent's morale).
+When attacking with Vigor, you inflict **1** additional stress if you rolled at least one **6,** even if your opponent defended successfully (this does not increase the damage to the opponent's morale).
 
 ---
 

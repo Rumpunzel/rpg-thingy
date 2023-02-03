@@ -147,8 +147,7 @@ Your Last Stand represents one last chance to still achieve your team's goal, to
 
 During your Last Stand you can still act normally in the conflict, despite your grievous setbacks until your leave your Last Stand. Resolve your actions as you normally would with the following exceptions:
 
-- During your Last Stand, if any of your actions cause the morale of an opposing team to break, you gain an [Epiphany](../advancement#epiphany)
-- When all opposing teams have lost the conflict, your leave your Last Stand and you live to see another day.
+- When all opposing teams have lost the conflict, your leave your Last Stand and you live to see another day. You gain an [Epiphany](../advancement#epiphany) for each defeated team.
 - If, at any point during your Last Stand, you suffer any stress, you perish. (Depending on the type of conflict, you either die in battle, are exiled forever, completely lose you mind, etc.)
 
 

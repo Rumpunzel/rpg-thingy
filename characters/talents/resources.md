@@ -31,7 +31,7 @@ You may spend **1** Favor or discard **1** Boon affecting you to exchange rolls 
 
 ### Eagle Eye
 
-All attributes but Reason struggle to defend against your Reason.
+Reason also struggles to defend against your Reason.
 
 ### Know Thyself
 
@@ -61,9 +61,9 @@ When resting in the wilderness, you may buy and sell assets with Resources as if
 
 ---
 
-### Bookworm
+### Iconoclast
 
-Add **1** effort when researching traits.
+At the beginning of each conflict choose a talent. For the duration of the conflict you gain that talent.
 
 ### Thrifty
 

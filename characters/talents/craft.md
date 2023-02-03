@@ -15,7 +15,7 @@ When using a trait for a dice modifier,you may choose which dice modifier to use
 
 ### Resourceful
 
-If you roll a **6** on a test, one asset of your choice you used on that test does not degrade.
+If you roll at least one **6** on a test, one asset of your choice you used on that test does not degrade.
 
 ---
 
@@ -31,7 +31,7 @@ Boons you create with Intuition only vanish (or degrade) if you do not succeed o
 
 ### Ingenuity
 
-Get **1** additional die when crafting assets.
+Whenever you create or improve an asset, if you rolled at least one **6** and no **1s,** increase its quality rating **1** additional time.
 
 ### Master Artisan
 
@@ -51,13 +51,13 @@ You may ignore **1** **Refined with PARAPHERNALIA** property of weapon and armor
 
 ---
 
-### Always Prepared
+### Trinkets & Baubles
 
-Boons and banes you create with Craft are enduring.
+Get **1** additional die when crafting assets.
 
-### Saboteur
+### Learning on the Job
 
-During conflict,s When you successfully attack with Intuition, you may discard an opponent's asset with rating less or equal to the amount of stress you inflicted.
+While resting, if someone gains **XP** through practice, they gain **1** additional **XP.** If that someone is not you, you also get **1** **XP** in the practiced skill.
 
 ---
 
