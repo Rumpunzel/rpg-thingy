@@ -35,7 +35,7 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ## Vigor Gear
 
-|      Weapon      |                  Properties                  |                      Resources                      |
+|      Weapon      |                  Properties                  |                    Paraphernalia                    |
 |:----------------:|:--------------------------------------------:|:---------------------------------------------------:|
 |    🗡 **Axe**    |                 _Ferocious_                  |                      `Sturdy`                       |
 |   🗡 **Mace**    |                   _Deadly_                   |                      `Sturdy`                       |
@@ -52,7 +52,7 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ## Intuition Gear
 
-|        Weapon         |                   Properties                    |       Resources       |
+|        Weapon         |                   Properties                    |     Paraphernalia     |
 |:---------------------:|:-----------------------------------------------:|:---------------------:|
 |     🗡 **Knife**      |                    _Wicked_                     |      `Precious`       |
 |     🗡 **Dagger**     |                _Deadly, Wicked_                 | `Supple` + `Precious` |
@@ -71,7 +71,7 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ## Reason Gear
 
-|     Weapon      |                Properties                 |       Resources       |
+|     Weapon      |                Properties                 |     Paraphernalia     |
 |:---------------:|:-----------------------------------------:|:---------------------:|
 |  🗡 **Spear**   |                _Tactical_                 |       `Sturdy`        |
 |   🗡 **Bill**   |            _Tactical, Wicked_             | `Sturdy` + `Precious` |
@@ -90,12 +90,12 @@ Assets for Fight conflicts come in two variations: weapons to attack and armor t
 
 ## Special Gear
 
-|      Weapon       |         Properties         |       Resources       |
-|:-----------------:|:--------------------------:|:---------------------:|
-| 🗡 **Ammunition** |         _Reliable_         |       `Supple`        |
-|   🗡 **Barbed**   |   _Ferocious, Reliable_    | `Supple` + `Precious` |
-|   🗡 **Bodkin**   |     _Deadly, Reliable_     | `Supple` + `Precious` |
-|   🛡 **Helmet**   |         _Reliable_         |      `Precious`       |
+|      Weapon       |      Properties       |     Paraphernalia     |
+|:-----------------:|:---------------------:|:---------------------:|
+| 🗡 **Ammunition** |      _Reliable_       |       `Supple`        |
+|   🗡 **Barbed**   | _Ferocious, Reliable_ | `Supple` + `Precious` |
+|   🗡 **Bodkin**   |  _Deadly, Reliable_   | `Supple` + `Precious` |
+|   🛡 **Helmet**   |      _Reliable_       |      `Precious`       |
 
 {{ page.deadly }}
 {{ page.ferocious }}

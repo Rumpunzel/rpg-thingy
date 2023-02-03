@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Means Talents
-description: List of Means talents
+title: Resources Talents
+description: List of Resources talents
 parent: Talents
 grand_parent: Characters
 nav_order: 6
 ---
 
-# Means Feats
+# Resources Feats
 
 ### Deep Pockets
 
@@ -39,7 +39,7 @@ When an opponent uses one of your traits against you, you may also add the trait
 
 
 
-# Means Specializations
+# Resources Specializations
 
 ### Haggler
 
@@ -47,7 +47,7 @@ Decrease the difficulty of buying assets by **1** to a minimum of **1.**
 
 ### Renown
 
-While resting, double your successes when working or researching with Vigor in a settlement.
+While resting, double your successes when working or researching with Vigor.
 
 ---
 
@@ -57,7 +57,7 @@ When successfully researching with Intuition, in addition of gaining information
 
 ### Peddler
 
-When resting in the wilderness, you may buy and sell assets with Means as if you were resting in a settlement.
+When resting in the wilderness, you may buy and sell assets with Resources as if you were resting in a settlement.
 
 ---
 
@@ -65,6 +65,6 @@ When resting in the wilderness, you may buy and sell assets with Means as if you
 
 Add **1** effort when researching traits.
 
-### Banker
+### Thrifty
 
 Increase the rating of all `Currency` assets you gain by **1.**

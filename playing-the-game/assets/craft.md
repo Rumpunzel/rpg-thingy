@@ -10,8 +10,3 @@ nav_order: 5
 # Craft Gear
 
 
-
-
-# Means Gear
-
-

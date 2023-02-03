@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Means Gear
-description: List of Means gear
+title: Resources Gear
+description: List of Resources gear
 parent: Assets
 grand_parent: Playing the Game
 nav_order: 6
 ---
 
-# Means Gear
+# Resources Gear
 
 

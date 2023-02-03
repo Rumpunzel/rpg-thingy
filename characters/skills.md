@@ -8,17 +8,17 @@ nav_order: 3
 
 # Skills
 
-There are **6** skills in total: **Influence,** **Fight,** **Maneuver,** **Wilderness,** **Craft,** and **Means**.  
+There are **6** skills in total: **Influence,** **Fight,** **Maneuver,** **Wilderness,** **Craft,** and **Resources**.  
 Skills represent both an area of expertise, something a character may or may not be trained or even an expert in and a section of the challenges they will face. Each adventure will be different but each adventure will consist of these **6** different types of challenges to varying degrees.
 
-|               Skill               |                           Uses                            |
-|:---------------------------------:|:---------------------------------------------------------:|
-|      [Influence](#influence)      |                  Interacting with people                  |
-|          [Fight](#fight)          |          Hurting others and defending from harm           |
-|       [Maneuver](#maneuver)       |          Overcoming immediate physical obstacles          |
-|     [Wilderness](#wilderness)     |             Navigating and surviving the wild             |
-|          [Craft](#craft)          |       Creating tools and structures; manual labour        |
-|          [Means](#means)          | Leveraging wealth, connections, and sources of knowledge  |
+|           Skill           |                           Uses                            |
+|:-------------------------:|:---------------------------------------------------------:|
+|  [Influence](#influence)  |                  Interacting with people                  |
+|      [Fight](#fight)      |          Hurting others and defending from harm           |
+|   [Maneuver](#maneuver)   |          Overcoming immediate physical obstacles          |
+| [Wilderness](#wilderness) |             Navigating and surviving the wild             |
+|      [Craft](#craft)      |       Creating tools and structures; manual labour        |
+|  [Resources](#resources)  | Leveraging wealth, connections, and sources of knowledge  |
 
 A skill has a corresponding number denoting the character's training. The default is **6+.** This number denotes what is the lowest number on a die that counts as a success when that character rolls that Skill.
 
@@ -117,9 +117,9 @@ Whenever you aim to create new, or improve or destroy existing items and structu
 > - Mending physical conditions while resting
 
 
-## Means
+## Resources
 
-Whenever you aim to call on existing connections, funds or knowledge, or aim to create new ones, test Means.
+Whenever you aim to call on existing connections, funds or knowledge, or aim to create new ones, test Resources.
 
 | Attribute     | Applications                                      |
 |---------------|---------------------------------------------------|

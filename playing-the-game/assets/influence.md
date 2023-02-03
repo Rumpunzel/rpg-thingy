@@ -9,8 +9,8 @@ nav_order: 1
 
 # Influence Gear
 
-|    Gear    |   Use    | Properties | Resources  |
-|:----------:|:--------:|:----------:|:----------:|
-| **Finery** | 🛡 Vigor |     -      | `Precious` |
-|            |          |            |            |
-| **Finery** | 🛡 Vigor |     -      | `Precious` |
+|    Gear    |   Use    | Properties | Paraphernalia |
+|:----------:|:--------:|:----------:|:-------------:|
+| **Finery** | 🛡 Vigor |     -      |  `Precious`   |
+|            |          |            |               |
+| **Finery** | 🛡 Vigor |     -      |  `Precious`   |

@@ -43,11 +43,11 @@ When you use a trait representing your mastery over the relevant skill to gain t
 
 ### Farmhand
 
-You may forage when resting even in settlements. When you do, you may use Craft instead of Wilderness or Means to forage. Instead of boons, you create assets while foraging and the assets have the **Fortified** property (do not degrade if their rating is greater than the difficulty of tests they are used on).
+You may forage when resting even in settlements. When you do, you may use Craft instead of Wilderness or Resources to forage. Instead of boons, you create assets while foraging and the assets have the **Fortified** property (do not degrade if their rating is greater than the difficulty of tests they are used on).
 
 ### War Smith
 
-You may ignore **1** **Refined with RESOURCE** property of weapon and armor assets.
+You may ignore **1** **Refined with PARAPHERNALIA** property of weapon and armor assets.
 
 ---
 

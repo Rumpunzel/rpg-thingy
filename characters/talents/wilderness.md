@@ -39,13 +39,17 @@ When you create a boon or bane increase its rating by **1.**
 
 ### Shrug it Off
 
-When recovering from your own conditions decrease the test's difficulty by **1** (this means you can potentially recover from minor conditions without needing resources or needing to roll).
+When recovering from your own conditions decrease the test's difficulty by **1** (this means you can potentially recover from minor conditions without needing paraphernalia or needing to roll).
+
+### Forager
+
+Increase the amount of paraphernalia you gain while resting by **1.**
 
 ---
 
 ### Weather Watcher
 
-Predicting weather while resting only costs you **1** resource, not matter the difficulty.
+Predicting weather while resting only costs you **1** paraphernalia, not matter the difficulty.
 
 ---
 

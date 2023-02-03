@@ -80,27 +80,28 @@ After being created, assets can only be improved by **1** rating at a time. To i
 
 Restoring an asset with rating **0** (an asset which broke after being used) to rating **1** grants **1** extra die to the test.
 
-To attempt a test to create or improve and asset, you need a number of resources equal to the test's difficulty, which are consumed with the test, success or failure.
+To attempt a test to create or improve and asset, you need a number of paraphernalia equal to the test's difficulty, which are consumed with the test, success or failure.
 
-## Resources
 
-You get resources when resting, either in the wilderness by making camp or in settlements when preparing for downtime. Sometimes you might also find assets that function as materials while adventuring.
+## Paraphernalia
+
+You get paraphernalia when resting, either in the wilderness by making camp or in settlements when preparing for downtime. Sometimes you might also find assets that function as materials while adventuring.
 
 A material can be anything from branches, steel, an animal carcass, a rare herb, to even something immaterial such as shelter from the forces of nature or comfortable bed. A material is something you either need to directly craft an asset or something which grants you the peace and quiet to work without disturbances. 
 
-Resources come in three varieties.
+Paraphernalia come in three varieties.
 
 ### Sturdy
 
-`Sturdy` resources are needed to create simple weapons and build structures. This category encompasses lumber, stone, shelter, and access to high-society.
+`Sturdy` paraphernalia are needed to create simple weapons and build structures. This category encompasses lumber, stone, shelter, and access to high-society.
 
 ### Supple
 
-`Supple` resources are needed to create food, art, clothing and nurture animals. This category encompasses raw food, plants, and comfort (like a warm campfire).
+`Supple` paraphernalia are needed to create food, art, clothing and nurture animals. This category encompasses raw food, plants, and comfort (like a warm campfire).
 
 ### Precious
 
-`Precious` resources are needed to create refined weapons and armor, fine instruments, and draft contracts. This category encompasses metal, paper, ink, gemstones, rare flowers, and indispensable information.
+`Precious` paraphernalia are needed to create refined weapons and armor, fine instruments, and draft contracts. This category encompasses metal, paper, ink, gemstones, rare flowers, and indispensable information.
 
 
 
@@ -114,8 +115,8 @@ Outside of conflicts, gear assets may be used on skill tests regardless if they 
 
 Gear assets will become significantly more powerful when they are masterpieces, as you may use their abilities more often without degrading the asset.
 
-Gear assets list a specific resource required to both create and improve them. When spending resources to craft while resting, at least one of them needs to be the listed resource for you to attempt the test.  
-Some gear asset list an additional resource. You need one of each resource to create or improve the asset. In addition, if an additional resource is listed, it increases the number of resources required for any Craft tests by **1.** This does not increase the crafting test's difficulty, though this does increase the difficulty of tests to buy and sell the gear asset.
+Gear assets list a specific paraphernalia required to both create and improve them. When spending paraphernalia to craft while resting, at least one of them needs to be the listed paraphernalia for you to attempt the test.  
+Some gear asset list an additional paraphernalia. You need one of each paraphernalia to create or improve the asset. In addition, if an additional paraphernalia is listed, it increases the number of paraphernalia required for any Craft tests by **1.** This does not increase the crafting test's difficulty, though this does increase the difficulty of tests to buy and sell the gear asset.
 
 Rarely, gear assets require another masterpiece quality gear asset to be created.  
 The difficulty for the test to create the new asset is the required asset's masterpiece rating, which is lost in the process (on either success or failure). If the test was successful, the desired gear asset is created and rating for the newly created asset is the required asset's masterpiece rating.  
@@ -126,7 +127,7 @@ A gear asset may have a trait called `Exquisite`. This trait is relevant for Inf
 
 A gear asset may also have a property called **Fortified.** A **Fortified** asset's masterpiece rating is equal to its full quality rating, even outside of conflicts.
 
-At the top of each category of gear, there is also generic variant without properties. They do not require specific resources to be crafted as they are simply normal assets. Of course, they are still associated with an attribute, just like any other asset.  
+At the top of each category of gear, there is also generic variant without properties. They do not require specific paraphernalia to be crafted as they are simply normal assets. Of course, they are still associated with an attribute, just like any other asset.  
 Use these for, for example, improvised weapons or instead of its lengthy list of gear entirely.
 
 {: .note-title }

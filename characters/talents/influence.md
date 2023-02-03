@@ -17,7 +17,7 @@ As long as you have rolled at least one **6,** your opponent's disposition canno
 
 ### Dreamer
 
-During a rest, you may spend resources to gain an enduring boon with rating equal to the resources spent representing a prophetic dream you had while resting. Consult with the GM concerning the nature of the dream. The boon may be used by anyone, with any skill, and with any attribute but only in the context or with the subject of your dream.
+During a rest, you may spend paraphernalia to gain an enduring boon with rating equal to the paraphernalia spent representing a prophetic dream you had while resting. Consult with the GM concerning the nature of the dream. The boon may be used by anyone, with any skill, and with any attribute but only in the context or with the subject of your dream.
 
 ### Wily Fox
 
@@ -45,7 +45,7 @@ Reduce all mental stress you take by **1.**
 
 ### Empath
 
-While resting, you and everyone resting with you may add **1** die when testing to mend mental conditions. Additionally, the number of resources required to gain a `Well Rested` boon is reduced by **1** for everyone resting with you.
+While resting, you and everyone resting with you may add **1** die when testing to mend mental conditions. Additionally, the number of paraphernalia required to gain a `Well Rested` boon is reduced by **1** for everyone resting with you.
 
 ### Web of Lies
 

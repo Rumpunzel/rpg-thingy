@@ -63,9 +63,9 @@ Social conditions hinder you on Influence and Resource tests. A horrendous reput
 
 While resting in a settlement, you can mend social conditions with Resource tests, though not all severities can be mended with all attributes.
 
-- **Minor social conditions can be mended by Means with any Approach.**
-- **Moderate social conditions can be mended by Means with Vigor and Reason but not by Intuition.** Fame, Wealth, rigorous bookkeeping, or a sound argument before a court are required to get out of these predicaments.
-- **Major social conditions can only be mended by Means with Vigor.** Nobility, a made name, or chests of gold are required to get out of these predicaments.
+- **Minor social conditions can be mended by Resources with any Approach.**
+- **Moderate social conditions can be mended by Resources with Vigor and Reason but not by Intuition.** Fame, Wealth, rigorous bookkeeping, or a sound argument before a court are required to get out of these predicaments.
+- **Major social conditions can only be mended by Resources with Vigor.** Nobility, a made name, or chests of gold are required to get out of these predicaments.
 
 
 ## Stress
@@ -131,7 +131,7 @@ These conditions are grievous injuries which threaten to fester and prematurely 
 |   **Maneuver**   | {{ site.check }} |  _Only Major_  |        -         |
 |  **Wilderness**  | {{ site.check }} |  _Only Major_  |        -         |
 |    **Craft**     | {{ site.check }} |  _Only Major_  |        -         |
-|    **Means**     |        -         |  _Only Major_  | {{ site.check }} |
+|  **Resources**   |        -         |  _Only Major_  | {{ site.check }} |
 >
 > ### Mending conditions
 >
@@ -139,7 +139,7 @@ These conditions are grievous injuries which threaten to fester and prematurely 
 >
 > |              |   Mending Physical   |   Mending Mental    |  Mending Social  |
 |:------------:|:--------------------:|:-------------------:|:----------------:|
-|  **Skill**   |      **Craft**       |    **Influence**    |    **Means**     |
+|  **Skill**   |      **Craft**       |    **Influence**    |  **Resources**   |
 |  **Minor**   |   {{ site.check }}   |  {{ site.check }}   | {{ site.check }} |
 | **Moderate** | _Intuition & Reason_ | _Vigor & Intuition_ | _Vigor & Reason_ |
 |  **Major**   |       _Reason_       |     _Intuition_     |     _Vigor_      |

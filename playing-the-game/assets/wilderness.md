@@ -9,7 +9,7 @@ nav_order: 4
 
 # Wilderness Gear
 
-|       Name        |   Use    | Properties | Resources |
-|:-----------------:|:--------:|:----------:|:---------:|
-|     **Cloak**     | 🛡 Vigor |            |           |
-|  **Rowing Boat**  | 🗡 Vigor |            |           |
+|       Name        |   Use    | Properties | Paraphernalia |
+|:-----------------:|:--------:|:----------:|:-------------:|
+|     **Cloak**     | 🛡 Vigor |            |               |
+|  **Rowing Boat**  | 🗡 Vigor |            |               |
