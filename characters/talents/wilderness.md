@@ -9,9 +9,9 @@ nav_order: 4
 
 # Wilderness Feats
 
-### Forager
+###
 
-Increase the amount of paraphernalia you gain while resting by **1.**
+
 
 ### Tough as Nails
 
@@ -23,9 +23,9 @@ Add **1** additional die when one of your conditions increases a difficulty for 
 
 You may create a bane from excess successes for free, without spending Favor.
 
-### Pack Tactics
+### Lucky Charm
 
-When attacking as a group with Intuition, your allies do not increase the difficulty and not add extra dice for your opponent(s).
+The first time you suffer stress during a conflict, if you did not roll a **1,** ignore it.
 
 ---
 
@@ -41,9 +41,9 @@ When you create a boon or bane increase its rating by **1.**
 
 # Wilderness Specializations
 
-### Shrug it Off
+### Forager
 
-When recovering from your own conditions decrease the test's difficulty by **1** (this means you can potentially recover from minor conditions without needing paraphernalia or needing to roll).
+Increase the amount of paraphernalia you gain while resting by **1.**
 
 ### Wendigo
 
@@ -51,9 +51,9 @@ When attacking with Vigor, you inflict **1** additional damage to morale if you 
 
 ---
 
-### Lucky Charm
+### Outlander
 
-The first time you suffer stress during a conflict, if you did not roll a **1,** ignore it.
+Decrease the difficulty of tests for overland travel by **1** (this may remove the need for a roll).
 
 ### Weather Watcher
 

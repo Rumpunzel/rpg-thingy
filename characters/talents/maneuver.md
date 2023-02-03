@@ -19,9 +19,9 @@ Vigor also struggles to defend against your Vigor.
 
 ---
 
-### 
+### Pack Tactics
 
-
+When attacking as a group with Intuition, your allies do not increase the difficulty and not add extra dice for your opponent(s).
 
 ### Slippery
 
@@ -41,13 +41,11 @@ Opponents can only create boons or banes against you if you struggle to defend b
 
 # Maneuver Specializations
 
+### Shrug it Off
+
+When recovering from your own conditions decrease the test's difficulty by **1** (this means you can potentially recover from minor conditions without needing paraphernalia or needing to roll).
+
 ###
-
-
-
-### Superior Strategist
-
-When positioning for a conflict, you may test for positioning twice and gain two different benefits.
 
 
 
@@ -67,6 +65,6 @@ When you would gain physical stress while defending with Intuition, you may gain
 
 During contests, ties count as successes for you, even if you're the attacker. During conflicts, you inflict **1** damage to your opponent's morale on ties. These benefits do not work should your opponent also have this talent.
 
-###
+### Superior Strategist
 
-
+When positioning for a conflict, you may test for positioning twice and gain two different benefits.
