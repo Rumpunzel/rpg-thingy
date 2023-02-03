@@ -55,6 +55,10 @@ You may ignore **1** **Refined with RESOURCE** property of weapon and armor asse
 
 Boons and banes you create with Craft are enduring.
 
+### Saboteur
+
+During conflict,s When you successfully attack with Intuition, you may discard an opponent's asset with rating less or equal to the amount of stress you inflicted.
+
 ---
 
 ### Surgeon

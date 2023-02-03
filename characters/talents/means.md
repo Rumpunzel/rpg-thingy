@@ -41,11 +41,19 @@ When an opponent uses one of your traits against you, you may also add the trait
 
 # Means Specializations
 
+### Haggler
+
+Decrease the difficulty of buying assets by **1** to a minimum of **1.**
+
 ### Renown
 
-Double your successes when working in a settlement while resting.
+While resting, double your successes when working or researching with Vigor in a settlement.
 
 ---
+
+### I know a Guy
+
+When successfully researching with Intuition, in addition of gaining information, you gain an asset with rating equal to your effort representing someone who owes you a favour connected to your topic of research.
 
 ### Peddler
 
@@ -56,3 +64,7 @@ When resting in the wilderness, you may buy and sell assets with Means as if you
 ### Bookworm
 
 Add **1** effort when researching traits.
+
+### Banker
+
+Increase the rating of all `Currency` assets you gain by **1.**

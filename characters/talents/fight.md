@@ -11,7 +11,7 @@ nav_order: 2
 
 ### Reckless
 
-When creating a boon with Vigor, you may make it enduring by suffering **1** physical stress.
+When creating a boon or bane with Vigor, you may make it enduring by suffering **1** physical stress.
 
 ### Steadfast
 
@@ -34,6 +34,10 @@ When attacking as a group with Intuition, your allies do not increase the diffic
 Conditions cannot hinder your attacks.  
 At the beginning of a Fight conflict, if you suffer from a condition, you may gain an enduring `Battle Trance` boon with rating equal to the condition's rating.
 
+### Where there's a Will
+
+During conflicts, you may choose a number and suffer that much stress. When you do, create a boon on yourself with rating equal to the amount of stress you suffered.
+
 
 
 # Fight Specializations
@@ -44,7 +48,7 @@ When defending with Fight, each **6** counts as two hits.
 
 ### Slayer
 
-When attacking with Vigor in a Fight conflict, you always inflict at least **1** stress for each **6** you rolled, even if your opponent defended successfully (this does not increase the damage to the opponent's morale).
+When attacking with Vigor in a Fight conflict, you inflict **1** additional stress for each **6** you rolled, even if your opponent defended successfully (this does not increase the damage to the opponent's morale).
 
 ---
 

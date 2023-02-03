@@ -21,7 +21,7 @@ You may create a bane from excess successes for free, without spending Favor.
 
 ### Lucky Charms
 
-You may ignore the first **3** stress (of any kind) during conflicts.
+You may ignore the first **3** stress (of any kind) opponent inflict on you during conflicts.
 
 ---
 

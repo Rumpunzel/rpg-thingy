@@ -49,8 +49,10 @@ While resting, you and everyone resting with you may add **1** die when testing 
 
 ### Web of Lies
 
-When creating a boon with Influence and Intuition, if you lied or manipulated, you gain an assets with rating equal to your margin of effort instead of a boon.
+When creating a boon with Influence and Intuition, you may gain an assets with rating equal to your margin of effort instead of a boon.
 
 ---
+
+### Teacher
 
 
