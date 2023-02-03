@@ -77,7 +77,7 @@ An enduring boon or bane degrades by **1** rating when it is used (instead of va
 Enduring boons and banes may exist beyond the context of a single conflict or scene, if it makes narrative sense.
 
 {: .important }
-> Cyrene and Maro have sneaked into a sleeping dragon's hoard to recover a long-lost artifact. The GM makes it quite clear that any test they fail while searching for the artifact will draw the attention of the dragon, though, thankfully, the dragon is asleep. To represent this, it has an enduring bane called `Caught in a Deep Slumber` with a rating of **3.**
+> Cyrene and Maro have snuck into a sleeping dragon's hoard to recover a long-lost artifact. The GM makes it quite clear that any test they fail while searching for the artifact will draw the attention of the dragon, though, thankfully, the dragon is asleep. To represent this, it has an enduring bane called `Caught in a Deep Slumber` with a rating of **3.**
 >
 > Maro starts climbing the hoard of gold with a Maneuver test but the dice forsake him, and he achieves **0** effort. He uses the `Caught in a Deep Slumber` bane and adds **3** extra dice to his roll, turning it into a success, though the `Caught in a Deep Slumber` bane degrades to a rating of **2** as a result. The dragon grunts in his sleep, one eye almost opens but Maro remains unnoticed. The two of them have some breathing room before the dragon wakes. For now.
 
