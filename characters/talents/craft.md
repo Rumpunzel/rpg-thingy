@@ -7,66 +7,56 @@ grand_parent: Characters
 nav_order: 5
 ---
 
-# Vigor Feats
-
-### War Smith
-
-You may ignore the **Refined with RESOURCE** property of weapon and armor assets.
-
-### Renown
-
-Double your successes when working in a settlement while resting.
-
-
-
-# Intuition Feats
-
-### Trickster
-
-Boons you create with Craft and Intuition only vanish (or degrade) if you do not succeed on the test.
-
-
-
-# Reason Feats
-
-### Engineer
-
-When creating or improving an asset with a property, you may double the property's effort when determining difficulty.
-
-### Surgeon
-
-When mending a condition with Craft while resting, instead of mending it by **1,** you may mend it by the number of your margin of effort.
-
+# Craft Feats
 
 ---
 
+### Master Artisan
 
-# Vigor Specializations
+When you use a trait representing your mastery over the relevant skill to gain the Intuition dice modifier, instead of re-rolling all **1s,** you may increase your training for the relevant skill by one tier (from **6** to **5+,** from **5+** to **4+,** from **4+** to **3+,** and from **3+** to **2+**).
 
-### Farmhand
+### Trickster
 
-You may forage when resting even in settlements. When you do, you may use Craft instead of Wilderness or Means to forage. Instead of boons, you create assets while foraging and the assets have the **Fortified** property (do not degrade if their rating is greater than the difficulty of tests they are used on).
+Boons you create with Intuition only vanish (or degrade) if you do not succeed on the test.
 
-
-
-# Intuition Specializations
-
-### Always Prepared
-
-Boons and banes you create with Craft during positioning for a conflict are enduring.
+---
 
 ### Ingenuity
 
 Get **1** additional die when crafting assets.
 
+### Excellent Craftsmanship
+
+Choose a skill when you gain this talent. Your assets for the chosen skill only degrade when you do not succeed on the test.
 
 
-# Reason Specializations
 
-### Master Artisan
+# Craft Specializations
 
-When you invoke a trait representing your mastery over the relevant skill, instead of re-rolling or adding any dice, you may increase your training for the relevant skill by one tier (from **6** to **5+**, from **5+** to **4+** etc.). You cannot have used any dice modifiers for that roll to use this benefit, and you may not use any dice modifiers afterward either.
+### Farmhand
+
+You may forage when resting even in settlements. When you do, you may use Craft instead of Wilderness or Means to forage. Instead of boons, you create assets while foraging and the assets have the **Fortified** property (do not degrade if their rating is greater than the difficulty of tests they are used on).
+
+### Renown
+
+Double your successes when working in a settlement while resting.
+
+### War Smith
+
+You may ignore **1** **Refined with RESOURCE** property of weapon and armor assets.
+
+---
+
+### Always Prepared
+
+Boons and banes you create with Craft are enduring.
+
+---
+
+### Surgeon
+
+When mending a condition with Craft while resting, instead of mending it by **1,** you may mend it by the number of your margin of effort.
 
 ### Traps Everywhere
 
-You may create a special `Traps` assets which may be used by your entire team and for any skill with any attribute.
+You may create a special `Traps` assets with Craft and Reason which may be used by your entire team and for any skill with any attribute.
