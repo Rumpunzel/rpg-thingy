@@ -14,6 +14,7 @@ Boons and banes are temporary traits, which are one-use only. They may be used o
 
 In general, boons and banes can only be utilized with the same attribute with which they were created. Though, if it makes sense in the narrative, you may use them with other attributes as well.
 
+
 ## Creating Boons & Banes
 
 ### Positioning during Conflicts
@@ -60,7 +61,7 @@ If you have multiple Boons which might aid you, you have to choose only one of t
 
 ## Banes
 
-Banes are temporary detrimental [Traits](/characters#traits), though banes, are one-use only. After a bane increased the difficulty of a test or was used by an opponent to get extra dice, it vanishes.  
+Banes are temporary detrimental [Traits](../characters/traits), though banes, are one-use only. After a bane increased the difficulty of a test or was used by an opponent to get extra dice, it vanishes.  
 If an opponent has multiple banes which you might use to aid you, you have to choose only one of them.
 
 A bane is not itself one of your opponent's traits, so you may invoke both a bane and a detrimental trait for additional dice.

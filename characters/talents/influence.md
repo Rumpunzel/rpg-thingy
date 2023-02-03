@@ -3,6 +3,7 @@ layout: default
 title: Influence Talents
 description: List of Influence talents
 parent: Talents
+grand_parent: Characters
 nav_order: 1
 ---
 

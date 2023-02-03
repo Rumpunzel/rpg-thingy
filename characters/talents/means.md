@@ -3,6 +3,7 @@ layout: default
 title: Means Talents
 description: List of Means talents
 parent: Talents
+grand_parent: Characters
 nav_order: 6
 ---
 

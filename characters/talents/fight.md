@@ -3,6 +3,7 @@ layout: default
 title: Fight Talents
 description: List of Fight talents
 parent: Talents
+grand_parent: Characters
 nav_order: 2
 ---
 

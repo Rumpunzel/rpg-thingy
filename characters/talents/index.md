@@ -2,6 +2,7 @@
 layout: default
 title: Talents
 description: Stuff about talents
+parent: Characters
 nav_order: 100
 has_children: true
 ---

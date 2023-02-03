@@ -3,6 +3,7 @@ layout: default
 title: Maneuver Talents
 description: List of Maneuver talents
 parent: Talents
+grand_parent: Characters
 nav_order: 3
 ---
 

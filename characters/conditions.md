@@ -83,7 +83,7 @@ Otherwise, whatever has been gnawing at you, finally overwhelms you. Be it blood
 
 The condition in a condition slot has a severity of **1** (minor), **2** (moderate), or **3** (major) depending on the highest stress box marked in it.
 
-You can reduce the severity of your conditions by tending to them (see [Recovering](/playing-the-game/resting#recovering)). When a Condition's severity changes to **0**, it vanishes.
+You can reduce the severity of your conditions by tending to them (see [Recovering](../playing-the-game/resting#recovering)). When a Condition's severity changes to **0**, it vanishes.
 
 
 ### Minor Conditions

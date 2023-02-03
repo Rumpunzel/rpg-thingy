@@ -16,7 +16,7 @@ To start a conflict, establish a Goal for each side and name a captain for each 
 All remaining characters who want to participate in the conflict either join an existing team or, if their goal differs from the established goals, form a new team with them as captain.  
 A character may abstain from a conflict, though that means they can only witness and not influence its outcome.
 
-Then determine the relevant [Skill](/skill-list) for the conflict. ([Fight](/skill-list#fight) for skirmishes; [Influence](/skill-list#influence) for debates; [Maneuver](/skill-list#maneuver) for chases; etc.)
+Then determine the relevant [Skill](../../characters/skills) for the conflict. ([Fight](../../characters/skills#fight) for skirmishes; [Influence](../../characters/skills#influence) for debates; [Maneuver](../../characters/skills#maneuver) for chases; etc.)
 
 
 
@@ -138,7 +138,7 @@ Should all teams lose the conflict, it spells catastrophic disaster. Depending o
 
 # Last Stand
 
-Should you not have an empty box to absorb stress you suffered during a conflict, and you spend Favor to gain a new trait (as detailed in [Stress](/conditions#stress)), you must choose between the following two options:
+Should you not have an empty box to absorb stress you suffered during a conflict, and you spend Favor to gain a new trait (as detailed in [Stress](../../characters/conditions#stress)), you must choose between the following two options:
 
 - Immediately surrender from the conflict.
 - Enter your Last Stand.
@@ -147,7 +147,7 @@ Your Last Stand represents one last chance to still achieve your team's goal, to
 
 During your Last Stand you can still act normally in the conflict, despite your grievous setbacks until your leave your Last Stand. Resolve your actions as you normally would with the following exceptions:
 
-- During your Last Stand, if any of your actions cause the morale of an opposing team to break, you gain an [Epiphany](/epiphany)
+- During your Last Stand, if any of your actions cause the morale of an opposing team to break, you gain an [Epiphany](../advancement#epiphany)
 - When all opposing teams have lost the conflict, your leave your Last Stand and you live to see another day.
 - If, at any point during your Last Stand, you suffer any stress, you perish. (Depending on the type of conflict, you either die in battle, are exiled forever, completely lose you mind, etc.)
 

@@ -3,6 +3,7 @@ layout: default
 title: Craft Talents
 description: List of Craft talents
 parent: Talents
+grand_parent: Characters
 nav_order: 5
 ---
 

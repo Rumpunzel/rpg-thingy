@@ -11,11 +11,11 @@ has_children: true
 
 Assets are an abstraction of tools in the fictional world. Tools, in this context, is anything from artisan's tools, weapons, armor, riding horses, mills to grind flour, and castle fortifications to defend against a siege.
 
-Assets have a specific use case. A weapon can be used to attack with [Fight](/skill-list#fight), a horse can be used to travel distances with [Maneuver](/skill-list#maneuver) or [Wilderness](/skill-list#wilderness), an aristocrat's written favor may be used with [Influence](/skill-list#influence) at court, etc.
+Assets have a specific use case. A weapon can be used to attack with [Fight](../../characters/skills#fight), a horse can be used to travel distances with [Maneuver](../../characters/skills#maneuver) or [Wilderness](../../characters/skills#wilderness), an aristocrat's written favor may be used with [Influence](../../characters/skills#influence) at court, etc.
 
-Assets may have additional properties such as weapons being able to be used as assets for other skills than Fight or granting other benefits (see [Gear](/playing-the-game/assets)). To use such a property, you must use the asset for minimum effort on a test.
+Assets may have additional properties such as weapons being able to be used as assets for other skills than Fight or granting other benefits (see [Gear](#gear)). To use such a property, you must use the asset for minimum effort on a test.
 
-You may buy new assets (see [Resting](resting#crafting)) and create new assets or improve assets you already own (see [Crafting](/#crafting)).
+You may buy new assets (see [Resting](../resting#crafting)) and create new assets or improve assets you already own (see [Crafting](#crafting-assets)).
 
 
 # Quality Rating
@@ -26,7 +26,7 @@ You may use an asset after rolling with a fitting skill to gain minimum effort f
 
 If an asset's quality rating drops to **0,** it can no longer be used.
 
-When you use an asset for minimum effort, but you still fail at the test, the asset does not increase the [Favor](/characters#favor) you gain. You only get Favor for the hits you have actually rolled.
+When you use an asset for minimum effort, but you still fail at the test, the asset does not increase the [Favor](../../characters/the-heart-of-rpg-thingy#favor) you gain. You only get Favor for the hits you have actually rolled.
 
 {: .important }
 > Maro finds himself in a skirmish with a vicious assassin who ambushed him in a darkened street corner.
@@ -72,7 +72,7 @@ TODO
 
 # Crafting Assets
 
-You can create new assets and improve existing assets while [Resting](resting#crafting). Most of the time this creates a Craft test but sometimes a different skill might be created such as Influence to create, for example, an `Agreement with the Red Council` asset.
+You can create new assets and improve existing assets while resting. Most of the time this creates a Craft test but sometimes a different skill might be created such as Influence to create, for example, an `Agreement with the Red Council` asset.
 
 To create an asset with quality raring **1** is a test difficulty **1** test.
 
@@ -106,9 +106,9 @@ Resources come in three varieties.
 
 # Gear
 
-Gear [Assets](/playing-the-game/assets) are more specific versions of general assets. They work just like normal assets but have additional properties. These properties are only for their corresponding skill [Conflicts](/playing-the-game/conflicts), only when the asset is used on a skill test to gain minimum effort. An asset's properties can only be used as long as it has a quality rating of at least **1.**
+Gear assets are more specific versions of general assets. They work just like normal assets but have additional properties. These properties are only for their corresponding skill [Conflicts](../conflicts), only when the asset is used on a skill test to gain minimum effort. An asset's properties can only be used as long as it has a quality rating of at least **1.**
 
-Some assets may be only specifically be used to attack or defend. If they are used for minimum effort to attack or defend but weren't meant to do so, it is treated as an [Off-Label Use](/playing-the-game/assets#off-label-usage).
+Some assets may be only specifically be used to attack or defend. If they are used for minimum effort to attack or defend but weren't meant to do so, it is treated as an [Off-Label Use](#off-label-usage).
 Whether an asset is used to attack is signified by a 🗡 and by a 🛡 if it is meant to defend. Sometimes a different skill is listed, such as a **Longbow** is used to for Maneuver during Fight conflicts. If there is no additional information given, the gear asset is neither meant to attack nor defend, though it may, of course, still be used for that as an off-label use.
 Outside of conflicts, gear assets may be used on skill tests regardless if they were meant for attacking or defending as long as it makes sense in the narrative.
 

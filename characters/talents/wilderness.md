@@ -3,6 +3,7 @@ layout: default
 title: Wilderness Talents
 description: List of Wilderness talents
 parent: Talents
+grand_parent: Characters
 nav_order: 4
 ---
 
