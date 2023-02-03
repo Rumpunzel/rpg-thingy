@@ -17,10 +17,6 @@ Increase the number of assets you can carry by **3.**
 
 Whenever you fail to defend during a contest, you gain a boon with rating equal to your opponent's margin of effort.
 
-### Resourceful
-
-If you roll a **6** on a test, one asset of your choice you used on that test does not degrade.
-
 ---
 
 ### Cosmopolitan
@@ -45,7 +41,9 @@ When an opponent uses one of your traits against you, you may also add the trait
 
 # Means Specializations
 
+### Renown
 
+Double your successes when working in a settlement while resting.
 
 ---
 

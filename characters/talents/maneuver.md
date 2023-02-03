@@ -9,10 +9,6 @@ nav_order: 3
 
 # Maneuver Feats
 
-### Athlete
-
-When using a trait for a dice modifier,you may choose which dice modifier to use for the roll, regardless of the attribute you chose.
-
 ### Body of Steel
 
 Whenever you take **3** or less physical stress, reduce it to **1.**
@@ -22,10 +18,6 @@ Whenever you take **3** or less physical stress, reduce it to **1.**
 All attributes but Vigor struggle to defend against your Vigor.
 
 ---
-
-### Opportunist
-
-When using an opponent's trait or condition, increase its rating by **1** for the test.
 
 ### Slippery
 
@@ -49,7 +41,9 @@ During contests, ties also count as successes for you. During conflicts, you inf
 
 ---
 
+### Uncanny Dodge
 
+During Fight, Maneuver, and Wilderness conflicts, you may spend **1** Favor to suffer a **1** physical or mental stress (your choice) instead of resolving a defense test.
 
 ---
 

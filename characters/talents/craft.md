@@ -9,11 +9,19 @@ nav_order: 5
 
 # Craft Feats
 
+### Problem Solver
+
+When using a trait for a dice modifier,you may choose which dice modifier to use for the roll, regardless of the attribute you chose.
+
+### Resourceful
+
+If you roll a **6** on a test, one asset of your choice you used on that test does not degrade.
+
 ---
 
-### Master Artisan
+### Opportunist
 
-When you use a trait representing your mastery over the relevant skill to gain the Intuition dice modifier, instead of re-rolling all **1s,** you may increase your training for the relevant skill by one tier (from **6** to **5+,** from **5+** to **4+,** from **4+** to **3+,** and from **3+** to **2+**).
+When using an opponent's trait or condition, increase its rating by **1** for the test.
 
 ### Trickster
 
@@ -25,9 +33,9 @@ Boons you create with Intuition only vanish (or degrade) if you do not succeed o
 
 Get **1** additional die when crafting assets.
 
-### Excellent Craftsmanship
+### Master Artisan
 
-Choose a skill when you gain this talent. Your assets for the chosen skill only degrade when you do not succeed on the test.
+When you use a trait representing your mastery over the relevant skill to gain the Intuition dice modifier, instead of re-rolling all **1s,** you may increase your training for the relevant skill by one tier (from **6** to **5+,** from **5+** to **4+,** from **4+** to **3+,** and from **3+** to **2+**).
 
 
 
@@ -36,10 +44,6 @@ Choose a skill when you gain this talent. Your assets for the chosen skill only 
 ### Farmhand
 
 You may forage when resting even in settlements. When you do, you may use Craft instead of Wilderness or Means to forage. Instead of boons, you create assets while foraging and the assets have the **Fortified** property (do not degrade if their rating is greater than the difficulty of tests they are used on).
-
-### Renown
-
-Double your successes when working in a settlement while resting.
 
 ### War Smith
 

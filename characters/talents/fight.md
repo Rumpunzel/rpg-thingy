@@ -9,10 +9,6 @@ nav_order: 2
 
 # Fight Feats
 
-### Juggernaut
-
-When attacking, roll an additional die for each opponent defending against you.
-
 ### Reckless
 
 When creating a boon with Vigor, you may make it enduring by suffering **1** physical stress.
@@ -22,6 +18,10 @@ When creating a boon with Vigor, you may make it enduring by suffering **1** phy
 When defending with Vigor against multiple opponents, roll an additional die for each opponent attacking you.
 
 ---
+
+### Cutthroat
+
+When attacking, roll an additional die for each opponent defending against you.
 
 ### Pack Tactics
 
@@ -57,20 +57,12 @@ You may act twice during Fight conflicts.
 You may defend with weapons without penalty.  
 When successfully defending with Fight and Intuition, in addition to inflicting morale damaging, you may also inflict stress equal the morale damage dealt.
 
-### Uncanny Dodge
-
-During Fight conflicts, you may spend **1** Favor to suffer a **1** physical or mental stress (your choice) instead of resolving a defense test.
-
 ---
 
 ### Armor Training
 
 Armor assets you use, gain the **Versatile** property (they do not automatically degrade when used with a different attribute than intended).  
 When adding dice from a shield asset to a defense roll, add **1** additional die.
-
-### Marksman
-
-When attacking with Fight and using the Reason dice modifier, you may choose which dice to re-roll instead of re-rolling all at once.
 
 ### Martial Artist
 

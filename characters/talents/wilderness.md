@@ -23,10 +23,6 @@ You may create a bane from excess successes for free, without spending Favor.
 
 You may ignore the first **3** stress (of any kind) during conflicts.
 
-### Wily Fox
-
-All attributes but Intuition struggle to defend against your Intuition.
-
 ---
 
 ### Expedient Tracker
@@ -53,4 +49,6 @@ Predicting weather while resting only costs you **1** resource, not matter the d
 
 ---
 
+### Marksman
 
+When attacking and using the Reason dice modifier, you may choose which dice to re-roll instead of re-rolling all at once.

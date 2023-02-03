@@ -15,23 +15,25 @@ As long as you have rolled at least one **6,** your opponent's disposition canno
 
 ---
 
-### Dazzling Elegance
-
-As long as you do not have any conditions, you get **1** additional die on all your rolls.
-
 ### Dreamer
 
 During a rest, you may spend resources to gain an enduring boon with rating equal to the resources spent representing a prophetic dream you had while resting. Consult with the GM concerning the nature of the dream. The boon may be used by anyone, with any skill, and with any attribute but only in the context or with the subject of your dream.
 
+### Wily Fox
+
+All attributes but Intuition struggle to defend against your Intuition.
+
 ---
+
+### Dazzling Elegance
+
+As long as you do not have any conditions, you get **1** additional die on all your rolls.
 
 ### Iron Will
 
 Reduce all mental stress you take by **1.**
 
-### Stoic
 
-When recovering from your own conditions, you do not increase the difficulty by **1.**
 
 
 
