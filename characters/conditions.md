@@ -22,14 +22,14 @@ Mental conditions are a prime example that might hinder you in almost any circum
 Or, for example, a social condition marking you as a wanted for a gruesome murder might even hinder you on Wilderness tests as the tales of your misdeeds travelled across the land and no one you meet on the road is willing to help you, even getting in your way, and you must keep from the travelled road.
 
 
-# Condition Types
+## Condition Types
 
 You have **1** slot for each a physical, mental, and social condition. When the rules call for an _appropriate_ condition, they reference the different types of conditions as not all conditions will hinder you on every test.
 
 Your condition slots start of empty. Whenever you suffer stress of a certain type, mark the lowest available stress box in the slot of that type. If that slot had no stress boxes marked previously, name and add a condition into the slot (see [Stress](#stress)).
 
 
-## Physical Conditions
+### Physical Conditions
 
 These conditions encompass all types of physical trauma, bodily injury and weariness. A cut from a blade is a physical condition, so is exhaustion from excessive travelling, and so are sickness and poisoning.
 
@@ -42,7 +42,7 @@ While resting, you can mend physical conditions by testing Craft, though not all
 - **Major physical conditions can only be mended with Reason.** Practiced surgery is required to close these kinds of wounds.
 
 
-## Mental Conditions
+### Mental Conditions
 
 These conditions encompass all types of mental trauma, spiritual injury, and weariness of the mind. A biting insult to your character is a mental condition, so is exhaustion from excessive research, and so are fear and confusion.
 
@@ -55,7 +55,7 @@ While resting, you can mend mental conditions by testing Influence, though not a
 - **Major mental conditions can only be mended by Influence with Intuition.** Heartfelt empathy is required to tackle these troubles.
 
 
-## Social Conditions
+### Social Conditions
 
 These conditions encompass all types of debts, societal rejection, accusations and other injuries to your reputation. The result of a successful slander campaign is a social condition, so is seclusion (willing or otherwise) from larger society, and so are debts, and being covered in muck.
 
@@ -68,8 +68,7 @@ While resting in a settlement, you can mend social conditions with Resource test
 - **Major social conditions can only be mended by Means with Vigor.** Nobility, a made name, or chests of gold are required to get out of these predicaments.
 
 
-
-# Stress
+## Stress
 
 Each of your condition slots has **6** stress boxes that you can mark to absorb stress you suffer. Each box has a corresponding number which denotes how much stress than box absorbs when you mark it. You have **3** boxes which may absorb **1** stress each, **2** boxes which may absorb up to **2** stress each, and **2** box which may absorb up to **3** stress.
 
@@ -80,15 +79,14 @@ You may spend Favor equal to the stress you suffered to get a new trait with rat
 Otherwise, whatever has been gnawing at you, finally overwhelms you. Be it blood loss, drowning, permanent imprisonment, succumbing to sickness, execution, madness, or complete social ostracism, and you must retire your character.
 
 
-
-# Condition Severities
+## Condition Severities
 
 The condition in a condition slot has a severity of **1** (minor), **2** (moderate), or **3** (major) depending on the highest stress box marked in it.
 
 You can reduce the severity of your conditions by tending to them (see [Recovering](/playing-the-game/resting#recovering)). When a Condition's severity changes to **0**, it vanishes.
 
 
-## Minor Conditions
+### Minor Conditions
 
 A condition is minor if the highest marked stress box in its slot is **1.**
 
@@ -97,37 +95,36 @@ These conditions are minor inconveniences. Superficial cuts, bruised egos, a rev
 As a simple test's difficulty is always at least **1** and most foes you will encounter will be armed, so these kinds of conditions are more nuisance than hindrance (unless they begin to pile up and fill your Condition slots).
 
 
-## Moderate Conditions
+### Moderate Conditions
 
 A condition is moderate if highest marked stress box in its slot is **2.**
 
 These conditions are moderate setbacks. Flesh wounds, enduring exhaustion, nightmare-inducing disturbances, being accused of a crime, and similar troubles are moderate conditions.
 
 
-## Major Conditions
+### Major Conditions
 
 A condition is major if the **3** stress box is marked.
 
 These conditions are grievous injuries which threaten to fester and prematurely end your journey should they not get immediate attention. Stab wounds to the gut, feverish sickness, debilitating delusions, complete ostracization, and similar threats to your character's life are major conditions.
 
-
-
-# Conditions in Revue
-
-- There are physical, mental, and social conditions.
-- You have **1** slot each of the three condition types.
-- Each slot has **3** boxes to absorb **1** stress, **2** boxes to absorb up to **2** stress, and **1** box to absorb up to **3** stress.
-- A condition's severity is equal to the highest stress box marked in its slot.
-- Tests you encounter will have a minimum difficulty equal to your highest appropriate condition.
-- If a character cannot absorb stress, they meet their fate.
-- Physical and mental conditions can be mended while resting.
-- Social conditions can only be mended while resting in settlements.
-
-### Appropriate conditions
-
-The three different types of conditions hinder you on different tests. Of course, you can almost always voluntarily hinder yourself with your own conditions if the table finds it appropriate.
-
-|                  | Physical Hinders | Mental Hinders |  Social Hinders  |
+{: .note-title }
+> Conditions in Revue
+>
+> - There are physical, mental, and social conditions.
+> - You have **1** slot each of the three condition types.
+> - Each slot has **3** boxes to absorb **1** stress, **2** boxes to absorb up to **2** stress, and **1** box to absorb up to **3** stress.
+> - A condition's severity is equal to the highest stress box marked in its slot.
+> - Tests you encounter will have a minimum difficulty equal to your highest appropriate condition.
+> - If a character cannot absorb stress, they meet their fate.
+> - Physical and mental conditions can be mended while resting.
+> - Social conditions can only be mended while resting in settlements.
+>
+> ### Appropriate conditions
+>
+> The three different types of conditions hinder you on different tests. Of course, you can almost always voluntarily hinder yourself with your own conditions if the table finds it appropriate.
+>
+> |                  | Physical Hinders | Mental Hinders |  Social Hinders  |
 |:----------------:|:----------------:|:--------------:|:----------------:|
 |  **Influence**   |        -         |  _Only Major_  | {{ site.check }} |
 |    **Fight**     | {{ site.check }} |  _Only Major_  |        -         |
@@ -135,16 +132,16 @@ The three different types of conditions hinder you on different tests. Of course
 |  **Wilderness**  | {{ site.check }} |  _Only Major_  |        -         |
 |    **Craft**     | {{ site.check }} |  _Only Major_  |        -         |
 |    **Means**     |        -         |  _Only Major_  | {{ site.check }} |
-
-### Mending conditions
-
-The three different types of conditions have restrictions with which skill and which attribute they can be mended.
-
-[Leisure Structures](../running-the-game/settlements#leisure-structures) can give you additional options to get rid of your conditions but on the road or without help, these are the only ways to get rid of conditions.
-
-|              |   Mending Physical   |   Mending Mental    |  Mending Social  |
+>
+> ### Mending conditions
+>
+> The three different types of conditions have restrictions with which skill and which attribute they can be mended.
+>
+> |              |   Mending Physical   |   Mending Mental    |  Mending Social  |
 |:------------:|:--------------------:|:-------------------:|:----------------:|
 |  **Skill**   |      **Craft**       |    **Influence**    |    **Means**     |
 |  **Minor**   |   {{ site.check }}   |  {{ site.check }}   | {{ site.check }} |
 | **Moderate** | _Intuition & Reason_ | _Vigor & Intuition_ | _Vigor & Reason_ |
 |  **Major**   |       _Reason_       |     _Intuition_     |     _Vigor_      |
+>
+> [Leisure Structures](../running-the-game/settlements#leisure-structures) can give you additional options to get rid of your conditions but on the road or without help, these are the only ways to get rid of conditions.
