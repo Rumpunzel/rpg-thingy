@@ -41,9 +41,9 @@ When an opponent uses one of your traits against you, you may also add the trait
 
 # Resources Specializations
 
-### Haggler
+### Lucky Find
 
-Decrease the difficulty of buying assets by **1** to a minimum of **1.**
+When preparing for a rest, if you rolled a **6,** you may gain an asset with rating **1** instead of a paraphernalia. For each additional **6** you roll, you may choose to increase that asset's rating by **1** instead of gain paraphernalia.
 
 ### Renown
 

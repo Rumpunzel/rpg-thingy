@@ -61,22 +61,12 @@ To position for a conflict, test a skill that is not the relevant skill and note
 Each participant in the conflict chooses a benefit depending on their noted effort. There are two general benefit to choose from and three that are each available depending on what attribute you tested with.  
 These benefits only last for the duration of the conflict.
 
-### Any Attribute
-
-- Create a trait on the scene with rating equal to your effort
-- Create a Boon on yourself or an ally (or a Bane on an opponent) with rating equal to your effort
-
-### Vigor
-
-- Add your effort to your team's morale
-
-### Intuition
-
-- Discard **1** asset with rating equal to or less than your effort for the duration of the conflict; or regain **1** asset with rating equal to or less than your effort which was discarded during this conflict
-
-### Reason
-
-- Learn of the highest rated hidden trait with rating equal to or less than your successes
+|   Attribute   |                                                             Benefit                                                              |
+|:-------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
+|    **Any**    |                           Create a trait on the scene, a boon or bane with rating equal to your effort                           |
+|   **Vigor**   |                                              Add your effort to your team’s morale                                               |
+| **Intuition** | Discard an asset with rating equal to or less than your effort for the duration of the conflict or regain one discarded this way |
+|  **Reason**   |                     Learn of the highest rated hidden trait with rating equal to or less than your successes                     |
 
 
 

@@ -23,15 +23,15 @@ As long as you have rolled at least one **6,** your opponent's disposition canno
 
 During a rest, you may spend paraphernalia to gain an enduring boon with rating equal to the paraphernalia spent representing a prophetic dream you had while resting. Consult with the GM concerning the nature of the dream. The boon may be used by anyone, with any skill, and with any attribute but only in the context or with the subject of your dream.
 
-### Wily Fox
+### Takes One to Know One
 
 Intuition also struggles to defend against your Intuition.
 
 ---
 
-### Dazzling Elegance
+### Haggler
 
-As long as you do not have any conditions, you get **1** additional die on all your rolls.
+Decrease the difficulty of buying assets by **1** to a minimum of **1.**
 
 ### Iron Will
 

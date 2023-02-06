@@ -9,9 +9,9 @@ nav_order: 4
 
 # Wilderness Feats
 
-###
+### Mama Bear
 
-
+When preparing for a rest, add **1** die for each condition you and anyone resting with you have.
 
 ### Tough as Nails
 
@@ -23,7 +23,7 @@ Add **1** additional die when one of your conditions increases a difficulty for 
 
 You may create a bane from excess successes for free, without spending Favor.
 
-### Lucky Charm
+### Guerilla Tactics
 
 The first time you suffer stress during a conflict, if you did not roll a **1,** ignore it.
 

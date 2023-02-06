@@ -9,13 +9,13 @@ nav_order: 2
 
 # Fight Feats
 
+### Body of Steel
+
+While defending, whenever you would take **3** or less physical stress, if you rolled at least one **6,** reduce it to **1.**
+
 ### Juggernaut
 
 When attacking with Vigor, roll an additional die for each opponent defending against you.
-
-### Steadfast
-
-When defending with Vigor, roll an additional die for each opponent attacking you.
 
 ---
 
@@ -29,22 +29,21 @@ During conflicts, when you successfully attack with Intuition, you may discard a
 
 ---
 
-### Peace of Mind
-
-Conditions cannot hinder your attacks.  
-At the beginning of a Fight conflict, if you suffer from a condition, you may gain an enduring `Battle Trance` boon with rating equal to the condition's rating.
-
 ### Deadly Precision
 
-While you are affected by a boon, increase your effort by **1** for each **1** your opponents roll.
+While testing against opponents, if you are affected by a boon, or they are affected by a bane, increase your effort by **1** for each **1** your opponents roll.
+
+### Student of Pain
+
+Decrease the minimum effort your opponents gain from your conditions and increase the minimum effort you gain from theirs by **1.**
 
 
 
 # Fight Specializations
 
-### Bolster
+### GET DOWN!
 
-When defending as a group with Fight, your allies do not increase the difficulty and not add extra dice for your opponent(s).
+When defending as a group, everyone gains minimum effort equal to the effort you achieved.
 
 ### Slayer
 
