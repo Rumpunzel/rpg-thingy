@@ -53,7 +53,7 @@ You may use any of your traits to your detriment, as long as it makes sense that
 
 You may only use a trait to either help or hinder you, not both. Also, as above, you may only use a single of your traits per test to hinder you. If you have multiple traits which might fit, you have to choose only one of them.
 
-This might increase the amount of **XP** you will receive should you fail the test.
+This might increase the amount of **XP** you will receive should you fail the test. Additionally, this might gain you a [Boon](../playing-the-game/boons-&-banes) should you succeed (see [Creating Boons Using Traits](../playing-the-game/boons-&-banes#using-traits)).
 
 The GM may suggest one of your traits to be used to your detriment when it would be both appropriate and dramatic. You may decline to do so by spending **1** Favor. If you accept, use the trait to your detriment as you normally would.
 
