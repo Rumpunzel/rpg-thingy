@@ -35,8 +35,8 @@ Most boons and banes (unless they are [Enduring](#enduring-boons--banes)) only l
 Boons and banes may also be created outside a conflict. In that case, they last for as long as it makes sense or the scene ends.
 
 You may increase the difficulty of a test (even if the difficulty is **0** i.e. you would not have rolled a skill test normally) by the rating of an additional trait.  
-When you do, and you succeed on the skill test, in addition to succeeding, you create a boon or bane with rating equal to the rating of the additional trait you chose.  
-Should you not succeed on the test, not only will you not get what you want, but instead of creating a boon a bane is created on you (and instead of a bane a boon is created).
+When you do, and you succeed on the skill test, in addition to succeeding, you create a boon or bane with rating equal to test's difficulty, which may only be used in the context of the additional trait you chose (only on tests where the trait either helps or hinders you).  
+Should you not succeed on the test, not only will you not get what you want, but also, at the GM's discretion, instead of creating a boon a bane is created on you (and instead of a bane a boon is created) with rating equal to your margin of failure.
 
 You may also turn excess effort after you have succeeded on a test into a boon on yourself; or, if you succeeded in a contest, into a bane on your opponent, by spending **1** Favour.  
 You may also improve a boon or bane by the excess effort you achieved when creating it by spending **1** Favour.  
