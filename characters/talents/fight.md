@@ -45,6 +45,10 @@ Decrease the minimum effort your opponents gain from your conditions and increas
 
 When defending as a group, everyone gains minimum effort equal to the effort you achieved.
 
+### Fortress
+
+While defending, you may create boons from excess successes for free, without spending Favor.
+
 ### Slayer
 
 When attacking with Vigor, you inflict **1** additional stress if you rolled at least one **6,** even if your opponent defended successfully (this does not increase the damage to the opponent's morale).

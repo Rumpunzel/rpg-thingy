@@ -21,7 +21,7 @@ Add **1** additional die when one of your conditions increases a difficulty for 
 
 ### Hunter
 
-You may create a bane from excess successes for free, without spending Favor.
+While attacking, you may create banes from excess successes for free, without spending Favor.
 
 ### Guerilla Tactics
 

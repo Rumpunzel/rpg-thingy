@@ -119,3 +119,8 @@ For example can a barony be given a wealth rating based on the supply ratings of
 Almost like a fractal, a kingdom asset is made of smaller assets, which are again made of even smaller assets.
 
 The asset system can also be used as a guidance of straining effects on settlements. Just like degradation of structures can negatively influence a town's supply rating, so can a large host occupying it as it strains the settlement by using more than its supply rating, degrading the settlement asset in the process.
+
+
+
+ONE SCALE DOWN: MASTERPIECE ASSET BECOMES TRAIT WITH RATING EQUAL TO MASTERPIECE RATING
+ONE SCALE UP: TRAIT BECOMES MASTERPIECE ASSET WITH MASTERPIECE RATING EQUAL TO RATING / MASTERPIECE ASSET BECOMES ASSET

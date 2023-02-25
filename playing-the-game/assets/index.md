@@ -60,7 +60,14 @@ You may use a masterpiece asset to gain minimum effort equal to its quality rati
 When using an asset for with a skill or [Attribute](../../characters#attributes) other than its intended purpose, it grants only **1** minimum effort for that test.  
 If the asset is a masterpiece, instead it can only be used to gain minimum effort equal to its masterpiece rating.
 
-If an asset was not originally intended to be used for a purpose, but it makes perfect sense that it would help you and the table agrees, you may use an asset without any penalties for that test.
+If an asset was not originally intended to be used for a purpose, but it makes sense that it would help you and the table agrees, the asset grants its full minimum effort for that test. Though, afterward it degrades to quality rating **0.**
+
+{: .important }
+> Maro chases a young dragon on his trusty steed Athena across the plains. Unfortunately, the dragon arrives at the nearest town first. Now a battle is unavoidable.
+> 
+> Fighting a dragon, even as young as this one, is not anything Maro would take lightly, though even with precautions taken, and riding circles around the scaled beast, the fight goes poorly.
+> 
+> When it finally takes a deep, flaming breath and rears its head towards the town, Maro sees no other way but to ride 
 
 
 
@@ -74,11 +81,11 @@ TODO
 
 You can create new assets and improve existing assets while resting. Most of the time this creates a Craft test but sometimes a different skill might be created such as Influence to create, for example, an `Agreement with the Red Council` asset.
 
-To create an asset with quality raring **1** is a test difficulty **1** test.
+To create an asset with quality rating **1** is a test difficulty **1** test.
 
 After being created, assets can only be improved by **1** rating at a time. To improve an asset from a quality rating of **2** to a quality rating of **3,** is a difficulty **3** test.
 
-Restoring an asset with rating **0** (an asset which broke after being used) to rating **1** grants **1** extra die to the test.
+When restoring an asset with rating **0** (an asset which broke after being used) to rating **1,** and you do not achieve any effort, the asset is lost.
 
 To attempt a test to create or improve and asset, you need a number of paraphernalia equal to the test's difficulty, which are consumed with the test, success or failure.
 

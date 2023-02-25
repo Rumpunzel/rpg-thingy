@@ -9,4 +9,6 @@ nav_order: 6
 
 # Resources Gear
 
-
+|    Asset     | Properties |     Paraphernalia     |
+|:------------:|:----------:|:---------------------:|
+| **Currency** |            | **Cannot be Crafted** |
