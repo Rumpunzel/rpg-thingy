@@ -71,6 +71,9 @@ mermaid:
   # Put any additional configuration, such as setting the theme, in _includes/mermaid_config.js
   # See also docs/ui-components/code
 
+# Icons
+check: "<i class='fa-solid fa-check'></i>"
+
 # Enable or disable heading anchors
 heading_anchors: true
 
