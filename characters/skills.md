@@ -29,19 +29,23 @@ A skill has a corresponding number denoting the character's training. The defaul
 
 Whenever the game calls for a test, it will always call for an attribute and a skill. The attribute determines how many dice you roll and the skill determines what faces of the dice result in a hit or a miss.
 
-Whenever you do not succeed on a skill test, you learn something new and mark experience (**XP**) for that skill equal to the number of hits you rolled. Each Skill has a separate track to mark **XP** and whenever you reach **10** **XP** marked for a skill, remove all **XP** marked for it and you gain a new level in that skill (each skill starts at level **0**), which will grant you access to a new [Talents](talents) and/or improve your training in that Skill (see [Advancement](../playing-the-game/advancement)).  
+
+## Experience Points
+
+Whenever you do not succeed on a skill test, you learn something new and mark experience (**XP**) for that skill equal to the number of hits you rolled. Each Skill has a separate track to mark **XP** and whenever you reach **10** **XP** marked for a skill, remove all **XP** marked for it and you gain a new level in that skill (each skill starts at level **1**), which will grant you access to a new [Talents](talents) and/or improve your training in that Skill (see [Advancement](../playing-the-game/advancement)).
+
 If your skill is reaches level **7** and for every level thereafter, instead of improving the skill, you gain an [Epiphany](../playing-the-game/advancement#epiphany) (meaning you may increase **1** of your attributes by **1** or increase the rating of **1** of your traits by **1**).
 
 | Level  | XP  | Training |     Reward     |
 |:------:|:---:|:--------:|:--------------:|
-| **0**  |  0  |    6+    |       -        |
-| **1**  | 10  |    5+    |      Feat      |
-| **2**  | 20  |    -     | Specialization |
-| **3**  | 30  |    4+    |      Feat      |
-| **4**  | 40  |    -     | Specialization |
-| **5**  | 50  |    -     | Specialization |
-| **6**  | 60  |    3+    |      Feat      |
-| **7+** | 70+ |    -     |    Epiphany    |
+| **1**  |  0  |    6+    |       -        |
+| **2**  | 10  |    5+    |      Feat      |
+| **3**  | 20  |    -     | Specialization |
+| **4**  | 30  |    4+    |      Feat      |
+| **5**  | 40  |    -     | Specialization |
+| **6**  | 50  |    -     | Specialization |
+| **7**  | 60  |    3+    |      Feat      |
+| **8+** | 70+ |    -     |    Epiphany    |
 
 
 ## Influence

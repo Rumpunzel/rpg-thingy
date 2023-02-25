@@ -102,6 +102,7 @@ In gameplay terms, the difficulty of the test would be the rating of the trait `
 > In brief, if there is no ulterior goal to an action, there is plenty of time to accomplish it, there is no opposition from either the world or another character, and there are fewer than two interesting outcomes, then an action simply happens. Either you get what you want or the action is impossible, and you must find another way.
 
 
+
 # Taking Advantage of Traits
 
 When you test a skill, you may use **1** environmental trait which is known to you by describing how you would leverage that trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll.
@@ -128,21 +129,21 @@ You may use both an environmental trait _and_ one another character's trait on t
 
 ## Discovering Traits
 
-If you have a trait, openly known traits of places, creatures, or people connected to your area of expertise. You may ask the GM for this at any time, and you are invited to enrich the world with your descriptions of your character's experience any time you see fit.
+If you have a trait, you know of all obivous traits of places, creatures, or people connected to your area of expertise. You may ask the GM for this at any time, and you are invited to enrich the world with your descriptions of your character's experience any time you see fit.
 
 {: .important }
 > During their last adventure, Mare and Cyrene have crossed path with the robber king of Gantha and Maro got swept up in his character's past and now this robber king spells quite a bit of trouble. Though, as an `Exiled Sellsword of Gantha`, there is for sure something Maro knows about this robber king that might aid them in their struggle.
 
 Depending on the rating of your trait, different kinds of information are available to you of all places, creatures, or people connected to the trait:
 
-- **Rating 1+:** All obvious traits; their best attribute and how it compares to your own (about equal, lesser, greater, less than half, or more than double); their three best skills and if they are better trained than you, equal, or worse.
-- **Rating 2+:** Their lowest rated hidden trait; their worst attribute; their disposition.
+- **Rating 1+:** All obvious traits; their best attribute; their best skill.
+- **Rating 2+:** Their lowest rated hidden trait; their worst attribute and its rating; their disposition.
 - **Rating 3+:** Their highest rated hidden trait; all their attributes and skills.
 
 {: .important }
-> As Maro's trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's best attribute is Reason and that it is quite a lot higher than Maro's.
+> As Maro's trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's best attribute is Reason and that it is quite a lot higher than Maro's at **5.**
 >
-> Fortunately, he also learns of the robber king's lowest rated secret trait `Only goes out at Night` which has a rating of **1.** It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see [Research](resting#research)).
+> Fortunately, he also learns of the robber king's lowest rated secret trait `Hates Sunlight` which has a rating of **1.** It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see [Research](resting#research)).
 
 
 ## Creating Traits
@@ -151,4 +152,5 @@ Alternatively, you may also suggest a new traits for a place, a creature, or a p
 
 Often, the GM will like your suggestion and add the trait (or a variation of it) on their own volition with the rating of their choosing as a new trait.
 
-Alternatively, if the new trait is a fitting and creative idea but would be a little _too_ convenient for your current predicament, the GM may ask you to spend **1** Favor to create the new trait on the place, creature, or person with rating up to the rating of your own trait.
+If the new trait is a fitting and creative idea but would be a little _too_ convenient for your current predicament, the GM may ask you to spend **1** Favor to create the new trait on the place, creature, or person with rating up to the rating of your own trait.
+Alternatively, you may create new environmental traits with skill tests (see [Creating Boons Using Traits](../playing-the-game/boons-&-banes)).

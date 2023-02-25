@@ -32,15 +32,17 @@ Whenever a member of a team in a conflict succeeds on a test, their captain note
 
 Whenever a member of a team in a conflict fails to succeed on a test, their captain notes the margin of effort and subtracts it from their team's morale.
 
-When a team's morale drops below **0,** the team as a whole gain a `Broken Morale`. Increase that trait's rating by **1** for each point of morale below **0.**  
-This trait counts as a character trait to be used against the teams members during contests.
+When a team's morale drops below **0,** the team gains a `BROKEN MORALE` trait with rating equal to the amount of morale they are below **0.**  
+This trait counts as a character trait for each team member and may be used against them like any other character trait.
+
+When a team's morale reaches **0** or more, they lose their `BROKEN MORALE` trait.
 
 ### Keeping Morale
 
-At the end of each turn, if a team has a `Broken Morale` trait, its captain must test a skill that is not the relevant skill to keep their team's morale from breaking. The test's base difficulty is equal to the `Broken Morale` trait's rating.
+At the end of each turn, if a team has a `BROKEN MORALE` trait, its captain must test a skill that is not the relevant skill to keep their team's morale from breaking. The test's base difficulty is equal to the `BROKEN MORALE` trait's rating.
 
 If the captain does not succeed on the test, their team's morale breaks.  
-Otherwise, or if the team does not have a `Broken Morale` trait, the team keeps their morale.
+Otherwise if the captain succeeds, or if the team does not have a `BROKEN MORALE` trait, the team keeps their morale.
 
 A captain's teammates may help their captain keep morale by testing with them as a group (increase the test's difficulty by **1** for each teammate who tests beyond the captain).
 
@@ -66,7 +68,7 @@ These benefits only last for the duration of the conflict.
 |    **Any**    |                           Create a trait on the scene, a boon or bane with rating equal to your effort                           |
 |   **Vigor**   |                                              Add your effort to your team’s morale                                               |
 | **Intuition** | Discard an asset with rating equal to or less than your effort for the duration of the conflict or regain one discarded this way |
-|  **Reason**   |                     Learn of the highest rated hidden trait with rating equal to or less than your successes                     |
+|  **Reason**   |                    Learn of the highest secret hidden trait with rating equal to or less than your successes                     |
 
 
 
@@ -107,6 +109,7 @@ Your opponent still damages your Morale as normal, if they achieve more effort t
 During their turn, a character may choose to surrender and remove themselves from the conflict. They can no longer influence the outcome, but they are out of harm's way.  
 When a team member surrenders or otherwise laves the conflict, they inflict **1** damage to their team's morale.  
 When a team's captain surrenders or otherwise laves the conflict, they damage their team's morale by the number of remaining members on their team.
+
 
 ## Ending a Conflict
 

@@ -74,7 +74,7 @@ When you test with an attribute, and you have a [Trait](traits) representing eit
 |:-------------:|:-------------:|:------------------------------------------------:|
 |   **Vigor**   |    Fervor     | For each **6** you roll, roll an additional die. |
 | **Intuition** |    Fortune    |      Re-roll each die that comes up **1**.       |
-|  **Reason**   |     Focus     |          Once you may re-roll all dice.          |
+|  **Reason**   |     Focus     |          You may re-roll all dice once.          |
 
 Here is an [Anydice](https://anydice.com/program/2b138){:target="_blank"} link for the corresponding probabilities.
 

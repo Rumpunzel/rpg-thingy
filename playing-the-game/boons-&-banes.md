@@ -17,9 +17,13 @@ In general, boons and banes can only be utilized with the same attribute with wh
 
 ## Creating Boons & Banes
 
+Most boons and banes are created during [Conflicts](conflicts), though sometimes you may want to create them outside as well.
+
+Whenever you would create a boon or bane, you may create a new environmental trait with equal rating instead, if it makes sense. Note that while you may decide who may take advantage of the banes and boons you create, a trait created by you may be used by anyone in the scene like any other trait. Also, you may not create traits on yourself or other characters.
+
 ### Positioning during Conflicts
 
-During [Conflicts](conflicts) the main purpose of [Positioning](conflicts#positioning) is creating boons and banes.
+During conflicts, the main purpose of [Positioning](conflicts#positioning) is creating boons and banes.
 
 When you test a skill to create a boon or bane during a conflict, your effort (or margin of effort if someone defends against your attempt) determines the boon's/bane's rating.
 
