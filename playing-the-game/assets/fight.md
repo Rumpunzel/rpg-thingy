@@ -7,7 +7,7 @@ durable: "- **Durable:** This asset only degrades below quality rating **1,** if
 
 ferocious: "- **Ferocious:** When attacking, increase your effort by **1** for each **6** you roll."
 
-ranged: "- **Ranged:** Reduce morale damage you take by this asset's quality rating."
+ranged: "- **Ranged:** When attacking, you do not suffer morale damage but your opponent may defend with Maneuver instead of Fight."
 
 reach: "- **Reach:** When you create a [Boon](../../character/boons) with Maneuver, it becomes [Enduring](../../character/boons#enduring-boons--banes)."
 
