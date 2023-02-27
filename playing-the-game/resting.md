@@ -38,15 +38,14 @@ You may create new asset and improve assets you already own as detailed in [Craf
 
 ## Recovering
 
-You may mend physical and mental wounds afflicting you or someone resting with you.
+While resting, you may mend your physical and mental wounds afflicting you.
 
-You can mitigate a major wound to a moderate wound by succeeding on a difficulty **3** test. When you succeed, clear the **3** stress box in the wound's slot and rename the wound to reflect its mitigated severity.
+By succeeding on a difficulty **3** test, you may clear the **3** stress box in the wound's slot.  
+By succeeding on a difficulty **2** test, you may clear both **2** stress boxes in the wound's slot.  
+By succeeding on a difficulty **1** test, you may clear all **1** stress box in the wound's slot.  
+Afterward, rename the wound to reflect its mitigated severity or remove the wound from its slot if you have cleared all of its stress boxes.
 
-You can mitigate a moderate wound to a minor wound by succeeding on a difficulty **2** test. When you succeed, clear both **2** stress boxes in the wound's slot and rename the wound to reflect its mitigated severity.
-
-You can mend a minor wound by succeeding on a difficulty **1** test. When you succeed, clear all **1** stress box in the wound's slot and remove the wound from its slot.
-
-Mending one of your own wounds increases the difficulty of the test by **1.**
+Someone resting with you may help you with the recovery test, and you may test as a group.
 
 If you all your wound slots are empty, you may spend paraphernalia to gain a `Well Rested` enduring [Boon](boons-&-banes#boons). This boon lasts across scenes, until it vanishes, or until you rest again, whichever happens first.
 
