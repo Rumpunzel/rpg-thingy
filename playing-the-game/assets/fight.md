@@ -9,7 +9,7 @@ ferocious: "- **Ferocious:** When attacking, increase your effort by **1** for e
 
 ranged: "- **Ranged:** When attacking, you do not suffer morale damage but your opponent may defend with Maneuver instead of Fight."
 
-reach: "- **Reach:** When you create a [Boon](../../character/boons) with Maneuver, it becomes [Enduring](../../character/boons#enduring-boons--banes)."
+reach: "- **Reach:** When you create a [Boon](../boons-&-banes#boons) with Maneuver, it becomes [Enduring](../boons-&-banes#enduring-boons--banes)."
 
 reliable: "- **Reliable:** Increase the minimum effort you gain from another asset by **1** + this asset's masterpiece rating."
 
