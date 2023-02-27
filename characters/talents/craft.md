@@ -21,7 +21,7 @@ If you roll at least one **6** on a test, one asset of your choice you used on t
 
 ### Opportunist
 
-When using an opponent's trait or condition, increase its rating by **1** for the test.
+When using an opponent's trait or wound, increase its rating by **1** for the test.
 
 ### Trickster
 
@@ -63,7 +63,7 @@ While resting, if someone gains **XP** through practice, they gain **1** additio
 
 ### Surgeon
 
-When mending a condition with Craft while resting, instead of mending it by **1,** you may mend it by the number of your margin of effort.
+When mending a wound with Craft while resting, instead of mending it by **1,** you may mend it by the number of your margin of effort.
 
 ### Traps Everywhere
 

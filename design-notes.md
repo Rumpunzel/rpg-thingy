@@ -12,7 +12,7 @@ nav_order: 10000
 #### Primary
 - defending
 - **6**s
-- own conditions
+- own wounds
 - physical stress
 - weapons & armor
 - acting actively
@@ -30,7 +30,7 @@ nav_order: 10000
 - attacking
 - **1**s
 - boons & banes
-- opponent's conditions
+- opponent's wounds
 - social stress
 - acting reactively
 
@@ -47,7 +47,7 @@ nav_order: 10000
 
 #### Primary
 - positioning
-- opponent's traits & conditions
+- opponent's traits & wounds
 - Preparations
 - mental stress
 - defending perfectly
@@ -58,4 +58,4 @@ nav_order: 10000
 - defending
 - manipulating training & dice modifiers
 - armor
-- allied conditions
+- allied wounds

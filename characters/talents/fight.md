@@ -35,7 +35,7 @@ While testing against opponents, if you are affected by a boon, or they are affe
 
 ### Student of Pain
 
-Decrease the minimum effort your opponents gain from your conditions and increase the minimum effort you gain from theirs by **1.**
+Decrease the minimum effort your opponents gain from your wounds and increase the minimum effort you gain from theirs by **1.**
 
 
 

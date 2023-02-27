@@ -61,7 +61,7 @@ Whenever you aim to change someone else's mind or impose your will on others or 
 {: .note-title }
 > Special Uses
 >
-> - Mending mental conditions while resting
+> - Mending mental wounds while resting
 
 
 ## Fight
@@ -118,7 +118,7 @@ Whenever you aim to create new, or improve or destroy existing items and structu
 > Special Uses
 >
 > - Creating and improving [Assets](../playing-the-game/assets)
-> - Mending physical conditions while resting
+> - Mending physical wounds while resting
 
 
 ## Resources
@@ -137,4 +137,4 @@ Whenever you aim to call on existing connections, funds or knowledge, or aim to 
 > - Resting in settlements
 > - Researching while resting
 > - Buying and selling assets
-> - Mending social conditions while resting in a settlement
+> - Mending social wounds while resting in a settlement

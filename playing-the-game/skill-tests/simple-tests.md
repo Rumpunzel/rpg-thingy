@@ -30,8 +30,8 @@ It is vital that the story is never unchanged after a skill test, so when you fa
 
 In many cases the GM will introduce an interesting narrative consequence. Either you got what you wanted at a cost or something dramatic follows your failure.
 
-Alternatively, as it is hard to come up with interesting consequences for every test, you might take a [Stress](../character/conditions#stress) equal to the difference between the test's difficulty and the effort you achieved (choose the [Type of Stress](../character#conditions#condition-types) depending on the situation and how you failed).  
-If this causes you to take a new condition, name it something appropriate to represent your exhaustion, strain, or injury from your failure.
+Alternatively, as it is hard to come up with interesting consequences for every test, you might take a [Stress](../character/wounds#stress) equal to the difference between the test's difficulty and the effort you achieved (choose the [Type of Stress](../character#wounds#wound-types) depending on the situation and how you failed).  
+If this causes you to take a new wound, name it something appropriate to represent your exhaustion, strain, or injury from your failure.
 
 The aim is to create a solid baseline for the flow of play.
 

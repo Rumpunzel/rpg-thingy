@@ -131,7 +131,7 @@ Should all teams lose the conflict, it spells catastrophic disaster. Depending o
 
 # Last Stand
 
-Should you not have an empty box to absorb stress you suffered during a conflict, and you spend Favor to gain a new trait (as detailed in [Stress](../../characters/conditions#stress)), you must choose between the following two options:
+Should you not have an empty box to absorb stress you suffered during a conflict, and you spend Favor to gain a new trait (as detailed in [Stress](../../characters/wounds#stress)), you must choose between the following two options:
 
 - Immediately surrender from the conflict.
 - Enter your Last Stand.

@@ -38,17 +38,17 @@ You may create new asset and improve assets you already own as detailed in [Craf
 
 ## Recovering
 
-You may mend physical and mental conditions afflicting you or someone resting with you.
+You may mend physical and mental wounds afflicting you or someone resting with you.
 
-You can mitigate a major condition to a moderate condition by succeeding on a difficulty **3** test. When you succeed, clear the **3** stress box in the condition's slot and rename the condition to reflect its mitigated severity.
+You can mitigate a major wound to a moderate wound by succeeding on a difficulty **3** test. When you succeed, clear the **3** stress box in the wound's slot and rename the wound to reflect its mitigated severity.
 
-You can mitigate a moderate condition to a minor condition by succeeding on a difficulty **2** test. When you succeed, clear both **2** stress boxes in the condition's slot and rename the condition to reflect its mitigated severity.
+You can mitigate a moderate wound to a minor wound by succeeding on a difficulty **2** test. When you succeed, clear both **2** stress boxes in the wound's slot and rename the wound to reflect its mitigated severity.
 
-You can mend a minor condition by succeeding on a difficulty **1** test. When you succeed, clear all **1** stress box in the condition's slot and remove the condition from its slot.
+You can mend a minor wound by succeeding on a difficulty **1** test. When you succeed, clear all **1** stress box in the wound's slot and remove the wound from its slot.
 
-Mending one of your own conditions increases the difficulty of the test by **1.**
+Mending one of your own wounds increases the difficulty of the test by **1.**
 
-If you all your condition slots are empty, you may spend paraphernalia to gain a `Well Rested` enduring [Boon](boons-&-banes#boons). This boon lasts across scenes, until it vanishes, or until you rest again, whichever happens first.
+If you all your wound slots are empty, you may spend paraphernalia to gain a `Well Rested` enduring [Boon](boons-&-banes#boons). This boon lasts across scenes, until it vanishes, or until you rest again, whichever happens first.
 
 | `Well Rested` Boon Rating | Paraphernalia Required |
 |:-------------------------:|:----------------------:|
@@ -99,7 +99,7 @@ While resting a settlement, you have access to some additional, special skill te
 
 ## Recovering in Settlements
 
-While resting in a settlement, you may mend social conditions afflicting you or someone resting with you (just like you would physical or mental conditions).
+While resting in a settlement, you may mend social wounds afflicting you or someone resting with you (just like you would physical or mental wounds).
 
 
 ## Buying

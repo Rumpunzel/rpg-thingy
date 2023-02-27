@@ -1,7 +1,7 @@
 ---
 bulwark: "- **Bulwark:** When defending, increase your effort by **1** for each **6** you roll."
 
-deadly: "- **Deadly:** When attacking, decrease your opponent's minimum effort by **1** + this asset's masterpiece rating. This does not reduce minimum effort gained from one of your conditions."
+deadly: "- **Deadly:** When attacking, decrease your opponent's minimum effort by **1** + this asset's masterpiece rating. This does not reduce minimum effort gained from one of your wounds."
 
 durable: "- **Durable:** This asset only degrades below quality rating **1,** if you roll a **1.**"
 

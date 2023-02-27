@@ -47,7 +47,7 @@ When defending as a group with Vigor, your allies do not increase the difficulty
 
 ### Shrug it Off
 
-When recovering from your own conditions decrease the test's difficulty by **1** (this means you can potentially recover from minor conditions without needing paraphernalia or needing to roll).
+When recovering from your own wounds decrease the test's difficulty by **1** (this means you can potentially recover from minor wounds without needing paraphernalia or needing to roll).
 
 ---
 
@@ -57,14 +57,14 @@ During Fight, Maneuver, and Wilderness conflicts, you may spend **1** Favor to s
 
 ### Dazzling Elegance
 
-As long as you do not have any conditions, you get **1** additional die on all your rolls.
+As long as you do not have any wounds, you get **1** additional die on all your rolls.
 
 ---
 
 ### Peace of Body and Mind
 
-Conditions cannot hinder your attacks.  
-At the beginning of a conflict, if you suffer from a condition, you may gain an enduring `Battle Trance` boon with rating equal to your highest rated condition's rating.
+Wounds cannot hinder your attacks.  
+At the beginning of a conflict, if you suffer from a wound, you may gain an enduring `Battle Trance` boon with rating equal to your highest rated wound's rating.
 
 ### Untouchable Grace
 

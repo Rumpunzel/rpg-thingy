@@ -11,11 +11,11 @@ nav_order: 4
 
 ### Mama Bear
 
-When preparing for a rest, add **1** die for each condition you and anyone resting with you have.
+When preparing for a rest, add **1** die for each wound you and anyone resting with you have.
 
 ### Tough as Nails
 
-Add **1** additional die when one of your conditions increases a difficulty for you or when an opponent uses one of your conditions against you.
+Add **1** additional die when one of your wounds increases a difficulty for you or when an opponent uses one of your wounds against you.
 
 ---
 

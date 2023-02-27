@@ -53,7 +53,7 @@ During conflicts, increase your team's morale by **1** if you rolled at least on
 
 ### Empath
 
-While resting, you and everyone resting with you may add **1** die when testing to mend mental conditions. Additionally, the number of paraphernalia required to gain a `WELL RESTED` boon is reduced by **1** for everyone resting with you.
+While resting, you and everyone resting with you may add **1** die when testing to mend mental wounds. Additionally, the number of paraphernalia required to gain a `WELL RESTED` boon is reduced by **1** for everyone resting with you.
 
 ### Web of Lies
 
