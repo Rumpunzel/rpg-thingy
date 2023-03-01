@@ -60,12 +60,14 @@ To position for a conflict, test a skill that is not the relevant skill and note
 
 ## Benefits
 
-Each participant in the conflict chooses a benefit depending on their noted effort. There are two general benefit to choose from and three that are each available depending on what attribute you tested with.  
+Each participant in the conflict chooses a benefit depending on the effort they achieved. There is a general benefit and three that are each available from which to choose depending on what attribute you tested with.  
 These benefits only last for the duration of the conflict.
+
+During positioning before a conflict, you also add your effort to your team's morale, in addition to gaining the benefit.
 
 |   Attribute   |                                                             Benefit                                                              |
 |:-------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
-|    **Any**    |                           Create a trait on the scene, a boon or bane with rating equal to your effort                           |
+|    **Any**    |                                      Create a boon or bane with rating equal to your effort                                      |
 |   **Vigor**   |                                              Add your effort to your team’s morale                                               |
 | **Intuition** | Discard an asset with rating equal to or less than your effort for the duration of the conflict or regain one discarded this way |
 |  **Reason**   |                    Learn of the highest secret hidden trait with rating equal to or less than your successes                     |

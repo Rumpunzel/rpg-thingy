@@ -92,16 +92,16 @@ Your disposition may impose a penalty on your target when they defend against yo
 
 ## Disposition I
 
-**Reason struggles to defend against your Vigor:** You are a force too overwhelming, your attacks are too mighty, your speeches are too gripping, they cannot be faced with a cool demeanour for you leave no demeanour cool.
+**Your Vigor overwhelms Reason:** You are a force too overwhelming, your attacks are too mighty, your speeches are too gripping, they cannot be faced with a cool demeanour for you leave no demeanour cool.
 
-**Vigor struggles to defend against your Intuition:** You change course too deftly, your attacks are a stunning barrage, your lies are too tricky a web to navigate, they cannot be faced head-on with brute force for you bend like grass in the wind.
+**Your Intuition outpaces Vigor:** You change course too deftly, your attacks are a stunning barrage, your lies are too tricky a web to navigate, they cannot be faced head-on with brute force for you bend like grass in the wind.
 
-**Intuition struggles to defend against your Reason:** Your plans are too well-thought-out, your attacks are too precise, your rhetorical traps are too sophisticated, they cannot be weaseled out of for you have thought of everything.
+**Your Reason outsmarts Intuition:** Your plans are too well-thought-out, your attacks are too precise, your rhetorical traps are too sophisticated, they cannot be weaseled out of for you have thought of everything.
 
 ## Disposition II
 
-**Intuition struggles to defend against your Vigor:** You are a force too overwhelming, your attacks are too mighty, your speeches are too gripping, they cannot be faced with the cowardice of a weasel for you leave no place left to hide.
+**Your Vigor overwhelms Intuition:** You are a force too overwhelming, your attacks are too mighty, your speeches are too gripping, they cannot be faced with the cowardice of a weasel for you leave no place left to hide.
 
-**Reason struggles to defend against your Intuition:** You change course too deftly, your attacks are a stunning barrage, your lies are too tricky a web to navigate, they cannot be faced with a cool demeanour for they still think about your last move while you are crossing the finish line.
+**Your Intuition outpaces Reason:** You change course too deftly, your attacks are a stunning barrage, your lies are too tricky a web to navigate, they cannot be faced with a cool demeanour for they still think about your last move while you are crossing the finish line.
 
-**Vigor struggles to defend against your Reason:** Your plans are too well-thought-out, your attacks are too precise, your rhetorical traps are too sophisticated, they cannot be faced head-on with brute force for every careless step spells disaster.
+**Your Reason outsmarts Vigor:** Your plans are too well-thought-out, your attacks are too precise, your rhetorical traps are too sophisticated, they cannot be faced head-on with brute force for every careless step spells disaster.
