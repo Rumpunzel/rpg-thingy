@@ -50,7 +50,7 @@ A captain's teammates may help their captain keep morale by testing with them as
 
 # Positioning
 
-In rpg-thingy, not ever does a conflict erupt spontaneously out of the blue. There is always at least a brief moment, sometimes even a lengthy period of time, a calm before the storm, in which sides anticipate imminent confrontation and position themselves.  
+In Gauntlet Forge, not ever does a conflict erupt spontaneously out of the blue. There is always at least a brief moment, sometimes even a lengthy period of time, a calm before the storm, in which sides anticipate imminent confrontation and position themselves.  
 If characters are surprised at the start of a conflict, then only ever about _how_ their opponent engaged them, maybe even _who exactly_ engaged them but not ever that they were engaged at all.
 
 Before a conflict, a team positions, either literally by forming a formation or leveraging their environment; but also figuratively, by motivating their comrades, ensuring supply lines, researching the enemy and sneaking up on them.

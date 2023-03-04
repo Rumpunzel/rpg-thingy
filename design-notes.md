@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Design Notes
-description: Stuff about the design of rpg-thingy
+description: Stuff about the design of Gauntlet Forge
 nav_order: 10000
 ---
 

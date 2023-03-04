@@ -1,50 +1,59 @@
 ---
 layout: default
-title: The Heart of rpg-thingy
-description: Stuff about the heart of rpg-thingy
+title: The Gauntlet Forge
+description: Stuff about the Gauntlet Forge
 parent: Characters
-nav_order: 3
+nav_order: 1
 ---
 
-# The Heart of rpg-thingy
+# The Gauntlet Forge
 
 People are the very heart of this roleplaying game. Their struggles, their virtues, their faults, and their relationships; in short: their stories.  
 There are also battles, monsters, intrigue, and treasure, but they only matter in their relation to people. Who would care about a monster that scares no one, who about a treasure that no one wants, who about a throne in a kingdom without people? 
 
-Your character is one of these people, but they matter more than any of the others because through them, you influence the world. But in a way, they are also how you experience the fictional world. A world that is dangerous, awe-inspiring, and full of people who are convinced just as you are that they are the hero of this (or at least their) story.
+Your character is one of these people, but they matter more than any of the others because through them, you influence the world. They are your metaphorical hand in the fictional world. But in a way, they are also how you experience this fictional world. A world that is dangerous, awe-inspiring, and full of people who are convinced just as you are that they are the hero of this (or at least their) story.
 
-Though you actually are the hero of this story. And that is no light responsibility to bear. They — and, by proxy, you — are the heart of all the drama. To you, there is no monsters more important than the one that most scare your character and no treasure more precious than the one they covet most. So your characters needs something to care about, something that motivates them to put themselves in harm's way. And they need something to terrify them, something they dare not even look at for there seems no way to overcome it.
+Though you actually are the hero of this story. And that is no light responsibility to bear. They — and, by proxy, you — are the heart of all the drama. To you, there is no monsters more important than the one that most scares your character and no treasure more precious than the one they covet most. So your characters needs something to care about, something that motivates them to put themselves in harm's way. And they need something to terrify them, something they dare not even look at for there seems no way to overcome it.
 
-rpg-thingy calls these the **Truth** and the **Lie** your character believes. A lie they must grow to face and a truth to keep them pressing on, to forge a story wroth remembering. And who knows, perhaps we might even grow a little with them.
+The Gauntlet Forge calls these Crucible and Fire. A crucible to contain your story and the fire to smelt the prizes of the gauntlet, and the tribulations your character endures to forge a gauntlet for that metaphorical hand of yours. To forge a story wroth remembering. And who knows, perhaps we might even grow a little with them.
 
 
-## Your Anchor
+## The Crucible
 
-Your Anchor is a special [Trait](traits) at the center of your character's identity. It is something your character believes, which is objectively true. It might be something they believe about themself or the world around them.
+Your Crucible is a special [Trait](traits) at the center of your character's identity. It is something about your character or something they believe about themself or the world, which is objectively true.
 
 You can either phrase it like a normal trait...
 
 {: .important-title }
-Legendary blademaster from the far east.
+Legendary blademaster from the far east
 
 {: .important-title }
-Brave protector with a bleeding heart.
+Brave protector with a bleeding heart
 
-...or as phrase it as a statement...
+...or as phrase or quote it as a statement your character might regularly think, say, or embody.
 
 {: .important-title }
-The traitor who killed my father must die.
-
-...or as a quote your character might regularly think, say, or embody.
+"The traitor who killed my father must die."
 
 {: .important-title }
 "BY THE POWER OF GRAYSKULL, I HAVE THE POWER!"
 
-The sign of a good Anchor is that whenever you find yourself in a tricky situation or unsure what to do next, you can look at your character sheet, and it nudges you into the right direction.
+The Crucible you formulate for your character is incredibly useful for your fellow players. It tells everyone at the table what you want to do with your character. If your Crucible is `Patriarch of the Goldwyn family`, then that is not up to question; you are the patriarch of the Goldwyn family, and it's what you were born to be.
 
-The Anchor you formulate for your character is incredibly useful for your fellow players. It tells everyone at the table what you want to do with your character. If part of your belief is that your character is the `Patriarch of the Goldwyn family`, then that is not up to question. The Anchor encompasses what your character excels at and who they truly are.
+It describes what is most central to your character and as such, it is a container for their story.
+If your Crucible is `Legendary blademaster from the far east`, then both the fact that your character is a legendary blademaster and that they are from a distant land frame their entire story. Even if the heart of their story is about something else entirely, such as negotiating peace or becoming a world-renown chef.
 
-## Your Trouble
+The sign of a good Crucible is that whenever you find yourself in a dire situation or unsure what to do next, you can look at your character sheet, and it nudges you into the right direction, even against your better judgement.
+
+{: .note-title }
+> The Crucible
+> 
+> The Crucible encompasses what your character excels at and who they truly are.
+> 
+> It is the context in which you forge your gauntlet.
+
+
+## The Fire
 
 Just like your Anchor, your character believes in, you can phrase the Lie your they believe either as a statement about them or as something they regularly think or say, though the Lie is not objectively true. To be more precise, it comes in two different flavors:
 
@@ -66,7 +75,8 @@ A conjecture about your character that might or might not be true. Neither your 
 
 As you can see, the same phrase can be used either as a Truth or a Lie, though its meaning drastically shifts. As a Truth, `"The traitor who killed my father must die."` is a goal your character has that they will either fulfill or die trying. As a Lie, it is meant to be challenged as the story progresses. Does he indeed deserve to die? What did my father do that he was betrayed and murdered? Am I at fault for my father's death? These are all questions that only result from Lies, for they are meant to be challenged, not from Truths.
 
-## Playing out the Story
+
+## Forging the Gauntlet
 
 In a way, the Lie is a lot more central to your character's story but the Truth is just as important, for it is what will drive them to press on when everything else tells them to give in.
 

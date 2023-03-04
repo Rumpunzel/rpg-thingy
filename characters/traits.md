@@ -3,7 +3,7 @@ layout: default
 title: Traits
 description: Stuff about traits
 parent: Characters
-nav_order: 1
+nav_order: 2
 ---
 
 # Traits
@@ -25,26 +25,11 @@ By taking a trait, a player signals to the group that they are interested in tha
 
 ## Using Traits for Dice Modifiers
 
-When you test a skill, you may use one of your traits to unlock the dice modifier of the attribute with which you are testing, if the trait is relevant to your current task, and it would sense for it to help you. For example, if you try to hit someone with your sword, and you have a trait named `Legendary Blademaster`, naturally, you may use it.
+When you test a skill, you may use one of your traits to unlock the dice modifier of the attribute with which you are testing (see [Dice Modifiers](attributes#dice-modifiers))
 
-Depending on the attribute you test with, you may change how the dice are rolled.
-
-|   Attribute   | Modifier Name |                      Effect                      |
-|:-------------:|:-------------:|:------------------------------------------------:|
-|   **Vigor**   |    Fervor     | For each **6** you roll, roll an additional die. |
-| **Intuition** |    Fortune    |          You may re-roll all dice once.          |
-|  **Reason**   |     Focus     |      Re-roll each die that comes up **1**.       |
-
-Here is an [Anydice](https://anydice.com/program/2b138){:target="_blank"} link for the corresponding probabilities.
-
-After you use a Trait this way, mark it. Traits with marks equal to their rating can no longer be used once until you [Rest](../playing-the-game/resting) and clear all marks on your traits. So traits with rating **2** may be used twice and traits with rating **3** thrice before you need to rest.
+After you use a trait this way, mark it. Traits with marks equal to their rating can no longer be used once until you [Rest](../playing-the-game/resting) and clear all marks on your traits. So traits with rating **2** may be used twice and traits with rating **3** thrice before you need to rest.
 
 You may only use a single of your traits per test. If you have multiple traits which might fit, you have to choose only one of them.
-
-{: .important }
-> Cyrene has the trait `Drunkard` with a rating of **1.**
->
-> During a drinking competition, as she tested with Vigor, she uses it to explode the two **6s** she rolled, which, in the end, gives her just the edge she needs to emerge victorious. She needs to rest and give her liver some time to recover before she can use the trait again.
 
 
 ## Using Traits to your Detriment
@@ -63,4 +48,4 @@ The GM may suggest one of your traits to be used to your detriment when it would
 
 {: .important }
 > When Cyrene tries to balance across a raging river, her `Drunkard` trait hinders her, and she adds **1** to the difficulty, which results in her falling into the water where the river drags her downstream instead of succeeding.  
-> However, the whole debacle netted her **1** additional **XP.**
+> However, the whole debacle netted her **1** **XP.**

@@ -26,7 +26,7 @@ You may use an asset after rolling with a fitting skill to gain minimum effort f
 
 If an asset's quality rating drops to **0,** it can no longer be used.
 
-When you use an asset for minimum effort, but you still fail at the test, the asset does not increase the [Favor](../../characters/the-heart-of-rpg-thingy#favor) you gain. You only get Favor for the hits you have actually rolled.
+When you use an asset for minimum effort, but you still fail at the test, the asset does not increase the [Favor](../../characters/the-gauntlet-forge#favor) you gain. You only get Favor for the hits you have actually rolled.
 
 {: .important }
 > Maro finds himself in a skirmish with a vicious assassin who ambushed him in a darkened street corner.
@@ -140,7 +140,7 @@ Use these for, for example, improvised weapons or instead of its lengthy list of
 {: .note-title }
 > Why use Gear?
 >
-> You can play rpg-thingy without gear entirely, as assets are an already useful abstractions. If you use gear, you should use them for the purpose for which I designed them:
+> You can play Gauntlet Forge without gear entirely, as assets are an already useful abstractions. If you use gear, you should use them for the purpose for which I designed them:
 > - To add meaningful choices to conflicts
 > - Because I think they're neat
 >

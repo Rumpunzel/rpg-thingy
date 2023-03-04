@@ -3,7 +3,7 @@ layout: default
 title: Attributes
 description: Stuff about attributes
 parent: Characters
-nav_order: 2
+nav_order: 3
 ---
 
 # Attributes
@@ -64,6 +64,27 @@ It's a matter of meeting problems on your own terms and with a contingency plan 
 Precision, deftness, intellect, foresight, research, industriousness, and rigor are all different aspects of Reason.
 
 If your character has a high Reason rating, they excel whenever you fell the rider approaching from the horizon with a single arrow, whenever you facilitate genuine understanding between warring parties, whenever you engineer a baffling mechanism, whenever doom misses you by a mile as you were expecting it, whenever you mend a grievous wound, whenever you find yourself in a race with fate one step ahead.
+
+
+
+# Dice Modifiers
+
+When you test a skill, you may use one of your traits to unlock the dice modifier of the attribute with which you are testing, if the trait is relevant to your current task, and it would sense for it to help you. For example, if you try to hit someone with your sword, and you have a trait named `Legendary Blademaster`, naturally, you may use it.
+
+Depending on the attribute you test with, you may change how the dice are rolled.
+
+|   Attribute   | Modifier Name |                      Effect                      |
+|:-------------:|:-------------:|:------------------------------------------------:|
+|   **Vigor**   |    Fervor     | For each **6** you roll, roll an additional die. |
+| **Intuition** |    Fortune    |          You may re-roll all dice once.          |
+|  **Reason**   |     Focus     |      Re-roll each die that comes up **1**.       |
+
+Here is an [Anydice](https://anydice.com/program/2b138){:target="_blank"} link for the corresponding probabilities.
+
+{: .important }
+> Cyrene has the trait `Drunkard` with a rating of **1.**
+>
+> During a drinking competition, as she tested with Vigor, she uses it to explode the two **6s** she rolled, which, in the end, gives her just the edge she needs to emerge victorious. She needs to rest and give her liver some time to recover before she can use the trait again.
 
 
 
