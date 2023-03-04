@@ -48,7 +48,7 @@ The aim is to create a solid baseline for the flow of play.
 >
 > Cyrene throws her **5** dice. Two dice come up **1** and. As she chose Intuition as her Approach, she uses her trait `Charming Stranger` to re-roll those **1s.** Her result now is **2, 3, 4, 4, 6.** All dice which come up **5+** are hits for her, so she achieved **1** effort; not enough to succeed. The guards remain untouched by her charm, though one ogles the sword at her side. She came to the city to rest not exhaust herself even more, nor is she willing to give up her sword to gain entry, so she decides against powering through and .
 >
-> She marks **1** **XP** for the **1** effort she achieved, but now she must try another way to get into the city. She could try to frighten the guards into letting her pass, but with them already looking irritated and with her Vigor rating of **3,** she fears this might go poorly for her and so decides against it.
+> She marks **1** **XP,** but now she must try another way to get into the city. She could try to frighten the guards into letting her pass, but with them already looking irritated and with her Vigor rating of **3,** she fears this might go poorly for her and so decides against it.
 
 
 ## Let It Ride
@@ -68,7 +68,7 @@ During simple tests, for each participant beyond the first, the difficulty of th
 
 Group tests can be incredible tools to achieve great deeds. They can also simply be used to help your compatriots to overcome obstacles you find trivial. But they come at the cost of increasing the risk for all participants. You either win or you fail as a group.
 
-When a group fails a simple test, each member of the group receives **XP** equal to the hits each of them individually rolled.
+When a group fails a simple test, each member of the group receives **1** **XP.**
 
 When a group suffers stress, _each_ member of the group takes stress equal to the difference between the test's difficulty and the effort they, individually, achieved. As difficulty increases with each member of a group, this can result in drastic setbacks.
 

@@ -61,9 +61,9 @@ But a single roll does not always have enough weight to justify its effect on th
 
 ## Improving with Failure
 
-When you fail a skill test, you do not get what you want, but you mark **XP** for the skill you used equal to the number of hits you rolled on that test (not the amount of effort you achieved, so using assets cannot gain you additional **XP**).
+When you fail a skill test, you do not get what you want, but you mark **1** **XP** for the skill you used.
 
-Apart from completing goals, this is the only way go gain **XP** for your skills, though using your own traits to increase a test's difficulty can result in more **XP** than you would get normally.
+Apart from completing goals, this is the only way go gain **XP** for your skills.
 
 {: .note-title }
 > Resolving Tests in Revue
@@ -76,4 +76,4 @@ Apart from completing goals, this is the only way go gain **XP** for your skills
 > - **Roll the dice.**
 > - The target number for your dice is determined by the skill you've chosen. Every face of a die that comes up as at least that number, is a hit, all others are misses.
 > - Use traits either for dice modifiers, extra dice, or an increases difficulty, and spend Favor.
-> - Determine the outcome of the test. If you succeeded, you get what you want, otherwise mark **XP** equal to the number of hits you rolled and resolve the consequences of the test.
+> - Determine the outcome of the test. If you succeeded, you get what you want, otherwise mark **1** **XP** and resolve the consequences of the test.
