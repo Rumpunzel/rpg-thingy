@@ -3,7 +3,7 @@ layout: default
 title: The Heart of rpg-thingy
 description: Stuff about the heart of rpg-thingy
 parent: Characters
-nav_order: 0
+nav_order: 3
 ---
 
 # The Heart of rpg-thingy
@@ -18,33 +18,35 @@ Though you actually are the hero of this story. And that is no light responsibil
 rpg-thingy calls these the **Truth** and the **Lie** your character believes. A lie they must grow to face and a truth to keep them pressing on, to forge a story wroth remembering. And who knows, perhaps we might even grow a little with them.
 
 
-## The Truth
+## Your Anchor
 
-The Truth your characters believes in is an objectively true fact about your character.
+Your Anchor is a special [Trait](traits) at the center of your character's identity. It is something your character believes, which is objectively true. It might be something they believe about themself or the world around them.
 
-You can either phrase it as a statement...
+You can either phrase it like a normal trait...
+
+{: .important-title }
+Legendary blademaster from the far east.
+
+{: .important-title }
+Brave protector with a bleeding heart.
+
+...or as phrase it as a statement...
 
 {: .important-title }
 The traitor who killed my father must die.
 
-{: .important-title }
-The honour of my family will endure.
-
 ...or as a quote your character might regularly think, say, or embody.
-
-{: .important-title }
-"Every one of my friends can rely on me through hell."
 
 {: .important-title }
 "BY THE POWER OF GRAYSKULL, I HAVE THE POWER!"
 
-The sign of a good Truth is that whenever you find yourself in a tricky situation or unsure what to do next, you can look at your character sheet, and it nudges you into the right direction.
+The sign of a good Anchor is that whenever you find yourself in a tricky situation or unsure what to do next, you can look at your character sheet, and it nudges you into the right direction.
 
-The Truth you formulate for your character is incredibly useful for your fellow players. It tells everyone at the table what you want to do with your character. If part of your belief is that your character is the `"Patriarch of the Goldwyn family"`, then that is not up to question. The Truth encompasses what your character excels at and who they truly are.
+The Anchor you formulate for your character is incredibly useful for your fellow players. It tells everyone at the table what you want to do with your character. If part of your belief is that your character is the `Patriarch of the Goldwyn family`, then that is not up to question. The Anchor encompasses what your character excels at and who they truly are.
 
-## The Lie
+## Your Trouble
 
-Just like the Truth your character believes in, you can phrase the Lie your they believe either as a statement about them or as something they regularly think or say, though the Lie is not objectively true. To be more precise, it comes in two different flavors:
+Just like your Anchor, your character believes in, you can phrase the Lie your they believe either as a statement about them or as something they regularly think or say, though the Lie is not objectively true. To be more precise, it comes in two different flavors:
 
 A conviction your character believes to be true, wittingly or unwittingly, though it is a delusion, a self-deception or misjudgement about their surroundings that you, as a player, know to be incorrect. The central questions such a Lie poses are: How will the character learn? What will it take? Where will it take? Will they find the courage to face the truth when push comes to shove?
 
@@ -86,3 +88,13 @@ At the end of each session, if you have achieved your goal, mark **1** **XP** fo
 Depending on your character, it might represent how much lady luck smiles upon you, the good graces of the higher forces you hold sacred, or your iron will and determination.
 
 Whenever the Truth or Lie really come out through how you roleplay your character or through the drama that results from your choices, you earn **1** Favor for your character.
+
+### Empowering Traits
+
+If the trait you use has a rating of **2,** you may use an additional dice modifier of different attribute on that roll as well. You choose which of the two other dice modifiers you want to use.
+
+If the trait you use has a rating of **3,** you may use all dice modifiers of all attributes on that roll. This is incredibly powerful.
+
+If the action you are trying to undertake aligns with the Truth you have chosen for your character, you may spend **1** Favor to temporarily increase the rating of a trait by **1** for the duration of a test.  
+If you do not having a fitting trait when undertaking such an action, you may also spend **1** Favor to temporarily gain the benefits as if you had a fitting trait with rating **1.**
+

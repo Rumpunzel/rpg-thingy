@@ -8,9 +8,9 @@ nav_order: 10
 
 # Character Creation
 
-25 points
+20 points
 
 1 point
-- 10 **XP** for a skill
-- 1 attribute
-- 1 trait
+- [10x] 10 **XP** for a skill
+- [7x] 1 attribute
+- [3x] 1 trait

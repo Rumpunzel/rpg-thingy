@@ -3,7 +3,7 @@ layout: default
 title: Attributes
 description: Stuff about attributes
 parent: Characters
-nav_order: 1
+nav_order: 2
 ---
 
 # Attributes
@@ -66,25 +66,12 @@ Precision, deftness, intellect, foresight, research, industriousness, and rigor 
 If your character has a high Reason rating, they excel whenever you fell the rider approaching from the horizon with a single arrow, whenever you facilitate genuine understanding between warring parties, whenever you engineer a baffling mechanism, whenever doom misses you by a mile as you were expecting it, whenever you mend a grievous wound, whenever you find yourself in a race with fate one step ahead.
 
 
-## Dice Modifiers
-
-When you test with an attribute, and you have a [Trait](traits) representing either your expertise or adeptness in the task you are tackling, depending on the attribute you test with, you may change how the dice are rolled.
-
-|   Attribute   | Modifier Name |                      Effect                      |
-|:-------------:|:-------------:|:------------------------------------------------:|
-|   **Vigor**   |    Fervor     | For each **6** you roll, roll an additional die. |
-| **Intuition** |    Fortune    |      Re-roll each die that comes up **1**.       |
-|  **Reason**   |     Focus     |          You may re-roll all dice once.          |
-
-Here is an [Anydice](https://anydice.com/program/2b138){:target="_blank"} link for the corresponding probabilities.
-
-
 
 # Disposition
 
 The three attributes do not only form the foundation of your character but of all other characters and creatures you will encounter on your adventures, sometimes even the environment itself.
 
-The scoundrel, who ambushes you in the gloomy ally; the moonlit lord, who anticipates your every move; even passive obstacles such as a river's roaring current, they all have attributes just like you.  
+The bear charging you inside his den; the scoundrel, who ambushes you in the gloomy ally; the moonlit lord, who anticipates your every move, they all have attributes just like you.  
 When you create your character, you choose one of two possible dispositions you have against these foes, and edge you have during conflicts. Your disposition represents a certain knack you have against the other approaches, a weakness you might exploit. But beware, for your enemies also have dispositions.
 
 Your disposition may impose a penalty on your target when they defend against you with a certain attribute. Each of your attributes is disposed against one of the other two attributes. During conflicts, when an opponent defend against you with an attribute you are disposed against, they can only prevent stress you deal them _or_ damage you deal to their team's morale, not both.
