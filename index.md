@@ -30,7 +30,7 @@ PCs exist in a fictional world in which they act, struggle, and succeed. The pla
 The PCs interact with the situation and the world presented by the GM by asking questions and narrating what they would like their characters to accomplish and how they would like to do so until the need for dramatic resolution arises and the group consults the dice (see [Interacting with the World](playing-the-game/interacting-with-the-world)).
 
 {: .mt-8 }
-{: .note-title }
+{: .important-title }
 > The 5 Pillars
 >
 > The following pages will provide more detailed rules on how Gauntlet Forge works, though, in short, it tries to achieve a certain vision of how a game of Gauntlet Forge looks like. All rules decisions aim to contribute to achieve that vision, and they all rest on the following 5 pillars representing ideals to which Gauntlet Forge strives to adhere.

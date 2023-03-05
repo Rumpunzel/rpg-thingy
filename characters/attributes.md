@@ -69,8 +69,6 @@ If your character has a high Reason rating, they excel whenever you fell the rid
 
 # Dice Modifiers
 
-When you test a skill, you may use one of your traits to unlock the dice modifier of the attribute with which you are testing, if the trait is relevant to your current task, and it would sense for it to help you. For example, if you try to hit someone with your sword, and you have a trait named `Legendary Blademaster`, naturally, you may use it.
-
 Depending on the attribute you test with, you may change how the dice are rolled.
 
 |   Attribute   | Modifier Name |                      Effect                      |
@@ -80,11 +78,6 @@ Depending on the attribute you test with, you may change how the dice are rolled
 |  **Reason**   |     Focus     |      Re-roll each die that comes up **1**.       |
 
 Here is an [Anydice](https://anydice.com/program/2b138){:target="_blank"} link for the corresponding probabilities.
-
-{: .important }
-> Cyrene has the trait `Drunkard` with a rating of **1.**
->
-> During a drinking competition, as she tested with Vigor, she uses it to explode the two **6s** she rolled, which, in the end, gives her just the edge she needs to emerge victorious. She needs to rest and give her liver some time to recover before she can use the trait again.
 
 
 
