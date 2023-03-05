@@ -25,7 +25,7 @@ Whenever you take social stress, you may inflict **1** social stress to all your
 
 ### Reversal of Fortune
 
-You may spend **1** Favor or discard **1** Boon affecting you to exchange rolls with an ally or an opponent rolling at the same time.
+You may spend **1** Iron or discard **1** Boon affecting you to exchange rolls with an ally or an opponent rolling at the same time.
 
 ---
 

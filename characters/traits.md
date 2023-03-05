@@ -100,7 +100,7 @@ When you do, you gain **1** Iron. Alternatively, the GM may suggest one of your 
 > When Cyrene tries to balance across a raging river, her `Drunkard` trait hinders her, and she adds **1** to the difficulty, which results in her falling into the water where the river drags her downstream instead of succeeding.  
 > However, the whole debacle netted her **1** Iron.
 
-Additionally, you may increase the difficulty of your tests to gain additional benefits should you succeed (see [Creating Boons Using Traits](../playing-the-game/boons-&-banes#using-traits)).
+Additionally, you may increase the difficulty of your tests to gain additional benefits should you succeed (see [Creating Boons Using Traits](../playing-the-game/boons-&-banes#creating-boons--banes)).
 
 
 

@@ -53,7 +53,7 @@ When recovering from your own wounds decrease the test's difficulty by **1** (th
 
 ### Uncanny Dodge
 
-During Fight, Maneuver, and Wilderness conflicts, you may spend **1** Favor to suffer a **1** physical or mental stress (your choice) instead of resolving a defense test.
+During Fight, Maneuver, and Wilderness conflicts, you may spend **1** Iron to suffer a **1** physical or mental stress (your choice) instead of resolving a defense test.
 
 ### Dazzling Elegance
 

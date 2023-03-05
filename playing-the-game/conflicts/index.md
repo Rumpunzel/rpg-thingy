@@ -121,7 +121,7 @@ When a team's captain surrenders or otherwise laves the conflict, they damage th
 
 # Last Stand
 
-Should you not have an empty stress box to absorb stress you suffered during a conflict, and you spend Favor to gain a new trait (as detailed in [Stress](../../characters/wounds#stress)) and you must choose between the following two options:
+Should you not have an empty stress box to absorb stress you suffered during a conflict, and you spend Iron to gain a new trait (as detailed in [Stress](../../characters/wounds#stress)) and you must choose between the following two options:
 
 - Immediately surrender from the conflict.
 - Enter your Last Stand.

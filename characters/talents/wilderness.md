@@ -21,7 +21,7 @@ Add **1** additional die when one of your wounds increases a difficulty for you 
 
 ### Hunter
 
-While attacking, you may create banes from excess successes for free, without spending Favor.
+While attacking, you may create banes from excess successes for free, without spending Iron.
 
 ### Guerilla Tactics
 

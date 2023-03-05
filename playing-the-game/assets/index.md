@@ -26,8 +26,6 @@ You may use an asset after rolling with a fitting skill to gain minimum effort f
 
 If an asset's quality rating drops to **0,** it can no longer be used.
 
-When you use an asset for minimum effort, but you still fail at the test, the asset does not increase the [Favor](../../characters/the-gauntlet-forge#favor) you gain. You only get Favor for the hits you have actually rolled.
-
 {: .important }
 > Maro finds himself in a skirmish with a vicious assassin who ambushed him in a darkened street corner.
 > 

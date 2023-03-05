@@ -38,10 +38,10 @@ During contests, using your own traits to your detriment does not increase the d
 
 When you test with a skill in a contest, you may use your traits to your detriment as you would during a simple test. Though, in most cases, your opponent will be the one to have that idea first. Instead of increasing the difficulty your opponent adds your trait's rating as dice to their roll.
 
-When one of your traits is used against you this way, you may spend **1** Favor to not give your opponent any dice, similarly like you would during simple tests.
+When one of your traits is used against you this way, you may spend **1** Iron to not give your opponent any dice, similarly like you would during simple tests.
 
 {: .important }
-> During a kerfuffle at court, Cyrene tries to embarrass one of the guests she met previously (when he crossed her during a previous adventure). She only manages **1** success on her roll, though he manages none at all, he invokes Cyrene's `DRUNKARD` trait against her to add **1** die to his roll. Cyrene may now spend **1** Favor to not give him that additional die, but she wants to see what will happen and decides against it.
+> During a kerfuffle at court, Cyrene tries to embarrass one of the guests she met previously (when he crossed her during a previous adventure). She only manages **1** success on her roll, though he manages none at all, he invokes Cyrene's `DRUNKARD` trait against her to add **1** die to his roll. Cyrene may now spend **1** Iron to not give him that additional die, but she wants to see what will happen and decides against it.
 >
 > The obnoxious guest manages to roll a hit on his additional die and turns the outcome into a tie, which he, as the defender, wins. The court is now chuckling at Cyrene, as he deflects her insults right back into her face. What a windbag. At least she received **1** **XP** for her Influence from her **1** success.
 

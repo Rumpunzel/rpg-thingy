@@ -47,7 +47,7 @@ When defending as a group, everyone gains minimum effort equal to the effort you
 
 ### Fortress
 
-While defending, you may create boons from excess successes for free, without spending Favor.
+While defending, you may create boons from excess successes for free, without spending Iron.
 
 ### Slayer
 

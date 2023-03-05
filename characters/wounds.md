@@ -75,7 +75,7 @@ Each of your wound slots has **6** stress boxes that you can mark to absorb stre
 Whenever you suffer stress, mark an empty box in the corresponding wound slot, noting that it absorbed that stress. Stress you suffer must be entirely absorbed by a single box, you may not distribute stress between boxes.
 
 Should you not have an empty box to absorb stress you suffered, you are in deep trouble.
-You may spend Favor equal to the stress you suffered to get a new trait with rating equal to the amount of Favor spent which absorbs the stress for you. Name the trait to describe the permanent injury you suffered and escaped by a hair's breadth.
+You may spend Iron equal to the stress you suffered to get a new trait with rating equal to the amount of Iron spent which absorbs the stress for you. Name the trait to describe the permanent injury you suffered and escaped by a hair's breadth.
 Otherwise, whatever has been gnawing at you, finally overwhelms you. Be it blood loss, drowning, permanent imprisonment, succumbing to sickness, execution, madness, or complete social ostracism, and you must retire your character.
 
 

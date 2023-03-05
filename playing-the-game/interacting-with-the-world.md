@@ -143,5 +143,5 @@ Alternatively, you may also suggest a new traits for a place, a creature, or a p
 
 Often, the GM will like your suggestion and add the trait (or a variation of it) on their own volition with the rating of their choosing as a new trait.
 
-If the new trait is a fitting and creative idea but would be a little _too_ convenient for your current predicament, the GM may ask you to spend **1** Favor to create the new trait on the place, creature, or person with rating up to the rating of your own trait.
+If the new trait is a fitting and creative idea but would be a little _too_ convenient for your current predicament, the GM may ask you to spend **1** Iron to create the new trait on the place, creature, or person with rating up to the rating of your own trait.
 Alternatively, you may create new environmental traits with skill tests (see [Creating Boons Using Traits](../playing-the-game/boons-&-banes)).
