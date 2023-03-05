@@ -1,4 +1,4 @@
-title: Gauntlet Forge
+title: Forge Gauntlet
 description: A neat little RPG project
 theme: just-the-docs
 
@@ -6,7 +6,7 @@ theme: just-the-docs
 check: "<i class='fa-solid fa-check'></i>"
 
 baseurl: "/gauntlet-forge"
-url: https://rumpunzel.github.io/gauntlet-forge
+url: https://rumpunzel.github.io/rpg-thingy
 
 exclude:
   # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
@@ -79,7 +79,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "The Gauntlet Forge on GitHub":
+  "Forge Gauntlet on GitHub":
     - "//github.com/Rumpunzel/rpg-thingy"
 
 # Makes Aux links open in a new tab. Default is false
@@ -91,7 +91,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 #nav_external_links:
-#  - title: The Gauntlet Forge on GitHub
+#  - title: Forge Gauntlet on GitHub
 #    url: https://github.com/Rumpunzel/rpg-thingy
 
 # Footer content

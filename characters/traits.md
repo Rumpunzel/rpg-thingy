@@ -113,7 +113,7 @@ Your character is one of these people, but they matter more than any of the othe
 
 Though you actually are the hero of this story. And that is no light responsibility to bear. They — and, by proxy, you — are the heart of all the drama. To you, there is no monsters more important than the one that most scares your character and no treasure more precious than the one they covet most. So your characters needs something to care about, something that motivates them to put themselves in harm's way. And they need something to terrify them, something they dare not even look at for there seems no way to overcome it.
 
-The Gauntlet Forge calls these Crucible and Fire. A crucible to contain your story and the fire to smelt the prizes of the gauntlet, and the tribulations your character endures to forge a gauntlet for that metaphorical hand of yours. To forge a story wroth remembering. And who knows, perhaps we might even grow a little with them.
+The Forge Gauntlet calls these Crucible and Fire. A crucible to contain your story and the fire to smelt the prizes of the gauntlet, and the tribulations your character endures to forge a gauntlet for that metaphorical hand of yours. To forge a story wroth remembering. And who knows, perhaps we might even grow a little with them.
 
 
 ## The Crucible
