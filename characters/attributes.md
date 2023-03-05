@@ -89,7 +89,7 @@ The bear charging you inside its den; the scoundrel, who ambushes you in the glo
 
 When you create your character, you choose one of two possible dispositions you have against these foes, and edge you have during conflicts. Your disposition represents a certain knack you have against the other approaches, a weakness you might exploit. But beware, for your enemies also have dispositions.
 
-Your disposition may impose a penalty on your target when they defend against you with a certain attribute. Each of your attributes is disposed against one of the other two attributes. During [Contests](../playing-the-game/skill-tests/contests), opponents cannot defend against you with an attribute you are disposed against.
+Your disposition may impose a penalty on your target when they defend against you with a certain attribute. Each of your attributes is disposed against one of the other two attributes. During [Contests](../playing-the-game/skill-tests/contests), you may use your disposition to decrease your opponents' training by **1** tier when they defend against you with an attribute you are disposed against.
 
 
 ## Disposition I
