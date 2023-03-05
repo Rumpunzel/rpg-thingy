@@ -17,7 +17,7 @@ In general, boons and banes can only be utilized with the same attribute with wh
 
 ## Creating Boons & Banes
 
-Most boons and banes are created during [Conflicts](conflicts#gaining-an-advantage), though you can create them outside of conflicts as well.
+Most boons and banes are created during [Gauntlets](gauntlets#gaining-an-advantage), though you can create them outside of gauntlets as well.
 
 You may increase the difficulty of a test (even if the difficulty is **0** i.e. you would not have rolled a skill test normally) by the rating of an additional trait.
 
@@ -70,7 +70,7 @@ Sometimes either extremely powerful effects like magic or narrative reasons migh
 
 An enduring boon or bane degrades by **1** rating when it is used (instead of vanishing like normal boon would). When an enduring boon or bane reaches a rating of **0,** it vanishes.
 
-Enduring boons and banes may exist beyond the context of a single conflict or scene, if it makes narrative sense.
+Enduring boons and banes may exist beyond the context of a single gauntlet or scene, if it makes narrative sense.
 
 {: .important }
 > Cyrene and Maro have snuck into a sleeping dragon's hoard to recover a long-lost artifact. The GM makes it quite clear that any test they fail while searching for the artifact will draw the attention of the dragon, though, thankfully, the dragon is asleep. To represent this, it has an enduring bane called `Caught in a Deep Slumber` with a rating of **3.**

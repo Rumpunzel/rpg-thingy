@@ -21,7 +21,7 @@ Should it ever be unclear what difficulty a test is supposed to be, it will most
 If both an environmental and an opponent's trait would notably hinder your efforts, add their ratings together to determine the test's difficulty.  
 Only add the rating of **1** environmental trait and/or **1** opponent's trait to the difficulty of a simple test. When multiple would apply, choose the highest or most relevant.
 
-If the difficulty of a simple test ever exceeds **3,** consider the characters' goals to determine if a single die roll really is the best way to resolve the situation or if a more detailed conflict would be more appropriate.
+If the difficulty of a simple test ever exceeds **3,** consider the characters' goals to determine if a single die roll really is the best way to resolve the situation or if a more detailed conflict in the form of a [Gauntlet](../gauntlets) would be more appropriate.
 
 
 ## Consequences

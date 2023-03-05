@@ -63,7 +63,7 @@ When resting in the wilderness, you may buy and sell assets with Resources as if
 
 ### Iconoclast
 
-At the beginning of each conflict choose a talent. For the duration of the conflict you gain that talent.
+At the beginning of each gauntlet choose a talent. For the duration of the gauntlet you gain that talent.
 
 ### Thrifty
 

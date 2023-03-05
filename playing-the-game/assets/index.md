@@ -112,11 +112,11 @@ Paraphernalia come in three varieties.
 
 # Gear
 
-Gear assets are more specific versions of general assets. They work just like normal assets but have additional properties. These properties are only for their corresponding skill [Conflicts](../conflicts), only when the asset is used on a skill test to gain minimum effort. An asset's properties can only be used as long as it has a quality rating of at least **1.**
+Gear assets are more specific versions of general assets. They work just like normal assets but have additional properties. These properties are only for their corresponding skill [Gauntlets](../gauntlets), only when the asset is used on a skill test to gain minimum effort. An asset's properties can only be used as long as it has a quality rating of at least **1.**
 
 Some assets may be only specifically be used to attack or defend. If they are used for minimum effort to attack or defend but weren't meant to do so, it is treated as an [Off-Label Use](#off-label-usage).
-Whether an asset is used to attack is signified by a 🗡 and by a 🛡 if it is meant to defend. Sometimes a different skill is listed, such as a **Longbow** is used to for Maneuver during Fight conflicts. If there is no additional information given, the gear asset is neither meant to attack nor defend, though it may, of course, still be used for that as an off-label use.
-Outside of conflicts, gear assets may be used on skill tests regardless if they were meant for attacking or defending as long as it makes sense in the narrative.
+Whether an asset is used to attack is signified by a 🗡 and by a 🛡 if it is meant to defend. Sometimes a different skill is listed, such as a **Longbow** is used to for Maneuver during Fight gauntlets. If there is no additional information given, the gear asset is neither meant to attack nor defend, though it may, of course, still be used for that as an off-label use.
+Outside of gauntlets, gear assets may be used on skill tests regardless if they were meant for attacking or defending as long as it makes sense in the narrative.
 
 Gear assets will become significantly more powerful when they are masterpieces, as you may use their abilities more often without degrading the asset.
 
@@ -130,7 +130,7 @@ When buying and selling such an asset, its quality rating is considered to be do
 
 A gear asset may have a trait called `Exquisite`. This trait is relevant for Influence, Craft, and Resource tests, concerning the asset itself. Meaning an asset's `Exquisite` trait will increase the difficulty to create, improve, and buy it. Though it may also be invoked in social situations. Additionally, increase your effort by **1** when selling and `Exquisite` asset.
 
-A gear asset may also have a property called **Fortified.** A **Fortified** asset's masterpiece rating is equal to its full quality rating, even outside of conflicts.
+A gear asset may also have a property called **Fortified.** A **Fortified** asset's masterpiece rating is equal to its full quality rating, even outside of gauntlets.
 
 At the top of each category of gear, there is also generic variant without properties. They do not require specific paraphernalia to be crafted as they are simply normal assets. Of course, they are still associated with an attribute, just like any other asset.  
 Use these for, for example, improvised weapons or instead of its lengthy list of gear entirely.
@@ -139,7 +139,7 @@ Use these for, for example, improvised weapons or instead of its lengthy list of
 > Why use Gear?
 >
 > You can play Gauntlet Forge without gear entirely, as assets are an already useful abstractions. If you use gear, you should use them for the purpose for which I designed them:
-> - To add meaningful choices to conflicts
+> - To add meaningful choices to gauntlets
 > - Because I think they're neat
 >
-> So if, for example, your game does not have a lot of Fight conflicts, gear adds little meaningful choice and may be neglected. Or simply use them cause you think they're neat.
+> So if, for example, your game does not have a lot of Fight gauntlets, gear adds little meaningful choice and may be neglected. Or simply use them cause you think they're neat.

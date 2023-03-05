@@ -30,7 +30,7 @@ nav_order: 2
 
 # Fight Gear
 
-Assets for Fight conflicts come in two variations: weapons to attack and armor to defend. Though some, such as the **Helmet,** are not used to attack or defend, but they will aid you in Fight conflicts nonetheless.
+Assets for Fight gauntlets come in two variations: weapons to attack and armor to defend. Though some, such as the **Helmet,** are not used to attack or defend, but they will aid you in Fight gauntlets nonetheless.
 
 
 ## Vigor Gear

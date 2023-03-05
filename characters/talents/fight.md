@@ -25,7 +25,7 @@ When creating a boon or bane, you may make it enduring by suffering **1** physic
 
 ### Saboteur
 
-During conflicts, when you successfully attack with Intuition, you may discard an opponent's asset with rating less or equal to the amount of stress you inflicted.
+During gauntlets, when you successfully attack with Intuition, you may discard an opponent's asset with rating less or equal to the amount of stress you inflicted.
 
 ---
 
@@ -57,7 +57,7 @@ When attacking with Vigor, you inflict **1** additional stress if you rolled at 
 
 ### Battle Master
 
-You may act twice during Fight conflicts.
+You may act twice during Fight gauntlets.
 
 ### Riposte
 

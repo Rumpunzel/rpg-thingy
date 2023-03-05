@@ -25,7 +25,7 @@ While attacking, you may create banes from excess successes for free, without sp
 
 ### Guerilla Tactics
 
-The first time you suffer stress during a conflict, if you did not roll a **1,** ignore it.
+The first time you suffer stress during a gauntlet, if you did not roll a **1,** ignore it.
 
 ---
 
@@ -63,7 +63,7 @@ Predicting weather while resting only costs you **1** paraphernalia, not matter 
 
 ### Expedient Tracker
 
-When positioning for a conflict with Reason, you may research as if resting with your successes against a target you are positioning against.
+When creating and advantage during a gauntlet with Reason, you may research as if resting with your successes against a target you are positioning against.
 
 ### Marksman
 

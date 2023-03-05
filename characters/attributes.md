@@ -87,7 +87,7 @@ The three attributes do not only form the foundation of your character but of al
 
 The bear charging you inside its den; the scoundrel, who ambushes you in the gloomy ally; the moonlit lord, who anticipates your every move, they all have attributes just like you.
 
-When you create your character, you choose one of two possible dispositions you have against these foes, and edge you have during conflicts. Your disposition represents a certain knack you have against the other approaches, a weakness you might exploit. But beware, for your enemies also have dispositions.
+When you create your character, you choose one of two possible dispositions you have against these foes, and edge you have during [Contests](../playing-the-game/skill-tests/contests). Your disposition represents a certain knack you have against the other approaches, a weakness you might exploit. But beware, for your enemies also have dispositions.
 
 Your disposition may impose a penalty on your target when they defend against you with a certain attribute. Each of your attributes is disposed against one of the other two attributes. During [Contests](../playing-the-game/skill-tests/contests), you may use your disposition to decrease your opponents' training by **1** tier (to a minimum of **6+**) when they test against you with an attribute you are disposed against.
 

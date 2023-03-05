@@ -31,11 +31,11 @@ Opponents can only create boons or banes against you if you struggle to defend b
 
 ### Superior Strategist
 
-When positioning for a conflict, you may test for positioning twice and gain two different benefits.
+When create and advantage for a gauntlets, you may test twice and gain two different benefits.
 
 ### One Step Ahead
 
-During contests, ties count as successes for you, even if you're the attacker. During conflicts, you inflict **1** damage to your opponent's morale on ties. These benefits do not work should your opponent also have this talent.
+During contests, ties count as successes for you, even if you're the attacker. During gauntlets, you inflict **1** damage to your opponent's morale instead of your own. These benefits do not work should your opponent also have this talent.
 
 
 
@@ -53,7 +53,7 @@ When recovering from your own wounds decrease the test's difficulty by **1** (th
 
 ### Uncanny Dodge
 
-During Fight, Maneuver, and Wilderness conflicts, you may spend **1** Iron to suffer a **1** physical or mental stress (your choice) instead of resolving a defense test.
+During Fight, Maneuver, and Wilderness gauntlets, you may spend **1** Iron to suffer a **1** physical or mental stress (your choice) instead of resolving a defense test.
 
 ### Dazzling Elegance
 
@@ -64,7 +64,7 @@ As long as you do not have any wounds, you get **1** additional die on all your 
 ### Peace of Body and Mind
 
 Wounds cannot hinder your attacks.  
-At the beginning of a conflict, if you suffer from a wound, you may gain an enduring `Battle Trance` boon with rating equal to your highest rated wound's rating.
+At the beginning of a gauntlets, if you suffer from a wound, you may gain an enduring `Battle Trance` boon with rating equal to your highest rated wound's rating.
 
 ### Untouchable Grace
 

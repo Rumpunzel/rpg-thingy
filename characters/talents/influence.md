@@ -47,7 +47,7 @@ Boons you create become enduring if you rolled at least one **6** and no **1s.**
 
 ### Valiant Leader
 
-During conflicts, increase your team's morale by **1** if you rolled at least one **6** on a test.
+During gauntlets, increase your team's morale by an additional **1** if you rolled at least one **6** on a test.
 
 ---
 
@@ -63,8 +63,8 @@ When creating a boon with Influence and Intuition, you may gain an assets with r
 
 ### Where there's a Will
 
-During conflicts, you may choose a number and suffer that much stress. When you do, create a boon on yourself with rating equal to the amount of stress you suffered.
+During gauntlets, you may choose a number and suffer that much stress. When you do, create a boon on yourself with rating equal to the amount of stress you suffered.
 
 ### Schemer
 
-During conflicts, you may decrease the effort you achieved by **1** to create a special, secret `SCHEME` trait or improve the rating of an existing `SCHEME` trait by **1.**
+During gauntlets, you may decrease the effort you achieved by **1** to create a special, secret `SCHEME` trait or improve the rating of an existing `SCHEME` trait by **1.**
