@@ -25,6 +25,11 @@ If the attacker fails, they do not get what they want but the defender does. The
 On ties the defender wins and gets what they want but not stress is inflicted.
 
 
+## Disposition
+
+During contests, the defender may only defend with attributes the against which the attacker is not disposed.
+
+
 ## Traits during Contests
 
 During contests, using your own traits to your detriment does not increase the difficulty for yourself but works a little differently. You also have access to your opponents' detrimental traits to exploit for your advantage.
