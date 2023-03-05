@@ -65,6 +65,9 @@ When you fail a skill test, you do not get what you want, but you mark **1** **X
 
 Apart from completing goals, this is the only way go gain **XP** for your skills.
 
+
+## Resolving Tests in Revue
+
 {: .note-title }
 > Resolving Tests in Revue
 >
@@ -75,5 +78,52 @@ Apart from completing goals, this is the only way go gain **XP** for your skills
 > - Determine if the test will be simple, a contest, or a conflict.
 > - **Roll the dice.**
 > - The target number for your dice is determined by the skill you've chosen. Every face of a die that comes up as at least that number, is a hit, all others are misses.
-> - Use traits either for dice modifiers, extra dice, or an increases difficulty, and spend Favor.
+> - Use traits either for dice modifiers, extra dice, or an increases difficulty, and spend Iron.
 > - Determine the outcome of the test. If you succeeded, you get what you want, otherwise mark **1** **XP** and resolve the consequences of the test.
+
+The following flowchart shows how to resolve a skill test step by step.
+
+```mermaid
+%%{init: {'theme': 'dark', "flowchart" : { "curve" : "basis" } } }%%
+flowchart TD
+    Goal[Choose a goal to achieve] -->|Describe your action| Test{Determine Test}
+
+    Test -->|Passive Opposition| Simple(Simple Test)
+    Test -->|Active Opposition| Contest(Contest)
+    Test -->|It's Complicated| Conflict[Conflict<br><br>Procedure does not fit into this Flowchart<br>In essence a Sequence of Contests]
+    Conflict --> Contest
+    
+    Simple -->|Determine Opposition| Difficulty(Set Difficulty<br>equal to Trait Rating)
+    Contest --> Dice(Determine<br>Skill & Attribute)
+
+    Difficulty -->|Difficulty greater than 3| Conflict
+    Difficulty --> Dice(Determine<br>Skill & Attribute)
+    Dice --> Wound(Set Minimum Difficulty<br>According to Relevant Wound)
+    Wound -->|Accept Difficulty| Roll(Roll Dice)
+    Wound -->|Choose to create Boon| Increase(Increase Difficulty by Trait Rating)
+    Increase --> Roll
+    Roll -->|Choose to add Dice| Add{Choose Trait,<br>Boon, or Bane}
+
+    Add -->|Accept Result| Outcome
+    Add -->|Spend Iron| Modifier(Resolve Dice Modifier)
+    Modifier --> Outcome{Judge<br>Outcome}
+
+    Add -->|Environmental Trait| AddDice(Add Dice equal to Rating)
+    Add -->|Opponent's Character Trait| AddDice
+    Add -->|Boon| AddDice
+    Add -->|Opponent's Bane| AddDice
+    AddDice -->|Accept Result| Outcome
+    AddDice -->|Spend Iron| Modifier
+
+    Outcome -->|Accept Result| Resolve{Resolve}
+    Outcome -->|Use Detrimental Trait| Trait(Increase Difficulty<br>by Trait's Rating)
+    Outcome -->|Use Asset| Asset(Gain minimum Effort<br>equal to Asset's Rating)
+    Asset --> Resolve
+    Trait -->|Gain 1 Iron| Resolve
+    Resolve -->|Effort greater than Difficulty| Success[fa:fa-check You get what you want]
+    Resolve -->|Effort equal to Difficulty| Failure[fa:fa-x You do not get what you want]
+    Resolve -->|Effort less than Difficulty| Failure
+
+    Failure --> Stress(Suffer Stress equal to Margin of Failure)
+    Stress --> XP(fa:fa-plus Gain 1 XP)
+```

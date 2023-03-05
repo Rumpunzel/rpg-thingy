@@ -94,8 +94,7 @@ You may use any of your traits to your detriment, as long as it makes sense that
 
 You may use a single trait only to either help or hinder you, not both. Also, as above, you may only use a single of your traits per test to hinder you. If you have multiple traits which might fit, you have to choose only one of them.
 
-If this results in you failing the test, you gain **1** Iron.  
-Alternatively, the GM may suggest one of your traits to be used to your detriment when it would be both appropriate and dramatic. You may decline to do so by spending **1** Iron.
+When you do, you gain **1** Iron. Alternatively, the GM may suggest one of your traits to be used to your detriment when it would be both appropriate and dramatic. You may decline to do so by spending **1** Iron.
 
 {: .important }
 > When Cyrene tries to balance across a raging river, her `Drunkard` trait hinders her, and she adds **1** to the difficulty, which results in her falling into the water where the river drags her downstream instead of succeeding.  

@@ -105,23 +105,14 @@ In gameplay terms, the difficulty of the test would be the rating of the trait `
 
 # Taking Advantage of Traits
 
-When you test a skill, you may use **1** environmental trait which is known to you by describing how you would leverage that trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll.
+When you test a skill, you may use **1** trait (either environmental or from another character) which is known to you by describing how you would leverage that trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll.
 
-You may only use a single environmental trait per test. If there are multiple fitting environmental traits, you may only choose **1** of them.
+You may only take advantage of a single trait per test. If there are multiple fitting traits, you may only choose **1** of them. If you test as a group, only one of you may take advantage of a trait.
 
-Once you have used an environmental trait during a scene, you may do so until the scene ends or the scene changes so that your previous description would no longer grant you an advantage without having to go into detail how you would leverage that trait to your advantage.
+Once you have used a trait during a scene, you may do so until the scene ends or the scene changes so that your previous description would no longer grant you an advantage without having to go into detail how you would leverage that trait to your advantage.
 
 {: .important }
 > Maro is infiltrating an enemy outpost in the dark of night. The group agrees that he may use the implied `Moonless Night` trait on the scene to gain **1** additional die when sneaking past the guards. As long as it remains night, he may add **1** additional die to his infiltration attempts.
-
-When you test a skill targeting another character (either in a [Simple Test](skill-tests/simple-tests) or [Contest](skill-tests/contests)), you may use **1** of your target's traits which is known to you by describing how you would leverage that trait to your advantage. If the group agrees that your creative efforts would result in an advantage for you, add its rating as dice to your roll.
-
-You may only use a single of your target's traits per test. If your target has multiple fitting traits, you may only choose **1** of them.  
-If you are testing against multiple opponents in a contest, you may also choose **1** trait from among all their traits.
-
-Once you have used a character's trait during a scene, you may do so until the scene ends or the scene changes so that your previous description would no longer grant you an advantage without having to go into detail how you would leverage that trait to your advantage.
-
-You may use both an environmental trait _and_ one another character's trait on the same roll.
 
 {: .important }
 > Cyrene tracks a ghoul through the sewers to its hiding place, where a fight erupts. Cyrene discovered the `Light Sensitivity` trait with rating **2** of ghouls while doing research and raises the torch in her hand as she rushes forward. Everyone at the table agrees that she can use the trait to her advantage, both when attacking and defending, this way, and she adds **2** die to her attack roll as she blinds the ghoul with fire. As long as she has her torch in this fight with the ghoul, she may add **2** additional die to her attack and defense rolls.
@@ -129,7 +120,7 @@ You may use both an environmental trait _and_ one another character's trait on t
 
 ## Discovering Traits
 
-If you have a trait, you know of all obivous traits of places, creatures, or people connected to your area of expertise. You may ask the GM for this at any time, and you are invited to enrich the world with your descriptions of your character's experience any time you see fit.
+If you have a trait, you know of all obvious traits of places, creatures, or people connected to your area of expertise. You may ask the GM for this at any time, and you are invited to enrich the world with your descriptions of your character's experience any time you see fit.
 
 {: .important }
 > During their last adventure, Mare and Cyrene have crossed path with the robber king of Gantha and Maro got swept up in his character's past and now this robber king spells quite a bit of trouble. Though, as an `Exiled Sellsword of Gantha`, there is for sure something Maro knows about this robber king that might aid them in their struggle.

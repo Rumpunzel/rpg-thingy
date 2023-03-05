@@ -17,33 +17,21 @@ In general, boons and banes can only be utilized with the same attribute with wh
 
 ## Creating Boons & Banes
 
-Most boons and banes are created during [Conflicts](conflicts), though sometimes you may want to create them outside as well.
+Most boons and banes are created during [Conflicts](conflicts#gaining-an-advantage), though you can create them outside of conflicts as well.
 
-Whenever you would create a boon or bane, you may create a new environmental trait with equal rating instead, if it makes sense. Note that while you may decide who may take advantage of the banes and boons you create, a trait created by you may be used by anyone in the scene like any other trait. Also, you may not create traits on yourself or other characters.
+You may increase the difficulty of a test (even if the difficulty is **0** i.e. you would not have rolled a skill test normally) by the rating of an additional trait.
 
-### Positioning during Conflicts
+When you do, and you succeed on the skill test, in addition to succeeding, you create a boon or bane with rating equal to test's difficulty, which may only be used in the context of the additional trait you chose (only on tests where the trait either helps or hinders you).
 
-During conflicts, the main purpose of [Positioning](conflicts#positioning) is creating boons and banes.
-
-When you test a skill to create a boon or bane during a conflict, your effort (or margin of effort if someone defends against your attempt) determines the boon's/bane's rating.
-
-Most boons and banes (unless they are [Enduring](#enduring-boons--banes)) only last for the context they were created in, so for the duration of the conflict.
-
-{: .important }
-> The caravan Maro is escorting is being ambushed by bandits. One of the bandits is covered in mean battle scars, so Maro decides to leverage his superior mobility before engaging him directly. He tries to create a bane with Maneuver and Intuition on the bandit by running circles around him and throwing sand into his eyes. The bandit fails to defend against the attempt. Maro rolls **2** excess successes and creates a bane named `SAND IN MY EYES!` with rating **2** on the bandit.
->
-> Anyone attacking the bandit or defending against one of his attacks may now add **2** to their roll once after which the bane vanishes.
-
-### Using Traits
-
-Boons and banes may also be created outside a conflict. In that case, they last for as long as it makes sense or the scene ends.
-
-You may increase the difficulty of a test (even if the difficulty is **0** i.e. you would not have rolled a skill test normally) by the rating of an additional trait.  
-When you do, and you succeed on the skill test, in addition to succeeding, you create a boon or bane with rating equal to test's difficulty, which may only be used in the context of the additional trait you chose (only on tests where the trait either helps or hinders you).  
 Should you not succeed on the test, not only will you not get what you want, but also, at the GM's discretion, instead of creating a boon a bane is created on you (and instead of a bane a boon is created) with rating equal to your margin of failure.
 
-You may also turn excess effort after you have succeeded on a test into a boon on yourself; or, if you succeeded in a contest, into a bane on your opponent, by spending **1** Favour.  
+You may also turn excess effort after you have succeeded on a test into a boon on yourself; or, if you succeeded in a contest, into a bane on your opponent, by spending **1** Favour.
+
 You may also improve a boon or bane by the excess effort you achieved when creating it by spending **1** Favour.  
+
+Boons and banes last for as long as it makes sense or the scene ends.
+
+Whenever you would create a boon or bane, you may create a new environmental trait with equal rating instead, if it makes sense. Note that while you may decide who may take advantage of the banes and boons you create, a trait created by you may be used by anyone in the scene like any other trait. Also, you may not create traits on yourself or other characters.
 
 {: .important }
 > Cyrene wants to hide and sneak behind enemy lines to deliver a threat to their general. The camp is well guarded and there are `GUARDS PATROLLING EVERYWHERE`; they are expecting unwanted visitors.
@@ -55,7 +43,9 @@ You may also improve a boon or bane by the excess effort you achieved when creat
 
 When you use a boon, add dice equal to the boon's rating to your roll. Though, after you do, the boon is used up and vanishes.
 
-If you have multiple Boons which might aid you, you have to choose only one of them.
+If you have multiple boons which might aid you, you have to choose only one of them.
+
+You may only gain additional dice once per roll, so either from a trait, boon, or bane. If you have multiple options, choose only one of them.
 
 {: .important }
 > In the enemy camp, Cyrene finds the general in his tent meditating. She steps from the shadows and delivers her message with the utmost intent to intimidate him into accepting peace negotiations. The general's `DEVOTED SERVANT OF THE EMPIRE` trait sets the difficulty of the test at **2.** Though, the GM argues that the `FORTIFIED CAMP` trait increases the difficulty to a total of **3.**
@@ -65,12 +55,13 @@ If you have multiple Boons which might aid you, you have to choose only one of t
 
 ## Banes
 
-Banes are temporary detrimental [Traits](../characters/traits), though banes, are one-use only. After a bane increased the difficulty of a test or was used by an opponent to get extra dice, it vanishes.  
+Banes are temporary detrimental [Traits](../characters/traits), though banes, are one-use only. After a bane increased the difficulty of a test or was used by an opponent to get extra dice, it vanishes.
+
 If an opponent has multiple banes which you might use to aid you, you have to choose only one of them.
 
-A bane is not itself one of your opponent's traits, so you may invoke both a bane and a detrimental trait for additional dice.
-
 If you are affected by a bane, your opponent's may use it to add dice to their rolls during contests. During simple tests, add your highest rated bane's rating, which would logically hinder you, to the test's difficulty.
+
+You may only gain additional dice once per roll, so either from a trait, boon, or bane. If you have multiple options, choose only one of them.
 
 
 ## Enduring Boons & Banes

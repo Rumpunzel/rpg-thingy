@@ -93,7 +93,8 @@ Instead of testing the relevant skill to inflict stress to an opponent, you may 
 
 You still choose an opponent who will try to stop or at least hinder your efforts and, just as with attacking, your opponent cannot defend against your efforts with the attribute you are disposed against.
 
-Instead of inflicting stress, and depending on the margin of effort you achieved, you gain an advantage. These advantages only last for the duration of the conflict.
+Instead of inflicting stress, and depending on the margin of effort you achieved, you gain an advantage. These advantages only last for the duration of the conflict.  
+Your opponent still damages your morale if they achieve more effort than you.
 
 There is a general benefit and three that are each available from which to choose depending on with which attribute you tested.  
 
@@ -104,7 +105,10 @@ There is a general benefit and three that are each available from which to choos
 | **Intuition** | Discard **1** of your opponent's asset with rating equal to or less than your margin of effort / Gain **1** asset with rating equal to or less than your margin of effort discarded this way |
 |  **Reason**   |                                                         Learn of your opponent's lowest rated secret trait, which is unknown to you                                                          |
 
-Your opponent still damages your morale if they achieve more effort than you.
+{: .important }
+> The caravan Maro is escorting is being ambushed by bandits. One of the bandits is covered in mean battle scars, so Maro decides to leverage his superior mobility before engaging him directly. He tries to create a bane with Maneuver and Intuition on the bandit by running circles around him and throwing sand into his eyes. The bandit fails to defend against the attempt. Maro rolls **2** excess hits and creates a bane named `SAND IN MY EYES!` with rating **2** on the bandit.
+>
+> Anyone attacking the bandit or defending against one of his attacks may now add **2** to their roll once after which the bane vanishes.
 
 
 ## Surrendering
