@@ -121,7 +121,7 @@ color_scheme: forge
 callouts_level: loud # or quiet
 callouts:
   highlight:
-    color: yellow
+    color: red
   important:
     title: Story Time
     color: red
@@ -130,10 +130,10 @@ callouts:
     color: green
   note:
     title: Note
-    color: yellow
+    color: red
   warning:
     title: Warning
-    color: red
+    color: yellow
 
 
 plugins:
