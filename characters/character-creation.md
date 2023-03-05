@@ -8,9 +8,14 @@ nav_order: 10
 
 # Character Creation
 
-20 points
+Start with:
+- Crucible & Fire (both rating **2**)
+- **3** trait (up to **3**) with rating **1**
+- **1** in each attribute
 
-1 point
-- [10x] 10 **XP** for a skill
-- [7x] 1 attribute
-- [3x] 1 trait
+**15** points
+
+**1** point:
+- [9x] **+1** level in a skill
+- [4x] **+1** in an attribute
+- [1x] **+1** rating of a trait
