@@ -34,7 +34,7 @@ A trait has a rating ranging from **1** to **3** (very rarely there might be tra
 
 **Iron** is a meta-currency you can spend to influence your dice rolls, tilt luck in your favor, bite through the pain, or sometimes even fuel powerful magic.  
 
-You spend Iron--which you keep track of with coins, glass beads, poker chips, or some other tokens—-to unlock the power of traits and make them help you (see [Using Character Traits](#using-character-traits-to-your-advantage)).
+You spend Iron — which you keep track of with coins, glass beads, poker chips, or some other tokens — to unlock the power of traits and make them help you (see [Using Character Traits](#using-character-traits-to-your-advantage)).
 
 You earn Iron by letting a character aspect be compelled against you to complicate the situation or make your life harder (see [Using Traits to your Detriment](#using-character-traits-to-your-detriment)).  
 Whenever one of your traits really come out through how you roleplay your character or through the drama that results from your choices, you earn **1** Iron for your character.
@@ -104,7 +104,7 @@ Additionally, you may increase the difficulty of your tests to gain additional b
 
 
 
-# The Gauntlet Forge
+# To Forge a Gauntlet
 
 People are the very heart of this roleplaying game. Their struggles, their virtues, their faults, and their relationships; in short: their stories.  
 There are also battles, monsters, intrigue, and treasure, but they only matter in their relation to people. Who would care about a monster that scares no one, who about a treasure that no one wants, who about a throne in a kingdom without people?
@@ -184,16 +184,13 @@ The sign of a good Crucible is that whenever you find yourself in a moment of pe
 Just as your character's Crucible, their Fire always has a rating of at least **2.**
 
 
-## Forging the Gauntlet
+## The Path of Fire
 
 As you can see, the same phrase can be used either as a Crucible or a Fire, though its meaning drastically shifts. As a Crucible, `"The traitor who killed my father must die."` is a goal your character has that they will either fulfill or die trying. As a Fire, it is meant to be challenged as the story progresses. Does he indeed deserve to die? What did my father do that he was betrayed and murdered? Am I at fault for my father's death? These are all questions that only result from a Fire, for they are meant to be challenged, not from a Crucible.
 
 The Crucible is what contains your story. It is what will drive them to press on when everything else tells them to give in. It is the core of their identity to hold onto when things get tough.
 
 The Fire is what boils underneath the surface, which brings chaos and unrest to what the Crucible tries to contain. It molds the story which you will experience to forge the gauntlet your character will have to endure.
-
-
-## The Path of Fire
 
 Your character's Fire aches to be resolved and throughout play.  
 When you do, kindle a new Fire or retire your character, as they have arrived at the end of their journey.

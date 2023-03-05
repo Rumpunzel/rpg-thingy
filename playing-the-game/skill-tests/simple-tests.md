@@ -62,7 +62,7 @@ You may always change your approach and use a different skill to achieve your go
 
 Characters may act in tandem with each other when trying to achieve the same goal while testing the same skill (they may use different attributes, though most of the time, they will also use the same attributes). When they do, everyone tests and adds their successes together to determine if they manage to succeed as a group.
 
-When two or more character use the same skill and the same attribute to achieve the same goal, they always test as a group.
+When two or more character use the same skill and the same attribute to achieve the same goal, they always test as a group. When they do, choose one charcter who is the main actor. Only that character can add dice from [Traits](../../characters/traits) [Boons and Banes](../boons-&-banes) and use their [Disposition](../../characters/attributes#disposition).
 
 During simple tests, for each participant beyond the first, the difficulty of the test is increased by **1.**
 
