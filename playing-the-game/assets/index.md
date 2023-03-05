@@ -18,6 +18,7 @@ Assets may have additional properties such as weapons being able to be used as a
 You may buy new assets (see [Resting](../resting#crafting)) and create new assets or improve assets you already own (see [Crafting](#crafting-assets)).
 
 
+
 # Quality Rating
 
 Each asset has a quality rating. Usually, this rating is between **1** and **3.** Though, some special asset such as castles and other structures, as well as masterfully crafted gear might exceed even that.

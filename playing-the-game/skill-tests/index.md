@@ -90,13 +90,13 @@ flowchart TD
 
     Test -->|Passive Opposition| Simple(Simple Test)
     Test -->|Active Opposition| Contest(Contest)
-    Test -->|It's Complicated| Conflict[Conflict<br><br>Procedure does not fit into this Flowchart<br>In essence a Sequence of Contests]
-    Conflict --> Contest
+    Test -->|It's Complicated| Gauntlet[Gauntlet<br><br>Procedure does not fit into this Flowchart<br>In essence a Sequence of Contests]
+    Gauntlet --> Contest
     
     Simple -->|Determine Opposition| Difficulty(Set Difficulty<br>equal to Trait Rating)
     Contest --> Dice(Determine<br>Skill & Attribute)
 
-    Difficulty -->|Difficulty greater than 3| Conflict
+    Difficulty -->|Difficulty greater than 3| Gauntlet
     Difficulty --> Dice(Determine<br>Skill & Attribute)
     Dice --> Wound(Set Minimum Difficulty<br>According to Relevant Wound)
     Wound -->|Accept Difficulty| Roll(Roll Dice)
@@ -121,9 +121,10 @@ flowchart TD
     Asset --> Resolve
     Trait -->|Gain 1 Iron| Resolve
     Resolve -->|Effort greater than Difficulty| Success[fa:fa-check You get what you want]
-    Resolve -->|Effort equal to Difficulty| Failure[fa:fa-x You do not get what you want]
-    Resolve -->|Effort less than Difficulty| Failure
+    Resolve -->|Effort equal to Difficulty<br>during a Simple Test<br>or Defending during a Contest| Success
+    Resolve -->|Effort equal to Difficulty<br>when attacking during a Contest| Failure[fa:fa-x You do not get what you want]
+    Resolve -->|Effort less than Difficulty| Stress(Suffer Stress equal to Margin of Failure)
 
-    Failure --> Stress(Suffer Stress equal to Margin of Failure)
-    Stress --> XP(fa:fa-plus Gain 1 XP)
+    Stress --> Failure
+    Failure --> XP(fa:fa-plus Gain 1 XP)
 ```
