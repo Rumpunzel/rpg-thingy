@@ -121,7 +121,7 @@ When a team's captain surrenders or otherwise laves the gauntlet, they damage th
 
 # Last Stand
 
-Should you not have an empty stress box to absorb stress you suffered during a gauntlet, and you spend Iron to gain a new trait (as detailed in [Stress](../../characters/wounds#stress)) and you must choose between the following two options:
+Should you not have an empty stress box to absorb stress you suffered during a gauntlet, and you spend Favor to gain a new trait (as detailed in [Stress](../injury-&-misfortune.md#stress)) and you must choose between the following two options:
 
 - Immediately surrender from the gauntlet.
 - Enter your Last Stand.

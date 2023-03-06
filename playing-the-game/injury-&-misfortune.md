@@ -1,25 +1,66 @@
 ---
 layout: default
-title: Wounds
-description: Stuff about wounds
-parent: Characters
+title: Injury & Misfortune
+description: Stuff about injury & misfortune
+parent: Playing the Game
 nav_order: 5
 ---
 
-# Wounds
+# Injury & Misfortune
 
-Wounds are temporary but unavoidable negative consequences of when you suffer [Stress](#stress) your daring adventures. They will get in your way and, with time, fester if not looked after. And worst of all, they will help the blackguards who cross your way until you get rid of them.
+Setbacks are unavoidable — expected even — during your daring adventures. These setbacks fall into two distinct categories: [Injuries](#injuries) and [Misfortunes](#misfortunes).
 
-Wounds have a number associated with them called their [Severity](#wound-severities). A wounds severity increases as you gain stress during your adventures.
 
-Simple tests always have a minimum difficulty equal to the highest severity of your appropriate wounds. If an uncontested test already has a higher difficulty, your wounds do not increase it.
+## Misfortunes
 
-During contests, your opponents may use your wounds to their advantage. Your opponent's minimum effort when testing against you is equal to the highest severity of your appropriate wounds.  
-You may use your opponents' wounds against them for minimum effort in the same way as your opponent's can use yours against you.
+Misfortunes are temporary, negative consequences of your attempts to overcome obstacles and influence th world. They will get in your way and, with time, fester if not looked after. And worst of all, they will help the blackguards who cross your path until you get rid of them.
 
-The rules on when a wound hinders you on which kind of test are supposed to be a solid foundation to operate on but by no means law set in stone. As wounds are named after the circumstance they were inflicted, a wound's name might suggest that it should be applicable in even broader circumstances.  
-Mental wounds are a prime example that might hinder you in almost any circumstance, even if the wound is not major.
-Or, for example, a social wound marking you as a wanted for a gruesome murder might even hinder you on Wilderness tests as the tales of your misdeeds travelled across the land and no one you meet on the road is willing to help you, even getting in your way, and you must keep from the travelled road.
+Your character can be plagued by up to one misfortune. Whenever you fail to succeed on a [Simple Test](skill-tests/simple-tests), you suffer a minor misfortune.  
+You also suffer misfortunes as the result of contests if your opponent main goal was something other than directly hurting you.
+
+### Misfortune Boxes
+
+You have **6** misfortune boxes that you can mark to absorb misfortunes you suffer. Each box has a corresponding number which denotes what kind of misfortune that box can absorb when you mark it.
+
+You have **3** boxes which may absorb a minor misfortune (rating **1**) each, **2** boxes which may absorb a moderate misfortune (rating **2**) each, and **1** box which may absorb a major misfortune (rating **3**).  
+You may absorb minor misfortunes in any box which may absorb a moderate misfortune, and you may absorb moderate misfortunes in the box which can absorb major misfortunes.
+
+Whenever you suffer a misfortune, mark an empty box, noting that it absorbed that misfortune. Misfortunes you suffer must be entirely absorbed by a single box, you may not distribute a misfortune between boxes.
+
+Should you not have an empty box to fully absorb stress you suffered, instead mark the highest rated box you have and suffer the difference which that box could not absorb as an injury.
+
+### Effect of Misfortune
+
+If you have at least one misfortune box marked, you have a misfortune trait with rating equal **1,** if you have marked only minor misfortunes; **2,** if you have marked at least **1** moderate misfortune but no major misfortunes; or **3,** if you have marked a major misfortune. Name this trait something appropriate considering the struggles and setbacks you have endured and with a negative connotation, so that it will [get in your way](../characters/traits#using-character-traits-to-your-detriment) and can be used against you during [Contest](skill-tests/contests#detrimental-traits).
+
+See how to recover from your misfortune in the chapter about [Resting](resting#recovering).
+
+
+## Injuries
+
+Just like misfortunes, injuries have a rating associated with them, though you gain injuries only as a result of being attacked during [Gauntlets](gauntlets) (or sometimes Contests) with the explicit goal of hurting you.
+
+### Injury Boxes
+
+You have **3** injury boxes that you can mark to absorb injuries you suffer. Each box has a corresponding number which denotes what kind of injury that box can absorb when you mark it.
+
+You have **1** box which may absorb a minor injury (rating **1**), **1** box which may absorb a moderate injury (rating **2**), and **1** box which may absorb a major injury (rating **3**).  
+You may absorb minor injuries in any box which may absorb a moderate injury, and you may absorb moderate injuries in the box which can absorb major injuries.
+
+Whenever you suffer an injury, mark an empty box, noting that it absorbed that injury. Injuries you suffer must be entirely absorbed by a single box, you may not distribute an injury between boxes.
+
+Should you ever not have an empty box to fully absorb an injury, you are in deep trouble.
+Calculate the difference between the rating of your highest rated, empty injury box and the injury you suffered. If you have a trait with at least that rating, you may spend Favor equal to the difference and mark that empty box. Replace the chosen trait with a new trait representing permanent damage as a result of the injury you suffered and escaped by a hair's breadth.
+Otherwise, if you do not have such a trait or do not have enough Favor, the injury tears your characters from your grasp, and you must retire your character. Be it blood loss, drowning, permanent imprisonment, succumbing to sickness, execution, madness, or complete social ostracism, their journey is at an end.
+
+### Effect of Injury
+
+If you have at least one injury box marked, you have an injury with rating equal to the highest rating of boxes you have marked.
+
+Simple tests always have a minimum difficulty equal to your injury. If an uncontested test already has a higher difficulty, your injury do not increase it.
+
+During contests, your opponents may use your injury to their advantage. Your opponent's minimum effort, when testing against you, is equal to the rating of your injury.  
+You may use your opponents' injuries against them for minimum effort in the same way as your opponent's can use yours against you.
 
 
 ## Wound Types
@@ -75,7 +116,7 @@ Each of your wound slots has **6** stress boxes that you can mark to absorb stre
 Whenever you suffer stress, mark an empty box in the corresponding wound slot, noting that it absorbed that stress. Stress you suffer must be entirely absorbed by a single box, you may not distribute stress between boxes.
 
 Should you not have an empty box to absorb stress you suffered, you are in deep trouble.
-You may spend Iron equal to the stress you suffered to get a new trait with rating equal to the amount of Iron spent which absorbs the stress for you. Name the trait to describe the permanent injury you suffered and escaped by a hair's breadth.
+You may spend Favor equal to the stress you suffered to get a new trait with rating equal to the amount of Favor spent which absorbs the stress for you. Name the trait to describe the permanent injury you suffered and escaped by a hair's breadth.
 Otherwise, whatever has been gnawing at you, finally overwhelms you. Be it blood loss, drowning, permanent imprisonment, succumbing to sickness, execution, madness, or complete social ostracism, and you must retire your character.
 
 
