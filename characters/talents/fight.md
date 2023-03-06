@@ -43,7 +43,7 @@ Decrease the minimum effort your opponents gain from your wounds and increase th
 
 ### GET DOWN!
 
-When defending as a group, everyone gains minimum effort equal to the effort you achieved.
+When defending as a group with Vigor, everyone gains minimum effort equal to the effort you achieved.
 
 ### Fortress
 

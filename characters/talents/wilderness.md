@@ -41,15 +41,19 @@ When you create a boon or bane increase its rating by **1.**
 
 # Wilderness Specializations
 
-### Forager
+### Adventurer
 
-Increase the amount of paraphernalia you gain while resting by **1.**
+Increase the rating of your Goal trait by **1.**
 
 ### Wendigo
 
 When attacking with Vigor, you inflict **1** additional damage to morale if you rolled at least one **6,** even if your opponent defended successfully (this does not increase the stress you inflict).
 
 ---
+
+### Deadeye
+
+When attacking and using the Intution dice modifier, you may choose which dice to re-roll instead of re-rolling all at once.
 
 ### Outlander
 
@@ -65,6 +69,6 @@ Predicting weather while resting only costs you **1** paraphernalia, not matter 
 
 When creating and advantage during a gauntlet with Reason, you may research as if resting with your successes against a target you are positioning against.
 
-### Marksman
+### Forager
 
-When attacking and using the Reason dice modifier, you may choose which dice to re-roll instead of re-rolling all at once.
+Increase the amount of paraphernalia you gain while resting by **1.**

@@ -11,7 +11,7 @@ nav_order: 5
 
 ### Problem Solver
 
-When using a trait for a dice modifier,you may choose which dice modifier to use for the roll, regardless of the attribute you chose.
+When using a trait for a dice modifier, you may choose which dice modifier to use for the roll, regardless of the attribute you chose.
 
 ### Resourceful
 
