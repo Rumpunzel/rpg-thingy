@@ -8,7 +8,7 @@ nav_order: 1
 
 # Adversaries
 
-Adversaries gain no Iron.
+Adversaries gain no Favor.
 
 
 

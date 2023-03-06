@@ -3,7 +3,7 @@ layout: default
 title: Resting
 description: Stuff about resting
 parent: Playing the Game
-nav_order: 5
+nav_order: 6
 ---
 
 # Resting

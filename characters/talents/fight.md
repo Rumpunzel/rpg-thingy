@@ -47,7 +47,7 @@ When defending as a group with Vigor, everyone gains minimum effort equal to the
 
 ### Fortress
 
-While defending, you may create boons from excess successes for free, without spending Iron.
+While defending, you may create boons from excess successes for free, without spending Favor.
 
 ### Slayer
 

@@ -9,7 +9,7 @@ nav_order: 10
 # Character Creation
 
 Start with:
-- Crucible & Fire (both rating **2**)
+- Crucible & Pyre (both rating **2**)
 - **3** traits with rating **1**
 - **1** in each attribute
 

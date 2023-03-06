@@ -114,9 +114,6 @@ Once you have used a trait during a scene, you may do so until the scene ends or
 {: .important }
 > Maro is infiltrating an enemy outpost in the dark of night. The group agrees that he may use the implied `Moonless Night` trait on the scene to gain **1** additional die when sneaking past the guards. As long as it remains night, he may add **1** additional die to his infiltration attempts.
 
-{: .important }
-> Cyrene tracks a ghoul through the sewers to its hiding place, where a fight erupts. Cyrene discovered the `Light Sensitivity` trait with rating **2** of ghouls while doing research and raises the torch in her hand as she rushes forward. Everyone at the table agrees that she can use the trait to her advantage, both when attacking and defending, this way, and she adds **2** die to her attack roll as she blinds the ghoul with fire. As long as she has her torch in this fight with the ghoul, she may add **2** additional die to her attack and defense rolls.
-
 
 ## Discovering Traits
 
@@ -143,5 +140,5 @@ Alternatively, you may also suggest a new traits for a place, a creature, or a p
 
 Often, the GM will like your suggestion and add the trait (or a variation of it) on their own volition with the rating of their choosing as a new trait.
 
-If the new trait is a fitting and creative idea but would be a little _too_ convenient for your current predicament, the GM may ask you to spend **1** Iron to create the new trait on the place, creature, or person with rating up to the rating of your own trait.
+If the new trait is a fitting and creative idea but would be a little _too_ convenient for your current predicament, the GM may ask you to spend **1** Favor to create the new trait on the place, creature, or person with rating up to the rating of your own trait.
 Alternatively, you may create new environmental traits with skill tests (see [Creating Boons Using Traits](../playing-the-game/boons-&-banes)).

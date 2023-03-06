@@ -53,7 +53,7 @@ When recovering from your own wounds decrease the test's difficulty by **1** (th
 
 ### Uncanny Dodge
 
-During gauntlets, you may spend **1** Iron to suffer a **1** physical or mental stress (your choice) to not resolve a defense test instead of using your Intuition dice modifier.
+During gauntlets, you may spend **1** Favor to suffer a **1** physical or mental stress (your choice) to not resolve a defense test instead of using your Intuition dice modifier.
 
 ### Dazzling Elegance
 
@@ -68,4 +68,4 @@ At the beginning of a gauntlets, if you suffer from a wound, you may gain an end
 
 ### Untouchable Grace
 
-When you would gain an injury while defending with Reason, you may spend **1** Iron to gain a misfortune instead.
+When you would gain an injury while defending with Reason, you may spend **1** Favor to gain a misfortune instead.
