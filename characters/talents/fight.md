@@ -62,7 +62,7 @@ You may act twice during Fight gauntlets.
 ### Riposte
 
 You may defend with weapons without penalty.  
-When successfully defending with Fight and Intuition, in addition to inflicting morale damaging, you may also inflict stress equal the morale damage dealt.
+When successfully defending with Fight and Intuition, you may inflict an [Injury](../../playing-the-game/injury-&-misfortune#injury) instead of a [Misfortune](../../playing-the-game/injury-&-misfortune#misfortune).
 
 ---
 

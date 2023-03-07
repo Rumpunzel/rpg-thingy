@@ -168,16 +168,13 @@ When characters oppose each other and each of them try to achieve a different go
 
 Before rolling for a contest, determine of inflicting harm on the opponent is part of the conflict. This will decide whether the consequence of losing the contest will be suffering an injury or misfortune.
 
-The attacker, whoever initiated the contest, tests first; the achieved effort sets the difficulty of the defender. Then the defender tests to try to achieve enough effort to meet or exceed the attacker's.
+Whoever initiated the contest, called the attacker, tests first; the achieved effort sets the difficulty of their target, called the defender. Then the defender tests with the same skill to try to achieve enough effort to meet or exceed the attacker's.
 
 If the defender fails to succeed, the attacker wins and gets what they want and the defender does not.
 
-If the defender succeeds, they win get what they want but the attacker does not.  
-On ties the defender also wins and gets what they want.
+If the defender succeeds and on ties, they win get what they want but the attacker does not.  
 
 The winner also inflicts harm on the loser equal to their margin of success (on ties no harm is inflicted), either as an injury, if inflicting harm was determined to be part of the contest, or as a misfortune, if it was not.
-
-In most cases, both the defender and the attacker test the same skill, though with the attribute of their choice. In some circumstances it might make sense to test different Skills, though those occasions will be uncommon.
 
 {: .note-title }
 > Examples of Contests

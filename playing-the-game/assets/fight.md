@@ -3,25 +3,25 @@ bulwark: "- **Bulwark:** When defending, increase your effort by **1** if you ro
 
 deadly: "- **Deadly:** Increase the rating of [Injuries](../injury-&-misfortune#injury) you inflict by **1** if you rolled a **6.**"
 
-durable: "- **Durable:** This asset only degrades below quality rating **1,** if you roll a **1.**"
+durable: "- **Durable:** This asset only degrades below quality rating **1,** if you rolled a **1.**"
 
-honing: "- **Honing:** When attacking, increase your minimum effort by **1** + this asset's masterpiece rating."
+honing: "- **Honing:** When attacking, increase your minimum effort by **1** (this stacks with the minimum effort from other assets). If you rolled a **6,** this asset does not degrade."
 
 impenetrable: "- **Impenetrable:** Gain all [Injuries](../injury-&-misfortune#injury) with rating equal to or less than this asset's quality rating as [Misfortunes](../injury-&-misfortune#misfortune) instead."
 
-piercing: "- **Piercing:** When attacking, decrease your opponent's minimum effort by **1** + this asset's masterpiece rating. This does not reduce minimum effort gained from your injury."
+piercing: "- **Piercing:** When attacking, decrease your opponent's minimum effort gained from assets or traits by **1.**"
 
 ranged: "- **Ranged:** When attacking, your opponents may defend with Maneuver instead of Fight but your team's morale does not decrease if you miss."
 
 reach: "- **Reach:** When you create a [Boon](../boons-&-banes#boons) with Maneuver, it becomes [Enduring](../boons-&-banes#enduring-boons--banes)."
 
-reliable: "- **Reliable:** When defending, increase your minimum effort by **1** + this asset's masterpiece rating."
+reliable: "- **Reliable:** When defending, increase your minimum effort by **1** (this stacks with the minimum effort from other assets). If you rolled a **6,** this asset does not degrade."
 
-tactical: "- **Tactical:** This asset may be used for Maneuver tests without penalty. When testing Maneuver, add **1** + its masterpiece rating as dice to your roll."
+tactical: "- **Tactical:** This asset may be used for Maneuver tests without penalty. When testing Maneuver, add **1** die to your roll."
 
 versatile: "- **Versatile:** This asset may be used with any attribute without penalty."
 
-wicked: "- **Wicked:** When adding dice from a boon or bane created with Intuition, or from an opponent's trait also add **1** + this asset's masterpiece rating as dice to your roll."
+wicked: "- **Wicked:** When adding dice from a boon or bane created with Intuition, or from an opponent's trait also add **1** die to your roll."
 
 
 layout: default

@@ -10,7 +10,7 @@ nav_order: 2
 
 When the stakes are high, and you want to circle in on each individual decision to see who comes out on top, then that calls for a gauntlet. A lot of the time fights with important enemies will be handled through gauntlets, as will crucial chases, heated debates, continent-spanning journeys, and even something like a deciding competition between craftsmen or trade guilds.
 
-A gauntlet is essentially a sequence of [Contests](skill-tests#contests).
+A gauntlet is essentially a sequence of [Contests](skill-tests#contests) with slightly altered consequences.
 
 
 ## Entering a Gauntlet
@@ -48,15 +48,18 @@ There are three different types of gauntlets you may enter, depending on the sit
 This is the most straight-forward, most dangerous, but also the least common type of gauntlet. You are trying to destroy your opponent, and they are trying to destroy you, be that killing them in battle, devastating them mentally, or ruining them financially.  
 If at least one side has a different goal than to destroy the other, choose a [Gauntlet of Contention](#gauntlet-of-contention) instead.
 
-During a gauntlet of destruction, when a character fails to defend, their attacker inflicts an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to the defender. Teams take turns until only one side remains standing.
+During a gauntlet of destruction:
 
-You put your own life on the line, when you enter a gauntlet of destruction. As such, if you surrender during a gauntlet of destruction, you suffer the fate you wanted to inflict on your opponent and you perish.
+- When a character successfully attacks, they inflict an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to their target
+- When a character successfully defends, they inflict a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of success to their attacker
+
+Teams take turns until only one side remains standing. You put your own life on the line, when you enter a gauntlet of destruction. As such, if you surrender during a gauntlet of destruction, you suffer the fate you wanted to inflict on your opponent and you perish.
 
 Most gauntlets of destruction is the [Fight](../characters/skills#fight) skill with the intent to murder.
 
 {: .important }
 > Maro, after a long and arduous journey, finally confronts the man who murdered his father. Only one of them will make it out of here alive, so they enter a gauntlet of destruction.
-> 
+
 
 ## Gauntlet of Contention
 
@@ -64,13 +67,21 @@ This is the most common type of gauntlet used to settle most major disputes.
 
 As the main goal during this type of gauntlet is not to destroy the other side but to achieve a specific goal, each side in a gauntlet of contention uses [Morale](#morale) to track their progress towards achieving their goal.
 
+During a gauntlet of destruction:
+
+- When a character successfully attacks, they reduce their target's morale by **1** and increase their team's morale by **1**
+- When a character successfully defends, they increase their team's morale by **1** and reduce their attacker's morale by **1**
+
 Gauntlets of contention come in two different varieties depending on the goal you want to achieve.
 
-### Mediate
+### Overcome
 
-You are trying to settle a difficult dispute. You do not want to hurt the other side, instead you want to demonstrate, make them understand.
+You are trying to settle a difficult dispute, get to the treasure before a rival does, win a sparring match, or something similar. You do not want to hurt the other side, instead you want to demonstrate, maybe even make them understand.
 
-During gauntlets of contention to mediate, when a character fails to defend, their opponent inflicts a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of success to the defender.
+During gauntlets of contention to overcome:
+
+- When a character successfully attacks, they inflict a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of success to their target
+- When a character successfully defends, only the above-mentioned changes to morale occur.
 
 {: .important }
 > Cyrene has been entangled in the mess of two warring families and has been swept up in a diplomatic confrontation as the two finally clash.
@@ -81,7 +92,10 @@ During gauntlets of contention to mediate, when a character fails to defend, the
 
 You aim to impose your intentions, damn the opposition.
 
-During gauntlets of contention to subjugate, when a character fails to defend, their opponent inflicts an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to the defender.
+During gauntlets of contention to subjugate:
+
+- When a character successfully attacks, they inflict an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to their target
+- When a character successfully defends, they inflict a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of success to their attacker
 
 {: .important }
 > Cyrene and Maro have discovered a group of cultist trying to conduct a vile ritual. This calls for a gauntlet of contention to subjugate and with the intent to inflict injury.
@@ -104,10 +118,12 @@ During a gauntlets, teams act in turns. Turn order is determined by whoever init
 During a team's turn each of its members may act in whatever order they choose until each member has acted once.  
 Then the active team decides which team goes next. A team may not be chosen this way again until all teams have acted once.
 
-To act, a character has three choices, either attack an opponent to inflict stress upon and damage their morale, try to gain an advantage just like you would during positioning, or surrender.
+To act, a character has three choices, either pursue their goal, try to gain an advantage, or surrender.
 
 
-## Attacking
+## Pursuing your Goal
+
+To pursue your goal, test the relevant skill with any attribute (you may test as a group). In most cases this will be some form of attacking.
 
 To attack, test the relevant skill with any attribute against an opponent of your choice. You may attack as a group.
 
@@ -171,7 +187,7 @@ During a gauntlet which uses morale, each team's capability to fight on is repre
 
 Whenever a character succeeds on a test, their captain adds **1** to their team's morale.
 
-You may also [Gain and Advantage](#gaining-an-advantage) with Vigor to further increase your morale.
+You may also [Gain an Advantage](#gaining-an-advantage) with Vigor to further increase your morale.
 
 ## Losing Morale
 
@@ -179,19 +195,20 @@ Whenever a character fails to succeed on a test, their captain subtracts **1** f
 
 When a character surrenders or otherwise leaves a gauntlet, their captain subtracts **1** from their team's morale.
 
-When a team's morale drops below **0,** the team gains a `BROKEN MORALE` trait with rating equal to the amount of morale they are below **0.**  
+## Faltering Morale
+
+When a team's morale drops below **0,** the team gains a `FALTERING MORALE` trait with rating equal to the amount of morale they are below **0.**
+
 This trait counts as a character trait for each team member and may be used against them like any other character trait.
 
-When a team's morale reaches **0** or more, they lose their `BROKEN MORALE` trait.
+When a team's morale reaches **0** or more, they lose the `FALTERING MORALE` trait.
 
 ## Keeping Morale
 
-When all members of a team have acted, its captain tests to keep morale if its morale has been broken.
-
-At the end of each turn, if a team has a `BROKEN MORALE` trait, its captain must test a skill that is not the relevant skill to keep their team's morale from breaking. The test's base difficulty is equal to the `BROKEN MORALE` trait's rating.
+At the end of each turn, if a team has a `FALTERING MORALE` trait, its captain must test a skill that is not the relevant skill to keep their team's morale from breaking. The test's difficulty is equal to the `FALTERING MORALE` trait's rating.
 
 If the captain does not succeed on the test, their team's morale breaks.  
-Otherwise if the captain succeeds, or if the team does not have a `BROKEN MORALE` trait, the team keeps their morale.
+Otherwise if the captain succeeds, or if the team does not have a `FALTERING MORALE` trait, the team keeps their morale.
 
 A captain's teammates may help their captain keep morale by testing with them as a group (increase the test's difficulty by **1** for each teammate who tests beyond the captain).
 
