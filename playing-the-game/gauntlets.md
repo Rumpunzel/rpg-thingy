@@ -37,19 +37,21 @@ When in doubt, settle for a compromise without any winners.
 
 # Types of Gauntlets
 
-There are three different types of gauntlets you may enter, depending on the situation in which you find yourself, on what you are trying to achieve, and on who or what opposes you in your attempts to achieve it.
+During any gauntlet, whenever you fail to succeed on a skill test, which is not a test to defend, you suffer a misfortune, as you would on any other test.  
+The consequence of failing to defend depends on the type of gauntlet.
 
-Depending on the type of gauntlet, you inflict and suffer a different kind of harm.
+There are three different types of gauntlets you may enter, depending on the situation in which you find yourself, on what you are trying to achieve, and on who or what opposes you in your attempts to achieve it.
 
 
 ## Gauntlet of Destruction
 
 This is the most straight-forward, most dangerous, but also the least common type of gauntlet. You are trying to destroy your opponent, be that killing them in battle, devastating them mentally, or ruining them financially.
 
-During a gauntlet of destruction, you inflict and suffer [Injuries](injury-&-misfortune#injury).  
-You also put your own life on the line, when you enter this type of gauntlet. If you lose, you suffer the fate you wanted to inflict on your opponent and you perish.
+During a gauntlet of destruction, when a character fails to defend, their opponent inflicts an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to the defender.
 
-There are no additional rules for a gauntlet of destruction. Teams take turns until only one side remains standing. As such, you cannot surrender from a gauntlet of destruction.
+You put your own life on the line, when you enter a gauntlet of destruction. As such, if you lose, you suffer the fate you wanted to inflict on your opponent and you perish.
+
+Teams take turns until only one side remains standing. You cannot surrender from a gauntlet of destruction.
 
 
 ## Gauntlet of Contention
@@ -67,7 +69,7 @@ Gauntlets of contention come in two different varieties depending on the goal yo
 
 You are trying to settle a difficult dispute. You do not want to hurt the other side, instead you want to demonstrate, make them understand.
 
-During gauntlets of contention to mediate, you inflict and suffer [Misfortunes](injury-&-misfortune#misfortune).
+During gauntlets of contention to mediate, when a character fails to defend, their opponent inflicts a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of success to the defender.
 
 {: .important }
 > Cyrene has been entangled in the mess of two warring families and has been swept up in a diplomatic confrontation as the two finally clash.
@@ -78,7 +80,7 @@ During gauntlets of contention to mediate, you inflict and suffer [Misfortunes](
 
 You aim to impose your intentions, damn the opposition.
 
-During gauntlets of contention to subjugate, you inflict and suffer injuries.
+During gauntlets of contention to subjugate, when a character fails to defend, their opponent inflicts an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to the defender.
 
 {: .important }
 > Cyrene and Maro have discovered a group of cultist trying to conduct a vile ritual. This calls for a gauntlet of contention to subjugate and with the intent to inflict injury.
@@ -106,11 +108,12 @@ To act, a character has three choices, either attack an opponent to inflict stre
 
 ## Attacking
 
-To attack, test the relevant skill with any attribute against an opponent of your choice.
+To attack, test the relevant skill with any attribute against an opponent of your choice. You may attack as a group.
 
 If you achieved more effort than your opponent, depending on the type of conflict, you inflict your margin of effort as either an injury or misfortune to your opponent.
 
-Anyone may help their teammates defend as a group when one of their allies is attacked, but they can only do so, if they are not themselves attacked. To keep an opponent from protecting one of their allies, have one of your teammates attack and occupy them.
+Anyone may help their teammates defend as a group when one of their allies is attacked, but they can only do so, if they are not themselves attacked.  
+To keep an opponent from protecting one of their allies, have one of your teammates attack and occupy them.
 
 Should you not have an empty injury box to absorb an injury you suffered during a gauntlet, and you spend Favor to gain a new trait (see [The Door of Death](injury-&-misfortune#the-door-of-death)), you must immediately choose one of the following two options:
 
