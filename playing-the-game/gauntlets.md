@@ -45,13 +45,14 @@ There are three different types of gauntlets you may enter, depending on the sit
 
 ## Gauntlet of Destruction
 
-This is the most straight-forward, most dangerous, but also the least common type of gauntlet. You are trying to destroy your opponent, be that killing them in battle, devastating them mentally, or ruining them financially.
+This is the most straight-forward, most dangerous, but also the least common type of gauntlet. You are trying to destroy your opponent, and they are trying to destroy you, be that killing them in battle, devastating them mentally, or ruining them financially.  
+If at least one side has a different goal than to destroy the other, choose a [Gauntlet of Contention](#gauntlet-of-contention) instead.
 
-During a gauntlet of destruction, when a character fails to defend, their opponent inflicts an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to the defender.
+During a gauntlet of destruction, when a character fails to defend, their attacker inflicts an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to the defender.
 
-You put your own life on the line, when you enter a gauntlet of destruction. As such, if you lose, you suffer the fate you wanted to inflict on your opponent and you perish.
+Teams take turns until only one side remains standing.
 
-Teams take turns until only one side remains standing. You cannot surrender from a gauntlet of destruction.
+You put your own life on the line, when you enter a gauntlet of destruction. As such, if you surrender during a gauntlet of destruction, you suffer the fate you wanted to inflict on your opponent and you perish.
 
 
 ## Gauntlet of Contention
@@ -63,7 +64,7 @@ As the main goal during this type of gauntlet is not to destroy the other side b
 Gauntlets of contention come in two different varieties depending on the goal you want to achieve.
 
 {: .important }
-> Maro, after a long and arduous journey, finally confronts the man who killed his father. Only one of them will make it out of here alive, so they enter a gauntlet of destruction.
+> Maro, after a long and arduous journey, finally confronts the man who murdered his father. Only one of them will make it out of here alive, so they enter a gauntlet of destruction.
 
 ### Mediate
 
@@ -148,7 +149,7 @@ There are four different types of advantages from which to choose. One general a
 
 During their turn, a character may choose to surrender and remove themselves from the gauntlet. They can no longer influence the outcome, but they are out of harm's way.
 
-You cannot surrender from a [Gauntlet of Destruction](#gauntlet-of-destruction).
+If you surrender during a [Gauntlet of Destruction](#gauntlet-of-destruction), you perish.
 
 
 
