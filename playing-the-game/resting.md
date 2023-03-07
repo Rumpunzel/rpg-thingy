@@ -14,52 +14,129 @@ Anyone resting with you may also test the appropriate [Skill](../characters#skil
 
 You may use [Assets](assets) as usual, especially rations.
 
-You gain a number of [Paraphernalia](assets#paraphernalia) equal to the effort you achieve during the resting test. They symbolize the means you have at your disposal and the time you have available for this rest before your shelter is exposed, before your allocated supplies run out and your rest ends.  
+While resting, you have access to a number of special skill tests as detailed below.
+
+
+## Paraphernalia
+
+You gain a number of [Paraphernalia](assets#paraphernalia) equal to the effort you achieve during the resting test. They symbolize the means you have at your disposal and the time you have available for this rest before your shelter is exposed, before your allocated supplies run out and your rest ends.
+
+A paraphernalia can be anything from branches, steel, an animal carcass, a rare herb, to even something immaterial such as shelter from the forces of nature or comfortable bed. A material is something you either need to directly craft an asset or something which grants you the peace and quiet to work without disturbances.
+
 You may share paraphernalia with anyone else you are resting with as you please.
 
-Depending on the attribute you tested with, the paraphernalia will be of a different type.
-
-|                 Vigor                 |               Intuition               |                  Reason                   |
-|:-------------------------------------:|:-------------------------------------:|:-----------------------------------------:|
-| [Sturdy](assets#sturdy) paraphernalia | [Supple](assets#supple) paraphernalia | [Precious](assets#precious) paraphernalia |
+Sometimes you might also find paraphernalia while adventuring, which you may use the next time you rest.
 
 When you attempt a skill test while resting, you must spend paraphernalia equal to the test's difficultly to attempt it. If you do not have enough paraphernalia, you cannot attempt it.  
 Most tests may use any type of material but some tests such as [Crafting](assets#crafting-assets) require specific paraphernalia.
 
 You may end a rest at any point. Any unspent paraphernalia you have at the end of a rest are lost.
 
-While resting, you have access to a number of special skill tests.
+Depending on the attribute you tested with, the paraphernalia will be of a different type.
+
+### Sturdy
+
+When you test [Vigor](../characters/attributes#vigor), you gain `Sturdy` paraphernalia, which are needed to create simple weapons and build structures. This category encompasses lumber, stone, shelter, and access to high-society.
+
+### Supple
+
+When you test [Intuition](../characters/attributes#intuition), you gain`Supple` paraphernalia, which are needed to create food, art, clothing and nurture animals. This category encompasses raw food, plants, and comfort (like a warm campfire).
+
+### Precious
+
+When you test [Reason](../characters/attributes#reason), you gain`Precious` paraphernalia, which are needed to create refined weapons and armor, fine instruments, and draft contracts. This category encompasses metal, paper, ink, gemstones, rare flowers, and indispensable information.
 
 
-## Crafting
 
-You may create new asset and improve assets you already own as detailed in [Crafting Assets](assets#crafting-assets) in the chapter about assets.
+# Forging Assets
+
+You can create new [Assets](assets) and improve existing assets while resting. Most of the time this requires a [Craft](../characters/skills#craft) test but sometimes a different skill might be created such as [Influence](../characters/skills#influence) to create, for example, an `Agreement with the Red Council` asset.
+
+To create an asset with quality rating **1** is a test difficulty **1** challenge.
+
+After being created, assets can only be improved by **1** rating at a time. To improve an asset from a quality rating of **2** to a quality rating of **3,** is a difficulty **3** challenge.
+
+When restoring an asset with rating **0** (an asset which broke after being used) to rating **1,** and you do not achieve any effort, the asset is lost.
+
+To attempt a test to create or improve and asset, like any test while resting, you need a number of paraphernalia equal to the test's difficulty, which are consumed with the test, success or failure.
 
 
-## Recovering
 
-While resting, you may mend your physical and mental wounds afflicting you.
+# Recovering
 
-By succeeding on a difficulty **3** test, you may clear the **3** stress box in the wound's slot.  
-By succeeding on a difficulty **2** test, you may clear both **2** stress boxes in the wound's slot.  
-By succeeding on a difficulty **1** test, you may clear all **1** stress box in the wound's slot.  
-Afterward, rename the wound to reflect its mitigated severity or remove the wound from its slot if you have cleared all of its stress boxes.
+While resting, you may mend your injury and rid yourself of the misfortune you have suffered.
+
+
+## Recovering from Misfortune
+
+You may overcome misfortune by spending paraphernalia.
+
+- Spend **1** paraphernalia to clear all your minor misfortune boxes
+- Spend **2** paraphernalia to clear all your moderate misfortune boxes
+- Spend **3** paraphernalia to clear your major misfortune box
+
+You cannot recover from your misfortune if you suffer from an injury.
+
+
+## Recovering from Injury
+
+You may attempt to mend injury by succeeding in a challenge (as any other test while resting, this requires paraphernalia equal to the test's difficulty).
+
+- A successful difficulty **1** test clears your minor injury box
+- If your minor injury box is empty, a successful difficulty **2** test clears your moderate injury box
+- If both your minor and moderate injury boxes are empty, a successful difficulty **3** test clears your major injury box
+
+If you succeed, rename the injury to reflect its mitigated severity or remove it if you have cleared all injury boxes.
 
 Someone resting with you may help you with the recovery test, and you may test as a group.
 
-If you all your wound slots are empty, you may spend paraphernalia to gain a `Well Rested` enduring [Boon](boons-&-banes#boons). This boon lasts across scenes, until it vanishes, or until you rest again, whichever happens first.
+Note that your injury set a minimum difficulty for all your tests, even recovery. So while you suffer from a major injury, attempting to clear your minor injury box is also a difficulty **3** test.
+
+### Injury Types
+
+Depending on what kind of injury you have suffered, a different skill and perhaps even attribute is required to mend it.
+
+You can mend physical injuries by testing Craft.
+
+- **Minor physical injuries can be mended with any attribute.**
+- **Moderate physical injuries can be mended with Intuition and Reason.** Some sense for field dressing or at least attentive care are required for these kinds of wounds.
+- **Major physical injuries can only be mended with Reason.** Practiced surgery is required to close these kinds of wounds.
+
+You can mend mental injuries by testing Influence.
+
+- **Minor mental injuries can be mended with any attribute.**
+- **Moderate mental injuries can be mended with Vigor and Intuition but not by Reason.** Some sense of genuine compassion or at least a warming presence is required for these troubles.
+- **Major mental injuries can only be mended with Intuition.** Heartfelt empathy is required to tackle these troubles.
+
+You can mend social wounds with Resource tests, though only while resting in a settlement, not in the wilderness.
+
+- **Minor social injuries can be mended with any attribute.**
+- **Moderate social injuries can be mended with Vigor and Reason but not by Intuition.** Fame, Wealth, rigorous bookkeeping, or a sound argument before a court are required to get out of these predicaments.
+- **Major social injuries can only be mended with Vigor.** Nobility, a made name, or chests of gold are required to get out of these predicaments.
+
+|              |   Mending Physical   |   Mending Mental    |  Mending Social  |
+|:------------:|:--------------------:|:-------------------:|:----------------:|
+|  **Skill**   |      **Craft**       |    **Influence**    |  **Resources**   |
+|  **Minor**   |        _Any_         |        _Any_        |      _Any_       |
+| **Moderate** | _Intuition & Reason_ | _Vigor & Intuition_ | _Vigor & Reason_ |
+|  **Major**   |       _Reason_       |     _Intuition_     |     _Vigor_      |
+
+[Leisure Structures](../running-the-game/settlements#leisure-structures) can give you additional options to get rid of your injury but on the road or without help, these are the only ways to get rid of injury.
+
+
+## Resting Well
+
+If you have neither an injury nor misfortune, you may spend paraphernalia to gain the enduring [Boon](boons-&-banes#boons) `Well Rested`. This boon lasts across scenes, until it vanishes or until you rest again, whichever happens first.
 
 | `Well Rested` Boon Rating | Paraphernalia Required |
 |:-------------------------:|:----------------------:|
 |           **1**           |           1            |
 |           **2**           |           3            |
 |           **3**           |           6            |
-|           **4**           |           10           |
-|           **5**           |           15           |
-|          **...**          |          ...           |
 
 
-## Practice
+
+# Practicing
 
 You may practice one of your skills while resting by testing that skill and potentially gain **XP** for that skill.
 
@@ -71,7 +148,8 @@ If you succeed on the test, you mark **1** **XP** for the skill. Otherwise, you 
 
 As with any test, you may also test as a group, though only one of you will gain **XP.**
 
-## Weather-Watching
+
+# Weather-Watching
 
 While resting, you may increase or decrease the rating of the current weather trait by **1,** or alter the name of the current weather trait (within reason).  
 To do so, test Wilderness with Intuition. The difficulty for the test is the rating of the current weather trait. If you fail, the GM may increase or decrease the rating of the current weather trade or rename it to introduce a complication.
@@ -94,11 +172,6 @@ You may forage in the wild by testing Wilderness. Choose a difficulty for the fo
 # Downtime
 
 While resting a settlement, you have access to some additional, special skill tests.
-
-
-## Recovering in Settlements
-
-While resting in a settlement, you may mend social wounds afflicting you or someone resting with you (just like you would physical or mental wounds).
 
 
 ## Buying
@@ -130,7 +203,7 @@ You may spend your time working while resting in a settlement. Choose a skill an
 If you succeed, you gain a `Currency` asset for Resources of the local currency with rating equal to the chosen difficulty. Otherwise, if you achieved at least **1** effort, you gain a `Currency` asset with rating **1.**
 
 
-## Research
+## Researching
 
 You may spend your time brawling in taverns, visiting shady meetings, or among scrolls and tomes to learn more about a specific subject and its traits. Name the place, creature, or person you would like to know more about and test Resources. For each of your subject's hidden traits you already know, add **1** additional dice to your roll.
 

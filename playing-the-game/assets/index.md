@@ -15,11 +15,14 @@ Assets have a specific use case. A weapon can be used to attack with [Fight](../
 
 Assets may have additional properties such as weapons being able to be used as assets for other skills than Fight or granting other benefits (see [Gear](#gear)). To use such a property, you must use the asset for minimum effort on a test.
 
-You may buy new assets (see [Resting](../resting#crafting)) and create new assets or improve assets you already own (see [Crafting](#crafting-assets)).
+You may buy new assets (see [Buying](../resting#buying)) and create new assets or improve assets you already own (see [Forging](../resting#forging-assets)).
+
+## Inventory
+
+You may carry up to **9** assets with you at a time. If you want to gain an asset while your inventory is full, you need to discard an asset you own to gain it
 
 
-
-# Quality Rating
+## Quality Rating
 
 Each asset has a quality rating. Usually, this rating is between **1** and **3.** Though, some special asset such as castles and other structures, as well as masterfully crafted gear might exceed even that.
 
@@ -34,8 +37,7 @@ If an asset's quality rating drops to **0,** it can no longer be used.
 > 
 > He does and drives his `Axe` into his opponent's armored shoulder. As he used his `Axe`, it degrades and loses **1** quality rating. It now has a quality rating of **1** but the assassin suffered a wound despite his efforts and will be easier to fight from now on.
 
-
-## Masterpieces
+### Masterpieces
 
 Some assets are so well crafted for their purpose that they are considered masterpieces. These assets have a masterpiece rating in addition to their quality rating, which grants them additional benefits.
 
@@ -53,8 +55,7 @@ You may use a masterpiece asset to gain minimum effort equal to its quality rati
 |     **7**      |         3          |
 |    **...**     |        ...         |
 
-
-## Off-Label Usage
+### Off-Label Usage
 
 When using an asset for with a skill or [Attribute](../../characters#attributes) other than its intended purpose, it grants only **1** minimum effort for that test.  
 If the asset is a masterpiece, instead it can only be used to gain minimum effort equal to its masterpiece rating.
@@ -66,52 +67,10 @@ If an asset was not originally intended to be used for a purpose, but it makes s
 > 
 > Fighting a dragon, even as young as this one, is not anything Maro would take lightly, though even with precautions taken, and riding circles around the scaled beast, the fight goes poorly.
 > 
-> When it finally takes a deep, flaming breath and rears its head towards the town, Maro sees no other way but to ride 
+> When it finally takes a deep, flaming breath and rears its head towards the town, Maro sees no other way but to ride
 
 
-
-# Inventory
-
-TODO
-
-
-
-# Crafting Assets
-
-You can create new assets and improve existing assets while resting. Most of the time this creates a Craft test but sometimes a different skill might be created such as Influence to create, for example, an `Agreement with the Red Council` asset.
-
-To create an asset with quality rating **1** is a test difficulty **1** test.
-
-After being created, assets can only be improved by **1** rating at a time. To improve an asset from a quality rating of **2** to a quality rating of **3,** is a difficulty **3** test.
-
-When restoring an asset with rating **0** (an asset which broke after being used) to rating **1,** and you do not achieve any effort, the asset is lost.
-
-To attempt a test to create or improve and asset, you need a number of paraphernalia equal to the test's difficulty, which are consumed with the test, success or failure.
-
-
-## Paraphernalia
-
-You get paraphernalia when resting, either in the wilderness by making camp or in settlements when preparing for downtime. Sometimes you might also find assets that function as materials while adventuring.
-
-A material can be anything from branches, steel, an animal carcass, a rare herb, to even something immaterial such as shelter from the forces of nature or comfortable bed. A material is something you either need to directly craft an asset or something which grants you the peace and quiet to work without disturbances. 
-
-Paraphernalia come in three varieties.
-
-### Sturdy
-
-`Sturdy` paraphernalia are needed to create simple weapons and build structures. This category encompasses lumber, stone, shelter, and access to high-society.
-
-### Supple
-
-`Supple` paraphernalia are needed to create food, art, clothing and nurture animals. This category encompasses raw food, plants, and comfort (like a warm campfire).
-
-### Precious
-
-`Precious` paraphernalia are needed to create refined weapons and armor, fine instruments, and draft contracts. This category encompasses metal, paper, ink, gemstones, rare flowers, and indispensable information.
-
-
-
-# Gear
+## Gear
 
 Gear assets are more specific versions of general assets. They work just like normal assets but have additional properties. These properties are only for their corresponding skill [Gauntlets](../gauntlets), only when the asset is used on a skill test to gain minimum effort. An asset's properties can only be used as long as it has a quality rating of at least **1.**
 
