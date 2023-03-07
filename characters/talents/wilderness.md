@@ -53,7 +53,7 @@ When attacking with Vigor, you inflict **1** additional damage to morale if you 
 
 ### Deadeye
 
-When attacking and using the Intution dice modifier, you may choose which dice to re-roll instead of re-rolling all at once.
+When attacking and using the Intuition dice modifier, you may choose which dice to re-roll instead of re-rolling all at once.
 
 ### Outlander
 
@@ -67,7 +67,7 @@ Predicting weather while resting only costs you **1** paraphernalia, not matter 
 
 ### Expedient Tracker
 
-When creating and advantage during a gauntlet with Reason, you may research as if resting with your successes against a target you are positioning against.
+When [Gaining an Advantage](../../playing-the-game/gauntlets#gaining-an-advantage) with Reason, you may research your opponent as if resting with your margin of effort.
 
 ### Forager
 

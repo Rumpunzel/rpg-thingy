@@ -15,7 +15,7 @@ Setbacks are unavoidable — expected even — during your daring adventures. Th
 
 Misfortunes are temporary, negative consequences of your attempts to overcome obstacles and influence th world. They will get in your way and, with time, fester if not looked after. And worst of all, they will help the blackguards who cross your path until you get rid of them.
 
-Your character can be plagued by up to one misfortune. Whenever you fail to succeed on a [Simple Test](skill-tests/simple-tests), you suffer a minor misfortune.  
+Your character can be plagued by up to one misfortune. Whenever you fail to succeed on a [Challenge](skill-tests/challenges), you suffer a minor misfortune.  
 You also suffer misfortunes as the result of contests if your opponent main goal was something other than directly hurting you.
 
 ### Misfortune Severity
@@ -65,7 +65,7 @@ Otherwise, if you do not have such a trait or do not have enough Favor, the inju
 
 ### Effect of Injury
 
-Simple tests always have a minimum difficulty equal to your injury's severity. If an uncontested test already has a higher difficulty, your injury do not increase it.
+Challenges always have a minimum difficulty equal to your injury's severity. If an uncontested test already has a higher difficulty, your injury do not increase it.
 
 During contests, your opponents may use your injury to their advantage. Your opponent's minimum effort, when testing against you, is equal to your injury's severity.  
 You may use your opponents' injuries against them for minimum effort in the same way as your opponent's can use yours against you.

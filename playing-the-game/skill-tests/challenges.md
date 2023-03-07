@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Simple Tests
-description: Stuff about simple tests
+title: Challenges
+description: Stuff about challenges
 parent: Skill Tests
 grand_parent: Playing the Game
 nav_order: 1
 ---
 
-# Simple Tests
+# Challenges
 
-As mentioned above, most often simple tests result from an environmental trait that would noticeably hinder your effort or a character or creature with a trait that would noticeably hinder your effort opposing you. The trait's rating is the test's difficulty.
+As mentioned above, most often challenges result from an environmental trait that would noticeably hinder your effort or a character or creature with a trait that would noticeably hinder your effort opposing you. The trait's rating is the test's difficulty.
 
 <figure>
   <img src="https://64.media.tumblr.com/b3f979912d36f99ba5b7be80c1707c14/tumblr_oq2608N2Bs1ro2bqto1_1280.jpg" alt="Late-Night Mugging">

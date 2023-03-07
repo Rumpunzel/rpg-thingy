@@ -15,12 +15,12 @@ All hits counted together are called **Effort.** Achieving more Effort is always
 A test has a difficulty, a number that defines how much Effort it takes to succeed on the test, otherwise the test is a failure. There are no tests without consequences. No matter if you succeed on a test or fail it, you will either get what you want and/or suffer a setback. Either way, after a test both the narrative and your character make progress, either by achieving your goal or by growing with your failures.
 
 
-## Simple Tests
+## Challenges
 
-Simple tests are the most basic form of test. A test is simple when there is no other character or creature to directly or indirectly keep you from achieving your goal, or they are simply trying to keep you from achieving your goal without having any other goals of their own.
+Challenges are the most basic form of test. A test is simple when there is no other character or creature to directly or indirectly keep you from achieving your goal, or they are simply trying to keep you from achieving your goal without having any other goals of their own.
 
 {: .note-title }
-> Examples of Simple Tests
+> Examples of Challenges
 >
 > - Jumping a ravine
 > - Haggling with a merchant
@@ -88,12 +88,12 @@ The following flowchart shows how to resolve a skill test step by step.
 flowchart TD
     Goal[Choose a goal to achieve] -->|Describe your action| Test{Determine Test}
 
-    Test -->|Passive Opposition| Simple(Simple Test)
+    Test -->|Passive Opposition| Challenge(Challenge)
     Test -->|Active Opposition| Contest(Contest)
     Test -->|It's Complicated| Gauntlet[Gauntlet<br><br>Procedure does not fit into this Flowchart<br>In essence a Sequence of Contests]
     Gauntlet --> Contest
     
-    Simple -->|Determine Opposition| Difficulty(Set Difficulty<br>equal to Trait Rating)
+    Challenge -->|Determine Opposition| Difficulty(Set Difficulty<br>equal to Trait Rating)
     Contest --> Dice(Determine<br>Skill & Attribute)
 
     Difficulty -->|Difficulty greater than 3| Gauntlet
@@ -121,7 +121,7 @@ flowchart TD
     Asset --> Resolve
     Trait -->|Gain Favor| Resolve
     Resolve -->|Effort greater than Difficulty| Success[fa:fa-check You get what you want]
-    Resolve -->|Effort equal to Difficulty<br>during a Simple Test<br>or Defending during a Contest| Success
+    Resolve -->|Effort equal to Difficulty<br>during a Challenge<br>or Defending during a Contest| Success
     Resolve -->|Effort equal to Difficulty<br>when attacking during a Contest| Failure[fa:fa-x You do not get what you want]
     Resolve -->|Effort less than Difficulty| Stress(Suffer Stress equal to Margin of Failure)
 
