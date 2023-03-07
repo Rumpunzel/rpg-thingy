@@ -3,7 +3,7 @@ layout: default
 title: Gauntlets
 description: Stuff about gauntlets
 parent: Playing the Game
-nav_order: 3
+nav_order: 2
 ---
 
 # Gauntlets
