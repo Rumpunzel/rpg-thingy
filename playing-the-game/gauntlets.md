@@ -48,12 +48,15 @@ There are three different types of gauntlets you may enter, depending on the sit
 This is the most straight-forward, most dangerous, but also the least common type of gauntlet. You are trying to destroy your opponent, and they are trying to destroy you, be that killing them in battle, devastating them mentally, or ruining them financially.  
 If at least one side has a different goal than to destroy the other, choose a [Gauntlet of Contention](#gauntlet-of-contention) instead.
 
-During a gauntlet of destruction, when a character fails to defend, their attacker inflicts an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to the defender.
-
-Teams take turns until only one side remains standing.
+During a gauntlet of destruction, when a character fails to defend, their attacker inflicts an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to the defender. Teams take turns until only one side remains standing.
 
 You put your own life on the line, when you enter a gauntlet of destruction. As such, if you surrender during a gauntlet of destruction, you suffer the fate you wanted to inflict on your opponent and you perish.
 
+Most gauntlets of destruction is the [Fight](../characters/skills#fight) skill with the intent to murder.
+
+{: .important }
+> Maro, after a long and arduous journey, finally confronts the man who murdered his father. Only one of them will make it out of here alive, so they enter a gauntlet of destruction.
+> 
 
 ## Gauntlet of Contention
 
@@ -62,9 +65,6 @@ This is the most common type of gauntlet used to settle most major disputes.
 As the main goal during this type of gauntlet is not to destroy the other side but to achieve a specific goal, each side in a gauntlet of contention uses [Morale](#morale) to track their progress towards achieving their goal.
 
 Gauntlets of contention come in two different varieties depending on the goal you want to achieve.
-
-{: .important }
-> Maro, after a long and arduous journey, finally confronts the man who murdered his father. Only one of them will make it out of here alive, so they enter a gauntlet of destruction.
 
 ### Mediate
 

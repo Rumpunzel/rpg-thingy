@@ -35,7 +35,7 @@ Whenever you create or improve an asset, if you rolled at least one **6** and no
 
 ### Master Artisan
 
-When you use a trait representing your mastery over the relevant skill to gain the Intuition dice modifier, instead of re-rolling all **1s,** you may increase your training for the relevant skill by one tier (from **6** to **5+,** from **5+** to **4+,** from **4+** to **3+,** and from **3+** to **2+**).
+When you use a trait representing your mastery over the relevant skill, instead gaining the Reason dice modifier, you may increase your training for the relevant skill by one tier (from **6** to **5+,** from **5+** to **4+,** from **4+** to **3+,** and from **3+** to **2+**).
 
 
 
@@ -63,7 +63,7 @@ While resting, if someone gains **XP** through practice, they gain **1** additio
 
 ### Surgeon
 
-When mending a wound with Craft while resting, instead of mending it by **1,** you may mend it by the number of your margin of effort.
+When mending an injury while resting, instead of mending it by **1,** you may mend it by your margin of effort.
 
 ### Traps Everywhere
 

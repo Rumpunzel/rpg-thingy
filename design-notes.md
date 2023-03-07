@@ -12,15 +12,14 @@ nav_order: 10000
 #### Primary
 - defending
 - **6**s
-- own wounds
-- physical stress
+- own injuries
 - weapons & armor
 - acting actively
 
 #### Secondary
 - attacking
 - own boons & banes
-- defending perfectly
+- disposition
 
 ---
 
@@ -28,29 +27,27 @@ nav_order: 10000
 
 #### Primary
 - attacking
-- **1**s
 - boons & banes
-- opponent's wounds
-- social stress
+- opponent's injuries & misfortunes
 - acting reactively
 
 #### Secondary
 - defending
 - opponent's traits
 - group tests
+- own misfortunes
 - manipulating rolls
-- mental stress
 
 ---
 
 ### Reason
 
 #### Primary
-- positioning
-- opponent's traits & wounds
-- Preparations
-- mental stress
-- defending perfectly
+- gaining and advantage
+- not rolling **1**s
+- opponent's traits, injuries & misfortunes
+- assets
+- disposition
 - acting preemptively
 
 #### Secondary
@@ -58,4 +55,4 @@ nav_order: 10000
 - defending
 - manipulating training & dice modifiers
 - armor
-- allied wounds
+- allied injuries

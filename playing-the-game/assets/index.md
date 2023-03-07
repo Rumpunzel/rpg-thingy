@@ -129,9 +129,9 @@ The difficulty for the test to create the new asset is the required asset's mast
 After being created, the asset can be improved like any other asset.  
 When buying and selling such an asset, its quality rating is considered to be doubled.
 
-A gear asset may have a trait called `Exquisite`. This trait is relevant for Influence, Craft, and Resource tests, concerning the asset itself. Meaning an asset's `Exquisite` trait will increase the difficulty to create, improve, and buy it. Though it may also be invoked in social situations. Additionally, increase your effort by **1** when selling and `Exquisite` asset.
+A gear asset may have a trait called `Exquisite`. This trait is relevant for Influence, Craft, and Resource tests, concerning the asset itself. Meaning an asset's `Exquisite` trait will increase the difficulty to create, improve, and buy it. Though it may also be invoked in social situations. Additionally, increase your effort by **1** when selling an `Exquisite` asset.
 
-A gear asset may also have a property called **Fortified.** A **Fortified** asset's masterpiece rating is equal to its full quality rating, even outside of gauntlets.
+A gear asset may also have a property called **Fortified.** A **Fortified** asset's masterpiece rating is equal to its full quality rating.
 
 At the top of each category of gear, there is also generic variant without properties. They do not require specific paraphernalia to be crafted as they are simply normal assets. Of course, they are still associated with an attribute, just like any other asset.  
 Use these for, for example, improvised weapons or instead of its lengthy list of gear entirely.

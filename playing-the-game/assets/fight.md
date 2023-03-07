@@ -1,23 +1,27 @@
 ---
-bulwark: "- **Bulwark:** When defending, increase your effort by **1** for each **6** you roll."
+bulwark: "- **Bulwark:** When defending, increase your effort by **1** if you rolled a **6.**"
 
-deadly: "- **Deadly:** When attacking, decrease your opponent's minimum effort by **1** + this asset's masterpiece rating. This does not reduce minimum effort gained from one of your wounds."
+deadly: "- **Deadly:** Increase the rating of [Injuries](../injury-&-misfortune#injury) you inflict by **1** if you rolled a **6.**"
 
 durable: "- **Durable:** This asset only degrades below quality rating **1,** if you roll a **1.**"
 
-ferocious: "- **Ferocious:** When attacking, increase your effort by **1** for each **6** you roll."
+honing: "- **Honing:** When attacking, increase your minimum effort by **1** + this asset's masterpiece rating."
 
-ranged: "- **Ranged:** When attacking, you do not suffer morale damage but your opponent may defend with Maneuver instead of Fight."
+impenetrable: "- **Impenetrable:** Gain all [Injuries](../injury-&-misfortune#injury) with rating equal to or less than this asset's quality rating as [Misfortunes](../injury-&-misfortune#misfortune) instead."
+
+piercing: "- **Piercing:** When attacking, decrease your opponent's minimum effort by **1** + this asset's masterpiece rating. This does not reduce minimum effort gained from your injury."
+
+ranged: "- **Ranged:** When attacking, your opponents may defend with Maneuver instead of Fight but your team's morale does not decrease if you miss."
 
 reach: "- **Reach:** When you create a [Boon](../boons-&-banes#boons) with Maneuver, it becomes [Enduring](../boons-&-banes#enduring-boons--banes)."
 
-reliable: "- **Reliable:** Increase the minimum effort you gain from another asset by **1** + this asset's masterpiece rating."
+reliable: "- **Reliable:** When defending, increase your minimum effort by **1** + this asset's masterpiece rating."
 
 tactical: "- **Tactical:** This asset may be used for Maneuver tests without penalty. When testing Maneuver, add **1** + its masterpiece rating as dice to your roll."
 
 versatile: "- **Versatile:** This asset may be used with any attribute without penalty."
 
-wicked: "- **Wicked:** When adding dice from a boon or bane created with Intuition, also add **1** + this asset's masterpiece rating as dice to your roll."
+wicked: "- **Wicked:** When adding dice from a boon or bane created with Intuition, or from an opponent's trait also add **1** + this asset's masterpiece rating as dice to your roll."
 
 
 layout: default
@@ -35,35 +39,36 @@ Assets for Fight gauntlets come in two variations: weapons to attack and armor t
 
 ## Vigor Gear
 
-|      Weapon      |                  Properties                  |                    Paraphernalia                    |
-|:----------------:|:--------------------------------------------:|:---------------------------------------------------:|
-|    🗡 **Axe**    |                 _Ferocious_                  |                      `Sturdy`                       |
-|   🗡 **Mace**    |                   _Deadly_                   |                      `Sturdy`                       |
-| 🗡 **Warhammer** |             _Deadly, Ferocious_              |                `Sturdy` + `Precious`                |
-|  🗡 **Poleaxe**  | _Deadly, Ferocious, Tactical_<br>`Exquisite` |                `Sturdy` + `Precious`                |
-|  🛡 **Shield**   |             _Bulwark, Tactical_              |                `Sturdy` + `Precious`                |
-|   🛡 **Mail**    |         **Fortified**<br>`Exquisite`         | `Supple` + `Precious`<br>_Masterpiece **Gambeson**_ |
+|      Weapon      |                  Properties                   |                    Paraphernalia                    |
+|:----------------:|:---------------------------------------------:|:---------------------------------------------------:|
+|    🗡 **Axe**    |                   _Deadly_                    |                      `Sturdy`                       |
+|   🗡 **Mace**    |                  _Piercing_                   |                      `Sturdy`                       |
+| 🗡 **Warhammer** |              _Piercing, Deadly_               |                `Sturdy` + `Precious`                |
+|  🗡 **Poleaxe**  |  _Piercing, Deadly, Tactical_<br>`Exquisite`  |                `Sturdy` + `Precious`                |
+|  🛡 **Shield**   |              _Bulwark, Tactical_              |                `Sturdy` + `Precious`                |
+|   🛡 **Mail**    | _Impenetrable,_  **Fortified**<br>`Exquisite` | `Supple` + `Precious`<br>_Masterpiece **Gambeson**_ |
 
 {{ page.bulwark }}
 {{ page.deadly }}
-{{ page.ferocious }}
+{{ page.impenetrable }}
+{{ page.piercing }}
 {{ page.tactical }}
 
 
 ## Intuition Gear
 
-|        Weapon         |                   Properties                    |     Paraphernalia     |
-|:---------------------:|:-----------------------------------------------:|:---------------------:|
-|     🗡 **Knife**      |                    _Wicked_                     |      `Precious`       |
-|     🗡 **Dagger**     |                _Deadly, Wicked_                 | `Supple` + `Precious` |
-|   🗡 + 🛡 **Sword**   |                   _Versatile_                   |      `Precious`       |
-|   🗡 + 🛡 **Estoc**   |             _Deadly_<br>`Exquisite`             |      `Precious`       |
-| 🗡 + 🛡 **Longsword** | _Ferocious, Tactical, Versatile_<br>`Exquisite` | `Supple` + `Precious` |
-|    🛡 **Gambeson**    |                    _Durable_                    |       `Supple`        |
+|        Weapon         |                  Properties                  |     Paraphernalia     |
+|:---------------------:|:--------------------------------------------:|:---------------------:|
+|     🗡 **Knife**      |                   _Wicked_                   |      `Precious`       |
+|     🗡 **Dagger**     |              _Piercing, Wicked_              | `Supple` + `Precious` |
+|   🗡 + 🛡 **Sword**   |                 _Versatile_                  |      `Precious`       |
+|   🗡 + 🛡 **Estoc**   |          _Piercing_<br>`Exquisite`           |      `Precious`       |
+| 🗡 + 🛡 **Longsword** | _Deadly, Tactical, Versatile_<br>`Exquisite` | `Supple` + `Precious` |
+|    🛡 **Gambeson**    |                  _Durable_                   |       `Supple`        |
 
 {{ page.deadly }}
 {{ page.durable }}
-{{ page.ferocious }}
+{{ page.piercing }}
 {{ page.tactical }}
 {{ page.versatile }}
 {{ page.wicked }}
@@ -71,17 +76,17 @@ Assets for Fight gauntlets come in two variations: weapons to attack and armor t
 
 ## Reason Gear
 
-|     Weapon      |                Properties                 |     Paraphernalia     |
-|:---------------:|:-----------------------------------------:|:---------------------:|
-|  🗡 **Spear**   |                _Tactical_                 |       `Sturdy`        |
-|   🗡 **Bill**   |            _Tactical, Wicked_             | `Sturdy` + `Precious` |
-| 🗡 **Crossbow** |            _Ranged, Tactical_             |  `Sturdy` + `Supple`  |
-|   🗡 **Pike**   |             _Reach, Tactical_             | `Sturdy` + `Precious` |
-| 🗡 **Arbalest** | _Deadly, Ranged, Tactical_<br>`Exquisite` | `Sturdy` + `Precious` |
-| 🗡 **Longbow**  | _Ranged, Reach, Tactical_<br>`Exquisite`  |  `Sturdy` + `Supple`  |
-| 🛡 **Buckler**  |                _Tactical_                 |       `Sturdy`        |
+|     Weapon      |                 Properties                  |     Paraphernalia     |
+|:---------------:|:-------------------------------------------:|:---------------------:|
+|  🗡 **Spear**   |                 _Tactical_                  |       `Sturdy`        |
+|   🗡 **Bill**   |             _Tactical, Wicked_              | `Sturdy` + `Precious` |
+| 🗡 **Crossbow** |             _Ranged, Tactical_              |  `Sturdy` + `Supple`  |
+|   🗡 **Pike**   |              _Reach, Tactical_              | `Sturdy` + `Precious` |
+| 🗡 **Arbalest** | _Piercing, Ranged, Tactical_<br>`Exquisite` | `Sturdy` + `Precious` |
+| 🗡 **Longbow**  |  _Ranged, Reach, Tactical_<br>`Exquisite`   |  `Sturdy` + `Supple`  |
+| 🛡 **Buckler**  |                 _Tactical_                  |       `Sturdy`        |
 
-{{ page.deadly }}
+{{ page.piercing }}
 {{ page.reach }}
 {{ page.ranged }}
 {{ page.tactical }}
@@ -90,13 +95,14 @@ Assets for Fight gauntlets come in two variations: weapons to attack and armor t
 
 ## Special Gear
 
-|      Weapon       |      Properties       |     Paraphernalia     |
-|:-----------------:|:---------------------:|:---------------------:|
-| 🗡 **Ammunition** |      _Reliable_       |       `Supple`        |
-|   🗡 **Barbed**   | _Ferocious, Reliable_ | `Supple` + `Precious` |
-|   🗡 **Bodkin**   |  _Deadly, Reliable_   | `Supple` + `Precious` |
-|   🛡 **Helmet**   |      _Reliable_       |      `Precious`       |
+|      Weapon       |     Properties     |     Paraphernalia     |
+|:-----------------:|:------------------:|:---------------------:|
+| 🗡 **Ammunition** |      _Honing_      |       `Supple`        |
+|   🗡 **Barbed**   |  _Deadly, Honing_  | `Supple` + `Precious` |
+|   🗡 **Bodkin**   | _Piercing, Honing_ | `Supple` + `Precious` |
+|   🛡 **Helmet**   |     _Reliable_     |      `Precious`       |
 
 {{ page.deadly }}
-{{ page.ferocious }}
+{{ page.honing }}
+{{ page.piercing }}
 {{ page.reliable }}
