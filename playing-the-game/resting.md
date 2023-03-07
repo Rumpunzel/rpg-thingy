@@ -114,12 +114,11 @@ You can mend social wounds with Resource tests, though only while resting in a s
 - **Moderate social injuries can be mended with Vigor and Reason but not by Intuition.** Fame, Wealth, rigorous bookkeeping, or a sound argument before a court are required to get out of these predicaments.
 - **Major social injuries can only be mended with Vigor.** Nobility, a made name, or chests of gold are required to get out of these predicaments.
 
-|              |   Mending Physical   |   Mending Mental    |  Mending Social  |
-|:------------:|:--------------------:|:-------------------:|:----------------:|
-|  **Skill**   |      **Craft**       |    **Influence**    |  **Resources**   |
-|  **Minor**   |        _Any_         |        _Any_        |      _Any_       |
-| **Moderate** | _Intuition & Reason_ | _Vigor & Intuition_ | _Vigor & Reason_ |
-|  **Major**   |       _Reason_       |     _Intuition_     |     _Vigor_      |
+|              |   Skill   | Minor |      Moderate      |   Major   |
+|:------------:|:---------:|:-----:|:------------------:|:---------:|
+| **Physical** |   Craft   |  Any  | Intuition & Reason |  Reason   |
+|  **Mental**  | Influence |  Any  | Vigor & Intuition  | Intuition |
+|  **Social**  | Resources |  Any  |   Vigor & Reason   |   Vigor   |
 
 [Leisure Structures](../running-the-game/settlements#leisure-structures) can give you additional options to get rid of your injury but on the road or without help, these are the only ways to get rid of injury.
 
@@ -128,11 +127,9 @@ You can mend social wounds with Resource tests, though only while resting in a s
 
 If you have neither an injury nor misfortune, you may spend paraphernalia to gain the enduring [Boon](boons-&-banes#boons) `Well Rested`. This boon lasts across scenes, until it vanishes or until you rest again, whichever happens first.
 
-| `Well Rested` Boon Rating | Paraphernalia Required |
-|:-------------------------:|:----------------------:|
-|           **1**           |           1            |
-|           **2**           |           3            |
-|           **3**           |           6            |
+| `Well Rested` Boon Rating  | 1 | 2 | 3 | 4  |
+|:--------------------------:|:-:|:-:|:-:|:--:|
+| **Paraphernalia Required** | 1 | 3 | 6 | 10 |
 
 
 
@@ -147,6 +144,7 @@ You may invoke a trait of an instruction manual you possess, of a training area 
 If you succeed on the test, you mark **1** **XP** for the skill. Otherwise, you do not, but you also do not suffer any other negative consequences.
 
 As with any test, you may also test as a group, though only one of you will gain **XP.**
+
 
 
 # Weather-Watching
@@ -180,14 +178,10 @@ You may buy assets in settlements by testing Resources. Choose a quality rating 
 
 If you succeed, you gain the asset with the chosen quality rating. Otherwise, if you achieved at least **1** effort, you gain an asset with rating **1.**
 
-| Quality Rating | Difficulty |
-|:--------------:|:----------:|
-|     **1**      |     1      |
-|     **2**      |     3      |
-|     **3**      |     5      |
-|     **4**      |     7      |
-|     **5**      |     9      |
-|    **...**     |    ...     |
+| Quality Rating | 1 | 2 | 3 | ... |
+|:--------------:|:-:|:-:|:-:|:---:|
+| **Difficulty** | 1 | 3 | 5 | ... |
+
 
 
 ## Selling
