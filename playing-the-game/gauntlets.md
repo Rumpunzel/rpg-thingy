@@ -154,7 +154,7 @@ You cannot surrender from a [Gauntlet of Destruction](#gauntlet-of-destruction).
 
 # Preludes
 
-In general, in Forge Gauntlet, not ever does a gauntlet erupt spontaneously out of the blue. There is always at least a brief moment, a calm before the storm, in which sides anticipate imminent confrontation. If characters are surprised at the start of a gauntlet, then it should be only ever about _how_ their opponent engaged them, maybe even _who exactly_ engaged them but not ever that they were engaged at all.
+In general, in {{ site.title }}, not ever does a gauntlet erupt spontaneously out of the blue. There is always at least a brief moment, a calm before the storm, in which sides anticipate imminent confrontation. If characters are surprised at the start of a gauntlet, then it should be only ever about _how_ their opponent engaged them, maybe even _who exactly_ engaged them but not ever that they were engaged at all.
 
 Sometimes there is more than but a brief moment. For example, an army forming formation before a battle; hunters tracking a beast before the confrontation; a chase before interrogating a subject. For these occasions, introduce a prelude before the actual gauntlet.
 

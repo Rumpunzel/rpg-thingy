@@ -5,7 +5,7 @@ nav_order: 1
 description: "A neat little RPG project."
 ---
 
-# Forge Gauntlet
+# {{ site.title }}
 {: .fs-9 }
 
 The most _Jamal_ way for the modern dice goblin to hallucinate!
@@ -16,14 +16,14 @@ The most _Jamal_ way for the modern dice goblin to hallucinate!
 
 ---
 
-# What is Forge Gauntlet?
+# What is {{ site.title }}?
 
 <figure>
   <img src="https://i.pinimg.com/originals/b9/9f/7f/b99f7f7dd09e7d34ff50f38dbd5c8501.jpg" alt="Wizard">
   <figcaption>Pictured: me writing rules about imagining fighting monsters in a fictional world.</figcaption>
 </figure>
 
-Forge Gauntlet is a Pen & Paper RPG. To play, you need pen, paper, a handful six-sided dice (**d6**), one player to assume the role of Game Master (**GM**) and 1-5 additional players who are each responsible for one Player Character (**PC**).
+{{ site.title }} is a Pen & Paper RPG. To play, you need pen, paper, a handful six-sided dice (**d6**), one player to assume the role of Game Master (**GM**) and 1-5 additional players who are each responsible for one Player Character (**PC**).
 
 PCs exist in a fictional world in which they act, struggle, and succeed. The players' role is to bring their PC to life and the GM's responsibility is to breath life into the rest of this fictional world with descriptions, challenges, and Non-Player Characters (**NPCs**).
 
@@ -33,7 +33,7 @@ The PCs interact with the situation and the world presented by the GM by asking 
 {: .important-title }
 > The 5 Pillars
 >
-> The following pages will provide more detailed rules on how Forge Gauntlet works, though, in short, it tries to achieve a certain vision of how a game of Forge Gauntlet looks like. All rules decisions aim to contribute to achieve that vision, and they all rest on the following 5 pillars representing ideals to which Gauntlet Forge strives to adhere.
+> The following pages will provide more detailed rules on how {{ site.title }} works, though, in short, it tries to achieve a certain vision of how a game of {{ site.title }} looks like. All rules decisions aim to contribute to achieve that vision, and they all rest on the following 5 pillars representing ideals to which Gauntlet Forge strives to adhere.
 >
 > ## Agency
 > 

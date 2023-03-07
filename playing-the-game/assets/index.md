@@ -139,7 +139,7 @@ Use these for, for example, improvised weapons or instead of its lengthy list of
 {: .note-title }
 > Why use Gear?
 >
-> You can play Forge Gauntlet without gear entirely, as assets are an already useful abstractions. If you use gear, you should use them for the purpose for which I designed them:
+> You can play {{ site.title }} without gear entirely, as assets are an already useful abstractions. If you use gear, you should use them for the purpose for which I designed them:
 > - To add meaningful choices to gauntlets
 > - Because I think they're neat
 >

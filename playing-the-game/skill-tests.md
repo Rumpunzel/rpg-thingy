@@ -8,7 +8,7 @@ nav_order: 1
 
 # Skill Tests
 
-When you consult the dice, the game calls it a **Skill Test.** Forge Gauntlet uses a **d6** dice pool system. So whenever the game calls for dice to be rolled, roll a handful of six-sided dice equal to the rating of the [Attribute](../characters/attributes) with which you chose to test. Each die can either be a hit or a miss, depending on if its face shows at least the training of the skill with which you chose to test.  
+When you consult the dice, the game calls it a **Skill Test.** {{ site.title }} uses a **d6** dice pool system. So whenever the game calls for dice to be rolled, roll a handful of six-sided dice equal to the rating of the [Attribute](../characters/attributes) with which you chose to test. Each die can either be a hit or a miss, depending on if its face shows at least the training of the skill with which you chose to test.  
 All hits counted together are called **Effort.** Achieving more Effort is always better.
 
 A test has a difficulty, a number that defines how much effort it takes to succeed on the test, otherwise the test is a failure. There are no tests without consequences. No matter if you succeed on a test or fail it, you will either get what you want and/or suffer a setback. Either way, after a test both the narrative and your character make progress, either by achieving your goal or by growing with your failures.
@@ -191,7 +191,7 @@ When a group fails a contest, the opposing side inflict stress to _each_ member 
 In general, a contest can handle any interaction between two or more characters; disagreements, arm-wrestling, races, even fights with only one test for each side.  
 And challenges handle everything else without an opposing side; athletic challenges, public speeches, travelling, and even murder.
 
-But a single roll does not always have enough weight to justify its effect on the narrative. For those occasions, when the stakes are high and the current scene requires a more dramatic resolution, Forge Gauntlet offers a more intricate resolution mechanic called a [Gauntlet](gauntlets). In essence, it is a series of contests but with a lot more room for details and casualties. They are detailed in their own chapter.
+But a single roll does not always have enough weight to justify its effect on the narrative. For those occasions, when the stakes are high and the current scene requires a more dramatic resolution, {{ site.title }} offers a more intricate resolution mechanic called a [Gauntlet](gauntlets). In essence, it is a series of contests but with a lot more room for details and casualties. They are detailed in their own chapter.
 
 {: .note-title }
 > Examples of Gauntlets

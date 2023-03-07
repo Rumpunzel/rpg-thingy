@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Design Notes
-description: Stuff about the design of Forge Gauntlet
+description: Stuff about the design of {{ site.title }}
 nav_order: 10000
 ---
 
