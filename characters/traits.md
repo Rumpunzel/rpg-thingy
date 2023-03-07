@@ -72,7 +72,7 @@ You may only use a single of your traits per test. If you have multiple traits w
 When you use a trait in this way, choose one of the following effects:
 
 - Apply the dice modifier of the [Attribute](attributes) with which you are testing (see [Dice Modifiers](attributes#dice-modifiers))
-- During a [Contest](../playing-the-game/skill-tests/contests), use your [Disposition](attributes#disposition) to influence how well your opponent can defend
+- During a [Contest](../playing-the-game/skill-tests#contests), use your [Disposition](attributes#disposition) to influence how well your opponent can defend
 
 If the trait you use has a rating of **2** or higher you may choose a number of effects equal to the trait's rating. If you have already chosen to apply your attribute's dice modifier, you may use an additional dice modifier of a different attribute on that roll as well. You choose which of the two other dice modifiers you want to use.
 
@@ -88,7 +88,7 @@ If the trait you use has a rating of **3,** alternatively, you may use it to _on
 
 There are many reasons to use one of your traits to your detriment. It leads to great roleplaying moments, it lets you communicate who your character is and what their flaws are, it's fun, and it earns you Favor.  
 
-During a [Challenge](../playing-the-game/skill-tests/challenges.md), you may add one of your trait's rating to the difficulty, if it would make sense said trait would hinder you at what you are trying to achieve.
+During a [Challenge](../playing-the-game/skill-tests#challenges), you may add one of your trait's rating to the difficulty, if it would make sense said trait would hinder you at what you are trying to achieve.
 
 You may use any of your traits to your detriment, as long as it makes sense that the trait would in some way hinder you.
 

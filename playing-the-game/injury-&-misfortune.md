@@ -15,7 +15,7 @@ Setbacks are unavoidable — expected even — during your daring adventures. Th
 
 Misfortunes are temporary, negative consequences of your attempts to overcome obstacles and influence th world. They will get in your way and, with time, fester if not looked after. And worst of all, they will help the blackguards who cross your path until you get rid of them.
 
-Your character can be plagued by up to one misfortune. Whenever you fail to succeed on a [Challenge](skill-tests/challenges), you suffer a minor misfortune.  
+Your character can be plagued by up to one misfortune. Whenever you fail to succeed on a [Challenge](skill-tests#challenges), you suffer a minor misfortune.  
 You also suffer misfortunes as the result of contests if your opponent main goal was something other than directly hurting you.
 
 ### Misfortune Severity
@@ -35,7 +35,7 @@ Should you not have an empty box to fully absorb stress you suffered, instead ma
 
 ### Effect of Misfortune
 
-If you suffer from a misfortune, you have a misfortune trait with rating equal to your misfortune's severity. Name this trait something appropriate considering the struggles and setbacks you have endured and with a negative connotation, so that it will [get in your way](../characters/traits#using-character-traits-to-your-detriment) and can be used against you during [Contest](skill-tests/contests#detrimental-traits).
+If you suffer from a misfortune, you have a misfortune trait with rating equal to your misfortune's severity. Name this trait something appropriate considering the struggles and setbacks you have endured and with a negative connotation, so that it will [get in your way](../characters/traits#using-character-traits-to-your-detriment) and can be used against you during [Contest](skill-tests#contests#detrimental-traits).
 
 See how to recover from your misfortune in the chapter about [Resting](resting#recovering).
 
