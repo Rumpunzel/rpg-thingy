@@ -17,7 +17,7 @@ A test has a difficulty, a number that defines how much Effort it takes to succe
 
 ## Challenges
 
-Challenges are the most basic form of test. A test is simple when there is no other character or creature to directly or indirectly keep you from achieving your goal, or they are simply trying to keep you from achieving your goal without having any other goals of their own.
+Challenges are the most basic form of test. A test is a challenge when there is no other character or creature to directly or indirectly keep you from achieving your goal, or they are simply trying to keep you from achieving your goal without having any other goals of their own.
 
 {: .note-title }
 > Examples of Challenges
@@ -45,7 +45,7 @@ When another character, creature, or even multiple not only want to keep you fro
 ## Gauntlets
 
 In general, a contest can handle any interaction between two or more characters; disagreements, arm-wrestling, races, even fights with only one test for each side.  
-And simple tests handle everything else without an opposing side; athletic challenges, public speeches, travelling, and even murder.
+And challenges handle everything else without an opposing side; athletic challenges, public speeches, travelling, and even murder.
 
 But a single roll does not always have enough weight to justify its effect on the narrative. For those occasions, when the stakes are high and the current scene requires a more dramatic resolution, Forge Gauntlet offers a more intricate resolution mechanic called a [Gauntlet](../gauntlets). In essence, it is a series of contests but with a lot more room for details and casualties. They are detailed in their own chapter.
 
@@ -75,7 +75,7 @@ Apart from completing goals, this is the only way go gain **XP** for your skills
 > - Describe what action you would like to undertake in the fiction.
 > - Choose a skill according to your goal and described action.
 > - Pick an [Attribute](../../characters#attributes). If you have already described an action, try and go with the Attribute most fitting your description. Otherwise, let your choice of Attribute guide your roleplay.
-> - Determine if the test will be simple, a contest, or a gauntlet.
+> - Determine if the test will be a challenge, a contest, or a gauntlet.
 > - **Roll the dice.**
 > - The target number for your dice is determined by the skill you've chosen. Every face of a die that comes up as at least that number, is a hit, all others are misses.
 > - Use traits either for dice modifiers, extra dice, or an increases difficulty, and spend Favor.

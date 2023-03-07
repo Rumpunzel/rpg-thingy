@@ -39,7 +39,7 @@ Though, rpg thingy has a system for building towns and their surroundings from t
 
 # Support Ratings
 
-Masterpieces to not degrade for simple tests with only obstacle **1.** As assets can also be structures, this has helpful implications for building a coherent and interconnected world. When talking about structures, an asset's masterpiece rating is called its support rating instead.
+Masterpieces to not degrade when used to only gain **1** minimum effort. As assets can also be structures, this has helpful implications for building a coherent and interconnected world. When talking about structures, an asset's masterpiece rating is called its support rating instead.
 
 {: .important }
 > A river parts the forest in two. Crossing it is an uncertain task. The difficulty to cross it is **1.** A character could build a simple bridge across to cross. A bridge asset with rating **1** will help one person cross the river before collapsing (the river can still be crossed by succeeding on the difficulty **1** test without the help of the bridge). A bridge asset with rating **2** will help two people cross the river but a masterpiece bridge asset with rating **3** or higher does not degrade when used, as the difficulty against which it is used is only **1.**

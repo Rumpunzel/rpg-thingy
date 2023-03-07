@@ -13,20 +13,20 @@ As mentioned above, most often challenges result from an environmental trait tha
 
 <figure>
   <img src="https://64.media.tumblr.com/b3f979912d36f99ba5b7be80c1707c14/tumblr_oq2608N2Bs1ro2bqto1_1280.jpg" alt="Late-Night Mugging">
-  <figcaption>A good ol' late-night mugging can be resolved with a single die roll.</figcaption>
+  <figcaption>A good ol' late-night mugging can be resolved with a single challenge.</figcaption>
 </figure>
 
 Should it ever be unclear what difficulty a test is supposed to be, it will most likely be **1;** you only need to achieve **1** effort to succeed.
 
 If both an environmental and an opponent's trait would notably hinder your efforts, add their ratings together to determine the test's difficulty.  
-Only add the rating of **1** environmental trait and/or **1** opponent's trait to the difficulty of a simple test. When multiple would apply, choose the highest or most relevant.
+Only add the rating of **1** environmental trait and/or **1** opponent's trait to the difficulty of a challenge. When multiple would apply, choose the highest or most relevant.
 
-If the difficulty of a simple test ever exceeds **3,** consider the characters' goals to determine if a single die roll really is the best way to resolve the situation or if a more detailed conflict in the form of a [Gauntlet](../gauntlets) would be more appropriate.
+If the difficulty of a challenge ever exceeds **3,** consider the characters' goals to determine if a single die roll really is the best way to resolve the situation or if a more detailed conflict in the form of a [Gauntlet](../gauntlets) would be more appropriate.
 
 
 ## Consequences
 
-It is vital that the story is never unchanged after a skill test, so when you fail a simple test, at least one of a few different things which will happen.
+It is vital that the story is never unchanged after a skill test, so when you fail a challenge, at least one of a few different things which will happen.
 
 In many cases the GM will introduce an interesting narrative consequence. Either you got what you wanted at a cost or something dramatic follows your failure.
 
@@ -42,7 +42,7 @@ The aim is to create a solid baseline for the flow of play.
 >
 > For her Approach, she settles on Intuition. She is going with the flow, trying to draw something out of the guards to turn to her advantage. As her rating for Intuition is **5,** she will roll **5** dice.
 >
-> The GM decides a simple test will suffice to convincing the guards to let Cyrene pass.
+> The GM decides a challenge will suffice to convincing the guards to let Cyrene pass.
 >
 > The sultan's city has the trait `UNDER MARTIAL LAW` with a rating of **2** so the difficulty for the test is also **2.** The curfew turns an otherwise trivial task into a challenge.
 >
@@ -62,13 +62,13 @@ You may always change your approach and use a different skill to achieve your go
 
 Characters may act in tandem with each other when trying to achieve the same goal while testing the same skill (they may use different attributes, though most of the time, they will also use the same attributes). When they do, everyone tests and adds their successes together to determine if they manage to succeed as a group.
 
-When two or more character use the same skill and the same attribute to achieve the same goal, they always test as a group. When they do, choose one charcter who is the main actor. Only that character can add dice from [Traits](../../characters/traits) [Boons and Banes](../boons-&-banes) and use their [Disposition](../../characters/attributes#disposition).
+When two or more character use the same skill and the same attribute to achieve the same goal, they always test as a group. When they do, choose one charcter who is the main actor. Only that character can add dice from [Traits](../../characters/traits), [Boons and Banes](../boons-&-banes), and use their [Disposition](../../characters/attributes#disposition).
 
-During simple tests, for each participant beyond the first, the difficulty of the test is increased by **1.**
+During challenge, for each participant beyond the first, the difficulty of the test is increased by **1.**
 
 Group tests can be incredible tools to achieve great deeds. They can also simply be used to help your compatriots to overcome obstacles you find trivial. But they come at the cost of increasing the risk for all participants. You either win or you fail as a group.
 
-When a group fails a simple test, each member of the group receives **1** **XP.**
+When a group fails a challenge, each member of the group receives **1** **XP.**
 
 When a group suffers stress, _each_ member of the group takes stress equal to the difference between the test's difficulty and the effort they, individually, achieved. As difficulty increases with each member of a group, this can result in drastic setbacks.
 

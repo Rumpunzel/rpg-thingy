@@ -59,7 +59,7 @@ Banes are temporary detrimental [Traits](../characters/traits), though banes, ar
 
 If an opponent has multiple banes which you might use to aid you, you have to choose only one of them.
 
-If you are affected by a bane, your opponent's may use it to add dice to their rolls during contests. During simple tests, add your highest rated bane's rating, which would logically hinder you, to the test's difficulty.
+If you are affected by a bane, your opponent's may use it to add dice to their rolls during contests. During challenges, add your highest rated bane's rating, which would logically hinder you, to the test's difficulty.
 
 You may only gain additional dice once per roll, so either from a trait, boon, or bane. If you have multiple options, choose only one of them.
 

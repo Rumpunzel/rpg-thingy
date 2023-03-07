@@ -9,7 +9,7 @@ nav_order: 2
 
 # Contests
 
-When characters oppose each other and each of them try to achieve a different goal, then the situation calls for a contest. A contest is similar to a simple test, though instead of a difficulty opposing characters roll against each other and try to beat the other's effort.
+When characters oppose each other and each of them try to achieve a different goal, then the situation calls for a contest. A contest is similar to a challenge, though instead of a difficulty opposing characters roll against each other and try to beat the other's effort.
 
 <figure>
   <img src="https://3.bp.blogspot.com/-2QqI8vSa9rQ/VKQ_ANDE7OI/AAAAAAAAEC4/XMvpPVWuUSU/s1600/10580257_10153055484583135_371744883842036670_n.jpg" alt="Magic Duel">
@@ -31,9 +31,9 @@ During contests, using your own traits to your detriment does not increase the d
 
 ### Detrimental Traits
 
-When you test with a skill in a contest, you may use your traits to your detriment as you would during a simple test. Though, in most cases, your opponent will be the one to have that idea first. Instead of increasing the difficulty your opponent adds your trait's rating as dice to their roll.
+When you test with a skill in a contest, you may use your traits to your detriment as you would during a challenge. Though, in most cases, your opponent will be the one to have that idea first. Instead of increasing the difficulty your opponent adds your trait's rating as dice to their roll.
 
-When one of your traits is used against you this way, you may spend Favor equal to the trait's rating to not give your opponent any dice, similarly like you would during simple tests.
+When one of your traits is used against you this way, you may spend Favor equal to the trait's rating to not give your opponent any dice, similarly like you would during challenges.
 
 {: .important }
 > During a kerfuffle at court, Cyrene tries to embarrass one of the guests she met previously (when he crossed her during a previous adventure). She only manages **1** success on her roll, though he manages none at all, he invokes Cyrene's `DRUNKARD` trait against her to add **1** die to his roll. Cyrene may now spend **1** Iron to not give him that additional die, but she wants to see what will happen and decides against it.

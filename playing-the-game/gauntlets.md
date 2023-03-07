@@ -158,7 +158,7 @@ In general, in Forge Gauntlet, not ever does a gauntlet erupt spontaneously out 
 
 Sometimes there is more than but a brief moment. For example, an army forming formation before a battle; hunters tracking a beast before the confrontation; a chase before interrogating a subject. For these occasions, introduce a prelude before the actual gauntlet.
 
-During a prelude, all teams test to [Gain an Advantage](#gaining-an-advantage). If it would not make sense to gain that advantage through a contest, set the difficulty based on an environmental trait and resolve it as a simple test.
+During a prelude, all teams test to [Gain an Advantage](#gaining-an-advantage). If it would not make sense to gain that advantage through a contest, set the difficulty based on an environmental trait and resolve it as a challenge.
 
 
 
