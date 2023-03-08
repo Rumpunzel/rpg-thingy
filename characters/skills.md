@@ -104,7 +104,7 @@ Whenever you aim to navigate the wilds, aim to survive natural forces, or set up
 {: .note-title }
 > Special Uses
 >
-> - Navigating between points of interest
+> - [Gauntlets of Enterprise](../playing-the-game/gauntlets#gauntlet-of-enterprise)
 > - Resting in the wilderness (see [Resting](../playing-the-game/resting))
 > - Foraging while resting
 

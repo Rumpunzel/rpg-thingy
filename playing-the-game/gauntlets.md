@@ -55,7 +55,7 @@ During a gauntlet of destruction:
 
 Teams take turns until only one side remains standing. You put your own life on the line, when you enter a gauntlet of destruction. As such, if you surrender during a gauntlet of destruction, you suffer the fate you wanted to inflict on your opponent and you perish.
 
-Most gauntlets of destruction is the [Fight](../characters/skills#fight) skill with the intent to murder.
+Most gauntlets of destruction use the [Fight](../characters/skills#fight) skill with the intent to murder.
 
 {: .important }
 > Maro, after a long and arduous journey, finally confronts the man who murdered his father. Only one of them will make it out of here alive, so they enter a gauntlet of destruction.
@@ -103,6 +103,8 @@ A gauntlet of enterprise is essentially a sequence of [Group Challenges](skill-t
 
 During a gauntlet of enterprise, when a group fails a test, each member suffers a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of failure.
 
+Most gauntlets of enterprise use the [Wilderness](../characters/skills#wilderness) skill with the intent to murder.
+
 Gauntlets of enterprise come in two different varieties depending on if you know your destination and how to get there.
 
 ### Navigate
@@ -128,7 +130,7 @@ At the beginning of the gauntlet, and whenever you succeed on a test, roll dice 
 
 To determine when you reach your destination, both you and the gauntlet itself use [Morale](#morale). Whenever you succeed on a test, your team's morale increases by **1,** and you decrease the gauntlet's morale by **1;** and whenever you fail, decrease your team's morale by **1,** increase the gauntlet's by **1,** and you suffer a misfortune with rating equal to your 
 
-Roll for the gauntlet to keep morale as you do for yourself. When the gauntlet's morale breaks, you win and reach your destination. Note the traits you generated along they way, so you may return to the destination with a gauntlet of enterprise to navigate in the future.
+Roll for the gauntlet to keep morale as you do for yourself. When the gauntlet's morale breaks, you win and reach your destination. Note the traits you generated along they way, so you may return to the destination with a gauntlet of enterprise to navigate in the future.  
 
 
 
