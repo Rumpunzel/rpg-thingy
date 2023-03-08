@@ -12,7 +12,12 @@ When you consult the dice, the game calls it a skill test. {{ site.title }} uses
 
 All hits counted together are called effort.
 
+
+## Difficulty
+
 A test has a difficulty, a number that defines how much effort it takes to succeed on the test, otherwise the test is a failure.
+
+Increases in the difficulty of a test correlates with an increase of about a order of magnitude of your goal. If buying a horse is a difficulty **2** test, then buying ten horses is a difficulty **3** test and buying a hundred horses is a difficulty **4** test.
 
 
 ## Consequences
@@ -82,7 +87,7 @@ If both an environmental and an opponent's trait would notably hinder your effor
 
 Should it ever be unclear what difficulty a test is supposed to be, it will most likely be **1;** you only need to achieve **1** effort to succeed.
 
-If the difficulty of a challenge ever exceeds **3,** consider the characters' goals to determine if a single die roll really is the best way to resolve the situation or if a more detailed conflict in the form of a [Gauntlet](gauntlets) would be more appropriate.
+If the difficulty of a challenge ever exceeds **3,** consider the characters' goals to determine if a single die roll really is the best way to resolve the situation or if a more detailed [Gauntlet of Enterprise](gauntlets#gauntlet-of-enterprise) would be more appropriate.
 
 {: .note-title }
 > Examples of Challenges

@@ -73,7 +73,7 @@ Gauntlets of contention come in two different varieties depending on the goal yo
 
 You are trying to settle a difficult dispute, get to the treasure before a rival does, win a sparring match, or something similar. You do not want to hurt the other side, instead you want to demonstrate, maybe even make them understand.
 
-During a gauntlet of contention to overcome, when a character successfully attacks, they inflict a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of success to their target
+During a gauntlet of contention to overcome, when a character successfully attacks, they inflict a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of success to their target.
 
 {: .important }
 > Cyrene has been entangled in the mess of two warring families and has been swept up in a diplomatic confrontation as the two finally clash.
@@ -97,15 +97,38 @@ During a gauntlet of contention to subjugate:
 
 ## Gauntlet of Enterprise
 
-Though in most gauntlets there is an active opponent opposing you, sometimes the narrative calls for a gauntlet without such active opposition. For example, when you attempt to survive a long and arduous journey, create an unfathomable piece of art, or undertake a ludicrous economic endeavour.
+Though in most gauntlets there is an active opponent opposing you, sometimes the narrative calls for a gauntlet without such active opposition. For example, when you attempt to survive a long and arduous journey, create an unfathomable piece of art, infiltrate a tightly guarded fortress, or undertake a ludicrous economic endeavour.
+
+A gauntlet of enterprise is essentially a sequence of [Group Challenges](skill-tests#group-challenges).
+
+During a gauntlet of enterprise, when a group fails a test, each member suffers a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of failure.
+
+Gauntlets of enterprise come in two different varieties depending on if you know your destination and how to get there.
+
+### Navigate
+
+You know both your destination and the path you want to take as well or at the very least the GM does. The conundrum is to endure the journey without getting lost along the way.
+
+A gauntlet of enterprise to navigate consists of a chain of traits you will encounter in order until you have succeeded on all challenges posed by the traits.
+
+For example, when traversing the country, such a chain might be `Well-travelled Road 1`-`Treacherous Swamp 3`-`Enchanted Forest 2`.  
+First, you face a challenge with difficulty **1** (the `Well-travelled Road`). If you succeed, you proceed to the `Treacherous Swamp` and face a challenge with difficulty **3,** but if you don't, you repeat the challenge with difficulty **1** until you succeed, only then may you proceed.  
+Repeat this process until you either succeed on the final challenge, surrender, or perish.
 
 
+### Explore
 
-{: .note-title }
-> Types of Gauntlets in Revue
->
-> - There are physical, mental, and social wounds.
-> - You have **1** slot each of the three wound types.
+You know your destination or at the very least the GM knows but not how to get there. The conundrum is to survive the journey until you find out where it takes you.
+
+A gauntlet of enterprise to explore is essentially a way to generate a gauntlet of enterprise to navigate.
+
+Instead of a fixed chain of traits, this gauntlet has a rating, which described how treacherous it is, and a training, which describes how likely you are to encounter dangers as you progress.
+
+At the beginning of the gauntlet, and whenever you succeed on a test, roll dice equal to the gauntlet's rating and use its training to determine the rating of a new trait you encounter. Name it and test until you achieve enough effort to proceed.
+
+To determine when you reach your destination, both you and the gauntlet itself use [Morale](#morale). Whenever you succeed on a test, your team's morale increases by **1,** and you decrease the gauntlet's morale by **1;** and whenever you fail, decrease your team's morale by **1,** increase the gauntlet's by **1,** and you suffer a misfortune with rating equal to your 
+
+Roll for the gauntlet to keep morale as you do for yourself. When the gauntlet's morale breaks, you win and reach your destination.
 
 
 
@@ -119,9 +142,9 @@ Then the active team decides which team goes next. A team may not be chosen this
 To act, a character has three choices, either pursue their goal, try to gain an advantage, or surrender.
 
 
-## Pursuing your Goal
+## Attacking
 
-To pursue your goal, test the relevant skill with any attribute (you may test as a group). In most cases this will be some form of attacking.
+To attack your goal, test the relevant skill with any attribute (you may test as a group). This does not mean you have to hit anything, but instead you pursue your goal in and perform an action accordingly.
 
 To attack, test the relevant skill with any attribute against an opponent of your choice. You may attack as a group.
 
