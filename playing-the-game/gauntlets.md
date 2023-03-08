@@ -128,7 +128,7 @@ At the beginning of the gauntlet, and whenever you succeed on a test, roll dice 
 
 To determine when you reach your destination, both you and the gauntlet itself use [Morale](#morale). Whenever you succeed on a test, your team's morale increases by **1,** and you decrease the gauntlet's morale by **1;** and whenever you fail, decrease your team's morale by **1,** increase the gauntlet's by **1,** and you suffer a misfortune with rating equal to your 
 
-Roll for the gauntlet to keep morale as you do for yourself. When the gauntlet's morale breaks, you win and reach your destination.
+Roll for the gauntlet to keep morale as you do for yourself. When the gauntlet's morale breaks, you win and reach your destination. Note the traits you generated along they way, so you may return to the destination with a gauntlet of enterprise to navigate in the future.
 
 
 
