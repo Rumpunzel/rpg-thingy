@@ -35,7 +35,7 @@ Decrease the difficulty of buying assets by **1** to a minimum of **1.**
 
 ### Iron Will
 
-Reduce all mental stress you take by **1.**
+Reduce the rating of all misfortunes you suffer by **1.**
 
 
 
@@ -43,17 +43,17 @@ Reduce all mental stress you take by **1.**
 
 ### Fiery Orator
 
-Boons you create become enduring if you rolled at least one **6** and no **1s.**
+Boons you create with Vigor become enduring if you rolled at least one **6** and no **1s.**
 
 ### Valiant Leader
 
-During gauntlets, increase your team's morale by an additional **1** if you rolled at least one **6** on a test.
+When you succeed on a test during gauntlets, increase your team's morale by an additional **1** if you rolled at least one **6** on a test.
 
 ---
 
-### Empath
+### Caregiver
 
-While resting, you and everyone resting with you may add **1** die when testing to mend wounds. Additionally, the number of paraphernalia required to gain a `WELL RESTED` boon is reduced by **1** for everyone resting with you.
+While resting, you and everyone resting with you may add **1** die when testing to mend injury. Additionally, the number of paraphernalia required to gain a `WELL RESTED` boon is reduced by **1** for everyone resting with you.
 
 ### Web of Lies
 
@@ -63,8 +63,8 @@ When creating a boon with Influence and Intuition, you may gain an asset with ra
 
 ### Where there's a Will
 
-During gauntlets, you may choose a number and suffer that much stress. When you do, create a boon on yourself with rating equal to the amount of stress you suffered.
+During gauntlets, you may choose to suffer an injury with the rating of your choice. When you do, create an enduring boon on yourself with rating equal to the rating of the injury you suffered.
 
 ### Schemer
 
-During gauntlets, instead of gaining morale, you may create a special, secret `SCHEME` trait or improve the rating of an existing `SCHEME` trait by **1.**
+If your morale during gauntlets is above **0,** your team gains a `PROGRESSING SCHEME` trait with rating equal to your team's morale, which counts as a character trait for your team.

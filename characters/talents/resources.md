@@ -11,7 +11,7 @@ nav_order: 6
 
 ### Deep Pockets
 
-Increase the number of assets you can carry by **3.**
+Increase the number of assets you can carry by **6.**
 
 ### Indomitable
 
@@ -21,11 +21,11 @@ Whenever you fail to defend during a contest, you gain a boon with rating equal 
 
 ### Cosmopolitan
 
-Whenever you take social stress, you may inflict **1** social stress to all your attackers.
+Whenever you suffer a misfortune during a contest or gauntlet, you may inflict a minor misfortune on all your opponents.
 
 ### Reversal of Fortune
 
-You may spend **1** Favor or discard **1** Boon affecting you to exchange rolls with an ally or an opponent rolling at the same time.
+You may spend **1** Favor to exchange rolls with an ally or an opponent rolling at the same time instead of using your Intuition dice modifier.
 
 ---
 
@@ -47,7 +47,7 @@ When preparing for a rest, if you rolled a **6,** you may gain an asset with rat
 
 ### Renown
 
-While resting, double your successes when working or researching with Vigor.
+While resting, double your effort when working or researching with Vigor.
 
 ---
 

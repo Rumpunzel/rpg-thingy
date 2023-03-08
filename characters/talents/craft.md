@@ -21,7 +21,7 @@ If you roll at least one **6** on a test, one asset of your choice you used on t
 
 ### Opportunist
 
-When using an opponent's trait or wound, increase its rating by **1** for the test.
+When using an opponent's trait or injury, add **1** additional die.
 
 ### Trickster
 
@@ -31,7 +31,7 @@ Boons you create with Intuition only vanish (or degrade) if you do not succeed o
 
 ### Ingenuity
 
-Whenever you create or improve an asset, if you rolled at least one **6** and no **1s,** increase its quality rating **1** additional time.
+Whenever you create or improve an asset, if you rolled at least one **6** and no **1s,** increase its quality rating by an additional **1.**
 
 ### Master Artisan
 
@@ -47,23 +47,23 @@ You may forage when resting even in settlements. When you do, you may use Craft 
 
 ### War Smith
 
-You may ignore **1** **Refined with PARAPHERNALIA** property of weapon and armor assets.
+You may ignore **1** **Refined with PARAPHERNALIA** property of weapon and armor assets when forging.
 
 ---
 
 ### Trinkets & Baubles
 
-Get **1** additional die when crafting assets.
+Get **1** additional die when forging assets.
 
 ### Learning on the Job
 
-While resting, if someone gains **XP** through practice, they gain **1** additional **XP.** If that someone is not you, you also get **1** **XP** in the practiced skill.
+While resting, if someone gains **XP,** they gain **1** additional **XP.** If that someone is not you, you also get **1** **XP** in the practiced skill.
 
 ---
 
 ### Surgeon
 
-When mending an injury while resting, instead of mending it by **1,** you may mend it by your margin of effort.
+When mending an injury while resting, instead of clearing **1** injury box, you may clear al injury boxes with rating less than your margin of effort.
 
 ### Traps Everywhere
 

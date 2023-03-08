@@ -23,19 +23,19 @@ When defending with Vigor, roll an additional die for each opponent attacking yo
 
 When attacking as a group with Intuition, your allies and you each gain **1** additional die.
 
-### Slippery
+### Untouchable Grace
 
-Opponents can only create boons or banes against you if you struggle to defend because of their disposition.
+When you would gain an injury while defending with Intuition, you may spend **1** Favor to gain it as a misfortune instead.
 
 ---
 
 ### Superior Strategist
 
-When you create and advantage for a gauntlets, you may test twice and gain two different benefits.
+When you create and advantage for a gauntlet, you may test twice and gain two different benefits.
 
 ### One Step Ahead
 
-During contests, ties count as successes for you, even if you're the attacker. During gauntlets, you inflict **1** damage to your opponent's morale instead of your own. These benefits do not work should your opponent also have this talent.
+During contests, ties count as successes for you, even if you're the attacker, meaning during gauntlets, you inflict **1** damage to your opponent's morale instead of your own. These benefits do not work should your opponent also have this talent.
 
 
 
@@ -47,25 +47,25 @@ When defending as a group with Vigor, your allies and you each gain **1** additi
 
 ### Shrug it Off
 
-When recovering from your own wounds decrease the test's difficulty by **1** (this means you can potentially recover from minor wounds without needing paraphernalia or needing to roll).
+When recovering from your injury decrease the test's difficulty by **1** (this means you can recover from a minor injury without needing paraphernalia or needing to roll).
 
 ---
 
 ### Uncanny Dodge
 
-During gauntlets, you may spend **1** Favor to suffer a **1** physical or mental stress (your choice) to not resolve a defense test instead of using your Intuition dice modifier.
+When defending with Intuition, you may spend **1** Favor to suffer a minor misfortune instead of using your Intuition dice modifier to not resolve the test.
 
 ### Dazzling Elegance
 
-As long as you do not have any wounds, you get **1** additional die on all your rolls.
+As long as you do not suffer from any injury or misfortune, you gain **1** additional die on all your rolls.
 
 ---
 
 ### Peace of Body and Mind
 
-Wounds cannot hinder your attacks.  
-At the beginning of a gauntlets, if you suffer from a wound, you may gain an enduring `Battle Trance` boon with rating equal to your highest rated wound's rating.
+Injury no longer hinders your attacks.  
+At the beginning of a gauntlets, if you suffer from an injury or misfortune, you may gain a `Battle Trance` boon with rating equal to your highest rated injury of misfortune. If your injury has a higher rating than your misfortune, the `Battle Trance` boon becomes enduring.
 
-### Untouchable Grace
+### Slippery
 
-When you would gain an injury while defending with Reason, you may spend **1** Favor to gain a misfortune instead.
+Opponents can only create boons or banes against you if they did not roll any **1s.**

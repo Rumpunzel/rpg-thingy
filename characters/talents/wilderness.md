@@ -11,21 +11,21 @@ nav_order: 4
 
 ### Mama Bear
 
-When preparing for a rest, add **1** die for each wound you and anyone resting with you have.
+When preparing for a rest, add **1** die for each injury from which you and anyone resting with you are suffering.
 
 ### Tough as Nails
 
-Add **1** additional die when one of your wounds increases a difficulty for you or when an opponent uses one of your wounds against you.
+Add **1** additional die when your injury increases a difficulty for you or when an opponent uses your injury against you.
 
 ---
 
+### Deadeye
+
+When attacking and using the Intuition dice modifier, you may choose which dice to re-roll instead of re-rolling all at once.
+
 ### Hunter
 
-While attacking, you may create banes from excess successes for free, without spending Favor.
-
-### Guerilla Tactics
-
-The first time you suffer stress during a gauntlet, if you did not roll a **1,** ignore it.
+When attacking, you may create banes from excess successes for free, without spending Favor.
 
 ---
 
@@ -37,6 +37,10 @@ Add **1** effort when researching traits.
 
 When you create a boon or bane increase its rating by **1.**
 
+### Guerilla Tactics
+
+The first time you would suffer an injury or misfortune during a gauntlet, if you did not roll a **1,** ignore it.
+
 
 
 # Wilderness Specializations
@@ -47,13 +51,9 @@ Increase the rating of your Goal trait by **1.**
 
 ### Wendigo
 
-When attacking with Vigor, you inflict **1** additional damage to morale if you rolled at least one **6,** even if your opponent defended successfully (this does not increase the stress you inflict).
+When attacking with Vigor, if you rolled a **6,** decrease your opponent's morale by an additional **1,** even did not succeed on the test.
 
 ---
-
-### Deadeye
-
-When attacking and using the Intuition dice modifier, you may choose which dice to re-roll instead of re-rolling all at once.
 
 ### Outlander
 
@@ -61,7 +61,7 @@ Decrease the difficulty of tests for overland travel by **1** (this may remove t
 
 ### Weather Watcher
 
-Predicting weather while resting only costs you **1** paraphernalia, not matter the difficulty.
+Predicting weather while resting only costs you **1** paraphernalia, no matter the difficulty.
 
 ---
 
@@ -71,4 +71,4 @@ When [Gaining an Advantage](../../playing-the-game/gauntlets#gaining-an-advantag
 
 ### Forager
 
-Increase the amount of paraphernalia you gain while resting by **1.**
+When you or anyone resting with you gains paraphernalia, gain an additional **1.**
