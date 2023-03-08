@@ -32,9 +32,9 @@ Whenever the game calls for a test, it will always call for an attribute and a s
 
 ## Experience Points
 
-Whenever you do not succeed on a skill test, you learn something new and mark **1** experience (**XP**) for that skill. Each Skill has a separate track to mark **XP** and whenever you reach **10** **XP** marked for a skill, remove all **XP** marked for it and you gain a new level in that skill (each skill starts at level **0**), which will grant you access to a new [Talents](talents) and/or improve your training in that Skill (see [Advancement](../playing-the-game/advancement)).
+During your adventures, you will encounter new challenges, which result in you marking **1** experience (**XP**) for that skill. Each Skill has a separate track to mark **XP** and whenever you reach **10** **XP** marked for a skill, remove all **XP** marked for it and you gain a new level in that skill (each skill starts at level **0**), which will grant you access to a new [Talents](talents) and/or improve your training in that Skill (see the table below).
 
-If your skill is reaches level **7** and for every level thereafter, instead of improving the skill, you gain an [Epiphany](../playing-the-game/advancement#epiphanies) (meaning you may increase **1** of your attributes by **1** or increase the rating of **1** of your traits by **1**).
+If your skill is reaches level **7** and for every level thereafter, instead of improving the skill, you gain an [Epiphany](../playing-the-game/advancement#epiphanies) (meaning you may increase one of your attributes by **1** or increase the rating of one of your traits by **1**).
 
 | Level  | XP  | Training |     Reward     |
 |:------:|:---:|:--------:|:--------------:|

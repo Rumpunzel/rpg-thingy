@@ -8,10 +8,37 @@ nav_order: 1
 
 # Skill Tests
 
-When you consult the dice, the game calls it a **Skill Test.** {{ site.title }} uses a **d6** dice pool system. So whenever the game calls for dice to be rolled, roll a handful of six-sided dice equal to the rating of the [Attribute](../characters/attributes) with which you chose to test. Each die can either be a hit or a miss, depending on if its face shows at least the training of the skill with which you chose to test.  
-All hits counted together are called **Effort.** Achieving more Effort is always better.
+When you consult the dice, the game calls it a skill test. {{ site.title }} uses a **d6** dice pool system. So whenever the game calls for dice to be rolled, roll a handful of six-sided dice equal to the rating of the [Attribute](../characters/attributes) with which you chose to test. Each die can either be a hit or a miss, depending on if its face shows at least the training of the skill with which you chose to test.
 
-A test has a difficulty, a number that defines how much effort it takes to succeed on the test, otherwise the test is a failure. There are no tests without consequences. No matter if you succeed on a test or fail it, you will either get what you want and/or suffer a setback. Either way, after a test both the narrative and your character make progress, either by achieving your goal or by growing with your failures.
+All hits counted together are called effort.
+
+A test has a difficulty, a number that defines how much effort it takes to succeed on the test, otherwise the test is a failure.
+
+
+## Consequences
+
+It is the most fundamental rule of {{ site.title }} that the world is never unchanged after a skill test. The aim if this is to create a solid baseline for the flow of play.
+
+There are no tests without consequences. No matter if you succeed on a test or fail it, you will either get what you want and/or suffer a setback. Either way, after a test both the narrative and your character make progress, either by achieving your goal or by suffering a setback.
+
+### Success
+
+When you succeed on a skill test, you get what you want and the story moves forward.
+
+### Failure
+
+When you fail a skill test, you do not get what you want, though that poses the question of how the world has changed.  
+In many cases the GM or another player at the table will introduce an interesting narrative consequence. Either you got what you wanted at a cost or something dramatic follows your failure.
+
+But coming up with interesting narrative consequences to change the world is hard, so in most cases it will be your character and the condition they find themselves in which must change, meaning that you suffer an [Injury](injury-&-misfortune#injury) or a [Misfortune](injury-&-misfortune#misfortune) when you fail a skill test, depending on what your intent of the skill test was.  
+If you wanted to hurt or inflict harm, instead you suffer hurt or harm in the form of an injury. Otherwise, you suffer a misfortune (more detail on this in the following sections).
+
+
+## Improving
+
+Whenever you achieve effort equal to a  difficulty or tie a test, you mark **1** **XP** for the skill you used (see [Experience Points](../characters/skills#experience-points)).
+
+Apart from completing your [Goal](../characters/traits#your-goal), this is the only way to gain **XP** for your skills.
 
 
 ## Group Tests
@@ -19,6 +46,7 @@ A test has a difficulty, a number that defines how much effort it takes to succe
 Characters may act in tandem with each other when trying to achieve the same goal while testing the same skill with the same attribute. When they do, everyone tests and adds their successes together to determine their effort.
 
 When two or more character use the same skill with the same attribute to achieve the same goal, they always test as a group. When they do, determine the character who initiated the test. Only that character can add dice from [Traits](../characters/traits), [Boons and Banes](boons-&-banes), and use their [Disposition](../characters/attributes#disposition), the others cannot.
+
 
 ## Skill Tests in a Nutshell
 
@@ -29,42 +57,12 @@ When two or more character use the same skill with the same attribute to achieve
 > - Describe what action you would like to undertake in the fiction.
 > - Choose a skill according to your goal and described action.
 > - Pick an [Attribute](../characters#attributes). If you have already described an action, try and go with the attribute most fitting your description. Otherwise, let your choice of attribute guide your roleplay.
-> - Decide whether to act as a group.
 > - Determine if the test will be a challenge, a contest, or a gauntlet.
+> - Decide whether to act as a group.
 > - **Roll the dice.**
 > - The target number for your dice is determined by the skill you've chosen. Every face of a die that comes up as at least that number, is a hit, all others are misses.
 > - Use traits for dice modifiers, extra dice, or an increases difficulty, and spend Favor.
-> - Determine the outcome of the test. If you succeeded, you get what you want, otherwise mark **1** **XP** and resolve the consequences of the test.
-
-
-
-# Consequences
-
-It is a fundamental rule of {{ site.title }} that the world is never unchanged after a skill test. The aim if this is to create a solid baseline for the flow of play.
-
-
-## Consequences of Success
-
-When you succeed on a skill test, you get what you want and the story moves forward.
-
-
-## Consequences of Failure
-
-When you fail a skill test, you do not get what you want, though that poses the question of how the world has changed.  
-In many cases the GM or another player at the table will introduce an interesting narrative consequence. Either you got what you wanted at a cost or something dramatic follows your failure.
-
-But coming up with interesting narrative consequences to change the world is hard, so in most cases it will be your character and the condition they find themselves in which must change.
-
-### Improving with Failure
-
-The good part about failure is that when you fail a skill test, you mark **1** **XP** for the skill you used.  
-Apart from completing goals, this is the only way to gain **XP** for your skills.
-
-### Injury and Misfortune
-
-The bad part is that will suffer an [Injury](injury-&-misfortune#injury) or a [Misfortune](injury-&-misfortune#misfortune) when you fail a skill test, depending on what your intent of the skill test was.
-
-If you wanted to hurt or inflict harm, instead you suffer hurt or harm in the form of an injury. Otherwise, you suffer a misfortune (more detail on this in the following sections).
+> - Determine the outcome of the test. If you succeeded, you get what you want, otherwise resolve the consequences of the test. If you achieved effort equal to the difficulty or tied the test, mark **1** **XP** for the skill you used.
 
 
 
@@ -108,8 +106,6 @@ You may replace the injury of misfortune with a narrative consequence, the loss 
 
 When you decline the opportunity to succeed at a cost, you take responsibility to keep the story moving forward into a different direction.
 
-When you succeed at a cost, you still mark **XP** as you still have technically failed the challenge.
-
 ### Let It Ride
 
 When you fail a challenge, you may not repeat the challenge with the same skill and attribute again until something fundamentally changes about the situation. You may attempt a different attribute but the difficulty of the challenge might increase as your previous attempt might have created a new trait.
@@ -133,7 +129,7 @@ You may always change your approach or use a different skill to achieve your goa
 > 
 > Cyrene might either increase the rating of the misfortune she suffered by her margin of failure from a minor to a moderate misfortune (by feigning interest in the guard's tales) or give up her sword to succeed at a cost. As she came to the city to rest not exhaust herself even more, nor to give up her sword, she decides against succeeding at cost and must find another way.
 >
-> In any case, she marks **1** **XP** for her efforts and is now one step closer to leveling up her Intuition as she has learned a valuable lesson. She could try to frighten the guards into letting her pass, but with them already looking irritated and with her Vigor rating of **1,** she fears this might go even worse for her and so decides against it.
+> She could now try to frighten the guards into letting her pass, but with them already looking irritated and with her Vigor rating of **1,** she fears this might go even worse for her and so decides against it.
 
 
 ## Group Challenges
@@ -142,7 +138,7 @@ During group challenges, for each participant beyond the first, the difficulty o
 
 Group challenges can be incredible tools to achieve great deeds. They can also simply be used to help your compatriots to overcome obstacles you find trivial. But they come at the cost of increasing the risk for all participants. You either win or you fail as a group, as you combine your effort.
 
-When a group fails a group challenge, each member of the group marks **1** **XP.**
+When a group achieves effort equal to the difficulty or ties a test, each member of the group marks **1** **XP.**
 
 When a group chooses to succeed at a cost, _each_ member of the group increased the rating of the injury or misfortune they suffered equal to the group's margin of failure. As difficulty increases with each member of a group, this can make succeeding at a cost extremely dangerous or even practically impossible.
 

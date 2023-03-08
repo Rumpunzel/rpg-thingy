@@ -73,7 +73,7 @@ Gauntlets of contention come in two different varieties depending on the goal yo
 
 You are trying to settle a difficult dispute, get to the treasure before a rival does, win a sparring match, or something similar. You do not want to hurt the other side, instead you want to demonstrate, maybe even make them understand.
 
-During gauntlets of contention to overcome, when a character successfully attacks, they inflict a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of success to their target
+During a gauntlet of contention to overcome, when a character successfully attacks, they inflict a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of success to their target
 
 {: .important }
 > Cyrene has been entangled in the mess of two warring families and has been swept up in a diplomatic confrontation as the two finally clash.
@@ -84,7 +84,10 @@ During gauntlets of contention to overcome, when a character successfully attack
 
 You aim to impose your intentions, damn the opposition.
 
-During gauntlets of contention to subjugate, when a character successfully attacks, they inflict an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to their target
+During a gauntlet of contention to subjugate:
+
+- When a character successfully attacks, they inflict an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to their target
+- When a character successfully defends, they inflict a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of success to their attacker
 
 {: .important }
 > Cyrene and Maro have discovered a group of cultist trying to conduct a vile ritual. This calls for a gauntlet of contention to subjugate and with the intent to inflict injury.
@@ -209,8 +212,7 @@ Otherwise if the captain succeeds, or if the team does not have a `FALTERING MOR
 
 A captain's teammates may help their captain keep morale by testing with them as a group (increase the test's difficulty by **1** for each teammate who tests beyond the captain).
 
-When a team's captain surrenders or otherwise leaves a gauntlet, their team's morale immediately breaks.  
-Whenever a team's morale breaks, each member of the team suffers a misfortune with rating equal to the team's `FALTERING MORALE` trait rating.
+When a team's captain surrenders or otherwise leaves a gauntlet, their team's morale immediately breaks.
 
 When a team's morale breaks, it loses the gauntlet and does not achieve its goal, unless one of the team's members chooses to enter their [Last Stand](#last-stand), if they have not yet entered it, to take over the role of captain.
 
