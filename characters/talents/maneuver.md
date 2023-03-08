@@ -53,7 +53,7 @@ When recovering from your injury decrease the test's difficulty by **1** (this m
 
 ### Uncanny Dodge
 
-When defending with Intuition, you may spend **1** Favor to suffer a minor misfortune instead of using your Intuition dice modifier to not resolve the test.
+When defending, instead of resolving your Intuition dice modifier suffer, you may suffer a minor misfortune or a minor injury instead of suffering a misfortune of injury, respectively.
 
 ### Dazzling Elegance
 

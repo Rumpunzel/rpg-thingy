@@ -57,7 +57,7 @@ When attacking with Vigor, if you rolled a **6,** decrease your opponent's moral
 
 ### Outlander
 
-Decrease the difficulty of tests for overland travel by **1** (this may remove the need for a roll).
+During [Gauntlets of Enterprise](../../playing-the-game/gauntlets#gauntlet-of-enterprise) you gain **1** additional effort on your tests.
 
 ### Weather Watcher
 

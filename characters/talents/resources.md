@@ -25,7 +25,7 @@ Whenever you suffer a misfortune during a contest or gauntlet, you may inflict a
 
 ### Reversal of Fortune
 
-You may spend **1** Favor to exchange rolls with an ally or an opponent rolling at the same time instead of using your Intuition dice modifier.
+Instead of resolving your Intuition dice modifier, you may exchange rolls with a willing ally or an opponent taking part in the same test.
 
 ---
 
