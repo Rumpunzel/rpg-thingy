@@ -65,12 +65,7 @@ Most gauntlets of destruction is the [Fight](../characters/skills#fight) skill w
 
 This is the most common type of gauntlet used to settle most major disputes.
 
-As the main goal during this type of gauntlet is not to destroy the other side but to achieve a specific goal, each side in a gauntlet of contention uses [Morale](#morale) to track their progress towards achieving their goal.
-
-During a gauntlet of destruction:
-
-- When a character successfully attacks, they reduce their target's morale by **1** and increase their team's morale by **1**
-- When a character successfully defends, they increase their team's morale by **1** and reduce their attacker's morale by **1**
+As the main goal during this type of gauntlet is not to destroy the other side but to achieve a specific goal, each side in a gauntlet of contention uses [Morale](#morale) to track their progress towards achieving their goal. Whenever a character succeeds on a test, their team's morale increases by **1** and whenever they fail, it decreases by **1.**
 
 Gauntlets of contention come in two different varieties depending on the goal you want to achieve.
 
@@ -78,10 +73,7 @@ Gauntlets of contention come in two different varieties depending on the goal yo
 
 You are trying to settle a difficult dispute, get to the treasure before a rival does, win a sparring match, or something similar. You do not want to hurt the other side, instead you want to demonstrate, maybe even make them understand.
 
-During gauntlets of contention to overcome:
-
-- When a character successfully attacks, they inflict a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of success to their target
-- When a character successfully defends, only the above-mentioned changes to morale occur.
+During gauntlets of contention to overcome, when a character successfully attacks, they inflict a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of success to their target
 
 {: .important }
 > Cyrene has been entangled in the mess of two warring families and has been swept up in a diplomatic confrontation as the two finally clash.
@@ -92,10 +84,7 @@ During gauntlets of contention to overcome:
 
 You aim to impose your intentions, damn the opposition.
 
-During gauntlets of contention to subjugate:
-
-- When a character successfully attacks, they inflict an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to their target
-- When a character successfully defends, they inflict a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of success to their attacker
+During gauntlets of contention to subjugate, when a character successfully attacks, they inflict an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to their target
 
 {: .important }
 > Cyrene and Maro have discovered a group of cultist trying to conduct a vile ritual. This calls for a gauntlet of contention to subjugate and with the intent to inflict injury.
@@ -108,6 +97,12 @@ During gauntlets of contention to subjugate:
 Though in most gauntlets there is an active opponent opposing you, sometimes the narrative calls for a gauntlet without such active opposition. For example, when you attempt to survive a long and arduous journey, create an unfathomable piece of art, or undertake a ludicrous economic endeavour.
 
 
+
+{: .note-title }
+> Types of Gauntlets in Revue
+>
+> - There are physical, mental, and social wounds.
+> - You have **1** slot each of the three wound types.
 
 
 
@@ -142,16 +137,18 @@ Should you not have an empty injury box to absorb an injury you suffered during 
 
 Instead of testing the relevant skill to inflict injuries and misfortunes to an opponent, you may test a different skill to gain an advantage.  
 
-You still choose an opponent who will try to stop or at least hinder your efforts.
+An opponent will still try to stop or at least hinder your efforts.
 
 Depending on your margin of effort, you gain an advantage. These advantages only last for the duration of the gauntlet.
+
+If you fail to gain an advantage during a conflict of contention, your team loses morale equal to your margin of failure instead of only **1.**
 
 There are four different types of advantages from which to choose. One general and three that are each available depending on with which attribute you tested.  
 
 |   Attribute   |                                                Advantage                                                |
 |:-------------:|:-------------------------------------------------------------------------------------------------------:|
 |    **Any**    | [Create a Boon or Bane](boons-&-banes#creating-boons--banes) with rating equal to your margin of effort |
-|   **Vigor**   |                                     Add **1** to your team’s morale                                     |
+|   **Vigor**   |                             Add your margin of effort to your team’s morale                             |
 | **Intuition** |      Discard your opponent's lowest rated asset relevant to the gauntlet / Gain a discarded asset       |
 |  **Reason**   |               Learn of your opponent's lowest rated secret trait, which is unknown to you               |
 
@@ -212,7 +209,8 @@ Otherwise if the captain succeeds, or if the team does not have a `FALTERING MOR
 
 A captain's teammates may help their captain keep morale by testing with them as a group (increase the test's difficulty by **1** for each teammate who tests beyond the captain).
 
-When a team's captain surrenders or otherwise leaves a gauntlet, their team's morale immediately breaks.
+When a team's captain surrenders or otherwise leaves a gauntlet, their team's morale immediately breaks.  
+Whenever a team's morale breaks, each member of the team suffers a misfortune with rating equal to the team's `FALTERING MORALE` trait rating.
 
 When a team's morale breaks, it loses the gauntlet and does not achieve its goal, unless one of the team's members chooses to enter their [Last Stand](#last-stand), if they have not yet entered it, to take over the role of captain.
 
@@ -224,5 +222,5 @@ Your last stand represents one last chance to still achieve your goal, to rage, 
 
 During your last stand, resolve your actions as you normally would with the following two exceptions:
 
-- Should all opposing teams have lost the gauntlet, you leave your last stand, and you live to see another day; you gain an [Epiphany](advancement#epiphany) for you have looked defeat in the eye and prevailed
+- Should all opposing teams have lost the gauntlet, you leave your last stand, and you live to see another day; you gain an [Epiphany](advancement#epiphanies) for you have looked defeat in the eye and prevailed
 - If, at any point during your last stand, you cannot fully absorb and injury, or your team loses the gauntlet (for example, by their morale breaking), you perish (depending on the type of gauntlet, you either die in battle, are exiled forever, completely lose you mind, etc.)

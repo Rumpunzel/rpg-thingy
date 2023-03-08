@@ -92,7 +92,7 @@ A character's goals also influence the certainty of actions. Though, a test and 
 
 If you want to hit a training dummy, it simply happens, as it has no trait that might oppose you. If, on the other hand, you want to hit the training dummy to impress an onlooker, you may still hit the dummy, but as the onlooker might have a trait (such as `Lady of Castle Longlake`) which would oppose you in your attempts to impress, the situation calls for a dramatic resolution, so you consult the dice.
 
-In gameplay terms, the difficulty of the test would be the rating of the trait `Lady of Castle Longlake`, so in this case **2.** The dummy can be completely neglected as it hardly opposes you in your attempt to impress (the result of this test would be a [Boon](boons-&-banes#using-traits)).
+In gameplay terms, the difficulty of the test would be the rating of the trait `Lady of Castle Longlake`, so in this case **2.** The dummy can be completely neglected as it hardly opposes you in your attempt to impress (the result of this test would be a [Boon](boons-&-banes#creating-boons--banes)).
 
 {: .note-title }
 > Traits as Obstacles in Revue
@@ -131,7 +131,7 @@ Depending on the rating of your trait, different kinds of information are availa
 {: .important }
 > As Maro's trait `Exiled Sellsword of Gantha` has a rating of **2,** he knows of the robber king's best attribute is Reason and that it is quite a lot higher than Maro's at **5.**
 >
-> Fortunately, he also learns of the robber king's lowest rated secret trait `Hates Sunlight` which has a rating of **1.** It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see [Research](resting#research)).
+> Fortunately, he also learns of the robber king's lowest rated secret trait `Hates Sunlight` which has a rating of **1.** It is not much but if he harbors such a secret, perhaps there is more hiding beneath to surface. Time to do some research (see [Researching](resting#researching)).
 
 
 ## Creating Traits

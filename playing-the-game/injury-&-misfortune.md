@@ -8,7 +8,7 @@ nav_order: 5
 
 # Injury & Misfortune
 
-Setbacks are unavoidable — expected even — during your daring adventures. These setbacks fall into two distinct categories: [Injuries](#injuries) and [Misfortunes](#misfortunes).
+Setbacks are unavoidable — expected even — during your daring adventures. These setbacks fall into two distinct categories: [Injury](#injury) and [Misfortune](#misfortune).
 
 
 ## Misfortune
@@ -37,7 +37,7 @@ Should you not have an empty box to fully absorb stress you suffered, instead ma
 
 ### Effect of Misfortune
 
-If you suffer from a misfortune, you have a misfortune trait with rating equal to your misfortune's severity. Name this trait something appropriate considering the struggles and setbacks you have endured and with a negative connotation, so that it will [get in your way](../characters/traits#using-character-traits-to-your-detriment) and can be used against you during [Contest](skill-tests#contests#detrimental-traits).
+If you suffer from a misfortune, you have a misfortune trait with rating equal to your misfortune's severity. Name this trait something appropriate considering the struggles and setbacks you have endured and with a negative connotation, so that it will [get in your way](../characters/traits#using-your-traits-to-your-detriment) and can be used against you during [Contest](skill-tests#detrimental-traits).
 
 See how to recover from your misfortune in the chapter about [Resting](resting#recovering).
 

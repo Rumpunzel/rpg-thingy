@@ -74,3 +74,7 @@ When adding dice from a shield asset to a defense roll, add **1** additional die
 ### Martial Artist
 
 Choose one of your traits representing your martial training; when testing Fight, your minimum effort is equal to the chosen trait's rating.
+
+### Weapon Master
+
+Whenever you gain dice, an increase or decrease from a weapon asset, increase it by the weapon's masterpiece rating.
