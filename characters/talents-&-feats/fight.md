@@ -1,11 +1,31 @@
 ---
 layout: default
-title: Fight Talents & Feats
+title: Fight
 description: List of Fight talents & feats
 parent: Talents & Feats
 grand_parent: Characters
 nav_order: 2
 ---
+
+# Fight Feats
+
+### Body of Steel
+
+Whenever you would gain an [Injury](../../playing-the-game/injury-&-misfortune#injury) with rating **3** or less, if you rolled a **6,** reduce its rating to **1.**
+
+---
+
+### Cutthroat
+
+When creating a [Boon](../../playing-the-game/boons-&-banes#boons) or [Bane](../../playing-the-game/boons-&-banes#banes), you may make it enduring by suffering a minor [Misfortune](../../playing-the-game/injury-&-misfortune#misfortune).
+
+---
+
+### Student of Pain
+
+Decrease the minimum difficulty for your tests from your injury by **1.** In addition, decrease the minimum effort your opponents gain from your injury and increase the minimum effort you gain from theirs by **1.**
+
+
 
 # Fight Talents
 
@@ -54,23 +74,3 @@ Choose one of your traits representing your martial training; when testing Fight
 ### Weapon Master
 
 Whenever you gain dice, an increase or decrease from a weapon asset, increase it by the weapon's masterpiece rating.
-
-
-
-# Fight Feats
-
-### Body of Steel
-
-Whenever you would gain an [Injury](../../playing-the-game/injury-&-misfortune#injury) with rating **3** or less, if you rolled a **6,** reduce its rating to **1.**
-
----
-
-### Cutthroat
-
-When creating a [Boon](../../playing-the-game/boons-&-banes#boons) or [Bane](../../playing-the-game/boons-&-banes#banes), you may make it enduring by suffering a minor [Misfortune](../../playing-the-game/injury-&-misfortune#misfortune).
-
----
-
-### Student of Pain
-
-Decrease the minimum difficulty for your tests from your injury by **1.** In addition, decrease the minimum effort your opponents gain from your injury and increase the minimum effort you gain from theirs by **1.**

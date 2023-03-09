@@ -1,11 +1,37 @@
 ---
 layout: default
-title: Influence Talents & Feats
+title: Influence
 description: List of Influence talents & feats
 parent: Talents & Feats
 grand_parent: Characters
 nav_order: 1
 ---
+
+# Influence Feats
+
+### Fiery Orator
+
+Boons you create with Vigor become enduring if you rolled at least one **6** and no **1s.**
+
+---
+
+### Dreamer
+
+Once during a rest, you may test Influence with Intuition to divine the future. Choose the difficulty for this test.
+
+If you succeed, you gain an enduring boon with rating equal to the test's difficulty spent representing a prophetic vision you had while resting. Consult with the GM concerning the nature of the vision.
+
+If you fail, you gain an enduring bane with rating equal to your margin of failure representing a prophetic omen you had while resting. The GM determines the nature of the omen.
+
+The boon and bane may be used by anyone, with any skill, and with any attribute but only in the context or with the subject of your dream.
+
+---
+
+### Iron Will
+
+Reduce the rating of all misfortunes you suffer by **1.**
+
+
 
 # Influence Talents
 
@@ -44,33 +70,3 @@ During gauntlets, you may choose to suffer an injury with the rating of your cho
 ### Schemer
 
 If your morale during gauntlets is above **0,** your team gains a `PROGRESSING SCHEME` trait with rating equal to your team's morale, which counts as a character trait for your team.
-
-
-
-# Influence Feats
-
-### Fiery Orator
-
-Boons you create with Vigor become enduring if you rolled at least one **6** and no **1s.**
-
----
-
-### Dreamer
-
-Once during a rest, you may test Influence with Intuition to divine the future. Choose the difficulty for this test.
-
-If you succeed, you gain an enduring boon with rating equal to the test's difficulty spent representing a prophetic vision you had while resting. Consult with the GM concerning the nature of the vision.
-
-If you fail, you gain an enduring bane with rating equal to your margin of failure representing a prophetic omen you had while resting. The GM determines the nature of the omen.
-
-The boon and bane may be used by anyone, with any skill, and with any attribute but only in the context or with the subject of your dream.
-
-### Takes One to Know One
-
-Your Intuition outpaces Intuition as well.
-
----
-
-### Iron Will
-
-Reduce the rating of all misfortunes you suffer by **1.**

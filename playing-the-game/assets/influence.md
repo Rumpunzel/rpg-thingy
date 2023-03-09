@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Influence Gear
+title: Influence
 description: List of Influence gear
 parent: Assets
 grand_parent: Playing the Game

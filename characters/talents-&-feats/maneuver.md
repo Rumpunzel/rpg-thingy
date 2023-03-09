@@ -1,11 +1,31 @@
 ---
 layout: default
-title: Maneuver Talents & Feats
+title: Maneuver
 description: List of Maneuver talents & feats
 parent: Talents & Feats
 grand_parent: Characters
 nav_order: 3
 ---
+
+# Maneuver Feats
+
+### Athlete
+
+When using a trait for a dice modifier, you may choose which dice modifier to use for the roll, regardless of the attribute you chose.
+
+---
+
+### Dazzling Elegance
+
+When using the Intuition dice modifier, you may choose which dice to re-roll instead of re-rolling all at once.
+
+---
+
+### Superior Strategist
+
+When you [Gain an Advantage](../../playing-the-game/gauntlets#gaining-an-advantage), you may test twice and gain two different advantages.
+
+
 
 # Maneuver Talents
 
@@ -43,23 +63,3 @@ At the beginning of a gauntlets, if you suffer from an injury or misfortune, you
 ### Slippery
 
 Opponents can only create boons or banes against you if they did not roll any **1's.**
-
-
-
-# Maneuver Feats
-
-### Bull Charge
-
-Your Vigor overwhelms Vigor as well.
-
----
-
-### One Step Ahead
-
-You always succeed on ties, even if you're the attacker, meaning during gauntlets, you inflict **1** damage to your opponent's morale instead of your own. These benefits do not work should your opponent also have this feat.
-
----
-
-### Superior Strategist
-
-When you [Gain an Advantage](../../playing-the-game/gauntlets#gaining-an-advantage), you may test twice and gain two different advantages.

@@ -1,11 +1,31 @@
 ---
 layout: default
-title: Resources Talents & Feats
+title: Resources
 description: List of Resources talents & feats
 parent: Talents & Feats
 grand_parent: Characters
 nav_order: 6
 ---
+
+# Resources Feats
+
+### Deep Pockets
+
+Increase the number of assets you can carry by **6.**
+
+---
+
+### Reversal of Fortune
+
+Instead of resolving your Intuition dice modifier, you may exchange rolls with a willing ally or an opponent taking part in the same test.
+
+---
+
+### Iconoclast
+
+At the beginning of each session a talent. For the duration of the session, you gain that talent.
+
+
 
 # Resources Talents
 
@@ -44,27 +64,3 @@ When an opponent uses one of your traits against you, you may also add the trait
 ### Thrifty
 
 Increase the rating of all `Currency` assets you gain by **1.**
-
-
-
-# Resources Feats
-
-### Deep Pockets
-
-Increase the number of assets you can carry by **6.**
-
----
-
-### Reversal of Fortune
-
-Instead of resolving your Intuition dice modifier, you may exchange rolls with a willing ally or an opponent taking part in the same test.
-
----
-
-### Eagle Eye
-
-Reason also struggles to defend against your Reason.
-
-### Iconoclast
-
-At the beginning of each session a talent. For the duration of the session, you gain that talent.

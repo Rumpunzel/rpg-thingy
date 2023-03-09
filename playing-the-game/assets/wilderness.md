@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wilderness Gear
+title: Wilderness
 description: List of Wilderness gear
 parent: Assets
 grand_parent: Playing the Game

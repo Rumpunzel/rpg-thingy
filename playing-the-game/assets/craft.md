@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Craft Gear
+title: Craft
 description: List of Craft gear
 parent: Assets
 grand_parent: Playing the Game

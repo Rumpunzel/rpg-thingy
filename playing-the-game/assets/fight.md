@@ -23,7 +23,7 @@ wicked: "- **Wicked:** Decrease your opponent's minimum effort gained from asset
 
 
 layout: default
-title: Fight Gear
+title: Fight
 description: List of Fight gear
 parent: Assets
 grand_parent: Playing the Game

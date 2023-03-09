@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Maneuver Gear
+title: Maneuver
 description: List of Maneuver gear
 parent: Assets
 grand_parent: Playing the Game

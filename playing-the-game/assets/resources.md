@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources Gear
+title: Resources
 description: List of Resources gear
 parent: Assets
 grand_parent: Playing the Game
