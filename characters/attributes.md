@@ -100,6 +100,7 @@ Your disposition may impose a penalty on your target when they defend against yo
 
 **Your Reason outsmarts Intuition:** Your plans are too well-thought-out, your attacks are too precise, your rhetorical traps are too sophisticated, they cannot be weaseled out of for you have thought of everything.
 
+
 ## Disposition II
 
 **Your Vigor overwhelms Intuition:** You are a force too overwhelming, your attacks are too mighty, your speeches are too gripping, they cannot be faced with the cowardice of a weasel for you leave no place left to hide.
@@ -107,3 +108,12 @@ Your disposition may impose a penalty on your target when they defend against yo
 **Your Intuition outpaces Reason:** You change course too deftly, your attacks are a stunning barrage, your lies are too tricky a web to navigate, they cannot be faced with a cool demeanour for they still think about your last move while you are crossing the finish line.
 
 **Your Reason outsmarts Vigor:** Your plans are too well-thought-out, your attacks are too precise, your rhetorical traps are too sophisticated, they cannot be faced head-on with brute force for every careless step spells disaster.
+
+
+## Disposition III
+
+**Your Vigor overwhelms Vigor:** You are a force too overwhelming, your attacks are too mighty, your speeches are too gripping, they cannot be faced head-on with brute force for you shatter everything in your way.
+
+**Your Intuition outpaces Intuition:** You change course too deftly, your attacks are a stunning barrage, your lies are too tricky a web to navigate, they cannot be weaseled out of for you know of their every hiding hole and await them there.
+
+**Your Reason outsmarts Reason:** Your plans are too well-thought-out, your attacks are too precise, your rhetorical traps are too sophisticated, they cannot be faced with a cool demeanour for mastered your skill when they still struggled with the basics.
