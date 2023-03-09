@@ -18,4 +18,6 @@ Start with:
 **1** point:
 - [4x] **+1** in an attribute
 - [7x] **+1** level in a skill
-- May gain **+1** rating of a trait instead of attribute or skill
+- May gain **+1** rating of a trait instead of an increase to and attribute and a skill
+
+When creating your character, you may not take more talents and feats belonging to an attribute than your rating in that attribute.
