@@ -32,47 +32,47 @@ Whenever the game calls for a test, it will always call for an attribute and a s
 
 ## Experience Points
 
-During your adventures, you will encounter new challenges, which result in you marking **1** experience (**XP**) for that skill. Each Skill has a separate track to mark **XP** and whenever you reach **10** **XP** marked for a skill, remove all **XP** marked for it and you gain a new level in that skill (each skill starts at level **0**), which will grant you access to a new [Talents](talents) and/or improve your training in that Skill (see the table below).
+During your adventures, whenever you achieve effort equal to a test's difficulty, you mark **1** experience point (**XP**) for that skill. Each Skill has a separate track to mark **XP** and whenever you reach **7** **XP** marked for a skill, remove all **XP** marked for it and you gain a new level in that skill (each skill starts at level **0**), which will grant you access to a new [Talent or Feat](talents-&-feats), and potentially improve your training in that skill (see the table below).
 
 If your skill is reaches level **7** and for every level thereafter, instead of improving the skill, you gain an [Epiphany](../playing-the-game/advancement#epiphanies) (meaning you may increase one of your attributes by **1** or increase the rating of one of your traits by **1**).
 
-| Level  | XP  | Training |     Reward     |
-|:------:|:---:|:--------:|:--------------:|
-| **0**  |  0  |    6+    |       -        |
-| **1**  | 10  |    5+    |      Feat      |
-| **2**  | 20  |    -     | Specialization |
-| **3**  | 30  |    4+    |      Feat      |
-| **4**  | 40  |    -     | Specialization |
-| **5**  | 50  |    -     | Specialization |
-| **6**  | 60  |    3+    |      Feat      |
-| **7+** | 70+ |    -     |    Epiphany    |
+| Level  | Total XP | Training |  Reward  |
+|:------:|:--------:|:--------:|:--------:|
+| **0**  |    0     |    6+    |    -     |
+| **1**  |    7     |    5+    |  Talent  |
+| **2**  |    14    |    -     |  Talent  |
+| **3**  |    21    |    4+    |   Feat   |
+| **4**  |    28    |    -     |  Talent  |
+| **5**  |    35    |    -     |  Talent  |
+| **6**  |    42    |    3+    |   Feat   |
+| **7+** |   49+    |    -     | Epiphany |
 
 
 ## Influence
 
 Whenever you aim to change someone else's mind or impose your will on others or defend against such efforts, roll Influence.
 
-| Attribute     | Applications                                             |
-|---------------|----------------------------------------------------------|
-| **Vigor**     | Oratory, Intimidation, Taunting, Performing, Drinking    |
-| **Intuition** | Deceit, Persuasion, Fast-Talking, Haggling, Manipulation |
-| **Reason**    | Negotiation, Rhetoric, Instruction, Mediation            |
+|    Attribute    |                        Applications                        |
+|:---------------:|:----------------------------------------------------------:|
+|    **Vigor**    |   Oratory, Intimidation, Taunting, Performing, Drinking    |
+|  **Intuition**  |  Deceit, Persuasion, Fast-Talking, Haggling, Manipulation  |
+|   **Reason**    |       Negotiation, Rhetoric, Instruction, Mediation        |
 
 {: .note-title }
 > Special Uses
 >
-> - Mending mental wounds while resting
+> - Mending mental [Injury](../playing-the-game/injury-&-misfortune#injury) while [Resting](../playing-the-game/resting#recovering)
 
 
 ## Fight
 
 Whenever you aim to harm someone else or defend against being harmed in a physical altercation, roll Fight.
 
-| Attribute     | Applications                                            |
-|---------------|---------------------------------------------------------|
-| **Vigor**     | Axe, Halberd, Brawling, Armour, biting through the pain |
-| **Intuition** | Knives, Sword, Dodging, Parrying                        |
-| **Reason**    | Bow, Spear, Shield, Footwork                            |
+|   Attribute   |                      Applications                       |
+|:-------------:|:-------------------------------------------------------:|
+|   **Vigor**   | Axe, Halberd, Brawling, Armour, biting through the pain |
+| **Intuition** |            Knives, Sword, Dodging, Parrying             |
+|  **Reason**   |              Bow, Spear, Shield, Footwork               |
 
 {: .note-title }
 > Special Uses
@@ -84,28 +84,28 @@ Whenever you aim to harm someone else or defend against being harmed in a physic
 
 Whenever you aim to overcome an obstacle in your path, be it distance, hurdles, or difficult terrain, roll Maneuver.
 
-| Attribute     | Applications                                       |
-|---------------|----------------------------------------------------|
-| **Vigor**     | Running Swimming, Charging, moving heavy obstacles |
-| **Intuition** | Acrobatics, Riding, Balancing, hiding in crowds    |
-| **Reason**    | Infiltration, Choreography, forming formations     |
+|   Attribute   |                    Applications                    |
+|:-------------:|:--------------------------------------------------:|
+|   **Vigor**   | Running Swimming, Charging, moving heavy obstacles |
+| **Intuition** |  Acrobatics, Riding, Balancing, hiding in crowds   |
+|  **Reason**   |   Infiltration, Choreography, forming formations   |
 
 
 ## Wilderness
 
 Whenever you aim to navigate the wilds, aim to survive natural forces, or set up camp in the wild, roll Wilderness.
 
-| Attribute     | Applications                                                 |
-|---------------|--------------------------------------------------------------|
-| **Vigor**     | Fire building, Ditch-digging, building shelter               |
-| **Intuition** | Hunting, Foraging, Riding, Tracking, keeping watch           |
-| **Reason**    | Scouting, Pathfinding, Trapping, Astrology, Weather-watching |
+|   Attribute   |                         Applications                         |
+|:-------------:|:------------------------------------------------------------:|
+|   **Vigor**   |        Fire building, Ditch-digging, building shelter        |
+| **Intuition** |      Hunting, Foraging, Riding, Tracking, keeping watch      |
+|  **Reason**   | Scouting, Pathfinding, Trapping, Astrology, Weather-watching |
 
 {: .note-title }
 > Special Uses
 >
 > - [Gauntlets of Enterprise](../playing-the-game/gauntlets#gauntlet-of-enterprise)
-> - Resting in the wilderness (see [Resting](../playing-the-game/resting))
+> - Resting in the wilderness (see [Resting](../playing-the-game/resting#making-camp))
 > - Foraging while resting
 
 
@@ -113,28 +113,28 @@ Whenever you aim to navigate the wilds, aim to survive natural forces, or set up
 
 Whenever you aim to create new, or improve or destroy existing items and structures, or generally work with your hands roll Craft.
 
-| Attribute     | Applications                                                |
-|---------------|-------------------------------------------------------------|
-| **Vigor**     | Blacksmithing, Farming, Laboring, Masonry, Woodworking      |
+|   Attribute   |                        Applications                         |
+|:-------------:|:-----------------------------------------------------------:|
+|   **Vigor**   |   Blacksmithing, Farming, Laboring, Masonry, Woodworking    |
 | **Intuition** | Cooking, Sabotage, Animal Husbandry, Painting, Goldsmithing |
-| **Reason**    | Engineering, Cartography, Surgery                           |
+|  **Reason**   |              Engineering, Cartography, Surgery              |
 
 {: .note-title }
 > Special Uses
 >
 > - Creating and improving [Assets](../playing-the-game/assets)
-> - Mending physical wounds while resting
+> - Mending physical [Injury](../playing-the-game/injury-&-misfortune#injury) while [Resting](../playing-the-game/resting#recovering)
 
 
 ## Resources
 
 Whenever you aim to call on existing connections, funds or knowledge, or aim to create new ones, test Resources.
 
-| Attribute     | Applications                                      |
-|---------------|---------------------------------------------------|
-| **Vigor**     | Fame, Wealth, Titles                              |
-| **Intuition** | Connections, Rumors, Favors                       |
-| **Reason**    | Investment, Administration, Bureaucracy, Research |
+|   Attribute   |                   Applications                    |
+|:-------------:|:-------------------------------------------------:|
+|   **Vigor**   |               Fame, Wealth, Titles                |
+| **Intuition** |            Connections, Rumors, Favors            |
+|  **Reason**   | Investment, Administration, Bureaucracy, Research |
 
 {: .note-title }
 > Special Uses
@@ -142,4 +142,4 @@ Whenever you aim to call on existing connections, funds or knowledge, or aim to 
 > - Resting in settlements
 > - Researching while resting
 > - Buying and selling assets
-> - Mending social wounds while resting in a settlement
+> - Mending social [Injury](../playing-the-game/injury-&-misfortune#injury) while [Resting](../playing-the-game/resting#recovering) in a settlement
