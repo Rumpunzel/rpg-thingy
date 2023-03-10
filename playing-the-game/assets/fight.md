@@ -1,7 +1,7 @@
 ---
-bulwark: "- **Bulwark:** When defending, increase your effort by **1** if you rolled a **6.**"
+bulwark: "- **Bulwark:** When defending, increase your effort by **1,** if you rolled a **6.**"
 
-deadly: "- **Deadly:** Increase the rating of [Injuries](../injury-&-misfortune#injury) you inflict by **1** if you rolled a **6.**"
+deadly: "- **Deadly:** Increase the rating of [Injuries](../injury-&-misfortune#injury) you inflict by **1,** if you rolled a **6.**"
 
 honing: "- **Honing:** When attacking, increase your minimum effort by **1** (this stacks with the minimum effort from other assets). If you rolled a **6,** this asset does not degrade."
 
@@ -9,7 +9,7 @@ protective: "- **Protective:** Gain all [Injuries](../injury-&-misfortune#injury
 
 ranged: "- **Ranged:** When attacking, your opponents may defend with Maneuver instead of Fight but your team's morale does not decrease if you do not succeed."
 
-reach: "- **Reach:** When you create a [Boon](../interacting-with-the-world#boons--banes) with Maneuver, increase its rating by **1.**"
+reach: "- **Reach:** When you [Gain an Advantage](../gauntlets#gaining-an-advantage) with Maneuver, increase your effort by **1.**"
 
 reliable: "- **Reliable:** When defending, increase your minimum effort by **1** (this stacks with the minimum effort from other assets). If you rolled a **6,** this asset does not degrade."
 
