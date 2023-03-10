@@ -51,7 +51,9 @@ When you succeed on a test during gauntlets, increase your team's morale by an a
 
 ### Caregiver
 
-While resting, you and everyone resting with you add **1** die when testing to mend injury. Additionally, the number of paraphernalia required to gain a `WELL RESTED` boon is reduced by **1** for everyone resting with you.
+While resting, you and everyone resting with you add **1** die when testing to mend injury.
+
+Additionally, the number of paraphernalia required to gain a `WELL RESTED` boon is reduced by **1** for everyone resting with you.
 
 ### Haggler
 

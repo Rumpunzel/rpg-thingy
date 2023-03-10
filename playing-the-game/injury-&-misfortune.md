@@ -59,6 +59,16 @@ Whenever you suffer an injury, mark an empty box, noting that it absorbed that i
 
 The severity of your injury is equal to your highest rating, marked injury box. If you do not have marked any, you do not suffer from an injury.
 
+### Effect of Injury
+
+Challenges always have a minimum difficulty equal to your injury's severity. If an uncontested test already has a higher difficulty, your injury do not increase it.
+
+Sometimes your injury will have you make a test where normally no test would have been necessary. In that case, you gain **1** Favor for your trouble.
+
+During contests, your opponents may use your injury to their advantage. Your opponent's minimum effort, when testing against you, is equal to your injury's severity.  
+You may use your opponents' injuries against them for minimum effort in the same way as your opponent's can use yours against you.
+
+See how to recover from your injury in the chapter about [Resting](resting#recovering).
 
 ### The Door of Death
 
@@ -67,12 +77,3 @@ Should you ever not have an empty box to fully absorb an injury, you are in deep
 Calculate the difference between the rating of your highest rated, empty injury box and the injury you suffered. If you have a trait with at least that rating, you may spend Favor equal to the difference and mark that empty box. Replace the chosen trait with a new trait representing permanent damage as a result of the injury you suffered and escaped by a hair's breadth.
 
 Otherwise, if you do not have such a trait or do not have enough Favor, the injury tears your characters from your grasp, and you must retire your character. Be it blood loss, drowning, permanent imprisonment, succumbing to sickness, execution, madness, or complete social ostracism, their journey is at an end.
-
-### Effect of Injury
-
-Challenges always have a minimum difficulty equal to your injury's severity. If an uncontested test already has a higher difficulty, your injury do not increase it.
-
-During contests, your opponents may use your injury to their advantage. Your opponent's minimum effort, when testing against you, is equal to your injury's severity.  
-You may use your opponents' injuries against them for minimum effort in the same way as your opponent's can use yours against you.
-
-See how to recover from your injury in the chapter about [Resting](resting#recovering).

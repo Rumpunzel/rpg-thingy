@@ -49,13 +49,6 @@ By taking a trait, a player signals to the group that they are interested in tha
 >
 > He could have also split the trait in two such as `Exile of Gantha` and `Famed Sellsword` and given them different ratings, had one aspect been more important to him than the other or if they had nothing or little to do with each other in the story.
 
-### Your Goal
-
-At the start of each session, write a trait to represent the goal for your character to achieve during that session. Try to include _what_ you want to achieve as well as a rough idea of _how_ and _why_ your character is eager to complete that goal.
-
-When you achieve your goal, you gain Favor equal to your goal's rating and mark **1** **XP** for any of your skills. Then choose a new goal to achieve.
-
-Your goal has a rating of **1.**
 
 
 ## Favor

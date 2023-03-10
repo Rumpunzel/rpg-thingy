@@ -49,8 +49,9 @@ You may act twice during Fight gauntlets.
 
 ### Riposte
 
-You may defend with weapons without penalty.  
-When successfully defending with Fight and Intuition, you may inflict an [Injury](../../playing-the-game/injury-&-misfortune#injury) instead of a [Misfortune](../../playing-the-game/injury-&-misfortune#misfortune).
+You may defend with weapons without penalty.
+
+Additionally, when successfully defending with a weapon, you may inflict an [Injury](../../playing-the-game/injury-&-misfortune#injury) instead of a [Misfortune](../../playing-the-game/injury-&-misfortune#misfortune).
 
 ### Saboteur
 
@@ -60,8 +61,9 @@ During gauntlets, when you successfully attack with Intuition, you may discard a
 
 ### Armor Training
 
-Armor assets you use, gain the **Versatile** property (they do not automatically degrade when used with a different attribute than intended).  
-When adding dice from a shield asset to a defense roll, add **1** additional die.
+Armor assets you use, gain the **Versatile** property (they do not automatically degrade when used with a different attribute than intended).
+
+Additionally, when adding dice from a shield asset to a defense roll, add **1** additional die.
 
 ### Deadly Precision
 

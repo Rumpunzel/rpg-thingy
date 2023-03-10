@@ -98,7 +98,7 @@ The Crucible is what contains your story. It is what will drive them to press on
 The Pyre is what boils underneath the surface, which brings chaos and unrest to what the Crucible tries to contain. It molds the story which you will experience to forge the gauntlet your character will have to endure.
 
 Your character's Pyre aches to be resolved and throughout play.  
-When you do, kindle a new Pyre or retire your character, as they have arrived at the end of their journey.
+When you do, gain an [Epiphany](../playing-the-game/advancement#epiphanies) and either kindle a new Pyre or retire your character, as they have arrived at the end of their journey.
 
 You will find that Pyre takes one of three paths.
 

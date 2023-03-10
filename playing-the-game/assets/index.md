@@ -17,9 +17,10 @@ Assets may have additional properties such as weapons being able to be used as a
 
 You may buy new assets (see [Buying](../resting#buying)) and create new assets or improve assets you already own (see [Forging](../resting#forging-assets)).
 
+
 ## Inventory
 
-You may carry up to **9** assets with you at a time. If you want to gain an asset while your inventory is full, you need to discard an asset you own to gain it
+You may carry up to **6** assets with you at a time. If you want to gain an asset while your inventory is full, you need to discard an asset you own to gain it
 
 
 ## Quality Rating

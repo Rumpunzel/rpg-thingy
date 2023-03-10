@@ -47,7 +47,7 @@ When attacking as a group with Intuition, your allies and you each add **1** add
 
 When defending, instead of resolving your Intuition dice modifier, you may suffer a minor misfortune or a minor injury instead of suffering a misfortune of injury, respectively.
 
-In addition, as long as you do not suffer from any injury or misfortune, you add **1** additional die on all your rolls.
+Additionally, as long as you do not suffer from any injury or misfortune, you add **1** additional die on all your rolls.
 
 ### Wendigo
 
@@ -59,7 +59,7 @@ When attacking with Vigor, if you rolled a **6,** decrease your opponent's moral
 
 Injury no longer hinders your attacks.
 
-At the beginning of a gauntlets, if you suffer from an injury or misfortune, you may gain a `Battle Trance` boon with rating equal to your highest rated injury of misfortune. If your injury has a higher rating than your misfortune, increase the `Battle Trance` boon's rating by **1.**
+Additionally, at the beginning of a gauntlet, if you suffer from an injury, you gain a `Battle Trance` boon with rating equal to your injury.
 
 ### Slippery
 

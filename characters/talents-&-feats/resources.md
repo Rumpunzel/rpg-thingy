@@ -11,7 +11,7 @@ nav_order: 6
 
 ### Deep Pockets
 
-Increase the number of assets you can carry by **6.**
+You may carry up to **9** assets.
 
 ---
 
