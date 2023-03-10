@@ -50,7 +50,7 @@ Apart from completing your [Goal](../characters/traits#your-goal), this is the o
 
 Characters may act in tandem with each other when trying to achieve the same goal while testing the same skill with the same attribute. When they do, everyone tests and adds their successes together to determine their effort.
 
-When two or more character use the same skill with the same attribute to achieve the same goal, they always test as a group. When they do, determine the character who initiated the test. Only that character can add dice from [Traits](../characters/traits), [Boons and Banes](boons-&-banes), and use their [Disposition](../characters/attributes#disposition), the others cannot.
+When two or more character use the same skill with the same attribute to achieve the same goal, they always test as a group. When they do, determine the character who initiated the test. Only that character can add dice from [Traits](../characters/traits), [Boons and Banes](interacting-with-the-world#boons-&-banes), and use their [Disposition](../characters/attributes#disposition), the others cannot.
 
 
 ## Skill Tests in a Nutshell

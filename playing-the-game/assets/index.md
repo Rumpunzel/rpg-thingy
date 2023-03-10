@@ -35,7 +35,7 @@ If an asset's quality rating drops to **0,** it can no longer be used.
 > 
 > Maro attacks him with his axe, though luck isn't on his side, and he rolls **0** hits. His opponent achieved **1** effort. He is quicker than Maro and threatens to deflect the blow. Maro may now use his `Axe` asset with a quality rating of **2** to get a minimum effort of **2** on his test.
 > 
-> He does and drives his `Axe` into his opponent's armored shoulder. As he used his `Axe`, it degrades and loses **1** quality rating. It now has a quality rating of **1** but the assassin suffered a wound despite his efforts and will be easier to fight from now on.
+> He does and drives his `Axe` into his opponent's armored shoulder. As he used his `Axe`, it degrades and loses **1** quality rating. It now has a quality rating of **1** but the assassin suffered a minor injury despite his efforts and will be easier to fight from now on.
 
 ### Masterpieces
 

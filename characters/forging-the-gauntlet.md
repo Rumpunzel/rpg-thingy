@@ -89,7 +89,7 @@ The sign of a good Crucible is that whenever you find yourself in a moment of pe
 Just as your character's Crucible, their Pyre always has a rating of **2.**
 
 
-## The Path of Fire
+## Stepping into the Pyre
 
 As you can see, the same phrase can be used either as a Crucible or a Pyre, though its meaning drastically shifts. As a Crucible, `"The traitor who killed my father must die."` is a goal your character has that they will either fulfill or die trying. As a Pyre, it is meant to be challenged as the story progresses. Does he indeed deserve to die? What did my father do that he was betrayed and murdered? Am I at fault for my father's death? These are all questions that only result from a Pyre, for they are meant to be challenged, not from a Crucible.
 

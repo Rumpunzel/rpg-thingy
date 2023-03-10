@@ -31,7 +31,7 @@ At the beginning of each session a talent. For the duration of the session, you 
 
 ### Indomitable
 
-Whenever you fail to defend during a contest, you gain a boon with rating equal to your opponent's margin of effort.
+Whenever you fail to defend, you may use your opponent's margin of effort to create a boon or bane.
 
 ### Lucky Find
 
@@ -45,7 +45,7 @@ While resting, double your effort when working or researching with Vigor.
 
 ### Cosmopolitan
 
-Whenever you suffer a misfortune during a contest or gauntlet, you may inflict a minor misfortune on all your opponents.
+Whenever you suffer an injury or misfortune during a contest or gauntlet, you may inflict a minor misfortune on all your opponents.
 
 ### I know a Guy
 
@@ -56,6 +56,10 @@ When successfully researching with Intuition, in addition of gaining information
 When resting in the wilderness, you may buy and sell assets with Resources as if you were resting in a settlement.
 
 ---
+
+### Far Travelled
+
+Add **1** effort when researching traits.
 
 ### Know Thyself
 

@@ -16,9 +16,9 @@ If you roll at least one **6** on a test, one asset of your choice you used on t
 
 ---
 
-### Trickster
+### Opportunist
 
-Boons you create with Intuition only vanish (or degrade) if you do not succeed on the test.
+When using an opponent's trait or bane for dice, add **1** additional die.
 
 ---
 
@@ -32,7 +32,7 @@ When you use a trait representing your mastery over the relevant skill, instead 
 
 ### Farmhand
 
-You may forage when resting even in settlements. When you do, you may use Craft instead of Wilderness or Resources to forage. Instead of boons, you create assets while foraging and the assets have the **Fortified** property (do not degrade if their rating is greater than the difficulty of tests they are used on).
+You may test Craft to forage when resting even in settlements. Instead of boons, you create assets while foraging and the assets have the **Fortified** property (do not degrade if their rating is greater than the difficulty of tests they are used on).
 
 ### War Smith
 
@@ -44,9 +44,9 @@ You may ignore **1** **Refined with PARAPHERNALIA** property of weapon and armor
 
 Whenever you create or improve an asset, if you rolled at least one **6** and no **1s,** increase its quality rating by an additional **1.**
 
-### Opportunist
+### Trickster
 
-When using an opponent's trait for dice, gain **1** additional die.
+Boons and banes you use only degrade if you do not succeed on the test.
 
 ### Trinkets & Baubles
 

@@ -9,9 +9,9 @@ nav_order: 3
 
 # Maneuver Feats
 
-### Athlete
+### Body of Steel
 
-When using a trait for a dice modifier, you may choose which dice modifier to use for the roll, regardless of the attribute you chose.
+Whenever you would gain an [Injury](../../playing-the-game/injury-&-misfortune#injury) with rating **3** or less, if you rolled a **6,** reduce its rating to **1.**
 
 ---
 
@@ -21,9 +21,9 @@ When using the Intuition dice modifier, you may choose which dice to re-roll ins
 
 ---
 
-### Superior Strategist
+### Athlete
 
-When you [Gain an Advantage](../../playing-the-game/gauntlets#gaining-an-advantage), you may test twice and gain two different advantages.
+When using a trait for a dice modifier, you may choose which dice modifier to use for the roll, regardless of the attribute you chose.
 
 
 
@@ -31,11 +31,7 @@ When you [Gain an Advantage](../../playing-the-game/gauntlets#gaining-an-advanta
 
 ### ONE FOR ALL AND ALL FOR ONE!
 
-When defending as a group with Vigor, your allies and you each gain **1** additional die.
-
-### Shrug it Off
-
-When recovering from your injury decrease the test's difficulty by **1** (this means you can recover from a minor injury without needing paraphernalia or needing to roll).
+When defending as a group with Vigor, your allies and you each add **1** additional die.
 
 ### Steadfast
 
@@ -45,21 +41,26 @@ When defending with Vigor, roll an additional die for each opponent attacking yo
 
 ### Pack Tactics
 
-When attacking as a group with Intuition, your allies and you each gain **1** additional die.
+When attacking as a group with Intuition, your allies and you each add **1** additional die.
 
 ### Untouchable Grace
 
 When defending, instead of resolving your Intuition dice modifier, you may suffer a minor misfortune or a minor injury instead of suffering a misfortune of injury, respectively.
 
-In addition, as long as you do not suffer from any injury or misfortune, you gain **1** additional die on all your rolls.
+In addition, as long as you do not suffer from any injury or misfortune, you add **1** additional die on all your rolls.
+
+### Wendigo
+
+When attacking with Vigor, if you rolled a **6,** decrease your opponent's morale by an additional **1,** even when you did not succeed on the test.
 
 ---
 
 ### Peace of Body and Mind
 
-Injury no longer hinders your attacks.  
-At the beginning of a gauntlets, if you suffer from an injury or misfortune, you may gain a `Battle Trance` boon with rating equal to your highest rated injury of misfortune. If your injury has a higher rating than your misfortune, the `Battle Trance` boon becomes enduring.
+Injury no longer hinders your attacks.
+
+At the beginning of a gauntlets, if you suffer from an injury or misfortune, you may gain a `Battle Trance` boon with rating equal to your highest rated injury of misfortune. If your injury has a higher rating than your misfortune, increase the `Battle Trance` boon's rating by **1.**
 
 ### Slippery
 
-Opponents can only create boons or banes against you if they did not roll any **1's.**
+Opponents can only use their disposition against you if they did not roll any **1's.**

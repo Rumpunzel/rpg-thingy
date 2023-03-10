@@ -7,15 +7,15 @@ honing: "- **Honing:** When attacking, increase your minimum effort by **1** (th
 
 protective: "- **Protective:** Gain all [Injuries](../injury-&-misfortune#injury) with rating equal to or less than this asset's masterpiece rating as [Misfortunes](../injury-&-misfortune#misfortune) instead."
 
-ranged: "- **Ranged:** When attacking, your opponents may defend with Maneuver instead of Fight but your team's morale does not decrease if you miss."
+ranged: "- **Ranged:** When attacking, your opponents may defend with Maneuver instead of Fight but your team's morale does not decrease if you do not succeed."
 
-reach: "- **Reach:** When you create a [Boon](../boons-&-banes#boons) with Maneuver, it becomes [Enduring](../boons-&-banes#enduring-boons--banes)."
+reach: "- **Reach:** When you create a [Boon](../interacting-with-the-world#boons--banes) with Maneuver, increase its rating by **1.**"
 
 reliable: "- **Reliable:** When defending, increase your minimum effort by **1** (this stacks with the minimum effort from other assets). If you rolled a **6,** this asset does not degrade."
 
-tactical: "- **Tactical:** This asset may be used for Maneuver tests without penalty. When testing Maneuver, add **1** die to your roll."
+tactical: "- **Tactical:** This asset may be used for Maneuver tests to [Gain an Advantage](../gauntlets#gaining-an-advantage) without penalty. When you do, add **1** additional die to your roll."
 
-tricky: "- **Tricky:** When adding dice from a boon or bane created with Intuition, or from an opponent's trait add **1** additional die."
+tricky: "- **Tricky:** When adding dice from an opponent's trait, boon, or bane, add **1** additional die."
 
 versatile: "- **Versatile:** This asset may be used with any attribute without penalty."
 

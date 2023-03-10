@@ -43,29 +43,11 @@ The consequence of failing to defend depends on the type of gauntlet.
 There are three different types of gauntlets you may enter, depending on the situation in which you find yourself, on what you are trying to achieve, and on who or what opposes you in your attempts to achieve it.
 
 
-## Gauntlet of Destruction
-
-This is the most straight-forward, most dangerous, but also the least common type of gauntlet. You are trying to destroy your opponent, and they are trying to destroy you, be that killing them in battle, devastating them mentally, or ruining them financially.  
-If at least one side has a different goal than to destroy the other, choose a [Gauntlet of Contention](#gauntlet-of-contention) instead.
-
-During a gauntlet of destruction:
-
-- When a character successfully attacks, they inflict an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to their target
-- When a character successfully defends, they inflict a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of success to their attacker
-
-Teams take turns until only one side remains standing. You put your own life on the line, when you enter a gauntlet of destruction. As such, if you surrender during a gauntlet of destruction, you suffer the fate you wanted to inflict on your opponent and you perish.
-
-Most gauntlets of destruction use the [Fight](../characters/skills#fight) skill with the intent to murder.
-
-{: .important }
-> Maro, after a long and arduous journey, finally confronts the man who murdered his father. Only one of them will make it out of here alive, so they enter a gauntlet of destruction.
-
-
 ## Gauntlet of Contention
 
 This is the most common type of gauntlet used to settle most major disputes.
 
-As the main goal during this type of gauntlet is not to destroy the other side but to achieve a specific goal, each side in a gauntlet of contention uses [Morale](#morale) to track their progress towards achieving their goal. Whenever a character succeeds on a test, their team's morale increases by **1** and whenever they fail, it decreases by **1.**
+The purpose of this type of gauntlet is to achieve a specific goal. Each side in a gauntlet of contention uses [Morale](#morale) to track their progress towards achieving their goal. Whenever a character succeeds on a test, their team's morale increases by **1** and whenever they fail, it decreases by **1.**
 
 Gauntlets of contention come in two different varieties depending on the goal you want to achieve.
 
@@ -95,6 +77,25 @@ During a gauntlet of contention to subjugate:
 > The cultist want to perform their ritual despite the disturbance, while cyrene and maro want to stop the ritual and capture one of the cultists for questioning. Goals have been established and the rival factions enter the gauntlet.
 
 
+## Gauntlet of Destruction
+
+This is the most straight-forward, most dangerous, but also the least common type of gauntlet. You are trying to destroy your opponent, and they are trying to destroy you, be that killing them in battle, devastating them mentally, or ruining them financially, so there is no need to keep track of morale.
+
+If at least one side has a different goal than to destroy the other, choose a [Gauntlet of Contention](#gauntlet-of-contention) instead.
+
+During a gauntlet of destruction:
+
+- When a character successfully attacks, they inflict an [Injury](injury-&-misfortune#injury) with rating equal to their margin of success to their target
+- When a character successfully defends, they inflict a [Misfortune](injury-&-misfortune#misfortune) with rating equal to their margin of success to their attacker
+
+Teams take turns until only one side remains standing. You put your own life on the line, when you enter a gauntlet of destruction. As such, if you surrender during a gauntlet of destruction, you suffer the fate you wanted to inflict on your opponent and you perish.
+
+Most gauntlets of destruction use the [Fight](../characters/skills#fight) skill with the intent to murder.
+
+{: .important }
+> Maro, after a long and arduous journey, finally confronts the man who murdered his father. Only one of them will make it out of here alive, so they enter a gauntlet of destruction.
+
+
 ## Gauntlet of Enterprise
 
 Though in most gauntlets there is an active opponent opposing you, sometimes the narrative calls for a gauntlet without such active opposition. For example, when you attempt to survive a long and arduous journey, create an unfathomable piece of art, infiltrate a tightly guarded fortress, or undertake a ludicrous economic endeavour.
@@ -117,6 +118,10 @@ For example, when traversing the country, such a chain might be `Well-travelled 
 First, you face a challenge with difficulty **1** (the `Well-travelled Road`). If you succeed, you proceed to the `Treacherous Swamp` and face a challenge with difficulty **3,** but if you don't, you repeat the challenge with difficulty **1** until you succeed, only then may you proceed.  
 Repeat this process until you either succeed on the final challenge, surrender, or perish.
 
+{: .important }
+> Cyrene and Maro have sneaked into a sleeping dragon's hoard to recover a long-lost artifact. The GM makes it quite clear that any test they fail while searching for the artifact will draw the attention of the dragon, though, thankfully, the dragon is asleep. To represent this, it has an enduring bane called `Caught in a Deep Slumber` with a rating of **3.**
+>
+> Maro starts climbing the hoard of gold with a Maneuver test but the dice forsake him, and he achieves **0** effort. He uses the `Caught in a Deep Slumber` bane and adds **3** extra dice to his roll, turning it into a success, though the `Caught in a Deep Slumber` bane degrades to a rating of **2** as a result. The dragon grunts in his sleep, one eye almost opens but Maro remains unnoticed. The two of them have some breathing room before the dragon wakes. For now.
 
 ### Explore
 
@@ -173,12 +178,12 @@ If you fail to gain an advantage during a conflict of contention, your team lose
 
 There are four different types of advantages from which to choose. One general and three that are each available depending on with which attribute you tested.  
 
-|   Attribute   |                                                Advantage                                                |
-|:-------------:|:-------------------------------------------------------------------------------------------------------:|
-|    **Any**    | [Create a Boon or Bane](boons-&-banes#creating-boons--banes) with rating equal to your margin of effort |
-|   **Vigor**   |                             Add your margin of effort to your team’s morale                             |
-| **Intuition** |      Discard your opponent's lowest rated asset relevant to the gauntlet / Gain a discarded asset       |
-|  **Reason**   |               Learn of your opponent's lowest rated secret trait, which is unknown to you               |
+|   Attribute   |                                                      Advantage                                                       |
+|:-------------:|:--------------------------------------------------------------------------------------------------------------------:|
+|    **Any**    | [Create a Boon or Bane](interacting-with-the-world#creating-boons--banes) with rating equal to your margin of effort |
+|   **Vigor**   |                                   Add your margin of effort to your team’s morale                                    |
+| **Intuition** |             Discard your opponent's lowest rated asset relevant to the gauntlet / Gain a discarded asset             |
+|  **Reason**   |                     Learn of your opponent's lowest rated secret trait, which is unknown to you                      |
 
 {: .important }
 > The caravan Maro is escorting is being ambushed by bandits. One of the bandits is covered in mean battle scars, so Maro decides to leverage his superior mobility before engaging him directly. He tries to create a bane with Maneuver and Intuition on the bandit by running circles around him and throwing sand into his eyes. The bandit fails to defend against the attempt. Maro rolls **2** excess hits and creates a bane named `SAND IN MY EYES!` with rating **2** on the bandit.

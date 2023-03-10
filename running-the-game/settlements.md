@@ -81,8 +81,8 @@ Calculating supply rating already is a very handy tool to give characters to the
 
 ## Leisure Structures
 
-The most common example of structures to flesh out are leisure structures, which are relevant when characters are recovering while resting and which are always strongly associated with either a specific [Attribute](../characters#attributes) or wound type.  
-They contribute their support rating to the settlement as normal, but their support rating may also be used to add dice to recovery tests made either with the corresponding attribute or for the corresponding wound type, just like you would add dice from a masterpiece asset. As such, when you use a support rating to add dice to your roll, your minimum effort for that test is equal to the structure's support rating.
+The most common example of structures to flesh out are leisure structures, which are relevant when characters are recovering while resting and which are always strongly associated with either a specific [Attribute](../characters#attributes) or injury type.  
+They contribute their support rating to the settlement as normal, but their support rating may also be used to add dice to recovery tests made either with the corresponding attribute or for the corresponding injury type, just like you would add dice from a masterpiece asset. As such, when you use a support rating to add dice to your roll, your minimum effort for that test is equal to the structure's support rating.
 
 Leisure structures might also allow for skills to be used for recovery tests other than normal.
 
@@ -100,7 +100,7 @@ Some examples for leisure structures are:
 {: .important }
 > After a tumultuous journey, Maro arrives in the city of Artir, famed for its magnificent bathhouses. He could have made for a different town, but he wanted to return to exactly here. After dealing with cutthroats and turncloaks at every corner, taking stress left and right, he is exhausted beyond words. When he finally steps into the steamy halls, bliss finally returns to him.
 >
-> Because of the city's respectable supply rating of **4,** Maro achieved enough successes to possibly rid himself of all his wounds. Thankfully, he can use the bathhouse's impressive support rating **3** to add **3** additional dice to his Intuition recovery tests and emerges wound-free, even with a `Well Rested` boon to boot.
+> Because of the city's respectable supply rating of **4,** Maro achieved enough successes to possibly rid himself of all his wounds. Thankfully, he can use the bathhouse's impressive support rating **3** to add **3** additional dice to his Intuition recovery tests and emerges free of injury and misfortune, even with a `Well Rested` boon to boot.
 > 
 > Should fate befall him again like this, he is sure to return. And should something threaten the splendid city of Artir, Maro will rush to aid without hesitation, to protect the city and her wonderful bathhouse.
 

@@ -9,21 +9,21 @@ nav_order: 2
 
 # Fight Feats
 
-### Body of Steel
+### Tough as Nails
 
-Whenever you would gain an [Injury](../../playing-the-game/injury-&-misfortune#injury) with rating **3** or less, if you rolled a **6,** reduce its rating to **1.**
+Add **1** additional die when your injury increases a difficulty for you or when an opponent uses your injury against you.
 
 ---
 
 ### Cutthroat
 
-When creating a [Boon](../../playing-the-game/boons-&-banes#boons) or [Bane](../../playing-the-game/boons-&-banes#banes), you may make it enduring by suffering a minor [Misfortune](../../playing-the-game/injury-&-misfortune#misfortune).
+
 
 ---
 
-### Student of Pain
+### Martial Artist
 
-Decrease the minimum difficulty for your tests from your injury by **1.** In addition, decrease the minimum effort your opponents gain from your injury and increase the minimum effort you gain from theirs by **1.**
+Choose one of your traits representing your martial training; when testing Fight, your minimum effort is equal to the chosen trait's rating.
 
 
 
@@ -33,13 +33,13 @@ Decrease the minimum difficulty for your tests from your injury by **1.** In add
 
 When defending as a group with Vigor, everyone gains minimum effort equal to the effort you achieved.
 
-### Fortress
-
-While defending, you may create boons from excess successes for free, without spending Favor.
-
 ### Juggernaut
 
 When attacking with Vigor, roll an additional die for each opponent defending against you.
+
+### Master of Pain
+
+Decrease the minimum difficulty for your tests from your injury by **1.** In addition, decrease the minimum effort your opponents gain from your injury and increase the minimum effort you gain from theirs by **1.**
 
 ---
 
@@ -65,12 +65,8 @@ When adding dice from a shield asset to a defense roll, add **1** additional die
 
 ### Deadly Precision
 
-During [Contests](../../playing-the-game/skill-tests#contests) and [Gauntlets](../../playing-the-game/gauntlets), if you are affected by a boon, or your opponent is affected by a bane, increase your effort by **1** for each **1** your opponents roll.
-
-### Martial Artist
-
-Choose one of your traits representing your martial training; when testing Fight, your minimum effort is equal to the chosen trait's rating.
+Instead of using your disposition, you may decrease both your and your opponent's training by **1,** no matter the attribute.
 
 ### Weapon Master
 
-Whenever you gain dice, an increase or decrease from a weapon asset, increase it by the weapon's masterpiece rating.
+Whenever you add dice, an increase or decrease from a weapon asset, increase it by the weapon's masterpiece rating.

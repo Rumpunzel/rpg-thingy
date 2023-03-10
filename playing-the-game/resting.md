@@ -19,18 +19,28 @@ While resting, you have access to a number of special skill tests as detailed be
 
 ## Paraphernalia
 
-You gain a number of [Paraphernalia](assets#paraphernalia) equal to the effort you achieve during the resting test. They symbolize the means you have at your disposal and the time you have available for this rest before your shelter is exposed, before your allocated supplies run out and your rest ends.
+When you attempt such a skill test while resting, you must spend paraphernalia equal to the test's difficultly to attempt it. If you do not have enough paraphernalia, you cannot attempt it.
+
+Most tests may use any type of paraphernalia but some tests such as [Forging](#forging-assets) require specific paraphernalia.
+
+For your first effort of your rest test, you gain **1** paraphernalia, for your second, you gain **2,** for your third **3,** and so on (see the table below).
+
+| Effort Achieved | Total Paraphernalia Gained |
+|:---------------:|:--------------------------:|
+|      **1**      |             1              |
+|      **2**      |             3              |
+|      **3**      |             6              |
+|      **4**      |             10             |
+|      **5**      |             15             |
+|     **...**     |            ...             |
+
+You may end a rest at any point. Any unspent paraphernalia you have at the end of a rest are lost.
+
+Paraphernalia symbolize the means you have at your disposal and the time you have available for a rest before your shelter is exposed, before your allocated supplies run out and your rest ends.
 
 A paraphernalia can be anything from branches, steel, an animal carcass, a rare herb, to even something immaterial such as shelter from the forces of nature or comfortable bed. A material is something you either need to directly craft an asset or something which grants you the peace and quiet to work without disturbances.
 
 You may share paraphernalia with anyone else you are resting with as you please.
-
-Sometimes you might also find paraphernalia while adventuring, which you may use the next time you rest.
-
-When you attempt a skill test while resting, you must spend paraphernalia equal to the test's difficultly to attempt it. If you do not have enough paraphernalia, you cannot attempt it.  
-Most tests may use any type of material but some tests such as [Crafting](assets#crafting-assets) require specific paraphernalia.
-
-You may end a rest at any point. Any unspent paraphernalia you have at the end of a rest are lost.
 
 Depending on the attribute you tested with, the paraphernalia will be of a different type.
 
@@ -125,11 +135,13 @@ You can mend social wounds with Resource tests, though only while resting in a s
 
 ## Resting Well
 
-If you have neither an injury nor misfortune, you may spend paraphernalia to gain the enduring [Boon](boons-&-banes#boons) `Well Rested`. This boon lasts across scenes, until it vanishes or until you rest again, whichever happens first.
+If you have neither an injury nor misfortune, you may spend paraphernalia to gain a `Well Rested` [Boon](interacting-with-the-world#boons--banes).
 
-| `Well Rested` Boon Rating  | 1 | 2 | 3 | 4  |
-|:--------------------------:|:-:|:-:|:-:|:--:|
-| **Paraphernalia Required** | 1 | 3 | 6 | 10 |
+This boon lasts across scenes, until it vanishes or until you rest again, whichever happens first.
+
+| `Well Rested` Boon Rating  | 1 | 2 | 3 | 4  | ...  |
+|:--------------------------:|:-:|:-:|:-:|:--:|:----:|
+| **Paraphernalia Required** | 1 | 3 | 6 | 10 | ...  |
 
 
 

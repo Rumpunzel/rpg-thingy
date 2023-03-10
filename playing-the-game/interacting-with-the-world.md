@@ -92,7 +92,7 @@ A character's goals also influence the certainty of actions. Though, a test and 
 
 If you want to hit a training dummy, it simply happens, as it has no trait that might oppose you. If, on the other hand, you want to hit the training dummy to impress an onlooker, you may still hit the dummy, but as the onlooker might have a trait (such as `Lady of Castle Longlake`) which would oppose you in your attempts to impress, the situation calls for a dramatic resolution, so you consult the dice.
 
-In gameplay terms, the difficulty of the test would be the rating of the trait `Lady of Castle Longlake`, so in this case **2.** The dummy can be completely neglected as it hardly opposes you in your attempt to impress (the result of this test would be a [Boon](boons-&-banes#creating-boons--banes)).
+In gameplay terms, the difficulty of the test would be the rating of the trait `Lady of Castle Longlake`, so in this case **2.** The dummy can be completely neglected as it hardly opposes you in your attempt to impress (the result of this test would be a [Boon](#creating-boons--banes)).
 
 {: .note-title }
 > Traits as Obstacles in Revue
@@ -112,7 +112,7 @@ You may only take advantage of a single trait per test. If there are multiple fi
 Once you have used a trait during a scene, you may do so until the scene ends or the scene changes so that your previous description would no longer grant you an advantage without having to go into detail how you would leverage that trait to your advantage.
 
 {: .important }
-> Maro is infiltrating an enemy outpost in the dark of night. The group agrees that he may use the implied `Moonless Night` trait on the scene to gain **1** additional die when sneaking past the guards. As long as it remains night, he may add **1** additional die to his infiltration attempts.
+> Maro is infiltrating an enemy outpost in the dark of night. The group agrees that he may use the implied `Moonless Night` trait on the scene to add **1** additional die when sneaking past the guards. As long as it remains night, he may add **1** additional die to his infiltration attempts.
 
 
 ## Discovering Traits
@@ -141,4 +141,47 @@ Alternatively, you may also suggest a new traits for a place, a creature, or a p
 Often, the GM will like your suggestion and add the trait (or a variation of it) on their own volition with the rating of their choosing as a new trait.
 
 If the new trait is a fitting and creative idea but would be a little _too_ convenient for your current predicament, the GM may ask you to spend **1** Favor to create the new trait on the place, creature, or person with rating up to the rating of your own trait.
-Alternatively, you may create new environmental traits with skill tests (see [Creating Boons Using Traits](../playing-the-game/boons-&-banes)).
+
+
+
+# Boons & Banes
+
+When you want to gain an advantage for yourself or an ally, or hinder an opponent, you may create a boon to aid or a bane to hinder.
+
+Boons and banes are temporary [Traits](../characters/traits), which degrade as they are used. They may be used on any test where it would make sense that they would help or hinder.
+
+When you use a boon or bane, add dice equal to its rating to your roll and degrade its rating by **1.** When the rating of a boon or bane reaches **0,** it vanishes.
+
+
+## Creating Boons & Banes
+
+Most boons and banes are created during [Gauntlets](gauntlets#gaining-an-advantage), though you can create them outside of gauntlets as well.
+
+Boons and banes last for as long as it makes sense or the scene ends.
+
+Most of the time, only you and your allies will take advantage of the banes and boons you create, but be careful, as they may be used by anyone in the scene like any other trait.
+
+You may only add additional dice once per roll, so either from a trait, boon, or bane. If you have multiple options, choose only one of them.
+
+### By increasing Difficulty
+
+You may increase the difficulty of a test (even if the difficulty is **0** i.e. you would not have rolled a skill test normally) by the rating of an additional trait.
+
+When you do, and you succeed on the skill test, in addition to succeeding, you create a boon or bane with rating equal to test's difficulty, which may only be used in the context of the additional trait you chose (only on tests where the trait either helps or hinders you).
+
+Should you not succeed on the test, not only will you not get what you want, but also, at the GM's discretion, instead of creating a boon a bane is created on you (and instead of a bane a boon is created) with rating equal to your margin of failure.
+
+{: .important }
+> Cyrene wants to hide and sneak behind enemy lines to deliver a threat to their general. The camp is well guarded and there are `GUARDS PATROLLING EVERYWHERE`; they are expecting unwanted visitors.
+>
+> As she is a simple messenger, she could ask to be taken to the general, but she wants to meat him on her own terms and sneak into the camp instead. The difficulty to sneak into the camp at **2** because of the `GUARDS PATROLLING EVERYWHERE` trait. Cyrene tests Maneuver with Reason as she steps from shadow to shadow and succeeds. She creates a boon named `ONE WITH THE SHADOWS` with rating **2** on herself.
+>
+> In the enemy camp, Cyrene finds the general in his tent meditating. She steps from the shadows and delivers her message with the utmost intent to intimidate him into accepting peace negotiations. The general's `DEVOTED SERVANT OF THE EMPIRE` trait sets the difficulty of the test at **2.** Though, the GM argues that the `FORTIFIED CAMP` trait increases the difficulty to a total of **3.**
+>
+> Cyrene's tests Influence with Vigor and her initial roll shows only **1** success, as her Vigor is not very high, but she may now use her Boon `ONE WITH THE SHADOWS` to add **2** extra dice for her intimidation attempt. The **2** extra dice turn her attempt into a success. The boon's rating degrades by **1** and Cyrene vanishes into the night with a smile on her face.
+
+### By spending Favor
+
+You may also turn excess effort after you have succeeded on a test into a boon on yourself; or, if you succeeded in a contest, into a bane on your opponent, by spending **1** Favour.
+
+You may also improve a boon or bane by the excess effort you achieved when creating it by spending **1** Favour.

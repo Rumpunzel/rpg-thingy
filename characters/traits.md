@@ -107,4 +107,4 @@ When you do, you gain Favor equal to the trait's rating. Alternatively, the GM m
 > When Cyrene tries to balance across a raging river, her `Drunkard` trait hinders her, and she adds **1** to the difficulty, which results in her falling into the water where the river drags her downstream instead of succeeding.  
 > However, the whole debacle netted her **1** Favor.
 
-Additionally, you may increase the difficulty of your tests to gain additional benefits should you succeed (see [Creating Boons Using Traits](../playing-the-game/boons-&-banes#creating-boons--banes)).
+Additionally, you may increase the difficulty of your tests to gain additional benefits should you succeed (see [Creating Boons Using Traits](../playing-the-game/interacting-with-the-world#by-increasing-difficulty)).

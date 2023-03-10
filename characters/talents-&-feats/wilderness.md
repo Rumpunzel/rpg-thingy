@@ -21,9 +21,10 @@ You always succeed on ties, even if you're the attacker, meaning during gauntlet
 
 ---
 
-### Practiced
+### Grizzled
 
-When you create a boon or bane increase its rating by **1.**
+Reduce the rating of all misfortunes you suffer by **1** (this may result in you suffering no misfortune at all).
+
 
 
 
@@ -31,15 +32,15 @@ When you create a boon or bane increase its rating by **1.**
 
 ### Mama Bear
 
-When preparing for a rest, add **1** die for each injury from which you and anyone resting with you are suffering.
+When testing to rest, add **1** effort for each injury from which you and anyone resting with you are suffering.
 
-### Tough as Nails
+### Shrug it Off
 
-Gain **1** additional die when your injury increases a difficulty for you or when an opponent uses your injury against you.
+When recovering from your injury decrease the test's difficulty by **1** (this means you can recover from a minor injury without needing paraphernalia or needing to roll).
 
-### Wendigo
+### Where there's a Will
 
-When attacking with Vigor, if you rolled a **6,** decrease your opponent's morale by an additional **1,** even when you did not succeed on the test.
+During gauntlets, you may choose to suffer a misfortune with the rating of your choice. When you do, create a boon on yourself with rating equal to the rating of the injury you suffered.
 
 ---
 
@@ -60,10 +61,6 @@ Predicting weather while resting only costs you **1** paraphernalia, no matter t
 ### Expedient Tracker
 
 When [Gaining an Advantage](../../playing-the-game/gauntlets#gaining-an-advantage) with Reason, you may research your opponent as if resting with your margin of effort.
-
-### Far Travelled
-
-Add **1** effort when researching traits.
 
 ### Forager
 
