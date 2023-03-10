@@ -11,7 +11,7 @@ nav_order: 2
 
 ### Tough as Nails
 
-Add **1** additional die when your injury increases a difficulty for you or when an opponent uses your injury against you.
+Whenever you would gain an [Injury](../../playing-the-game/injury-&-misfortune#injury) with rating **3** or less, if you rolled a **6,** reduce its rating to **1.**
 
 ---
 
