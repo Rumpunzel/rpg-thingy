@@ -21,9 +21,9 @@ Whenever you would gain an [Injury](../../playing-the-game/injury-&-misfortune#i
 
 ---
 
-### Martial Artist
+###
 
-Choose one of your traits representing your martial training; when testing Fight, your minimum effort is equal to the chosen trait's rating.
+
 
 
 
@@ -59,16 +59,18 @@ During gauntlets, when you successfully attack with Intuition, you may discard a
 
 ---
 
-### Armor Training
-
-Armor assets you use, gain the **Versatile** property (they do not automatically degrade when used with a different attribute than intended).
-
-Additionally, when adding dice from a shield asset to a defense roll, add **1** additional die.
-
 ### Deadly Precision
 
 Instead of using your disposition, you may decrease both your and your opponent's training by **1,** no matter the attribute.
 
-### Weapon Master
+### Martial Artist
 
-Whenever you add dice, an increase or decrease from a weapon asset, increase it by the weapon's masterpiece rating.
+Choose one of your traits representing your martial training; when testing Fight, your minimum effort is equal to the chosen trait's rating.
+
+### Weapon Training
+
+You may use armor and weapon assets with any attribute without penalty.
+
+Additionally, when you add dice, from an armor or weapon asset, add additional dice equal to the asset's masterpiece rating.
+
+Additionally, when an armor or weapon asset you use increases or decreases a value, also increase or decrease the value, respectively, by the asset's masterpiece rating.

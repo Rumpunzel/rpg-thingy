@@ -21,7 +21,6 @@ versatile: "- **Versatile:** This asset may be used with any attribute without p
 
 wicked: "- **Wicked:** Decrease your opponent's minimum effort gained from assets or traits by **1.**"
 
-
 layout: default
 title: Fight
 description: List of Fight gear
